@@ -3873,6 +3873,46 @@
 "pt": "Êxitos atuais · Reggaeton · Anos 90 e 2000",
 "va": "Èxits actuals · Reggaeton · 90 i 2000"
 }
+},
+{
+"id": "club-picca",
+"c": "clubs",
+"n": "Picca Club (Piccadilly)",
+"a": "ruzafa",
+"p": 1,
+"h": "Fr,Sa 24:00-31:30",
+"q": "Picca Club Calle Tomasos 14 Valencia",
+"d": {
+"en": "Ruzafa classic since the late 60s, famous for its Silent Disco: wireless headphones with three DJs (pick your colour), plus a classic club room and a cocktail bar. Gay-friendly, relaxed crowd.",
+"es": "Un clásico de Ruzafa desde finales de los 60, famoso por su Silent Disco: auriculares inalámbricos con tres DJ (eliges el color), además de una sala de club clásica y una coctelería. Ambiente gayfriendly y sin pretensiones.",
+"it": "Un classico di Ruzafa dalla fine degli anni '60, famoso per la sua Silent Disco: cuffie wireless con tre DJ (scegli il colore), più una sala club classica e un cocktail bar. Ambiente gay-friendly e informale.",
+"de": "Ein Klassiker in Ruzafa seit den späten 60ern, bekannt für seine Silent Disco: Funkkopfhörer mit drei DJs (Farbe wählen), dazu ein klassischer Clubraum und eine Cocktailbar. Gay-friendly und entspannt.",
+"fr": "Un classique de Ruzafa depuis la fin des années 60, célèbre pour sa Silent Disco : casques sans fil avec trois DJ (choisissez votre couleur), plus une salle de club classique et un bar à cocktails. Ambiance gay-friendly et décontractée.",
+"pt": "Um clássico de Ruzafa desde o final dos anos 60, famoso pela sua Silent Disco: auscultadores sem fios com três DJ (escolhe a cor), além de uma sala de clube clássica e um bar de cocktails. Ambiente gay-friendly e descontraído.",
+"va": "Un clàssic de Russafa des de finals dels 60, famós per la seua Silent Disco: auriculars sense fil amb tres DJ (tries el color), a més d'una sala de club clàssica i una cocteleria. Ambient gayfriendly i sense pretensions."
+},
+"t": {
+"en": "Over 18 only, bring ID; door policy applies. Sign up to the free guest list on Xceed or the club's social media to pay less.",
+"es": "Solo mayores de 18, lleva DNI o pasaporte; se reserva el derecho de admisión. Apúntate a la lista gratis en Xceed o sus redes para pagar menos.",
+"it": "Solo maggiorenni, porta un documento; la selezione all'ingresso si applica. Iscriviti alla lista gratuita su Xceed o sui social del locale per pagare meno.",
+"de": "Nur ab 18, Ausweis mitbringen; es gibt Türpolitik. Auf Xceed oder Social Media auf die kostenlose Gästeliste setzen lassen und weniger zahlen.",
+"fr": "Réservé aux plus de 18 ans, pièce d'identité obligatoire ; sélection à l'entrée. Inscrivez-vous sur la liste gratuite via Xceed ou les réseaux du club pour payer moins.",
+"pt": "Só maiores de 18, leve documento de identificação; há direito de admissão. Inscreva-se na lista gratuita no Xceed ou nas redes do clube para pagar menos.",
+"va": "Només majors de 18, porta el DNI o el passaport; es reserva el dret d'admissió. Apunta't a la llista gratis a Xceed o a les seues xarxes per a pagar menys."
+},
+"ll": [
+39.4627,
+-0.3745
+],
+"mu": {
+"en": "Current hits · Pop · Rock · Latin",
+"es": "Éxitos actuales · Pop · Rock · Latina",
+"it": "Hit del momento · Pop · Rock · Latina",
+"de": "Aktuelle Hits · Pop · Rock · Latin",
+"fr": "Tubes du moment · Pop · Rock · Latino",
+"pt": "Êxitos atuais · Pop · Rock · Latina",
+"va": "Èxits actuals · Pop · Rock · Llatina"
+}
 }
 ]
 }
