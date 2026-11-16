@@ -1,0 +1,2144 @@
+{
+"info": [
+{
+"i": "🍽️",
+"t": {
+"en": "Spanish meal times",
+"es": "Horarios de comida",
+"it": "Orari dei pasti",
+"de": "Essenszeiten",
+"fr": "Horaires des repas",
+"pt": "Horários das refeições",
+"va": "Horaris dels menjars"
+},
+"d": {
+"en": "Almuerzo 10:00–12:00, lunch 14:00–16:00, dinner from 21:00. Paella is a lunch dish. Many kitchens close 16:00–20:00.",
+"es": "Almuerzo 10–12 h, comida 14–16 h, cena desde las 21 h. La paella es de mediodía. Muchas cocinas cierran de 16 a 20 h.",
+"it": "Almuerzo 10–12, pranzo 14–16, cena dalle 21. La paella si mangia a pranzo. Molte cucine chiudono 16–20.",
+"de": "Almuerzo 10–12 Uhr, Mittagessen 14–16 Uhr, Abendessen ab 21 Uhr. Paella gibt es mittags. Viele Küchen schließen 16–20 Uhr.",
+"fr": "Almuerzo 10h–12h, déjeuner 14h–16h, dîner dès 21h. La paella se mange le midi. Beaucoup de cuisines ferment 16h–20h.",
+"pt": "Almuerzo 10:00–12:00, almoço 14:00–16:00, jantar a partir das 21:00. A paella come-se ao almoço. Muitas cozinhas fecham das 16:00 às 20:00.",
+"va": "Esmorzar 10:00–12:00, dinar 14:00–16:00, sopar a partir de les 21:00. La paella es menja a migdia. Moltes cuines tanquen de 16:00 a 20:00."
+}
+},
+{
+"i": "🪩",
+"t": {
+"en": "Nightlife times",
+"es": "Horarios de noche",
+"it": "Orari della notte",
+"de": "Nachtleben-Zeiten",
+"fr": "Horaires de la nuit",
+"pt": "Horários da noite",
+"va": "Horaris de la nit"
+},
+"d": {
+"en": "Bars get busy from 23:00, clubs from 01:30 and close around 06:00–07:00. Most clubs open Thursday to Saturday.",
+"es": "Los bares se llenan desde las 23 h, las discotecas desde la 1:30 y cierran hacia las 6–7 h. Casi todas abren de jueves a sábado.",
+"it": "I bar si riempiono dalle 23, le discoteche dall'1:30 e chiudono verso le 6–7. Quasi tutte aprono da giovedì a sabato.",
+"de": "Bars füllen sich ab 23 Uhr, Clubs ab 1:30 und schließen gegen 6–7 Uhr. Meist Donnerstag bis Samstag geöffnet.",
+"fr": "Les bars se remplissent dès 23h, les clubs dès 1h30 et ferment vers 6h–7h. La plupart ouvrent du jeudi au samedi.",
+"pt": "Os bares enchem a partir das 23:00, as discotecas a partir da 1:30 e fecham por volta das 6:00–7:00. A maioria abre de quinta a sábado.",
+"va": "Els bars s'omplin a partir de les 23:00, les discoteques a partir de la 1:30 i tanquen cap a les 6:00–7:00. La majoria obrin de dijous a dissabte."
+}
+},
+{
+"i": "✈️",
+"t": {
+"en": "Airport",
+"es": "Aeropuerto",
+"it": "Aeroporto",
+"de": "Flughafen",
+"fr": "Aéroport",
+"pt": "Aeroporto",
+"va": "Aeroport"
+},
+"d": {
+"en": "Metro lines 3 and 5 reach the airport in about 25 min. A taxi or VTC takes about 20 min to the centre.",
+"es": "Las líneas 3 y 5 de metro llegan al aeropuerto en unos 25 min. En taxi o VTC, unos 20 min al centro.",
+"it": "Le linee 3 e 5 della metro arrivano all'aeroporto in circa 25 min. In taxi o VTC circa 20 min dal centro.",
+"de": "Die Metrolinien 3 und 5 fahren in ca. 25 Min. zum Flughafen. Taxi oder VTC ca. 20 Min. ins Zentrum.",
+"fr": "Les lignes 3 et 5 du métro rejoignent l'aéroport en 25 min environ. Taxi ou VTC : env. 20 min jusqu'au centre.",
+"pt": "As linhas 3 e 5 do metro chegam ao aeroporto em cerca de 25 min. De táxi ou VTC são cerca de 20 min até ao centro.",
+"va": "Les línies 3 i 5 de metro arriben a l'aeroport en uns 25 min. En taxi o VTC són uns 20 min fins al centre."
+},
+"u": "https://www.metrovalencia.es/"
+},
+{
+"i": "🚕",
+"t": {
+"en": "Taxi & VTC",
+"es": "Taxi y VTC",
+"it": "Taxi e VTC",
+"de": "Taxi & VTC",
+"fr": "Taxi & VTC",
+"pt": "Táxi e VTC",
+"va": "Taxi i VTC"
+},
+"d": {
+"en": "Taxis, Uber and Cabify all work in Valencia. At night it's the easiest way to reach the beach clubs.",
+"es": "Taxi, Uber y Cabify funcionan en Valencia. De noche es lo más cómodo para ir a la zona de playa.",
+"it": "Taxi, Uber e Cabify funzionano a Valencia. Di notte è il modo più comodo per i locali in spiaggia.",
+"de": "Taxi, Uber und Cabify gibt es in Valencia. Nachts der einfachste Weg zu den Strandclubs.",
+"fr": "Taxis, Uber et Cabify fonctionnent à Valence. La nuit, c'est le plus simple pour les clubs de plage.",
+"pt": "Táxis, Uber e Cabify funcionam todos em Valência. À noite é a forma mais fácil de chegar às discotecas da praia.",
+"va": "Taxis, Uber i Cabify funcionen tots a València. De nit és la forma més fàcil d'arribar a les discoteques de la platja."
+}
+},
+{
+"i": "🚋",
+"t": {
+"en": "Getting to the beach",
+"es": "Cómo ir a la playa",
+"it": "Come andare in spiaggia",
+"de": "Zum Strand",
+"fr": "Aller à la plage",
+"pt": "Ir à praia",
+"va": "Anar a la platja"
+},
+"d": {
+"en": "Tram 4 or 6, or bus 19, from the centre to Malvarrosa / Las Arenas in about 20–25 min.",
+"es": "Tranvía 4 o 6, o bus 19, del centro a la Malvarrosa / Las Arenas en 20–25 min.",
+"it": "Tram 4 o 6, o bus 19, dal centro a Malvarrosa / Las Arenas in 20–25 min.",
+"de": "Tram 4 oder 6 oder Bus 19 vom Zentrum zur Malvarrosa / Las Arenas in 20–25 Min.",
+"fr": "Tram 4 ou 6, ou bus 19, du centre à la Malvarrosa / Las Arenas en 20–25 min.",
+"pt": "Elétrico 4 ou 6, ou autocarro 19, do centro à Malvarrosa / Las Arenas em cerca de 20–25 min.",
+"va": "Tramvia 4 o 6, o autobús 19, del centre a la Malva-rosa / les Arenes en uns 20–25 min."
+}
+},
+{
+"i": "🚲",
+"t": {
+"en": "Valenbisi city bikes",
+"es": "Valenbisi",
+"it": "Valenbisi",
+"de": "Valenbisi Leihräder",
+"fr": "Vélos Valenbisi",
+"pt": "Bicicletas Valenbisi",
+"va": "Bicis Valenbisi"
+},
+"d": {
+"en": "City bike stations everywhere; short-term passes available. The Turia gardens are a 9-km bike lane.",
+"es": "Estaciones de bici pública por toda la ciudad, con abonos de corta duración. El Turia es un carril bici de 9 km.",
+"it": "Stazioni di bike sharing ovunque, con abbonamenti brevi. Il Turia è una ciclabile di 9 km.",
+"de": "Leihrad-Stationen überall, mit Kurzzeit-Abos. Die Turia-Gärten sind ein 9-km-Radweg.",
+"fr": "Stations de vélos partout, avec abonnements courts. Les jardins du Turia : 9 km de piste cyclable.",
+"pt": "Estações de bicicleta pública por toda a cidade, com passes de curta duração. Os jardins do Turia são uma ciclovia de 9 km.",
+"va": "Estacions de bici pública per tota la ciutat, amb abonaments de curta durada. Els jardins del Túria són un carril bici de 9 km."
+},
+"u": "https://www.valenbisi.es/"
+},
+{
+"i": "🎒",
+"t": {
+"en": "Stay safe",
+"es": "Seguridad",
+"it": "Sicurezza",
+"de": "Sicherheit",
+"fr": "Sécurité",
+"pt": "Segurança",
+"va": "Seguretat"
+},
+"d": {
+"en": "Valencia is safe, but watch your phone and wallet in the old town, the Mercado Central and on the beach.",
+"es": "Valencia es segura, pero vigila móvil y cartera en el centro, el Mercado Central y la playa.",
+"it": "Valencia è sicura, ma attenzione a telefono e portafoglio in centro, al Mercado Central e in spiaggia.",
+"de": "Valencia ist sicher, aber auf Handy und Geldbörse achten: Altstadt, Mercado Central, Strand.",
+"fr": "Valence est sûre, mais surveillez téléphone et portefeuille dans le centre, au Mercado Central et à la plage.",
+"pt": "Valência é segura, mas atenção ao telemóvel e à carteira no centro histórico, no Mercado Central e na praia.",
+"va": "València és segura, però vigila el mòbil i la cartera al centre històric, al Mercat Central i a la platja."
+}
+},
+{
+"i": "🆘",
+"t": {
+"en": "Emergencies",
+"es": "Emergencias",
+"it": "Emergenze",
+"de": "Notfall",
+"fr": "Urgences",
+"pt": "Emergências",
+"va": "Emergències"
+},
+"d": {
+"en": "Call 112 (free, English spoken). Tourist info office on Plaza del Ayuntamiento.",
+"es": "Llama al 112 (gratis). Oficina de turismo en la Plaza del Ayuntamiento.",
+"it": "Chiama il 112 (gratuito, si parla inglese). Ufficio turistico in Plaza del Ayuntamiento.",
+"de": "Notruf 112 (kostenlos, Englisch). Touristeninfo an der Plaza del Ayuntamiento.",
+"fr": "Appelez le 112 (gratuit, anglais parlé). Office de tourisme Plaza del Ayuntamiento.",
+"pt": "Ligue 112 (grátis, falam inglês). Posto de turismo na Plaza del Ayuntamiento.",
+"va": "Telefona al 112 (gratuït, parlen anglés). Oficina de turisme a la plaça de l'Ajuntament."
+}
+},
+{
+"i": "💶",
+"t": {
+"en": "Tipping",
+"es": "Propinas",
+"it": "Mance",
+"de": "Trinkgeld",
+"fr": "Pourboire",
+"pt": "Gorjetas",
+"va": "Propines"
+},
+"d": {
+"en": "Not required. Rounding up or leaving 5–10% for good service is appreciated.",
+"es": "No es obligatoria. Redondear o dejar un 5–10 % si el servicio es bueno se agradece.",
+"it": "Non obbligatoria. Arrotondare o lasciare il 5–10% per un buon servizio è apprezzato.",
+"de": "Nicht Pflicht. Aufrunden oder 5–10 % bei gutem Service wird geschätzt.",
+"fr": "Non obligatoire. Arrondir ou laisser 5–10 % pour un bon service est apprécié.",
+"pt": "Não são obrigatórias. Arredondar ou deixar 5–10% por um bom serviço é apreciado.",
+"va": "No són obligatòries. Arredonir o deixar un 5–10% per un bon servei s'agraïx."
+}
+}
+],
+"almuerzo": {
+"title": {
+"en": "The Valencian 'almuerzo'",
+"es": "El almuerzo valenciano",
+"it": "L''almuerzo' valenciano",
+"de": "Das valencianische 'Almuerzo'",
+"fr": "L'« almuerzo » valencien",
+"pt": "O 'almuerzo' valenciano",
+"va": "L'esmorzar valencià"
+},
+"paras": [
+{
+"en": "Almuerzo (or 'esmorzaret' in Valencian) is NOT lunch. It's a mid-morning ritual between 10:00 and 12:00, between breakfast and the 14:00 lunch — and Valencians take it very seriously.",
+"es": "El almuerzo (o «esmorzaret» en valenciano) NO es la comida. Es un ritual de media mañana, entre las 10:00 y las 12:00, entre el desayuno y la comida de las 14:00, y en Valencia es casi sagrado.",
+"it": "L'almuerzo ('esmorzaret' in valenciano) NON è il pranzo. È un rito di metà mattina, tra le 10:00 e le 12:00, tra la colazione e il pranzo delle 14:00, e a Valencia è quasi sacro.",
+"de": "Almuerzo ('Esmorzaret' auf Valencianisch) ist NICHT das Mittagessen. Es ist ein Ritual am Vormittag zwischen 10 und 12 Uhr, zwischen Frühstück und dem Mittagessen um 14 Uhr – und den Valencianern heilig.",
+"fr": "L'almuerzo (« esmorzaret » en valencien) n'est PAS le déjeuner. C'est un rituel de milieu de matinée, entre 10h et 12h, entre le petit-déjeuner et le déjeuner de 14h, presque sacré à Valence.",
+"pt": "O almuerzo ('esmorzaret' em valenciano) NÃO é o almoço. É um ritual a meio da manhã, entre as 10:00 e as 12:00, entre o pequeno-almoço e o almoço das 14:00 — e os valencianos levam-no muito a sério.",
+"va": "L'esmorzar ('esmorzaret') NO és el dinar. És un ritual a mitjan matí, entre les 10:00 i les 12:00, entre el desdejuni i el dinar de les 14:00 — i els valencians se'l prenen molt seriosament."
+},
+{
+"en": "How it works: first a 'picaeta' of olives, lupins and 'cacau del collaret' (local peanuts in their shell). Then a big bocadillo — anything from omelette and sausages to horse meat or squid — with a beer or wine with gaseosa. You finish with a 'cremaet': coffee with flambéed rum, sugar, cinnamon and lemon peel.",
+"es": "Cómo va: primero una picaeta de olivas, altramuces y cacau del collaret. Después, un buen bocadillo (de tortilla, embutido, carne de caballo, sepia…) con cerveza o vino con gaseosa. Y para acabar, un cremaet: café con ron flambeado, azúcar, canela y corteza de limón.",
+"it": "Come funziona: prima una 'picaeta' di olive, lupini e 'cacau del collaret' (arachidi locali col guscio). Poi un grande bocadillo (frittata, salsicce, carne di cavallo, seppia…) con birra o vino con gassosa. Si chiude con il 'cremaet': caffè con rum flambé, zucchero, cannella e scorza di limone.",
+"de": "So geht's: zuerst eine 'Picaeta' aus Oliven, Lupinen und 'Cacau del Collaret' (lokale Erdnüsse in der Schale). Dann ein großes Bocadillo – von Tortilla über Würste bis Pferdefleisch oder Tintenfisch – mit Bier oder Wein mit Gaseosa. Zum Abschluss ein 'Cremaet': Kaffee mit flambiertem Rum, Zucker, Zimt und Zitronenschale.",
+"fr": "Le déroulé : d'abord une « picaeta » d'olives, de lupins et de « cacau del collaret » (cacahuètes locales en coque). Puis un gros bocadillo (omelette, saucisses, viande de cheval, seiche…) avec une bière ou du vin à la gaseosa. On termine par un « cremaet » : café au rhum flambé, sucre, cannelle et zeste de citron.",
+"pt": "Como funciona: primeiro uma 'picaeta' de azeitonas, tremoços e 'cacau del collaret' (amendoins locais com casca). Depois uma grande sande — de omelete e enchidos a carne de cavalo ou choco — com cerveja ou vinho com gasosa. Termina-se com um 'cremaet': café com rum flambado, açúcar, canela e casca de limão.",
+"va": "Com funciona: primer una picaeta d'olives, tramussos i cacau del collaret. Després un bon entrepà — de truita i embotit a carn de cavall o sépia — amb cervesa o vi amb gasosa. S'acaba amb un cremaet: café amb rom flamejat, sucre, canyella i pell de llima."
+},
+{
+"en": "Every year the Cacau d'Or awards pick the best almuerzo bars in the region — a good guide. Go before 11:30: popular bars run out of their best sandwiches.",
+"es": "Cada año los premios Cacau d'Or eligen los mejores bares de almuerzo: buena guía. Ve antes de las 11:30, que los mejores bocadillos se acaban.",
+"it": "Ogni anno i premi Cacau d'Or scelgono i migliori bar per l'almuerzo: un'ottima guida. Andate prima delle 11:30: i panini migliori finiscono.",
+"de": "Jedes Jahr küren die Cacau-d'Or-Preise die besten Almuerzo-Bars – ein guter Wegweiser. Vor 11:30 hingehen, die besten Bocadillos sind schnell weg.",
+"fr": "Chaque année, les prix Cacau d'Or désignent les meilleurs bars à almuerzo : un bon guide. Allez-y avant 11h30, les meilleurs sandwichs partent vite.",
+"pt": "Todos os anos os prémios Cacau d'Or escolhem os melhores bares de almuerzo da região — um bom guia. Vá antes das 11:30: nos bares populares as melhores sandes esgotam.",
+"va": "Cada any els premis Cacau d'Or trien els millors bars d'esmorzar de la zona — una bona guia. Ves-hi abans de les 11:30: als bars populars els millors entrepans s'acaben."
+}
+]
+},
+"fallas": {
+"title": {
+"en": "Las Fallas",
+"es": "Las Fallas",
+"it": "Le Fallas",
+"de": "Die Fallas",
+"fr": "Les Fallas",
+"pt": "As Fallas",
+"va": "Les Falles"
+},
+"paras": [
+{
+"en": "Valencia's biggest festival and UNESCO Intangible Heritage. For the first 19 days of March the city fills with about 800 giant satirical sculptures in some 400 streets and squares, fireworks every day — and on the night of 19 March almost all of them are burnt.",
+"es": "La gran fiesta de Valencia, Patrimonio Inmaterial de la UNESCO. Del 1 al 19 de marzo la ciudad se llena de unos 800 monumentos satíricos en unas 400 calles y plazas, pólvora a diario… y la noche del 19 casi todos arden.",
+"it": "La più grande festa di Valencia, patrimonio immateriale UNESCO. Dall'1 al 19 marzo la città si riempie di circa 800 enormi sculture satiriche in circa 400 strade e piazze, fuochi ogni giorno, e la notte del 19 quasi tutte bruciano.",
+"de": "Valencias größtes Fest und immaterielles UNESCO-Kulturerbe. Vom 1. bis 19. März stehen rund 800 riesige satirische Figuren in etwa 400 Straßen und Plätzen, täglich gibt es Feuerwerk – und in der Nacht zum 19. brennen fast alle.",
+"fr": "La plus grande fête de Valence, patrimoine immatériel de l'UNESCO. Du 1er au 19 mars, environ 800 sculptures satiriques géantes envahissent quelque 400 rues et places, pétards tous les jours… et la nuit du 19, presque toutes brûlent.",
+"pt": "A maior festa de Valência, Património Imaterial da UNESCO. Nos primeiros 19 dias de março a cidade enche-se de cerca de 800 esculturas satíricas gigantes em umas 400 ruas e praças, há fogo de artifício todos os dias — e na noite de 19 de março quase todas ardem.",
+"va": "La festa més gran de València, Patrimoni Immaterial de la UNESCO. Els primers 19 dies de març la ciutat s'omple d'unes 800 escultures satíriques gegants en uns 400 carrers i places, hi ha focs artificials cada dia — i la nit del 19 de març quasi totes es cremen."
+},
+{
+"en": "The 2027 official programme is not published yet; the dates below follow the fixed tradition. Everything in the street is free.",
+"es": "El programa oficial de 2027 aún no se ha publicado; las fechas siguen la tradición fija. Todo lo que pasa en la calle es gratis.",
+"it": "Il programma ufficiale 2027 non è ancora uscito; le date seguono la tradizione fissa. Tutto ciò che avviene in strada è gratis.",
+"de": "Das offizielle Programm 2027 ist noch nicht veröffentlicht; die Termine folgen der festen Tradition. Alles auf der Straße ist kostenlos.",
+"fr": "Le programme officiel 2027 n'est pas encore publié ; les dates suivent la tradition. Tout ce qui se passe dans la rue est gratuit.",
+"pt": "O programa oficial de 2027 ainda não foi publicado; as datas abaixo seguem a tradição fixa. Tudo o que acontece na rua é gratuito.",
+"va": "El programa oficial de 2027 encara no s'ha publicat; les dates de davall seguixen la tradició fixa. Tot el que passa al carrer és gratuït."
+}
+],
+"dates": [
+{
+"d": "2027-02-28",
+"t": {
+"en": "La Crida (opening ceremony) at Torres de Serranos",
+"es": "La Crida en las Torres de Serranos",
+"it": "La Crida (apertura) alle Torres de Serranos",
+"de": "La Crida (Eröffnung) an den Torres de Serranos",
+"fr": "La Crida (ouverture) aux Torres de Serranos",
+"pt": "La Crida (cerimónia de abertura) nas Torres de Serranos",
+"va": "La Crida (cerimònia d'obertura) a les Torres de Serrans"
+}
+},
+{
+"d": "2027-03-01",
+"e": "2027-03-19",
+"t": {
+"en": "Mascletà every day at 14:00, Plaza del Ayuntamiento",
+"es": "Mascletà diaria a las 14:00 en la Plaza del Ayuntamiento",
+"it": "Mascletà ogni giorno alle 14:00 in Plaza del Ayuntamiento",
+"de": "Mascletà täglich um 14 Uhr, Plaza del Ayuntamiento",
+"fr": "Mascletà tous les jours à 14h, Plaza del Ayuntamiento",
+"pt": "Mascletà todos os dias às 14:00, na Plaza del Ayuntamiento",
+"va": "Mascletà cada dia a les 14:00, a la plaça de l'Ajuntament"
+}
+},
+{
+"d": "2027-03-15",
+"e": "2027-03-16",
+"t": {
+"en": "La Plantà: all the fallas are set up overnight",
+"es": "La Plantà: se montan todas las fallas",
+"it": "La Plantà: tutte le fallas vengono montate",
+"de": "La Plantà: alle Fallas werden aufgebaut",
+"fr": "La Plantà : toutes les fallas sont montées",
+"pt": "La Plantà: todas as fallas são montadas durante a noite",
+"va": "La Plantà: totes les falles es munten durant la nit"
+}
+},
+{
+"d": "2027-03-17",
+"e": "2027-03-18",
+"t": {
+"en": "Flower Offering to the Virgin (afternoon–night)",
+"es": "Ofrenda de flores a la Virgen (tarde-noche)",
+"it": "Offerta di fiori alla Vergine (pomeriggio-sera)",
+"de": "Blumenopfer für die Jungfrau (nachmittags–nachts)",
+"fr": "Offrande de fleurs à la Vierge (après-midi–nuit)",
+"pt": "Oferenda de flores à Virgem (tarde–noite)",
+"va": "Ofrena de flors a la Mare de Déu (vesprada–nit)"
+}
+},
+{
+"d": "2027-03-18",
+"t": {
+"en": "Nit del Foc: the big night fireworks",
+"es": "Nit del Foc: el gran castillo de fuegos",
+"it": "Nit del Foc: i grandi fuochi notturni",
+"de": "Nit del Foc: das große Nachtfeuerwerk",
+"fr": "Nit del Foc : le grand feu d'artifice nocturne",
+"pt": "Nit del Foc: o grande fogo de artifício noturno",
+"va": "Nit del Foc: el gran castell de focs nocturn"
+}
+},
+{
+"d": "2027-03-19",
+"t": {
+"en": "La Cremà: the fallas burn from ~22:00",
+"es": "La Cremà: arden las fallas desde las ~22:00",
+"it": "La Cremà: le fallas bruciano dalle ~22:00",
+"de": "La Cremà: die Fallas brennen ab ~22 Uhr",
+"fr": "La Cremà : les fallas brûlent dès ~22h",
+"pt": "La Cremà: as fallas ardem a partir das ~22:00",
+"va": "La Cremà: les falles es cremen a partir de les ~22:00"
+}
+}
+],
+"links": [
+{
+"i": "🗺️",
+"n": {
+"en": "Map of the best fallas (Visit València)",
+"es": "Mapa de las mejores fallas (Visit València)",
+"it": "Mappa delle migliori fallas (Visit València)",
+"de": "Karte der besten Fallas (Visit València)",
+"fr": "Carte des meilleures fallas (Visit València)",
+"pt": "Mapa das melhores fallas (Visit València)",
+"va": "Mapa de les millors falles (Visit València)"
+},
+"s": {
+"en": "Interactive map of the Special and 1A sections (2026 edition; updated each March).",
+"es": "Mapa interactivo de Sección Especial y 1A (edición 2026; se actualiza cada marzo).",
+"it": "Mappa interattiva delle sezioni Speciale e 1A (edizione 2026; aggiornata ogni marzo).",
+"de": "Interaktive Karte der Sektionen Especial und 1A (Ausgabe 2026; jedes Jahr im März neu).",
+"fr": "Carte interactive des sections Spéciale et 1A (édition 2026 ; mise à jour chaque mars).",
+"pt": "Mapa interativo das secções Especial e 1A (edição de 2026; atualizado todos os anos em março).",
+"va": "Mapa interactiu de les seccions Especial i 1A (edició de 2026; s'actualitza cada any al març)."
+},
+"u": "https://www.visitvalencia.com/en/fallas/fallas-map"
+},
+{
+"i": "📍",
+"n": {
+"en": "Google My Maps: Fallas route",
+"es": "Google My Maps: ruta de fallas",
+"it": "Google My Maps: percorso delle fallas",
+"de": "Google My Maps: Fallas-Route",
+"fr": "Google My Maps : parcours des fallas",
+"pt": "Google My Maps: rota das fallas",
+"va": "Google My Maps: ruta de falles"
+},
+"s": {
+"en": "The same map opened directly in Google Maps on your phone.",
+"es": "El mismo mapa abierto directamente en Google Maps.",
+"it": "La stessa mappa aperta direttamente in Google Maps.",
+"de": "Dieselbe Karte direkt in Google Maps.",
+"fr": "La même carte ouverte directement dans Google Maps.",
+"pt": "O mesmo mapa aberto diretamente no Google Maps do telemóvel.",
+"va": "El mateix mapa obert directament en Google Maps al mòbil."
+},
+"u": "https://www.google.com/maps/d/viewer?mid=1gaSkfPcFqH5g7vwXeCZe7O75tLrixAKX"
+},
+{
+"i": "🧭",
+"n": {
+"en": "DistritoFallas map",
+"es": "Mapa de DistritoFallas",
+"it": "Mappa DistritoFallas",
+"de": "DistritoFallas-Karte",
+"fr": "Carte DistritoFallas",
+"pt": "Mapa DistritoFallas",
+"va": "Mapa DistritoFallas"
+},
+"s": {
+"en": "The most complete fan-made map, with sketch, motto and artist of each falla.",
+"es": "El mapa más completo, con boceto, lema y artista de cada falla.",
+"it": "La mappa più completa, con bozzetto, motto e artista di ogni falla.",
+"de": "Die vollständigste Karte mit Skizze, Motto und Künstler jeder Falla.",
+"fr": "La carte la plus complète, avec maquette, devise et artiste de chaque falla.",
+"pt": "O mapa mais completo feito por fãs, com esboço, lema e artista de cada falla.",
+"va": "El mapa més complet fet per aficionats, amb esbós, lema i artista de cada falla."
+},
+"u": "https://www.distritofallas.com/"
+},
+{
+"i": "📰",
+"n": {
+"en": "Valencia Bonita: Fallas map guide",
+"es": "Valencia Bonita: guía-mapa de Fallas",
+"it": "Valencia Bonita: guida-mappa delle Fallas",
+"de": "Valencia Bonita: Fallas-Kartenführer",
+"fr": "Valencia Bonita : guide-carte des Fallas",
+"pt": "Valencia Bonita: guia-mapa das Fallas",
+"va": "Valencia Bonita: guia-mapa de Falles"
+},
+"s": {
+"en": "Route to see all the Special and 1A fallas, updated every year.",
+"es": "Recorrido para ver las fallas de Especial y 1A, actualizado cada año.",
+"it": "Percorso per vedere tutte le fallas Speciali e 1A, aggiornato ogni anno.",
+"de": "Route zu allen Fallas der Sektionen Especial und 1A, jährlich aktualisiert.",
+"fr": "Parcours pour voir toutes les fallas Spéciale et 1A, mis à jour chaque année.",
+"pt": "Rota para ver todas as fallas das secções Especial e 1A, atualizada todos os anos.",
+"va": "Ruta per a veure totes les falles de les seccions Especial i 1A, actualitzada cada any."
+},
+"u": "https://www.valenciabonita.es/2026/03/13/mapa-fallas-2026-valencia/"
+},
+{
+"i": "📱",
+"n": {
+"en": "App Ofrenda (official)",
+"es": "App Ofrenda (oficial)",
+"it": "App Ofrenda (ufficiale)",
+"de": "App Ofrenda (offiziell)",
+"fr": "App Ofrenda (officielle)",
+"pt": "App Ofrenda (oficial)",
+"va": "App Ofrenda (oficial)"
+},
+"s": {
+"en": "City Council app to follow the Flower Offering live on a map (iOS and Android).",
+"es": "App del Ayuntamiento para seguir la Ofrenda en directo en un mapa (iOS y Android).",
+"it": "App del Comune per seguire l'Offerta in diretta su mappa (iOS e Android).",
+"de": "App der Stadt, um das Blumenopfer live auf der Karte zu verfolgen (iOS und Android).",
+"fr": "Appli de la mairie pour suivre l'Offrande en direct sur une carte (iOS et Android).",
+"pt": "App da Câmara Municipal para seguir a Oferenda de flores em direto num mapa (iOS e Android).",
+"va": "App de l'Ajuntament per a seguir l'Ofrena de flors en directe en un mapa (iOS i Android)."
+},
+"u": "https://www.valencia.es/cas/actualidad/-/content/app-ofrenda"
+},
+{
+"i": "🏛️",
+"n": {
+"en": "Junta Central Fallera",
+"es": "Junta Central Fallera",
+"it": "Junta Central Fallera",
+"de": "Junta Central Fallera",
+"fr": "Junta Central Fallera",
+"pt": "Junta Central Fallera",
+"va": "Junta Central Fallera"
+},
+"s": {
+"en": "Official Fallas organisers: programme, results and news.",
+"es": "Organización oficial: programa, premios y noticias.",
+"it": "Organizzazione ufficiale: programma, premi e notizie.",
+"de": "Offizieller Veranstalter: Programm, Preise, News.",
+"fr": "Organisateurs officiels : programme, prix et actualités.",
+"pt": "Organização oficial das Fallas: programa, prémios e notícias.",
+"va": "Organització oficial de les Falles: programa, premis i notícies."
+},
+"u": "https://fallas.com/"
+},
+{
+"i": "🎭",
+"n": {
+"en": "Fallas Museum",
+"es": "Museo Fallero",
+"it": "Museo Fallero",
+"de": "Fallas-Museum",
+"fr": "Musée des Fallas",
+"pt": "Museu das Fallas",
+"va": "Museu Faller"
+},
+"s": {
+"en": "The ninots saved from the fire since 1934. Open all year.",
+"es": "Los ninots indultados desde 1934. Abierto todo el año.",
+"it": "I ninots salvati dal fuoco dal 1934. Aperto tutto l'anno.",
+"de": "Die seit 1934 geretteten Ninots. Ganzjährig geöffnet.",
+"fr": "Les ninots sauvés du feu depuis 1934. Ouvert toute l'année.",
+"pt": "Os ninots salvos do fogo desde 1934. Aberto todo o ano.",
+"va": "Els ninots indultats del foc des de 1934. Obert tot l'any."
+},
+"u": "https://cultural.valencia.es/en/museu/fallero-museum/"
+},
+{
+"i": "🔨",
+"n": {
+"en": "Fallas Artists' Museum (Ciudad Fallera)",
+"es": "Museo del Artista Fallero (Ciudad Fallera)",
+"it": "Museo dell'Artista Fallero (Ciudad Fallera)",
+"de": "Museum der Fallas-Künstler (Ciudad Fallera)",
+"fr": "Musée des artistes falleros (Ciudad Fallera)",
+"pt": "Museu do Artista Fallero (Ciudad Fallera)",
+"va": "Museu de l'Artista Faller (Ciutat Fallera)"
+},
+"s": {
+"en": "See how fallas are built, in the workshops' neighbourhood (Av. Sant Josep Artesà 17).",
+"es": "Cómo se construye una falla, en el barrio de los talleres (Av. Sant Josep Artesà 17).",
+"it": "Come si costruisce una falla, nel quartiere dei laboratori (Av. Sant Josep Artesà 17).",
+"de": "Wie Fallas gebaut werden, im Werkstattviertel (Av. Sant Josep Artesà 17).",
+"fr": "Comment on construit une falla, dans le quartier des ateliers (Av. Sant Josep Artesà 17).",
+"pt": "Veja como se constroem as fallas, no bairro das oficinas (Av. Sant Josep Artesà 17).",
+"va": "Mira com es construïxen les falles, al barri dels tallers (Av. Sant Josep Artesà 17)."
+},
+"u": "http://www.gremiodeartistasfalleros.es/"
+}
+],
+"videos": [
+{
+"i": "🎬",
+"u": "https://www.youtube.com/watch?v=2Y85SpGHHNU",
+"n": {
+"en": "UNESCO: the Valencia Fallas festivity",
+"es": "UNESCO: la fiesta de las Fallas",
+"it": "UNESCO: la festa delle Fallas",
+"de": "UNESCO: das Fallas-Fest",
+"fr": "UNESCO : la fête des Fallas",
+"pt": "UNESCO: a festa das Fallas",
+"va": "UNESCO: la festa de les Falles"
+},
+"s": {
+"en": "Official documentary from the UNESCO Intangible Heritage listing — the best short introduction.",
+"es": "Documental oficial de la candidatura a Patrimonio Inmaterial de la UNESCO: la mejor introducción.",
+"it": "Documentario ufficiale della candidatura UNESCO: la migliore introduzione.",
+"de": "Offizielle UNESCO-Doku zur Aufnahme ins Kulturerbe – die beste kurze Einführung.",
+"fr": "Documentaire officiel de l'inscription à l'UNESCO : la meilleure introduction.",
+"pt": "Documentário oficial da candidatura a Património Imaterial da UNESCO — a melhor introdução.",
+"va": "Documental oficial de la candidatura a Patrimoni Immaterial de la UNESCO: la millor introducció."
+}
+},
+{
+"i": "💥",
+"u": "https://www.youtube.com/results?search_query=mascleta+plaza+ayuntamiento+valencia+fallas",
+"n": {
+"en": "Mascletà videos",
+"es": "Vídeos de mascletà",
+"it": "Video della mascletà",
+"de": "Mascletà-Videos",
+"fr": "Vidéos de mascletà",
+"pt": "Vídeos da mascletà",
+"va": "Vídeos de mascletà"
+},
+"s": {
+"en": "The daily 14:00 gunpowder 'concert' in Plaza del Ayuntamiento — turn the volume up.",
+"es": "El 'concierto' de pólvora de las 14:00 en la Plaza del Ayuntamiento. Sube el volumen.",
+"it": "Il 'concerto' di polvere da sparo delle 14:00 in Plaza del Ayuntamiento: alza il volume.",
+"de": "Das tägliche Böller-'Konzert' um 14 Uhr auf der Plaza del Ayuntamiento – Ton an!",
+"fr": "Le 'concert' de poudre de 14h sur la Plaza del Ayuntamiento : montez le son.",
+"pt": "O 'concerto' de pólvora das 14:00 na Plaza del Ayuntamiento — aumente o volume.",
+"va": "El 'concert' de pólvora de les 14:00 a la plaça de l'Ajuntament. Puja el volum."
+}
+},
+{
+"i": "🎆",
+"u": "https://www.youtube.com/results?search_query=nit+del+foc+fallas+valencia",
+"n": {
+"en": "Nit del Foc videos",
+"es": "Vídeos de la Nit del Foc",
+"it": "Video della Nit del Foc",
+"de": "Videos der Nit del Foc",
+"fr": "Vidéos de la Nit del Foc",
+"pt": "Vídeos da Nit del Foc",
+"va": "Vídeos de la Nit del Foc"
+},
+"s": {
+"en": "The biggest fireworks display of the year, over the Turia gardens on the night of 18 March.",
+"es": "El mayor castillo de fuegos del año, sobre el jardín del Turia la noche del 18 de marzo.",
+"it": "Il più grande spettacolo pirotecnico dell'anno, sui giardini del Turia la notte del 18 marzo.",
+"de": "Das größte Feuerwerk des Jahres über den Turia-Gärten in der Nacht zum 19. März.",
+"fr": "Le plus grand feu d'artifice de l'année, au-dessus des jardins du Turia la nuit du 18 mars.",
+"pt": "O maior fogo de artifício do ano, sobre os jardins do Turia na noite de 18 de março.",
+"va": "El castell de focs més gran de l'any, sobre el jardí del Túria la nit del 18 de març."
+}
+},
+{
+"i": "💐",
+"u": "https://www.youtube.com/results?search_query=ofrenda+de+flores+virgen+fallas+valencia",
+"n": {
+"en": "Flower Offering videos",
+"es": "Vídeos de la Ofrenda",
+"it": "Video dell'Offerta dei fiori",
+"de": "Videos der Blumenopfergabe",
+"fr": "Vidéos de l'Offrande de fleurs",
+"pt": "Vídeos da Oferenda de flores",
+"va": "Vídeos de l'Ofrena"
+},
+"s": {
+"en": "Thousands of falleros in traditional dress build a giant flower mantle for the Virgin in Plaza de la Virgen.",
+"es": "Miles de falleros con el traje tradicional forman el manto de flores de la Virgen en la plaza de la Virgen.",
+"it": "Migliaia di falleros in abito tradizionale creano un enorme manto di fiori per la Vergine.",
+"de": "Tausende Falleros in Tracht schmücken die Jungfrau mit einem riesigen Blumenmantel.",
+"fr": "Des milliers de falleros en costume traditionnel composent un immense manteau de fleurs pour la Vierge.",
+"pt": "Milhares de falleros com o traje tradicional formam um enorme manto de flores para a Virgem.",
+"va": "Milers de fallers amb el vestit tradicional formen el mantell de flors de la Mare de Déu a la plaça de la Mare de Déu."
+}
+},
+{
+"i": "🔥",
+"u": "https://www.youtube.com/results?search_query=crema+falla+ayuntamiento+valencia",
+"n": {
+"en": "La Cremà videos",
+"es": "Vídeos de la Cremà",
+"it": "Video della Cremà",
+"de": "Videos der Cremà",
+"fr": "Vidéos de la Cremà",
+"pt": "Vídeos da Cremà",
+"va": "Vídeos de la Cremà"
+},
+"s": {
+"en": "The night of 19 March, when the monuments go up in flames — the City Hall falla burns last.",
+"es": "La noche del 19 de marzo, cuando arden los monumentos: la falla del Ayuntamiento es la última.",
+"it": "La notte del 19 marzo, quando i monumenti bruciano: la falla del Comune è l'ultima.",
+"de": "Die Nacht des 19. März, wenn die Figuren brennen – die Falla am Rathaus zuletzt.",
+"fr": "La nuit du 19 mars, quand les monuments brûlent : la falla de la mairie brûle en dernier.",
+"pt": "A noite de 19 de março, quando os monumentos ardem — a falla da Câmara é a última.",
+"va": "La nit del 19 de març, quan es cremen els monuments: la falla de l'Ajuntament és l'última."
+}
+},
+{
+"i": "🎞️",
+"u": "https://www.youtube.com/watch?v=uReW0LDRFgo",
+"n": {
+"en": "Fallas in 1928–29 (Filmoteca)",
+"es": "Fallas de 1928–29 (Filmoteca)",
+"it": "Le Fallas nel 1928–29 (Filmoteca)",
+"de": "Fallas 1928–29 (Filmoteca)",
+"fr": "Les Fallas en 1928–29 (Filmoteca)",
+"pt": "Fallas em 1928–29 (Filmoteca)",
+"va": "Falles de 1928–29 (Filmoteca)"
+},
+"s": {
+"en": "Restored archive film of the festival almost a hundred years ago.",
+"es": "Película de archivo restaurada de la fiesta hace casi cien años.",
+"it": "Filmato d'archivio restaurato della festa di quasi cent'anni fa.",
+"de": "Restaurierter Archivfilm des Fests vor fast hundert Jahren.",
+"fr": "Film d'archives restauré de la fête il y a presque cent ans.",
+"pt": "Filme de arquivo restaurado da festa há quase cem anos.",
+"va": "Pel·lícula d'arxiu restaurada de la festa de fa quasi cent anys."
+}
+},
+{
+"i": "📺",
+"u": "https://www.youtube.com/user/Turisvalencia",
+"n": {
+"en": "Visit València on YouTube",
+"es": "Visit València en YouTube",
+"it": "Visit València su YouTube",
+"de": "Visit València auf YouTube",
+"fr": "Visit València sur YouTube",
+"pt": "Visit València no YouTube",
+"va": "Visit València a YouTube"
+},
+"s": {
+"en": "The city's official tourism channel, with Fallas videos every year.",
+"es": "Canal oficial de turismo de la ciudad, con vídeos de Fallas cada año.",
+"it": "Il canale turistico ufficiale della città, con video delle Fallas ogni anno.",
+"de": "Offizieller Tourismuskanal der Stadt, jedes Jahr mit Fallas-Videos.",
+"fr": "La chaîne officielle du tourisme de la ville, avec des vidéos des Fallas chaque année.",
+"pt": "Canal oficial de turismo da cidade, com vídeos das Fallas todos os anos.",
+"va": "Canal oficial de turisme de la ciutat, amb vídeos de Falles cada any."
+}
+}
+]
+},
+"traffic": {
+"paras": [
+{
+"en": "Live traffic in Valencia changes by the minute, so these buttons open the official real-time maps. Rush hours: roughly 7:30–9:30 and 18:00–20:00 on weekdays, especially on the ring roads (V-21, V-30, CV-35) and city entrances.",
+"es": "El tráfico cambia cada minuto, así que estos botones abren los mapas oficiales en tiempo real. Horas punta: aprox. 7:30–9:30 y 18:00–20:00 en días laborables, sobre todo en accesos y rondas (V-21, V-30, CV-35).",
+"it": "Il traffico cambia ogni minuto: questi pulsanti aprono le mappe ufficiali in tempo reale. Ore di punta: circa 7:30–9:30 e 18:00–20:00 nei giorni feriali, soprattutto su tangenziali e ingressi (V-21, V-30, CV-35).",
+"de": "Der Verkehr ändert sich minütlich – diese Buttons öffnen die offiziellen Echtzeitkarten. Stoßzeiten: ca. 7:30–9:30 und 18:00–20:00 werktags, vor allem auf Ringstraßen und Zufahrten (V-21, V-30, CV-35).",
+"fr": "La circulation change à chaque minute : ces boutons ouvrent les cartes officielles en temps réel. Heures de pointe : env. 7h30–9h30 et 18h–20h en semaine, surtout sur les rocades et accès (V-21, V-30, CV-35).",
+"pt": "O trânsito em Valência muda a cada minuto, por isso estes botões abrem os mapas oficiais em tempo real. Horas de ponta: cerca das 7:30–9:30 e 18:00–20:00 em dias úteis, sobretudo nas circulares (V-21, V-30, CV-35) e entradas da cidade.",
+"va": "El trànsit a València canvia cada minut, per això estos botons obrin els mapes oficials en temps real. Hores punta: cap a les 7:30–9:30 i 18:00–20:00 els dies feiners, sobretot a les rondes (V-21, V-30, CV-35) i entrades de la ciutat."
+},
+{
+"en": "During Fallas (March) many central streets are closed for monuments and tents — check the City Council map before driving.",
+"es": "En Fallas (marzo) se cortan muchas calles del centro por monumentos y carpas: consulta el mapa del Ayuntamiento antes de coger el coche.",
+"it": "Durante le Fallas (marzo) molte strade del centro sono chiuse per monumenti e tendoni: controlla la mappa del Comune prima di guidare.",
+"de": "Während der Fallas (März) sind viele Straßen im Zentrum gesperrt – vor der Fahrt die Karte der Stadt prüfen.",
+"fr": "Pendant les Fallas (mars), de nombreuses rues du centre sont fermées : consultez la carte de la mairie avant de prendre la voiture.",
+"pt": "Durante as Fallas (março) muitas ruas do centro fecham por causa dos monumentos e tendas — consulte o mapa da Câmara antes de conduzir.",
+"va": "Durant les Falles (març) molts carrers del centre es tallen per monuments i carpes — consulta el mapa de l'Ajuntament abans de conduir."
+}
+],
+"links": [
+{
+"i": "🗺️",
+"n": {
+"en": "Live traffic map (Google Maps)",
+"es": "Mapa de tráfico en vivo (Google Maps)",
+"it": "Mappa del traffico in diretta (Google Maps)",
+"de": "Live-Verkehrskarte (Google Maps)",
+"fr": "Carte du trafic en direct (Google Maps)",
+"pt": "Mapa de trânsito ao vivo (Google Maps)",
+"va": "Mapa de trànsit en directe (Google Maps)"
+},
+"s": {
+"en": "Green / orange / red streets right now.",
+"es": "Calles en verde, naranja o rojo ahora mismo.",
+"it": "Strade verdi / arancioni / rosse in questo momento.",
+"de": "Straßen in Grün / Orange / Rot – jetzt.",
+"fr": "Rues en vert / orange / rouge en ce moment.",
+"pt": "Ruas a verde / laranja / vermelho neste momento.",
+"va": "Carrers en verd / taronja / roig ara mateix."
+},
+"u": "https://www.google.com/maps/@39.4699,-0.3763,13z/data=!5m1!1e1"
+},
+{
+"i": "🏙️",
+"n": {
+"en": "València al Minut (City Council)",
+"es": "València al Minut (Ayuntamiento)",
+"it": "València al Minut (Comune)",
+"de": "València al Minut (Stadt)",
+"fr": "València al Minut (mairie)",
+"pt": "València al Minut (Câmara Municipal)",
+"va": "València al Minut (Ajuntament)"
+},
+"s": {
+"en": "Official real-time city maps: traffic, car parks, buses, Valenbisi and traffic cameras.",
+"es": "Mapas oficiales en tiempo real: tráfico, aparcamientos, autobuses, Valenbisi y cámaras.",
+"it": "Mappe ufficiali in tempo reale: traffico, parcheggi, bus, Valenbisi e telecamere.",
+"de": "Offizielle Echtzeitkarten: Verkehr, Parkhäuser, Busse, Valenbisi und Kameras.",
+"fr": "Cartes officielles en temps réel : trafic, parkings, bus, Valenbisi et caméras.",
+"pt": "Mapas oficiais da cidade em tempo real: trânsito, parques de estacionamento, autocarros, Valenbisi e câmaras de trânsito.",
+"va": "Mapes oficials de la ciutat en temps real: trànsit, aparcaments, autobusos, Valenbisi i càmeres de trànsit."
+},
+"u": "https://www.valencia.es/es/web/valenciaalminut"
+},
+{
+"i": "🚨",
+"n": {
+"en": "DGT road incidents",
+"es": "Incidencias DGT en carreteras",
+"it": "Incidenti stradali DGT",
+"de": "DGT-Verkehrsmeldungen",
+"fr": "Incidents routiers DGT",
+"pt": "Incidências DGT nas estradas",
+"va": "Incidències DGT a les carreteres"
+},
+"s": {
+"en": "Official map of accidents, works and closed roads on motorways and main roads.",
+"es": "Mapa oficial de accidentes, obras y cortes en autovías y carreteras.",
+"it": "Mappa ufficiale di incidenti, lavori e strade chiuse su autostrade e statali.",
+"de": "Offizielle Karte zu Unfällen, Baustellen und Sperrungen auf Autobahnen und Landstraßen.",
+"fr": "Carte officielle des accidents, travaux et routes fermées.",
+"pt": "Mapa oficial de acidentes, obras e estradas cortadas em autoestradas e estradas principais.",
+"va": "Mapa oficial d'accidents, obres i carreteres tallades en autovies i carreteres principals."
+},
+"u": "https://infocar.dgt.es/etraffic"
+},
+{
+"i": "📷",
+"n": {
+"en": "Traffic cameras (RACE)",
+"es": "Cámaras de tráfico (RACE)",
+"it": "Telecamere del traffico (RACE)",
+"de": "Verkehrskameras (RACE)",
+"fr": "Caméras de circulation (RACE)",
+"pt": "Câmaras de trânsito (RACE)",
+"va": "Càmeres de trànsit (RACE)"
+},
+"s": {
+"en": "Live road cameras around Valencia: A-7, V-21, A-3, El Saler…",
+"es": "Cámaras en directo en las carreteras de Valencia: A-7, V-21, A-3, El Saler…",
+"it": "Telecamere in diretta sulle strade di Valencia: A-7, V-21, A-3, El Saler…",
+"de": "Live-Kameras rund um Valencia: A-7, V-21, A-3, El Saler…",
+"fr": "Caméras en direct autour de Valence : A-7, V-21, A-3, El Saler…",
+"pt": "Câmaras em direto nas estradas de Valência: A-7, V-21, A-3, El Saler…",
+"va": "Càmeres en directe a les carreteres de València: A-7, V-21, A-3, el Saler…"
+},
+"u": "https://www.race.es/mapa-de-carreteras-espana/camaras-trafico-valencia"
+}
+]
+},
+"travel": {
+"airport": {
+"paras": [
+{
+"en": "Valencia Airport (VLC) is in Manises, about 8 km from the centre. Metro lines 3 and 5 take about 25 minutes to the centre; bus 150 also runs via Manises and Quart de Poblet; a taxi or VTC takes about 20 minutes.",
+"es": "El aeropuerto de Valencia (VLC) está en Manises, a unos 8 km del centro. Metro líneas 3 y 5: unos 25 min al centro; también el bus 150 por Manises y Quart de Poblet; en taxi o VTC unos 20 min.",
+"it": "L'aeroporto di Valencia (VLC) è a Manises, a circa 8 km dal centro. Metro linee 3 e 5: circa 25 minuti; anche il bus 150 via Manises e Quart de Poblet; in taxi o VTC circa 20 minuti.",
+"de": "Der Flughafen Valencia (VLC) liegt in Manises, ca. 8 km vom Zentrum. Metro-Linien 3 und 5: ca. 25 Min.; außerdem Bus 150 über Manises und Quart de Poblet; Taxi oder VTC ca. 20 Min.",
+"fr": "L'aéroport de Valence (VLC) est à Manises, à env. 8 km du centre. Métro lignes 3 et 5 : env. 25 min ; aussi le bus 150 via Manises et Quart de Poblet ; taxi ou VTC env. 20 min.",
+"pt": "O Aeroporto de Valência (VLC) fica em Manises, a cerca de 8 km do centro. As linhas 3 e 5 do metro demoram cerca de 25 minutos até ao centro; o autocarro 150 também passa por Manises e Quart de Poblet; de táxi ou VTC são cerca de 20 minutos.",
+"va": "L'Aeroport de València (VLC) és a Manises, a uns 8 km del centre. Les línies 3 i 5 de metro tarden uns 25 minuts fins al centre; l'autobús 150 també passa per Manises i Quart de Poblet; en taxi o VTC són uns 20 minuts."
+},
+{
+"en": "Arrive about 2 hours before your flight, and check the live board for delays and gates.",
+"es": "Llega unas 2 horas antes de tu vuelo y consulta el panel en directo para retrasos y puertas.",
+"it": "Arriva circa 2 ore prima del volo e controlla il tabellone in diretta per ritardi e gate.",
+"de": "Etwa 2 Stunden vor Abflug da sein und die Live-Tafel für Verspätungen und Gates prüfen.",
+"fr": "Arrivez environ 2 h avant le vol et consultez le tableau en direct pour retards et portes.",
+"pt": "Chegue cerca de 2 horas antes do voo e consulte o painel em direto para atrasos e portas.",
+"va": "Arriba unes 2 hores abans del vol i consulta el panell en directe per a retards i portes."
+}
+],
+"links": [
+{
+"i": "✈️",
+"n": {
+"en": "Aena: Valencia Airport (official)",
+"es": "Aena: Aeropuerto de Valencia (oficial)",
+"it": "Aena: Aeroporto di Valencia (ufficiale)",
+"de": "Aena: Flughafen Valencia (offiziell)",
+"fr": "Aena : aéroport de Valence (officiel)",
+"pt": "Aena: Aeroporto de Valência (oficial)",
+"va": "Aena: Aeroport de València (oficial)"
+},
+"s": {
+"en": "Official departures & arrivals ('Buscar vuelo'), how to get there and services.",
+"es": "Salidas y llegadas oficiales («Buscar vuelo»), cómo llegar y servicios.",
+"it": "Partenze e arrivi ufficiali ('Buscar vuelo'), come arrivare e servizi.",
+"de": "Offizielle Abflüge & Ankünfte ('Buscar vuelo'), Anfahrt und Services.",
+"fr": "Départs et arrivées officiels (« Buscar vuelo »), accès et services.",
+"pt": "Partidas e chegadas oficiais ('Buscar vuelo'), como chegar e serviços.",
+"va": "Eixides i arribades oficials ('Buscar vuelo'), com arribar i serveis."
+},
+"u": "https://www.aena.es/es/valencia.html"
+},
+{
+"i": "📡",
+"n": {
+"en": "Flightradar24: VLC live board",
+"es": "Flightradar24: panel en vivo VLC",
+"it": "Flightradar24: tabellone live VLC",
+"de": "Flightradar24: Live-Tafel VLC",
+"fr": "Flightradar24 : tableau en direct VLC",
+"pt": "Flightradar24: painel ao vivo do VLC",
+"va": "Flightradar24: panell en directe del VLC"
+},
+"s": {
+"en": "Live departures and arrivals, delays and planes on the map.",
+"es": "Salidas y llegadas en vivo, retrasos y aviones en el mapa.",
+"it": "Partenze e arrivi live, ritardi e aerei sulla mappa.",
+"de": "Live-Abflüge und -Ankünfte, Verspätungen und Flugzeuge auf der Karte.",
+"fr": "Départs et arrivées en direct, retards et avions sur la carte.",
+"pt": "Partidas e chegadas ao vivo, atrasos e aviões no mapa.",
+"va": "Eixides i arribades en directe, retards i avions al mapa."
+},
+"u": "https://www.flightradar24.com/data/airports/vlc"
+},
+{
+"i": "🚇",
+"n": {
+"en": "Metrovalencia (lines 3 & 5)",
+"es": "Metrovalencia (líneas 3 y 5)",
+"it": "Metrovalencia (linee 3 e 5)",
+"de": "Metrovalencia (Linien 3 & 5)",
+"fr": "Metrovalencia (lignes 3 et 5)",
+"pt": "Metrovalencia (linhas 3 e 5)",
+"va": "Metrovalencia (línies 3 i 5)"
+},
+"s": {
+"en": "Timetables and fares for the metro to the airport.",
+"es": "Horarios y tarifas del metro al aeropuerto.",
+"it": "Orari e tariffe della metro per l'aeroporto.",
+"de": "Fahrpläne und Preise der Metro zum Flughafen.",
+"fr": "Horaires et tarifs du métro vers l'aéroport.",
+"pt": "Horários e tarifas do metro para o aeroporto.",
+"va": "Horaris i tarifes del metro a l'aeroport."
+},
+"u": "https://www.metrovalencia.es/"
+}
+]
+},
+"trains": {
+"paras": [
+{
+"en": "High-speed trains (AVE, Avlo, Iryo, OUIGO) use Valencia Joaquín Sorolla, on Calle Sant Vicent Màrtir 171, about 1.5 km south of the centre. Metro: Jesús (L1, L2) or Bailén (L7); city buses 9, 10, 27, 89 and 90.",
+"es": "Los trenes de alta velocidad (AVE, Avlo, Iryo, OUIGO) usan Valencia Joaquín Sorolla, en la calle Sant Vicent Màrtir 171, a 1,5 km al sur del centro. Metro: Jesús (L1, L2) o Bailén (L7); autobuses EMT 9, 10, 27, 89 y 90.",
+"it": "I treni ad alta velocità (AVE, Avlo, Iryo, OUIGO) usano Valencia Joaquín Sorolla, in Calle Sant Vicent Màrtir 171, a 1,5 km a sud del centro. Metro: Jesús (L1, L2) o Bailén (L7); bus urbani 9, 10, 27, 89 e 90.",
+"de": "Hochgeschwindigkeitszüge (AVE, Avlo, Iryo, OUIGO) fahren ab Valencia Joaquín Sorolla, Calle Sant Vicent Màrtir 171, ca. 1,5 km südlich des Zentrums. Metro: Jesús (L1, L2) oder Bailén (L7); Stadtbusse 9, 10, 27, 89 und 90.",
+"fr": "Les trains à grande vitesse (AVE, Avlo, Iryo, OUIGO) partent de Valencia Joaquín Sorolla, Calle Sant Vicent Màrtir 171, à 1,5 km au sud du centre. Métro : Jesús (L1, L2) ou Bailén (L7) ; bus 9, 10, 27, 89 et 90.",
+"pt": "Os comboios de alta velocidade (AVE, Avlo, Iryo, OUIGO) usam a estação Valencia Joaquín Sorolla, na Calle Sant Vicent Màrtir 171, a cerca de 1,5 km a sul do centro. Metro: Jesús (L1, L2) ou Bailén (L7); autocarros urbanos 9, 10, 27, 89 e 90.",
+"va": "Els trens d'alta velocitat (AVE, Avlo, Iryo, OUIGO) utilitzen l'estació València Joaquín Sorolla, al carrer Sant Vicent Màrtir 171, a uns 1,5 km al sud del centre. Metro: Jesús (L1, L2) o Bailén (L7); autobusos urbans 9, 10, 27, 89 i 90."
+},
+{
+"en": "Valencia Nord (next to City Hall) is the other main station, about 750 m away. Always check the full station name on your ticket. Long-distance passengers go through a luggage scanner, so arrive with time to spare.",
+"es": "Valencia Nord (junto al Ayuntamiento) es la otra estación principal, a unos 750 m. Mira siempre el nombre completo de la estación en tu billete. En larga distancia se pasa el equipaje por escáner: llega con margen.",
+"it": "Valencia Nord (vicino al Municipio) è l'altra stazione principale, a circa 750 m. Controlla sempre il nome completo della stazione sul biglietto. Per la lunga percorrenza c'è il controllo bagagli: arriva con anticipo.",
+"de": "Valencia Nord (neben dem Rathaus) ist der andere Hauptbahnhof, ca. 750 m entfernt. Immer den vollen Bahnhofsnamen auf dem Ticket prüfen. Im Fernverkehr gibt es eine Gepäckkontrolle – rechtzeitig da sein.",
+"fr": "Valencia Nord (près de la mairie) est l'autre gare principale, à env. 750 m. Vérifiez toujours le nom complet de la gare sur votre billet. En grandes lignes, les bagages passent au scanner : arrivez en avance.",
+"pt": "Valencia Nord (junto à Câmara Municipal) é a outra estação principal, a cerca de 750 m. Confirme sempre o nome completo da estação no bilhete. Nos comboios de longo curso a bagagem passa por um scanner, por isso chegue com tempo.",
+"va": "València Nord (al costat de l'Ajuntament) és l'altra estació principal, a uns 750 m. Comprova sempre el nom complet de l'estació al bitllet. Als trens de llarg recorregut l'equipatge passa per un escàner, així que arriba amb temps."
+}
+],
+"links": [
+{
+"i": "🚄",
+"n": {
+"en": "Adif: live station boards",
+"es": "Adif: paneles de estaciones en directo",
+"it": "Adif: tabelloni delle stazioni live",
+"de": "Adif: Live-Anzeigetafeln",
+"fr": "Adif : tableaux des gares en direct",
+"pt": "Adif: painéis das estações ao vivo",
+"va": "Adif: panells de les estacions en directe"
+},
+"s": {
+"en": "Official departures & arrivals for Joaquín Sorolla and Nord (search 'Valencia' under stations).",
+"es": "Salidas y llegadas oficiales de Joaquín Sorolla y Nord (busca «Valencia» en estaciones).",
+"it": "Partenze e arrivi ufficiali di Joaquín Sorolla e Nord (cerca 'Valencia' tra le stazioni).",
+"de": "Offizielle Abfahrten & Ankünfte für Joaquín Sorolla und Nord ('Valencia' bei Bahnhöfen suchen).",
+"fr": "Départs et arrivées officiels de Joaquín Sorolla et Nord (cherchez « Valencia » dans les gares).",
+"pt": "Partidas e chegadas oficiais de Joaquín Sorolla e Nord (procure 'Valencia' nas estações).",
+"va": "Eixides i arribades oficials de Joaquín Sorolla i Nord (busca 'Valencia' a les estacions)."
+},
+"u": "https://www.adif.es/"
+},
+{
+"i": "🎫",
+"n": {
+"en": "Renfe (AVE, Avlo, Alvia)",
+"es": "Renfe (AVE, Avlo, Alvia)",
+"it": "Renfe (AVE, Avlo, Alvia)",
+"de": "Renfe (AVE, Avlo, Alvia)",
+"fr": "Renfe (AVE, Avlo, Alvia)",
+"pt": "Renfe (AVE, Avlo, Alvia)",
+"va": "Renfe (AVE, Avlo, Alvia)"
+},
+"s": {
+"en": "Tickets and real-time status of Renfe trains.",
+"es": "Billetes y estado en tiempo real de los trenes Renfe.",
+"it": "Biglietti e stato in tempo reale dei treni Renfe.",
+"de": "Tickets und Echtzeit-Status der Renfe-Züge.",
+"fr": "Billets et état en temps réel des trains Renfe.",
+"pt": "Bilhetes e estado em tempo real dos comboios Renfe.",
+"va": "Bitllets i estat en temps real dels trens de Renfe."
+},
+"u": "https://www.renfe.com/"
+},
+{
+"i": "🟣",
+"n": {
+"en": "Iryo",
+"es": "Iryo",
+"it": "Iryo",
+"de": "Iryo",
+"fr": "Iryo",
+"pt": "Iryo",
+"va": "Iryo"
+},
+"s": {
+"en": "Iryo high-speed trains Valencia–Madrid and more.",
+"es": "Trenes de alta velocidad Iryo Valencia–Madrid y más.",
+"it": "Treni ad alta velocità Iryo Valencia–Madrid e altro.",
+"de": "Iryo-Hochgeschwindigkeitszüge Valencia–Madrid u. a.",
+"fr": "Trains à grande vitesse Iryo Valence–Madrid et plus.",
+"pt": "Comboios de alta velocidade Iryo Valência–Madrid e mais.",
+"va": "Trens d'alta velocitat Iryo València–Madrid i més."
+},
+"u": "https://iryo.eu/"
+},
+{
+"i": "🔵",
+"n": {
+"en": "OUIGO: Valencia Joaquín Sorolla",
+"es": "OUIGO: Valencia Joaquín Sorolla",
+"it": "OUIGO: Valencia Joaquín Sorolla",
+"de": "OUIGO: Valencia Joaquín Sorolla",
+"fr": "OUIGO : Valencia Joaquín Sorolla",
+"pt": "OUIGO: Valencia Joaquín Sorolla",
+"va": "OUIGO: València Joaquín Sorolla"
+},
+"s": {
+"en": "OUIGO timetables and station access.",
+"es": "Horarios de OUIGO y accesos a la estación.",
+"it": "Orari OUIGO e accessi alla stazione.",
+"de": "OUIGO-Fahrpläne und Bahnhofszugang.",
+"fr": "Horaires OUIGO et accès à la gare.",
+"pt": "Horários da OUIGO e acessos à estação.",
+"va": "Horaris d'OUIGO i accessos a l'estació."
+},
+"u": "https://www.ouigo.com/es/estacion-valencia-joaquin-sorolla"
+}
+]
+},
+"local": [
+{
+"h": {
+"en": "🚇 Metro & tram (Metrovalencia)",
+"es": "🚇 Metro y tranvía (Metrovalencia)",
+"it": "🚇 Metro e tram (Metrovalencia)",
+"de": "🚇 Metro & Tram (Metrovalencia)",
+"fr": "🚇 Métro et tram (Metrovalencia)",
+"pt": "🚇 Metro e elétrico (Metrovalencia)",
+"va": "🚇 Metro i tramvia (Metrovalencia)"
+},
+"paras": [
+{
+"en": "Buy a ticket or a rechargeable card at the machines in any station — don't count on tapping your bank card at the gates. A single ticket in zone A costs €1.50, plus the cost of the card. Trips to or from the airport pay an extra supplement.",
+"es": "Compra el billete o una tarjeta recargable en las máquinas de cualquier estación: no cuentes con pasar tu tarjeta bancaria por los tornos. El billete sencillo de zona A cuesta 1,50 €, más el coste de la tarjeta soporte. Los viajes desde o hacia el aeropuerto pagan un suplemento.",
+"it": "Compra il biglietto o una tessera ricaricabile alle macchinette di qualsiasi stazione: non contare sul pagamento con carta bancaria ai tornelli. Il biglietto singolo della zona A costa 1,50 €, più il costo della tessera. I viaggi da o per l'aeroporto pagano un supplemento.",
+"de": "Ticket oder aufladbare Karte an den Automaten jeder Station kaufen – an den Sperren kann man meist nicht mit der Bankkarte zahlen. Ein Einzelticket Zone A kostet 1,50 € plus Kartengebühr. Fahrten zum oder vom Flughafen kosten einen Zuschlag.",
+"fr": "Achetez un billet ou une carte rechargeable aux automates de n'importe quelle station : ne comptez pas payer avec votre carte bancaire aux portiques. Le billet simple zone A coûte 1,50 €, plus le prix du support. Les trajets vers ou depuis l'aéroport paient un supplément.",
+"pt": "Compre o bilhete ou um cartão recarregável nas máquinas de qualquer estação — não conte pagar com o cartão bancário nos torniquetes. O bilhete simples da zona A custa 1,50 €, mais o custo do cartão. As viagens de ou para o aeroporto pagam um suplemento.",
+"va": "Compra el bitllet o una targeta recarregable a les màquines de qualsevol estació: no comptes amb passar la targeta bancària pels tornells. El bitllet senzill de zona A costa 1,50 €, més el cost de la targeta suport. Els viatges des de o cap a l'aeroport paguen un suplement."
+}
+],
+"links": [
+{
+"i": "🚇",
+"u": "https://www.metrovalencia.es/",
+"n": {
+"en": "Metrovalencia (official)",
+"es": "Metrovalencia (oficial)",
+"it": "Metrovalencia (ufficiale)",
+"de": "Metrovalencia (offiziell)",
+"fr": "Metrovalencia (officiel)",
+"pt": "Metrovalencia (oficial)",
+"va": "Metrovalencia (oficial)"
+},
+"s": {
+"en": "Maps, timetables, fares and service alerts.",
+"es": "Planos, horarios, tarifas y avisos del servicio.",
+"it": "Mappe, orari, tariffe e avvisi.",
+"de": "Netzpläne, Fahrpläne, Tarife und Störungen.",
+"fr": "Plans, horaires, tarifs et alertes.",
+"pt": "Mapas, horários, tarifas e avisos.",
+"va": "Plànols, horaris, tarifes i avisos del servei."
+}
+}
+]
+},
+{
+"h": {
+"en": "🚌 City buses (EMT)",
+"es": "🚌 Autobuses urbanos (EMT)",
+"it": "🚌 Autobus urbani (EMT)",
+"de": "🚌 Stadtbusse (EMT)",
+"fr": "🚌 Bus urbains (EMT)",
+"pt": "🚌 Autocarros urbanos (EMT)",
+"va": "🚌 Autobusos urbans (EMT)"
+},
+"paras": [
+{
+"en": "A single ticket costs €2. You can pay on board by tapping your bank card, phone or watch on the validator, or use the EMTicket app. Residents and long-stay visitors can register a bank card on the EMT website (MovimEMT) to pay the cheaper multi-trip price automatically.",
+"es": "El billete sencillo cuesta 2 €. Puedes pagar a bordo acercando tu tarjeta bancaria, el móvil o el reloj al validador, o usar la app EMTicket. Si te quedas más tiempo, puedes registrar tu tarjeta en la web de la EMT (MovimEMT) y pagar siempre al precio del bonobús.",
+"it": "Il biglietto singolo costa 2 €. Puoi pagare a bordo avvicinando carta bancaria, telefono o smartwatch al validatore, oppure usare l'app EMTicket. Se resti a lungo, registra la carta sul sito EMT (MovimEMT) per pagare sempre la tariffa multicorsa.",
+"de": "Ein Einzelticket kostet 2 €. Im Bus kontaktlos mit Bankkarte, Handy oder Uhr am Entwerter zahlen oder die App EMTicket nutzen. Bei längerem Aufenthalt die Karte auf der EMT-Website registrieren (MovimEMT) und automatisch zum günstigen Mehrfahrtenpreis fahren.",
+"fr": "Le billet simple coûte 2 €. Payez à bord en approchant votre carte bancaire, téléphone ou montre du valideur, ou utilisez l'appli EMTicket. Pour un long séjour, enregistrez votre carte sur le site de l'EMT (MovimEMT) pour payer toujours le tarif multi-voyages.",
+"pt": "O bilhete simples custa 2 €. Pode pagar a bordo aproximando o cartão bancário, o telemóvel ou o relógio do validador, ou usar a app EMTicket. Se ficar mais tempo, registe o cartão no site da EMT (MovimEMT) e pague sempre o preço do passe múltiplo.",
+"va": "El bitllet senzill costa 2 €. Pots pagar a bord acostant la targeta bancària, el mòbil o el rellotge al validador, o usar l'app EMTicket. Si et quedes més temps, pots registrar la targeta a la web de l'EMT (MovimEMT) i pagar sempre a preu de bonobús."
+}
+],
+"links": [
+{
+"i": "🚌",
+"u": "https://www.emtvalencia.es/",
+"n": {
+"en": "EMT València (official)",
+"es": "EMT València (oficial)",
+"it": "EMT València (ufficiale)",
+"de": "EMT València (offiziell)",
+"fr": "EMT València (officiel)",
+"pt": "EMT València (oficial)",
+"va": "EMT València (oficial)"
+},
+"s": {
+"en": "Route planner, lines and real-time arrivals.",
+"es": "Planificador de rutas, líneas y tiempo de llegada en directo.",
+"it": "Pianificatore di percorsi, linee e arrivi in tempo reale.",
+"de": "Routenplaner, Linien und Echtzeit-Ankünfte.",
+"fr": "Calculateur d'itinéraire, lignes et arrivées en temps réel.",
+"pt": "Planeador de rotas, linhas e chegadas em tempo real.",
+"va": "Planificador de rutes, línies i temps d'arribada en directe."
+}
+}
+]
+},
+{
+"h": {
+"en": "💳 SUMA card & tourist passes",
+"es": "💳 Tarjeta SUMA y pases turísticos",
+"it": "💳 Tessera SUMA e pass turistici",
+"de": "💳 SUMA-Karte & Touristenpässe",
+"fr": "💳 Carte SUMA et pass touristiques",
+"pt": "💳 Cartão SUMA e passes turísticos",
+"va": "💳 Targeta SUMA i passis turístics"
+},
+"paras": [
+{
+"en": "SUMA is the integrated rechargeable card for Metrovalencia, MetroBus, EMT buses and Renfe Cercanías trains in the whole Valencia area. The most practical option for visitors is the SUMA 10 (10 trips), which costs €5.40 for one zone in 2026. Buy and top it up at the metro station machines.",
+"es": "SUMA es la tarjeta recargable integrada para Metrovalencia, MetroBus, autobuses EMT y trenes de Cercanías Renfe en toda el área de Valencia. Lo más práctico para un visitante es el SUMA 10 (10 viajes), que en 2026 cuesta 5,40 € para una zona. Se compra y recarga en las máquinas de las estaciones de metro.",
+"it": "SUMA è la tessera ricaricabile integrata per Metrovalencia, MetroBus, bus EMT e treni Cercanías Renfe in tutta l'area di Valencia. Per i visitatori la più pratica è la SUMA 10 (10 viaggi), che nel 2026 costa 5,40 € per una zona. Si compra e ricarica alle macchinette delle stazioni della metro.",
+"de": "SUMA ist die integrierte aufladbare Karte für Metrovalencia, MetroBus, EMT-Busse und Renfe-Cercanías-Züge im Großraum Valencia. Für Besucher am praktischsten ist SUMA 10 (10 Fahrten), 2026 für 5,40 € in einer Zone. Kauf und Aufladen an den Automaten der Metrostationen.",
+"fr": "SUMA est la carte rechargeable intégrée pour Metrovalencia, MetroBus, les bus EMT et les trains Cercanías Renfe dans toute l'agglomération. Le plus pratique pour un visiteur est le SUMA 10 (10 trajets), à 5,40 € pour une zone en 2026. Achat et recharge aux automates des stations de métro.",
+"pt": "SUMA é o cartão recarregável integrado para Metrovalencia, MetroBus, autocarros EMT e comboios Cercanías Renfe em toda a área de Valência. O mais prático para visitantes é o SUMA 10 (10 viagens), que em 2026 custa 5,40 € para uma zona. Compra-se e carrega-se nas máquinas das estações de metro.",
+"va": "SUMA és la targeta recarregable integrada per a Metrovalencia, MetroBus, autobusos EMT i trens de Rodalia Renfe a tota l'àrea de València. El més pràctic per a un visitant és el SUMA 10 (10 viatges), que el 2026 costa 5,40 € per a una zona. Es compra i es recarrega a les màquines de les estacions de metro."
+},
+{
+"en": "Staying 1–3 days and moving a lot? The Valencia Tourist Card gives unlimited bus, metro (zones A and B, including the airport stop), tram and Cercanías trains for 24, 48 or 72 hours, plus museum discounts.",
+"es": "¿Vas a estar 1–3 días y moverte mucho? La Valencia Tourist Card incluye autobuses, metro (zonas A y B, con la parada del aeropuerto), tranvía y Cercanías ilimitados durante 24, 48 o 72 horas, además de descuentos en museos.",
+"it": "Resti 1–3 giorni e ti sposti molto? La Valencia Tourist Card include bus, metro (zone A e B, con la fermata dell'aeroporto), tram e Cercanías illimitati per 24, 48 o 72 ore, più sconti nei musei.",
+"de": "1–3 Tage in der Stadt und viel unterwegs? Die Valencia Tourist Card bietet unbegrenzt Bus, Metro (Zonen A und B inkl. Flughafen), Tram und Cercanías für 24, 48 oder 72 Stunden sowie Museumsrabatte.",
+"fr": "Vous restez 1 à 3 jours et bougez beaucoup ? La Valencia Tourist Card offre bus, métro (zones A et B, aéroport compris), tram et Cercanías illimités pendant 24, 48 ou 72 heures, plus des réductions dans les musées.",
+"pt": "Vai ficar 1–3 dias e andar muito? A Valencia Tourist Card inclui autocarros, metro (zonas A e B, com a paragem do aeroporto), elétrico e Cercanías ilimitados durante 24, 48 ou 72 horas, além de descontos em museus.",
+"va": "Estaràs 1–3 dies i et mouràs molt? La València Tourist Card inclou autobusos, metro (zones A i B, amb la parada de l'aeroport), tramvia i Rodalia il·limitats durant 24, 48 o 72 hores, a més de descomptes en museus."
+}
+],
+"links": [
+{
+"i": "💳",
+"u": "https://atmv.gva.es/",
+"n": {
+"en": "ATMV: SUMA card",
+"es": "ATMV: tarjeta SUMA",
+"it": "ATMV: tessera SUMA",
+"de": "ATMV: SUMA-Karte",
+"fr": "ATMV : carte SUMA",
+"pt": "ATMV: cartão SUMA",
+"va": "ATMV: targeta SUMA"
+},
+"s": {
+"en": "Official fares and zones of the integrated card.",
+"es": "Tarifas y zonas oficiales de la tarjeta integrada.",
+"it": "Tariffe e zone ufficiali della tessera integrata.",
+"de": "Offizielle Tarife und Zonen der integrierten Karte.",
+"fr": "Tarifs et zones officiels de la carte intégrée.",
+"pt": "Tarifas e zonas oficiais do cartão integrado.",
+"va": "Tarifes i zones oficials de la targeta integrada."
+}
+},
+{
+"i": "🎟️",
+"u": "https://www.visitvalencia.com/en/valencia-tourist-card",
+"n": {
+"en": "Valencia Tourist Card",
+"es": "Valencia Tourist Card",
+"it": "Valencia Tourist Card",
+"de": "Valencia Tourist Card",
+"fr": "Valencia Tourist Card",
+"pt": "Valencia Tourist Card",
+"va": "València Tourist Card"
+},
+"s": {
+"en": "Buy online (cheaper on the web) and activate it on first use.",
+"es": "Cómprala online (más barata en la web) y se activa con el primer uso.",
+"it": "Acquistala online (più economica sul sito) e si attiva al primo utilizzo.",
+"de": "Online kaufen (im Web günstiger), Aktivierung bei der ersten Nutzung.",
+"fr": "Achetez-la en ligne (moins chère sur le site), activation à la première utilisation.",
+"pt": "Compre online (mais barata no site) e ativa-se no primeiro uso.",
+"va": "Compra-la en línia (més barata a la web) i s'activa amb el primer ús."
+}
+},
+{
+"i": "🧭",
+"u": "https://www.visitvalencia.com/planifica-tu-viaje-a-valencia/como-moverse",
+"n": {
+"en": "Visit València: getting around",
+"es": "Visit València: cómo moverse",
+"it": "Visit València: come muoversi",
+"de": "Visit València: unterwegs",
+"fr": "Visit València : se déplacer",
+"pt": "Visit València: como se deslocar",
+"va": "Visit València: com moure's"
+},
+"s": {
+"en": "Official guide to all public transport in the city.",
+"es": "Guía oficial de todo el transporte público de la ciudad.",
+"it": "Guida ufficiale a tutti i trasporti pubblici della città.",
+"de": "Offizieller Leitfaden zum ÖPNV der Stadt.",
+"fr": "Guide officiel de tous les transports publics de la ville.",
+"pt": "Guia oficial de todos os transportes públicos da cidade.",
+"va": "Guia oficial de tot el transport públic de la ciutat."
+}
+}
+]
+}
+]
+},
+"activities": {
+"paras": [
+{
+"en": "Experiences you can book in Valencia and nearby: photo walks, cooking classes, boat trips, water sports, adventure and more. Each card opens the offers on GetYourGuide, Civitatis and Groupon so you can compare prices and dates.",
+"es": "Experiencias que se pueden reservar en Valencia y alrededores: paseos fotográficos, clases de cocina, paseos en barca, deportes de agua, aventura y más. Cada tarjeta abre las ofertas en GetYourGuide, Civitatis y Groupon para comparar precios y fechas.",
+"it": "Esperienze prenotabili a Valencia e dintorni: passeggiate fotografiche, corsi di cucina, gite in barca, sport acquatici, avventura e altro. Ogni scheda apre le offerte su GetYourGuide, Civitatis e Groupon per confrontare prezzi e date.",
+"de": "Buchbare Erlebnisse in Valencia und Umgebung: Foto-Spaziergänge, Kochkurse, Bootsfahrten, Wassersport, Abenteuer und mehr. Jede Karte öffnet die Angebote auf GetYourGuide, Civitatis und Groupon zum Vergleichen von Preisen und Terminen.",
+"fr": "Des expériences à réserver à Valence et aux alentours : balades photo, cours de cuisine, sorties en bateau, sports nautiques, aventure et plus. Chaque carte ouvre les offres sur GetYourGuide, Civitatis et Groupon pour comparer prix et dates.",
+"pt": "Experiências que pode reservar em Valência e arredores: passeios fotográficos, aulas de cozinha, passeios de barco, desportos aquáticos, aventura e muito mais. Cada cartão abre as ofertas no GetYourGuide, Civitatis e Groupon para comparar preços e datas.",
+"va": "Experiències que es poden reservar a València i voltants: passejos fotogràfics, classes de cuina, passejos en barca, esports d'aigua, aventura i més. Cada targeta obri les ofertes a GetYourGuide, Civitatis i Groupon per a comparar preus i dates."
+}
+],
+"items": [
+{
+"i": "📸",
+"q": "Valencia photo walk",
+"qe": "paseo fotográfico Valencia",
+"x": [
+[
+"Meetup: Valencia Photo",
+"https://www.meetup.com/valencia-photo/"
+],
+[
+"Civitatis: photoshoot",
+"https://www.civitatis.com/en/valencia/private-photoshoot/"
+]
+],
+"n": {
+"en": "Photo walks & photoshoots",
+"es": "Paseos y sesiones fotográficas",
+"it": "Passeggiate e servizi fotografici",
+"de": "Foto-Spaziergänge & Fotoshootings",
+"fr": "Balades et séances photo",
+"pt": "Passeios e sessões fotográficas",
+"va": "Passejos i sessions fotogràfiques"
+},
+"s": {
+"en": "Group photo walks through the old town, or a pro photographer for your trip photos at the City of Arts or the historic centre.",
+"es": "Paseos fotográficos en grupo por el centro histórico, o un fotógrafo profesional para tus fotos de viaje en la Ciudad de las Artes o el centro.",
+"it": "Passeggiate fotografiche di gruppo nel centro storico, o un fotografo professionista per le foto del viaggio alla Città delle Arti o in centro.",
+"de": "Foto-Spaziergänge in der Gruppe durch die Altstadt oder ein Profi-Fotograf für deine Reisefotos an der Stadt der Künste oder in der Altstadt.",
+"fr": "Balades photo en groupe dans la vieille ville, ou un photographe pro pour vos photos de voyage à la Cité des Arts ou dans le centre.",
+"pt": "Passeios fotográficos em grupo pelo centro histórico, ou um fotógrafo profissional para as fotos da viagem na Cidade das Artes ou no centro.",
+"va": "Passejos fotogràfics en grup pel centre històric, o un fotògraf professional per a les fotos del viatge a la Ciutat de les Arts o al centre."
+}
+},
+{
+"i": "🥘",
+"q": "Valencia paella cooking class",
+"qe": "clase de paella Valencia",
+"n": {
+"en": "Paella cooking class",
+"es": "Clase de cocina de paella",
+"it": "Corso di cucina della paella",
+"de": "Paella-Kochkurs",
+"fr": "Cours de cuisine paella",
+"pt": "Aula de cozinha de paella",
+"va": "Classe de cuina de paella"
+},
+"s": {
+"en": "Shop at the Central or Ruzafa market with a chef, cook a real Valencian paella and eat it — often with sangria.",
+"es": "Compra en el Mercado Central o de Ruzafa con un chef, cocina una paella valenciana auténtica y cómetela, a menudo con sangría.",
+"it": "Spesa al Mercato Centrale o di Ruzafa con uno chef, cucina una vera paella valenciana e mangiala, spesso con sangria.",
+"de": "Mit einem Koch auf dem Mercado Central oder in Ruzafa einkaufen, echte Paella kochen und essen – oft mit Sangria.",
+"fr": "Courses au Marché central ou de Ruzafa avec un chef, préparez une vraie paella valencienne et dégustez-la, souvent avec de la sangria.",
+"pt": "Compras no Mercado Central ou de Ruzafa com um chef, cozinhe uma verdadeira paella valenciana e coma-a, muitas vezes com sangria.",
+"va": "Compra al Mercat Central o de Russafa amb un xef, cuina una paella valenciana de veritat i menja-te-la, sovint amb sangria."
+}
+},
+{
+"i": "🛶",
+"q": "Albufera boat tour sunset",
+"qe": "paseo en barca Albufera atardecer",
+"n": {
+"en": "Albufera boat trip at sunset",
+"es": "Paseo en barca por la Albufera al atardecer",
+"it": "Gita in barca all'Albufera al tramonto",
+"de": "Bootsfahrt auf der Albufera bei Sonnenuntergang",
+"fr": "Balade en barque sur l'Albufera au coucher du soleil",
+"pt": "Passeio de barco na Albufera ao pôr do sol",
+"va": "Passeig en barca per l'Albufera a la posta de sol"
+},
+"s": {
+"en": "Tours from the city by bus with a boat ride on the lagoon, some with paella in El Palmar.",
+"es": "Excursiones desde la ciudad con paseo en barca por el lago, algunas con paella en El Palmar.",
+"it": "Escursioni dalla città con giro in barca sulla laguna, alcune con paella a El Palmar.",
+"de": "Touren ab der Stadt mit Bootsfahrt auf der Lagune, manche mit Paella in El Palmar.",
+"fr": "Excursions depuis la ville avec balade en barque sur la lagune, certaines avec paella à El Palmar.",
+"pt": "Excursões desde a cidade com passeio de barco na lagoa, algumas com paella em El Palmar.",
+"va": "Excursions des de la ciutat amb passeig en barca pel llac, algunes amb paella al Palmar."
+}
+},
+{
+"i": "🏄",
+"q": "Valencia paddle surf kayak",
+"qe": "paddle surf kayak Valencia",
+"n": {
+"en": "Paddle surf & kayak",
+"es": "Paddle surf y kayak",
+"it": "Paddle surf e kayak",
+"de": "Stand-up-Paddling & Kajak",
+"fr": "Paddle et kayak",
+"pt": "Paddle surf e caiaque",
+"va": "Paddle surf i caiac"
+},
+"s": {
+"en": "Board and kayak rental or classes at the city beaches and Port Saplaya, usually spring to autumn.",
+"es": "Alquiler o clases de tabla y kayak en las playas de la ciudad y Port Saplaya, normalmente de primavera a otoño.",
+"it": "Noleggio o lezioni di tavola e kayak sulle spiagge della città e a Port Saplaya, di solito da primavera ad autunno.",
+"de": "Board- und Kajakverleih oder Kurse an den Stadtstränden und in Port Saplaya, meist Frühling bis Herbst.",
+"fr": "Location ou cours de paddle et kayak sur les plages de la ville et à Port Saplaya, en général du printemps à l'automne.",
+"pt": "Aluguer ou aulas de prancha e caiaque nas praias da cidade e em Port Saplaya, normalmente da primavera ao outono.",
+"va": "Lloguer o classes de taula i caiac a les platges de la ciutat i a Port Saplaya, normalment de primavera a tardor."
+}
+},
+{
+"i": "⛵",
+"q": "Valencia sailing catamaran cruise",
+"qe": "paseo en velero catamarán Valencia",
+"n": {
+"en": "Sailing & catamaran trips",
+"es": "Paseos en velero y catamarán",
+"it": "Gite in barca a vela e catamarano",
+"de": "Segeltörns & Katamaran",
+"fr": "Sorties en voilier et catamaran",
+"pt": "Passeios de veleiro e catamarã",
+"va": "Passejos en veler i catamarà"
+},
+"s": {
+"en": "Two- or three-hour cruises from the Marina, some at sunset or with drinks and lunch on board.",
+"es": "Salidas de dos o tres horas desde la Marina, algunas al atardecer o con bebida y comida a bordo.",
+"it": "Uscite di due o tre ore dalla Marina, alcune al tramonto o con drink e pranzo a bordo.",
+"de": "Zwei- bis dreistündige Fahrten ab der Marina, manche bei Sonnenuntergang oder mit Getränken und Essen an Bord.",
+"fr": "Sorties de deux ou trois heures depuis la Marina, certaines au coucher du soleil ou avec boissons et repas à bord.",
+"pt": "Saídas de duas ou três horas a partir da Marina, algumas ao pôr do sol ou com bebidas e almoço a bordo.",
+"va": "Eixides de dues o tres hores des de la Marina, algunes a la posta de sol o amb beguda i dinar a bord."
+}
+},
+{
+"i": "🚲",
+"q": "Valencia bike tour",
+"qe": "tour en bici Valencia",
+"n": {
+"en": "Bike & e-bike tours",
+"es": "Tours en bici y bici eléctrica",
+"it": "Tour in bici ed e-bike",
+"de": "Rad- & E-Bike-Touren",
+"fr": "Visites à vélo et vélo électrique",
+"pt": "Tours de bicicleta e e-bike",
+"va": "Tours en bici i bici elèctrica"
+},
+"s": {
+"en": "Guided rides along the Turia gardens to the City of Arts and the beach, or simple rentals by the hour.",
+"es": "Rutas guiadas por el jardín del Turia hasta la Ciudad de las Artes y la playa, o alquiler por horas.",
+"it": "Percorsi guidati lungo i giardini del Turia fino alla Città delle Arti e alla spiaggia, o noleggio a ore.",
+"de": "Geführte Touren durch die Turia-Gärten zur Stadt der Künste und zum Strand oder Verleih pro Stunde.",
+"fr": "Balades guidées dans les jardins du Turia jusqu'à la Cité des Arts et la plage, ou location à l'heure.",
+"pt": "Percursos guiados pelos jardins do Turia até à Cidade das Artes e à praia, ou aluguer à hora.",
+"va": "Rutes guiades pel jardí del Túria fins a la Ciutat de les Arts i la platja, o lloguer per hores."
+}
+},
+{
+"i": "🛺",
+"q": "Valencia tuk tuk segway tour",
+"qe": "tour tuk tuk segway Valencia",
+"n": {
+"en": "Tuk-tuk & segway tours",
+"es": "Tours en tuk-tuk y segway",
+"it": "Tour in tuk-tuk e segway",
+"de": "Tuk-Tuk- & Segway-Touren",
+"fr": "Visites en tuk-tuk et segway",
+"pt": "Tours de tuk-tuk e segway",
+"va": "Tours en tuk-tuk i segway"
+},
+"s": {
+"en": "See the highlights in an hour or two without walking — good with kids or older travellers.",
+"es": "Lo esencial en una o dos horas sin caminar: ideal con niños o personas mayores.",
+"it": "Il meglio in una o due ore senza camminare: ideale con bambini o persone anziane.",
+"de": "Die Highlights in ein bis zwei Stunden ohne Laufen – gut mit Kindern oder Älteren.",
+"fr": "L'essentiel en une ou deux heures sans marcher : idéal avec des enfants ou des seniors.",
+"pt": "O essencial em uma ou duas horas sem caminhar — ideal com crianças ou pessoas mais velhas.",
+"va": "L'essencial en una o dues hores sense caminar: ideal amb xiquets o persones majors."
+}
+},
+{
+"i": "🚶",
+"q": "Valencia free walking tour",
+"qe": "free tour Valencia",
+"x": [
+[
+"Civitatis: free tour",
+"https://www.civitatis.com/es/valencia/free-tour-valencia/"
+]
+],
+"n": {
+"en": "Free walking tours",
+"es": "Free tours a pie",
+"it": "Free tour a piedi",
+"de": "Kostenlose Stadtführungen",
+"fr": "Free tours à pied",
+"pt": "Free tours a pé",
+"va": "Free tours a peu"
+},
+"s": {
+"en": "Guided walks of the old town or the City of Arts — you tip what you think is fair at the end.",
+"es": "Rutas guiadas por el centro histórico o la Ciudad de las Artes; al final das la propina que creas justa.",
+"it": "Visite guidate del centro storico o della Città delle Arti; alla fine lasci la mancia che ritieni giusta.",
+"de": "Führungen durch die Altstadt oder die Stadt der Künste – am Ende gibst du so viel Trinkgeld, wie du möchtest.",
+"fr": "Visites guidées de la vieille ville ou de la Cité des Arts ; à la fin, vous laissez le pourboire que vous jugez juste.",
+"pt": "Visitas guiadas ao centro histórico ou à Cidade das Artes — no fim dá a gorjeta que achar justa.",
+"va": "Rutes guiades pel centre històric o la Ciutat de les Arts; al final dones la propina que consideres justa."
+}
+},
+{
+"i": "🍷",
+"q": "Valencia tapas wine tour",
+"qe": "ruta de tapas y vinos Valencia",
+"n": {
+"en": "Tapas & wine tours",
+"es": "Rutas de tapas y vinos",
+"it": "Tour di tapas e vini",
+"de": "Tapas- & Weintouren",
+"fr": "Tournées tapas et vins",
+"pt": "Roteiros de tapas e vinhos",
+"va": "Rutes de tapes i vins"
+},
+"s": {
+"en": "Evening food walks through Ruzafa or the old town, and wine tastings in the Utiel-Requena region.",
+"es": "Rutas gastronómicas por Ruzafa o el centro, y catas en la zona de vinos de Utiel-Requena.",
+"it": "Tour gastronomici serali a Ruzafa o in centro, e degustazioni nella zona vinicola di Utiel-Requena.",
+"de": "Abendliche Food-Touren durch Ruzafa oder die Altstadt und Weinproben im Gebiet Utiel-Requena.",
+"fr": "Balades gourmandes le soir à Ruzafa ou dans le centre, et dégustations dans le vignoble d'Utiel-Requena.",
+"pt": "Roteiros gastronómicos à noite por Ruzafa ou pelo centro, e provas de vinho na região de Utiel-Requena.",
+"va": "Rutes gastronòmiques per Russafa o el centre, i tasts a la zona de vins d'Utiel-Requena."
+}
+},
+{
+"i": "🎨",
+"q": "Valencia tile painting ceramics workshop",
+"qe": "taller de cerámica azulejos Valencia",
+"n": {
+"en": "Tile & ceramics workshops",
+"es": "Talleres de azulejos y cerámica",
+"it": "Laboratori di azulejos e ceramica",
+"de": "Fliesen- & Keramik-Workshops",
+"fr": "Ateliers azulejos et céramique",
+"pt": "Oficinas de azulejos e cerâmica",
+"va": "Tallers de taulells i ceràmica"
+},
+"s": {
+"en": "Paint your own Valencian tile with a local artist and take it home as a souvenir.",
+"es": "Pinta tu propio azulejo valenciano con un artista local y llévatelo de recuerdo.",
+"it": "Dipingi il tuo azulejo valenciano con un artista locale e portalo a casa come ricordo.",
+"de": "Male mit einer lokalen Künstlerin deine eigene valencianische Fliese und nimm sie mit nach Hause.",
+"fr": "Peignez votre propre azulejo valencien avec un artiste local et rapportez-le en souvenir.",
+"pt": "Pinte o seu próprio azulejo valenciano com um artista local e leve-o como recordação.",
+"va": "Pinta el teu propi taulell valencià amb un artista local i emporta-te'l de record."
+}
+},
+{
+"i": "💃",
+"q": "Valencia flamenco show",
+"qe": "espectáculo flamenco Valencia",
+"n": {
+"en": "Flamenco shows",
+"es": "Espectáculos de flamenco",
+"it": "Spettacoli di flamenco",
+"de": "Flamenco-Shows",
+"fr": "Spectacles de flamenco",
+"pt": "Espetáculos de flamenco",
+"va": "Espectacles de flamenc"
+},
+"s": {
+"en": "Live guitar, singing and dance in small venues, often with a drink or dinner included.",
+"es": "Guitarra, cante y baile en directo en salas pequeñas, a menudo con bebida o cena incluida.",
+"it": "Chitarra, canto e ballo dal vivo in piccoli locali, spesso con drink o cena inclusi.",
+"de": "Live-Gitarre, Gesang und Tanz in kleinen Lokalen, oft mit Getränk oder Abendessen.",
+"fr": "Guitare, chant et danse en live dans de petites salles, souvent avec boisson ou dîner inclus.",
+"pt": "Guitarra, canto e dança ao vivo em salas pequenas, muitas vezes com bebida ou jantar incluídos.",
+"va": "Guitarra, cant i ball en directe en sales xicotetes, sovint amb beguda o sopar inclosos."
+}
+},
+{
+"i": "🔐",
+"q": "Valencia escape room",
+"qe": "escape room Valencia",
+"n": {
+"en": "Escape rooms",
+"es": "Escape rooms",
+"it": "Escape room",
+"de": "Escape Rooms",
+"fr": "Escape games",
+"pt": "Escape rooms",
+"va": "Escape rooms"
+},
+"s": {
+"en": "Themed puzzle rooms for groups of friends or families; many have games in English.",
+"es": "Salas temáticas de enigmas para grupos de amigos o familias; muchas tienen juegos en inglés.",
+"it": "Stanze a tema con enigmi per gruppi di amici o famiglie; molte hanno giochi in inglese.",
+"de": "Thematische Rätselräume für Freundesgruppen oder Familien; viele auch auf Englisch.",
+"fr": "Salles à énigmes thématiques pour groupes d'amis ou familles ; beaucoup proposent des jeux en anglais.",
+"pt": "Salas temáticas de enigmas para grupos de amigos ou famílias; muitas têm jogos em inglês.",
+"va": "Sales temàtiques d'enigmes per a grups d'amics o famílies; moltes tenen jocs en anglés."
+}
+},
+{
+"i": "♨️",
+"q": "Montanejos hot springs tour from Valencia",
+"qe": "excursión Montanejos aguas termales desde Valencia",
+"n": {
+"en": "Hot springs & waterfalls day trips",
+"es": "Excursiones a fuentes termales y cascadas",
+"it": "Gite a sorgenti termali e cascate",
+"de": "Tagesausflüge zu Thermalquellen & Wasserfällen",
+"fr": "Excursions aux sources chaudes et cascades",
+"pt": "Excursões a fontes termais e cascatas",
+"va": "Excursions a fonts termals i cascades"
+},
+"s": {
+"en": "Guided day trips with transport to Montanejos' warm river pools and inland waterfalls.",
+"es": "Excursiones guiadas con transporte a las pozas de agua templada de Montanejos y cascadas del interior.",
+"it": "Gite guidate con trasporto alle pozze di acqua tiepida di Montanejos e alle cascate dell'entroterra.",
+"de": "Geführte Tagesausflüge mit Transfer zu den warmen Flussbecken von Montanejos und Wasserfällen im Hinterland.",
+"fr": "Excursions guidées avec transport vers les bassins d'eau tiède de Montanejos et les cascades de l'intérieur.",
+"pt": "Excursões guiadas com transporte às piscinas de água morna de Montanejos e cascatas do interior.",
+"va": "Excursions guiades amb transport a les basses d'aigua temperada de Montanejos i cascades de l'interior."
+}
+},
+{
+"i": "🪂",
+"q": "skydiving Valencia tandem",
+"qe": "paracaidismo tándem Valencia",
+"x": [
+[
+"Yumping: Valencia",
+"https://www.yumping.com/experiencias-para-regalar/valencia"
+]
+],
+"n": {
+"en": "Adventure: skydiving, rafting & more",
+"es": "Aventura: paracaidismo, rafting y más",
+"it": "Avventura: paracadutismo, rafting e altro",
+"de": "Abenteuer: Fallschirm, Rafting & mehr",
+"fr": "Aventure : parachute, rafting et plus",
+"pt": "Aventura: paraquedismo, rafting e mais",
+"va": "Aventura: paracaigudisme, ràfting i més"
+},
+"s": {
+"en": "Tandem skydives over Requena, rafting on the Cabriel river and other guided adventures with certified companies.",
+"es": "Saltos en paracaídas en tándem en Requena, rafting en el Cabriel y otras aventuras guiadas con empresas acreditadas.",
+"it": "Lanci in tandem a Requena, rafting sul fiume Cabriel e altre avventure guidate con aziende certificate.",
+"de": "Tandemsprünge über Requena, Rafting auf dem Cabriel und weitere geführte Abenteuer mit zertifizierten Anbietern.",
+"fr": "Sauts en tandem à Requena, rafting sur le Cabriel et autres aventures encadrées par des entreprises agréées.",
+"pt": "Saltos de paraquedas em tandem em Requena, rafting no rio Cabriel e outras aventuras guiadas com empresas certificadas.",
+"va": "Salts en paracaigudes en tàndem a Requena, ràfting al Cabriel i altres aventures guiades amb empreses acreditades."
+}
+},
+{
+"i": "🎟️",
+"q": "Valencia Tourist Card",
+"qe": "Valencia Tourist Card",
+"x": [
+[
+"Visit València: shop",
+"https://www.visitvalencia.com/shop/ofertas"
+]
+],
+"n": {
+"en": "Valencia Tourist Card & combo tickets",
+"es": "Valencia Tourist Card y entradas combinadas",
+"it": "Valencia Tourist Card e biglietti combinati",
+"de": "Valencia Tourist Card & Kombitickets",
+"fr": "Valencia Tourist Card et billets combinés",
+"pt": "Valencia Tourist Card e bilhetes combinados",
+"va": "València Tourist Card i entrades combinades"
+},
+"s": {
+"en": "The official card: free public transport, free or discounted museums and up to 50% off activities.",
+"es": "La tarjeta oficial: transporte público gratis, museos gratis o con descuento y hasta un 50% en actividades.",
+"it": "La carta ufficiale: trasporto pubblico gratuito, musei gratis o scontati e fino al 50% sulle attività.",
+"de": "Die offizielle Karte: kostenloser Nahverkehr, freie oder ermäßigte Museen und bis zu 50 % Rabatt auf Aktivitäten.",
+"fr": "La carte officielle : transports gratuits, musées gratuits ou à prix réduit et jusqu'à 50 % sur les activités.",
+"pt": "O cartão oficial: transporte público grátis, museus grátis ou com desconto e até 50% em atividades.",
+"va": "La targeta oficial: transport públic gratuït, museus gratis o amb descompte i fins a un 50% en activitats."
+}
+}
+]
+},
+"health": {
+"paras": [
+{
+"en": "In a life-threatening emergency call 112 (free, 24 h, they speak English). For minor problems, a pharmacy is often enough: every pharmacy door shows which one is on duty tonight. EU visitors should bring their European Health Insurance Card (EHIC); others, their travel insurance.",
+"es": "En una emergencia grave llama al 112 (gratis, 24 h, hablan inglés). Para problemas leves suele bastar una farmacia: en la puerta de cada farmacia se indica cuál está de guardia esa noche. Si vienes de la UE, trae la Tarjeta Sanitaria Europea; si no, tu seguro de viaje.",
+"it": "In caso di emergenza grave chiama il 112 (gratis, 24 h, parlano inglese). Per piccoli problemi spesso basta una farmacia: sulla porta di ogni farmacia è indicata quella di turno quella notte. Dalla UE porta la Tessera Sanitaria Europea; altrimenti l'assicurazione di viaggio.",
+"de": "Im lebensbedrohlichen Notfall 112 anrufen (kostenlos, rund um die Uhr, auch auf Englisch). Bei kleineren Beschwerden reicht oft eine Apotheke: An jeder Apothekentür steht, welche heute Nacht Notdienst hat. EU-Besucher bringen die Europäische Krankenversicherungskarte (EHIC) mit, andere ihre Reiseversicherung.",
+"fr": "En cas d'urgence vitale, appelez le 112 (gratuit, 24 h/24, on y parle anglais). Pour les petits problèmes, une pharmacie suffit souvent : sur la porte de chaque pharmacie figure celle qui est de garde cette nuit. Visiteurs de l'UE : apportez la Carte européenne d'assurance maladie ; les autres, leur assurance voyage.",
+"pt": "Numa emergência grave ligue 112 (grátis, 24 h, falam inglês). Para problemas ligeiros basta muitas vezes uma farmácia: na porta de cada farmácia indica-se qual está de serviço nessa noite. Se vem da UE, traga o Cartão Europeu de Seguro de Doença; caso contrário, o seguro de viagem.",
+"va": "En una emergència greu telefona al 112 (gratuït, 24 h, parlen anglés). Per a problemes lleus sol bastar una farmàcia: a la porta de cada farmàcia s'indica quina està de guàrdia eixa nit. Si vens de la UE, porta la Targeta Sanitària Europea; si no, la teua assegurança de viatge."
+}
+],
+"groups": [
+{
+"h": {
+"en": "💊 Pharmacies on duty",
+"es": "💊 Farmacias de guardia",
+"it": "💊 Farmacie di turno",
+"de": "💊 Notdienst-Apotheken",
+"fr": "💊 Pharmacies de garde",
+"pt": "💊 Farmácias de serviço",
+"va": "💊 Farmàcies de guàrdia"
+},
+"items": [
+{
+"i": "💊",
+"n": "MICOF — Colegio de Farmacéuticos de Valencia",
+"u": "https://www.micof.es/",
+"w": true,
+"s": {
+"en": "Official pharmacists' association of Valencia: find the pharmacies on duty today in the city and province.",
+"es": "Colegio oficial de farmacéuticos de Valencia: consulta las farmacias de guardia de hoy en la ciudad y la provincia.",
+"it": "Ordine ufficiale dei farmacisti di Valencia: trova le farmacie di turno oggi in città e provincia.",
+"de": "Offizielle Apothekerkammer Valencia: heutige Notdienst-Apotheken in Stadt und Provinz finden.",
+"fr": "Ordre officiel des pharmaciens de Valence : trouvez les pharmacies de garde du jour en ville et en province.",
+"pt": "Ordem oficial dos farmacêuticos de Valência: veja as farmácias de serviço hoje na cidade e na província.",
+"va": "Col·legi oficial de farmacèutics de València: consulta les farmàcies de guàrdia de hui a la ciutat i la província."
+}
+},
+{
+"i": "🔎",
+"n": "Farmacias de guardia en Valencia (farmaceuticos.com)",
+"u": "https://www.farmaceuticos.com/farmacias-de-guardia/valencia/",
+"w": true,
+"s": {
+"en": "Search by town and date, based on the official rotas.",
+"es": "Buscador por municipio y fecha, con los turnos oficiales.",
+"it": "Ricerca per comune e data, con i turni ufficiali.",
+"de": "Suche nach Ort und Datum auf Basis der offiziellen Dienstpläne.",
+"fr": "Recherche par commune et date, d'après les tours de garde officiels.",
+"pt": "Pesquisa por município e data, com os turnos oficiais.",
+"va": "Buscador per municipi i data, amb els torns oficials."
+}
+}
+]
+},
+{
+"h": {
+"en": "🩺 Out-of-hours GP (non-urgent)",
+"es": "🩺 Urgencias de atención primaria (no graves)",
+"it": "🩺 Guardia medica (non gravi)",
+"de": "🩺 Hausärztlicher Notdienst (nicht lebensbedrohlich)",
+"fr": "🩺 Médecin de garde (non grave)",
+"pt": "🩺 Urgências de cuidados primários (não graves)",
+"va": "🩺 Urgències d'atenció primària (no greus)"
+},
+"items": [
+{
+"i": "🩺",
+"n": "PAS — Centro de Salud Monserrat",
+"u": "https://www.google.com/maps/search/?api=1&query=Centro+de+Salud+Monserrat+Juan+Llorens+8+Valencia",
+"w": false,
+"s": {
+"en": "Out-of-hours care for the city (C/ Juan Llorens 8): Mon–Fri 21:00–09:00, Sat from 17:00, Sun and holidays 24 h.",
+"es": "Atención continuada para la ciudad (C/ Juan Llorens 8): lunes a viernes de 21:00 a 09:00, sábados desde las 17:00, domingos y festivos 24 h.",
+"it": "Continuità assistenziale per la città (C/ Juan Llorens 8): lun–ven 21:00–09:00, sab dalle 17:00, dom e festivi 24 h.",
+"de": "Bereitschaftsdienst für die Stadt (C/ Juan Llorens 8): Mo–Fr 21–9 Uhr, Sa ab 17 Uhr, So und Feiertage 24 h.",
+"fr": "Permanence de soins pour la ville (C/ Juan Llorens 8) : lun–ven 21h–9h, sam dès 17h, dim et fériés 24 h/24.",
+"pt": "Atendimento permanente para a cidade (C/ Juan Llorens 8): seg–sex 21:00–09:00, sáb desde as 17:00, dom e feriados 24 h.",
+"va": "Atenció continuada per a la ciutat (C/ Juan Llorens 8): de dilluns a divendres de 21:00 a 09:00, dissabtes des de les 17:00, diumenges i festius 24 h."
+}
+}
+]
+},
+{
+"h": {
+"en": "🏥 Public hospitals with A&E",
+"es": "🏥 Hospitales públicos con urgencias",
+"it": "🏥 Ospedali pubblici con pronto soccorso",
+"de": "🏥 Öffentliche Krankenhäuser mit Notaufnahme",
+"fr": "🏥 Hôpitaux publics avec urgences",
+"pt": "🏥 Hospitais públicos com urgências",
+"va": "🏥 Hospitals públics amb urgències"
+},
+"items": [
+{
+"i": "🏥",
+"n": "Hospital Universitari i Politècnic La Fe",
+"u": "https://www.google.com/maps/search/?api=1&query=Hospital+La+Fe+Avinguda+Fernando+Abril+Martorell+106+Valencia",
+"w": false,
+"s": {
+"en": "The region's main reference hospital, for complex emergencies (Av. Fernando Abril Martorell 106).",
+"es": "El gran hospital de referencia de la Comunitat, para urgencias complejas (Av. Fernando Abril Martorell 106).",
+"it": "Il principale ospedale di riferimento della regione, per emergenze complesse (Av. Fernando Abril Martorell 106).",
+"de": "Das wichtigste Referenzkrankenhaus der Region für komplexe Notfälle (Av. Fernando Abril Martorell 106).",
+"fr": "Le grand hôpital de référence de la région, pour les urgences complexes (Av. Fernando Abril Martorell 106).",
+"pt": "O grande hospital de referência da região, para urgências complexas (Av. Fernando Abril Martorell 106).",
+"va": "El gran hospital de referència de la Comunitat, per a urgències complexes (Av. Fernando Abril Martorell 106)."
+}
+},
+{
+"i": "🏥",
+"n": "Hospital Clínico Universitario",
+"u": "https://www.google.com/maps/search/?api=1&query=Hospital+Clinico+Universitario+Avenida+Blasco+Ibanez+17+Valencia",
+"w": false,
+"s": {
+"en": "Central location near the university area (Av. Blasco Ibáñez 17) — the closest to the old town and the beach.",
+"es": "Céntrico, junto a la zona universitaria (Av. Blasco Ibáñez 17): el más cercano al centro y a la playa.",
+"it": "In posizione centrale, vicino all'università (Av. Blasco Ibáñez 17): il più vicino al centro e alla spiaggia.",
+"de": "Zentral im Universitätsviertel (Av. Blasco Ibáñez 17) – am nächsten zur Altstadt und zum Strand.",
+"fr": "Central, près du quartier universitaire (Av. Blasco Ibáñez 17) : le plus proche du centre et de la plage.",
+"pt": "Central, junto à zona universitária (Av. Blasco Ibáñez 17) — o mais próximo do centro e da praia.",
+"va": "Cèntric, al costat de la zona universitària (Av. Blasco Ibáñez 17): el més proper al centre i a la platja."
+}
+},
+{
+"i": "🏥",
+"n": "Hospital General Universitario",
+"u": "https://www.google.com/maps/search/?api=1&query=Hospital+General+Universitario+Avinguda+Tres+Creus+2+Valencia",
+"w": false,
+"s": {
+"en": "West of the city (Av. de les Tres Creus 2).",
+"es": "Al oeste de la ciudad (Av. de les Tres Creus 2).",
+"it": "A ovest della città (Av. de les Tres Creus 2).",
+"de": "Im Westen der Stadt (Av. de les Tres Creus 2).",
+"fr": "À l'ouest de la ville (Av. de les Tres Creus 2).",
+"pt": "A oeste da cidade (Av. de les Tres Creus 2).",
+"va": "A l'oest de la ciutat (Av. de les Tres Creus 2)."
+}
+},
+{
+"i": "🏥",
+"n": "Hospital Universitario Doctor Peset",
+"u": "https://www.google.com/maps/search/?api=1&query=Hospital+Doctor+Peset+Avenida+Gaspar+Aguilar+90+Valencia",
+"w": false,
+"s": {
+"en": "South of the city (Av. Gaspar Aguilar 90); metro Safranar or Patraix.",
+"es": "Al sur de la ciudad (Av. Gaspar Aguilar 90); metro Safranar o Patraix.",
+"it": "A sud della città (Av. Gaspar Aguilar 90); metro Safranar o Patraix.",
+"de": "Im Süden der Stadt (Av. Gaspar Aguilar 90); Metro Safranar oder Patraix.",
+"fr": "Au sud de la ville (Av. Gaspar Aguilar 90) ; métro Safranar ou Patraix.",
+"pt": "A sul da cidade (Av. Gaspar Aguilar 90); metro Safranar ou Patraix.",
+"va": "Al sud de la ciutat (Av. Gaspar Aguilar 90); metro Safranar o Patraix."
+}
+},
+{
+"i": "🏥",
+"n": "Hospital Arnau de Vilanova",
+"u": "https://www.google.com/maps/search/?api=1&query=Hospital+Arnau+de+Vilanova+Carrer+Sant+Clement+12+Valencia",
+"w": false,
+"s": {
+"en": "North-west of the city (C/ Sant Clement 12); metro Beniferri (lines 2 and 3).",
+"es": "Al noroeste de la ciudad (C/ Sant Clement 12); metro Beniferri (líneas 2 y 3).",
+"it": "A nord-ovest della città (C/ Sant Clement 12); metro Beniferri (linee 2 e 3).",
+"de": "Im Nordwesten der Stadt (C/ Sant Clement 12); Metro Beniferri (Linien 2 und 3).",
+"fr": "Au nord-ouest de la ville (C/ Sant Clement 12) ; métro Beniferri (lignes 2 et 3).",
+"pt": "A noroeste da cidade (C/ Sant Clement 12); metro Beniferri (linhas 2 e 3).",
+"va": "Al nord-oest de la ciutat (C/ Sant Clement 12); metro Beniferri (línies 2 i 3)."
+}
+}
+]
+},
+{
+"h": {
+"en": "🏨 Private hospital (travel insurance)",
+"es": "🏨 Hospital privado (seguro de viaje)",
+"it": "🏨 Ospedale privato (assicurazione di viaggio)",
+"de": "🏨 Privatklinik (Reiseversicherung)",
+"fr": "🏨 Hôpital privé (assurance voyage)",
+"pt": "🏨 Hospital privado (seguro de viagem)",
+"va": "🏨 Hospital privat (assegurança de viatge)"
+},
+"items": [
+{
+"i": "🏨",
+"n": "Hospital Quirónsalud Valencia",
+"u": "https://www.quironsalud.com/valencia/es/cartera-servicios/urgencias",
+"w": true,
+"s": {
+"en": "24-hour adult and children's emergency department; useful if you have private travel insurance.",
+"es": "Urgencias de adultos y pediátricas 24 horas; útil si tienes seguro de viaje privado.",
+"it": "Pronto soccorso adulti e pediatrico 24 ore; utile se hai un'assicurazione di viaggio privata.",
+"de": "24-Stunden-Notaufnahme für Erwachsene und Kinder; praktisch mit privater Reiseversicherung.",
+"fr": "Urgences adultes et pédiatriques 24 h/24 ; utile si vous avez une assurance voyage privée.",
+"pt": "Urgências de adultos e pediátricas 24 horas; útil se tiver seguro de viagem privado.",
+"va": "Urgències d'adults i pediàtriques 24 hores; útil si tens assegurança de viatge privada."
+}
+}
+]
+}
+]
+},
+"rentals": {
+"paras": [
+{
+"en": "Valencia is flat and compact: a bike or a moped is the best way to move between the old town, the Turia gardens and the beach. Bring your ID or passport; for motorbikes and cars you need a driving licence valid in Spain (some non-EU visitors also need an international permit). Prices change often — check the app or website.",
+"es": "Valencia es llana y compacta: la bici o la moto son la mejor forma de ir del centro al jardín del Turia y a la playa. Lleva tu DNI o pasaporte; para motos y coches necesitas un carné válido en España (algunos visitantes de fuera de la UE también necesitan el permiso internacional). Los precios cambian a menudo: consulta la app o la web.",
+"it": "Valencia è pianeggiante e compatta: bici o scooter sono il modo migliore per muoversi tra centro, giardini del Turia e spiaggia. Porta documento o passaporto; per moto e auto serve una patente valida in Spagna (alcuni visitatori extra UE necessitano anche del permesso internazionale). I prezzi cambiano spesso: controlla app o sito.",
+"de": "Valencia ist flach und kompakt: Fahrrad oder Roller sind ideal zwischen Altstadt, Turia-Gärten und Strand. Ausweis oder Pass mitnehmen; für Motorroller und Autos brauchst du einen in Spanien gültigen Führerschein (manche Nicht-EU-Besucher zusätzlich den internationalen). Preise ändern sich oft – in App oder Website prüfen.",
+"fr": "Valence est plate et compacte : vélo ou scooter sont parfaits entre la vieille ville, les jardins du Turia et la plage. Prenez votre pièce d'identité ou passeport ; pour scooters et voitures il faut un permis valable en Espagne (certains visiteurs hors UE ont aussi besoin du permis international). Les prix changent souvent : vérifiez l'appli ou le site.",
+"pt": "Valência é plana e compacta: a bicicleta ou a mota são a melhor forma de ir do centro aos jardins do Turia e à praia. Leve o cartão de cidadão ou passaporte; para motas e carros precisa de carta válida em Espanha (alguns visitantes de fora da UE também precisam da licença internacional). Os preços mudam muitas vezes: veja a app ou o site.",
+"va": "València és plana i compacta: la bici o la moto són la millor manera d'anar del centre al jardí del Túria i a la platja. Porta el DNI o el passaport; per a motos i cotxes cal un permís vàlid a Espanya (alguns visitants de fora de la UE també necessiten el permís internacional). Els preus canvien sovint: consulta l'app o la web."
+}
+],
+"groups": [
+{
+"h": {
+"en": "🚲 Bikes & e-bikes",
+"es": "🚲 Bicis y bicis eléctricas",
+"it": "🚲 Bici ed e-bike",
+"de": "🚲 Fahrräder & E-Bikes",
+"fr": "🚲 Vélos et vélos électriques",
+"pt": "🚲 Bicicletas e e-bikes",
+"va": "🚲 Bicis i bicis elèctriques"
+},
+"items": [
+{
+"i": "🚲",
+"n": "Valenbisi",
+"u": "https://www.valenbisi.es/",
+"w": true,
+"s": {
+"en": "The city's public bike system with hundreds of stations. Visitors can buy a 7-day pass in the app; the first 30 minutes of each ride are free.",
+"es": "La bici pública de la ciudad, con cientos de estaciones. Los visitantes pueden sacar el abono de 7 días en la app; los primeros 30 minutos de cada trayecto son gratis.",
+"it": "La bici pubblica della città, con centinaia di stazioni. I visitatori possono acquistare l'abbonamento di 7 giorni nell'app; i primi 30 minuti di ogni corsa sono gratis.",
+"de": "Das öffentliche Leihradsystem mit Hunderten Stationen. Besucher kaufen den 7-Tage-Pass in der App; die ersten 30 Minuten jeder Fahrt sind gratis.",
+"fr": "Le vélo public de la ville, avec des centaines de stations. Les visiteurs peuvent acheter le pass 7 jours dans l'appli ; les 30 premières minutes de chaque trajet sont gratuites.",
+"pt": "A bicicleta pública da cidade, com centenas de estações. Os visitantes podem comprar o passe de 7 dias na app; os primeiros 30 minutos de cada viagem são grátis.",
+"va": "La bici pública de la ciutat, amb centenars d'estacions. Els visitants poden traure l'abonament de 7 dies a l'app; els primers 30 minuts de cada trajecte són gratis."
+}
+},
+{
+"i": "🏪",
+"n": "Visit València: bike rental shops",
+"u": "https://www.visitvalencia.com/planifica-tu-viaje-a-valencia/como-moverse/alquiler-de-bicicletas",
+"w": true,
+"s": {
+"en": "Official list of rental shops in the old town and centre (Doyoubike, Passionbike, Valencia Bikes and more): city bikes, e-bikes, tandems and child seats.",
+"es": "Listado oficial de tiendas de alquiler en el centro (Doyoubike, Passionbike, Valencia Bikes y más): bicis urbanas, eléctricas, tándem y sillitas para niños.",
+"it": "Elenco ufficiale dei noleggi in centro (Doyoubike, Passionbike, Valencia Bikes e altri): bici urbane, elettriche, tandem e seggiolini.",
+"de": "Offizielle Liste der Verleihläden in der Innenstadt (Doyoubike, Passionbike, Valencia Bikes u. a.): Stadträder, E-Bikes, Tandems und Kindersitze.",
+"fr": "Liste officielle des loueurs du centre (Doyoubike, Passionbike, Valencia Bikes, etc.) : vélos de ville, électriques, tandems et sièges enfant.",
+"pt": "Lista oficial de lojas de aluguer no centro (Doyoubike, Passionbike, Valencia Bikes e outras): bicicletas urbanas, elétricas, tandem e cadeirinhas.",
+"va": "Llistat oficial de botigues de lloguer al centre (Doyoubike, Passionbike, Valencia Bikes i més): bicis urbanes, elèctriques, tàndem i cadiretes per a xiquets."
+}
+},
+{
+"i": "🔎",
+"n": "GetYourGuide: bike rental",
+"u": "https://www.getyourguide.com/s/?q=Valencia%20bike%20rental",
+"w": true,
+"s": {
+"en": "Book a city bike or e-bike for a few hours or a full day and compare prices.",
+"es": "Reserva bici urbana o eléctrica por horas o día completo y compara precios.",
+"it": "Prenota bici urbana o elettrica a ore o per l'intera giornata e confronta i prezzi.",
+"de": "Stadt- oder E-Bike stunden- oder tageweise buchen und Preise vergleichen.",
+"fr": "Réservez un vélo de ville ou électrique à l'heure ou à la journée et comparez les prix.",
+"pt": "Reserve bicicleta urbana ou elétrica à hora ou ao dia e compare preços.",
+"va": "Reserva bici urbana o elèctrica per hores o dia complet i compara preus."
+}
+}
+]
+},
+{
+"h": {
+"en": "🛴 E-scooters",
+"es": "🛴 Patinetes eléctricos",
+"it": "🛴 Monopattini elettrici",
+"de": "🛴 E-Scooter",
+"fr": "🛴 Trottinettes électriques",
+"pt": "🛴 Trotinetes elétricas",
+"va": "🛴 Patinets elèctrics"
+},
+"items": [
+{
+"i": "🛴",
+"n": "Sky Bike Rent & Tours",
+"u": "https://www.comunitatvalenciana.com/es/valencia/valencia/empresas-de-turismo-activo/sky-bike-segway-anyway-valencia",
+"w": true,
+"s": {
+"en": "Rents bikes and electric scooters, and runs group and private rides.",
+"es": "Alquila bicis y patinetes eléctricos, y organiza rutas en grupo y tours privados.",
+"it": "Noleggia bici e monopattini elettrici e organizza giri di gruppo e privati.",
+"de": "Verleiht Fahrräder und E-Scooter und bietet Gruppen- und Privattouren an.",
+"fr": "Loue vélos et trottinettes électriques et organise des sorties en groupe ou privées.",
+"pt": "Aluga bicicletas e trotinetes elétricas e organiza passeios de grupo e privados.",
+"va": "Lloga bicis i patinets elèctrics, i organitza rutes en grup i tours privats."
+}
+},
+{
+"i": "🔎",
+"n": "GetYourGuide: e-scooter",
+"u": "https://www.getyourguide.com/s/?q=Valencia%20electric%20scooter",
+"w": true,
+"s": {
+"en": "E-scooter rentals and guided scooter tours. Ride on bike lanes, never on pavements.",
+"es": "Alquiler de patinetes y tours guiados en patinete. Circula por el carril bici, nunca por la acera.",
+"it": "Noleggi e tour guidati in monopattino. Usa le piste ciclabili, mai i marciapiedi.",
+"de": "E-Scooter-Verleih und geführte Touren. Auf Radwegen fahren, nie auf dem Gehweg.",
+"fr": "Location et visites guidées en trottinette. Roulez sur les pistes cyclables, jamais sur les trottoirs.",
+"pt": "Aluguer e tours guiados de trotinete. Circule na ciclovia, nunca no passeio.",
+"va": "Lloguer de patinets i tours guiats en patinet. Circula pel carril bici, mai per la vorera."
+}
+}
+]
+},
+{
+"h": {
+"en": "🛵 Mopeds (motosharing)",
+"es": "🛵 Motos (motosharing)",
+"it": "🛵 Scooter (motosharing)",
+"de": "🛵 Motorroller (Sharing)",
+"fr": "🛵 Scooters (en partage)",
+"pt": "🛵 Motas (motosharing)",
+"va": "🛵 Motos (motosharing)"
+},
+"items": [
+{
+"i": "🛵",
+"n": "Cooltra",
+"u": "https://www.cooltra.com/",
+"w": true,
+"s": {
+"en": "Electric mopeds by the minute through the app, plus a physical shop in Valencia for daily rentals.",
+"es": "Motos eléctricas por minutos con la app y además tienda física en Valencia para alquiler por días.",
+"it": "Scooter elettrici al minuto tramite app e un negozio fisico a Valencia per noleggi giornalieri.",
+"de": "E-Roller minutenweise per App und ein Laden in Valencia für Tagesmieten.",
+"fr": "Scooters électriques à la minute via l'appli, et une boutique à Valence pour la location à la journée.",
+"pt": "Motas elétricas ao minuto pela app e uma loja física em Valência para aluguer ao dia.",
+"va": "Motos elèctriques per minuts amb l'app i, a més, botiga física a València per a lloguer per dies."
+}
+},
+{
+"i": "🛵",
+"n": "Acciona Motosharing",
+"u": "https://www.acciona-motosharing.com/es/",
+"w": true,
+"s": {
+"en": "The most powerful shared mopeds (125 cc electric): you need a valid driving licence.",
+"es": "Las motos compartidas más potentes (125 cc eléctricas): necesitas carné de conducir válido.",
+"it": "Gli scooter condivisi più potenti (125 cc elettrici): serve la patente.",
+"de": "Die stärksten Sharing-Roller (125 ccm elektrisch): gültiger Führerschein nötig.",
+"fr": "Les scooters partagés les plus puissants (125 cm³ électriques) : permis de conduire obligatoire.",
+"pt": "As motas partilhadas mais potentes (125 cc elétricas): precisa de carta de condução válida.",
+"va": "Les motos compartides més potents (125 cc elèctriques): cal permís de conduir vàlid."
+}
+},
+{
+"i": "🛵",
+"n": "Yego",
+"u": "https://www.google.com/search?q=Yego+motosharing+Valencia",
+"w": false,
+"s": {
+"en": "Another shared electric moped app working in Valencia; compare minute prices and packs.",
+"es": "Otra app de motos eléctricas compartidas en Valencia; compara precio por minuto y bonos.",
+"it": "Un'altra app di scooter elettrici condivisi a Valencia; confronta prezzi al minuto e pacchetti.",
+"de": "Eine weitere E-Roller-Sharing-App in Valencia; Minutenpreise und Pakete vergleichen.",
+"fr": "Une autre appli de scooters électriques partagés à Valence ; comparez prix à la minute et forfaits.",
+"pt": "Outra app de motas elétricas partilhadas em Valência; compare preço ao minuto e pacotes.",
+"va": "Una altra app de motos elèctriques compartides a València; compara preu per minut i bons."
+}
+}
+]
+},
+{
+"h": {
+"en": "🚗 Cars",
+"es": "🚗 Coches",
+"it": "🚗 Auto",
+"de": "🚗 Autos",
+"fr": "🚗 Voitures",
+"pt": "🚗 Carros",
+"va": "🚗 Cotxes"
+},
+"items": [
+{
+"i": "✈️",
+"n": "Airport car rental",
+"u": "https://www.google.com/search?q=alquiler+coche+aeropuerto+Valencia",
+"w": false,
+"s": {
+"en": "All the big rental companies are at or next to Valencia Airport (Manises). Compare prices and check the fuel and deposit policy.",
+"es": "Todas las grandes compañías de alquiler están en el aeropuerto de Valencia (Manises) o junto a él. Compara precios y revisa la política de combustible y la fianza.",
+"it": "Tutte le grandi compagnie di noleggio sono all'aeroporto di Valencia (Manises) o accanto. Confronta i prezzi e controlla carburante e cauzione.",
+"de": "Alle großen Autovermieter sind am oder neben dem Flughafen Valencia (Manises). Preise vergleichen, Tankregel und Kaution prüfen.",
+"fr": "Tous les grands loueurs sont à l'aéroport de Valence (Manises) ou à côté. Comparez les prix et vérifiez carburant et caution.",
+"pt": "Todas as grandes rent-a-car estão no aeroporto de Valência (Manises) ou junto a ele. Compare preços e veja a política de combustível e a caução.",
+"va": "Totes les grans companyies de lloguer són a l'aeroport de València (Manises) o al costat. Compara preus i revisa la política de combustible i la fiança."
+}
+},
+{
+"i": "🔌",
+"n": "Carsharing: CarGreen, Getaround, Malco",
+"u": "https://www.redtransporte.com/valencia/compartir-coche.html",
+"w": true,
+"s": {
+"en": "Rent a car in the city by the minute, hour or day through an app — handy for short trips without going to the airport.",
+"es": "Alquila un coche en la ciudad por minutos, horas o días desde una app: práctico para trayectos cortos sin ir al aeropuerto.",
+"it": "Noleggia un'auto in città al minuto, all'ora o al giorno via app: comodo per brevi tragitti senza andare in aeroporto.",
+"de": "Auto in der Stadt minuten-, stunden- oder tageweise per App mieten – praktisch für kurze Fahrten ohne Flughafen.",
+"fr": "Louez une voiture en ville à la minute, à l'heure ou à la journée via une appli : pratique pour de courts trajets.",
+"pt": "Alugue um carro na cidade ao minuto, à hora ou ao dia numa app — prático para trajetos curtos sem ir ao aeroporto.",
+"va": "Lloga un cotxe a la ciutat per minuts, hores o dies des d'una app: pràctic per a trajectes curts sense anar a l'aeroport."
+}
+}
+]
+}
+]
+},
+"luggage": {
+"paras": [
+{
+"en": "Good to know: Valencia's main stations (Estació del Nord and Joaquín Sorolla) and the airport have no official left-luggage lockers. Instead there are automatic locker shops and apps that let you leave your bags in nearby shops and hotels for a few euros a day. Book in the app and check the opening hours before you go.",
+"es": "Importante: las estaciones principales de Valencia (Estació del Nord y Joaquín Sorolla) y el aeropuerto no tienen consigna oficial. En su lugar hay tiendas de taquillas automáticas y apps que te permiten dejar las maletas en comercios y hoteles cercanos por pocos euros al día. Reserva en la app y mira el horario antes de ir.",
+"it": "Da sapere: le stazioni principali di Valencia (Estació del Nord e Joaquín Sorolla) e l'aeroporto non hanno un deposito bagagli ufficiale. Ci sono però negozi con armadietti automatici e app per lasciare le valigie in negozi e hotel vicini per pochi euro al giorno. Prenota nell'app e controlla gli orari.",
+"de": "Gut zu wissen: Valencias Hauptbahnhöfe (Estació del Nord und Joaquín Sorolla) und der Flughafen haben keine offizielle Gepäckaufbewahrung. Dafür gibt es Schließfach-Läden und Apps, mit denen du dein Gepäck für wenige Euro pro Tag in Geschäften und Hotels in der Nähe lässt. In der App buchen und Öffnungszeiten prüfen.",
+"fr": "Bon à savoir : les principales gares de Valence (Estació del Nord et Joaquín Sorolla) et l'aéroport n'ont pas de consigne officielle. Il existe des boutiques de casiers automatiques et des applis pour laisser vos bagages dans des commerces et hôtels proches pour quelques euros par jour. Réservez dans l'appli et vérifiez les horaires.",
+"pt": "Bom saber: as principais estações de Valência (Estació del Nord e Joaquín Sorolla) e o aeroporto não têm depósito de bagagem oficial. Há lojas de cacifos automáticos e apps para deixar as malas em lojas e hotéis próximos por poucos euros por dia. Reserve na app e veja o horário antes de ir.",
+"va": "Important: les estacions principals de València (Estació del Nord i Joaquín Sorolla) i l'aeroport no tenen consigna oficial. En el seu lloc hi ha botigues de taquilles automàtiques i apps que et permeten deixar les maletes en comerços i hotels pròxims per pocs euros al dia. Reserva a l'app i mira l'horari abans d'anar-hi."
+}
+],
+"groups": [
+{
+"h": {
+"en": "🔐 Automatic lockers near the stations",
+"es": "🔐 Taquillas automáticas junto a las estaciones",
+"it": "🔐 Armadietti automatici vicino alle stazioni",
+"de": "🔐 Schließfächer nahe den Bahnhöfen",
+"fr": "🔐 Casiers automatiques près des gares",
+"pt": "🔐 Cacifos automáticos junto às estações",
+"va": "🔐 Taquilles automàtiques prop de les estacions"
+},
+"items": [
+{
+"i": "🔐",
+"n": "Valencia Lockers (Joaquín Sorolla)",
+"u": "https://www.google.com/search?q=Valencia+Lockers+Joaqu%C3%ADn+Sorolla",
+"m": "https://www.google.com/maps/search/?api=1&query=Valencia+Lockers+Joaquin+Sorolla",
+"w": false,
+"s": {
+"en": "Self-service lockers near the AVE station; medium lockers from around €5 a day.",
+"es": "Taquillas de autoservicio junto a la estación del AVE; tamaño mediano desde unos 5 € al día.",
+"it": "Armadietti self-service vicino alla stazione AVE; misura media da circa 5 € al giorno.",
+"de": "Selbstbedienungs-Schließfächer nahe dem AVE-Bahnhof; mittlere Größe ab ca. 5 € pro Tag.",
+"fr": "Casiers en libre-service près de la gare AVE ; taille moyenne à partir d'environ 5 € par jour.",
+"pt": "Cacifos self-service junto à estação do AVE; tamanho médio desde cerca de 5 € por dia.",
+"va": "Taquilles d'autoservei prop de l'estació de l'AVE; mida mitjana des d'uns 5 € al dia."
+}
+},
+{
+"i": "🔐",
+"n": "Feel Free Lockers (Joaquín Sorolla)",
+"u": "https://www.ouigo.com/es/consignas-en-valencia",
+"m": "https://www.google.com/maps/search/?api=1&query=Feel+Free+Lockers+Joaquin+Sorolla+Valencia",
+"w": true,
+"s": {
+"en": "Automatic lockers in several sizes, about 3 minutes' walk from Joaquín Sorolla station.",
+"es": "Taquillas automáticas de varios tamaños a unos 3 minutos a pie de la estación Joaquín Sorolla.",
+"it": "Armadietti automatici di varie misure, a circa 3 minuti a piedi dalla stazione Joaquín Sorolla.",
+"de": "Automatische Schließfächer in mehreren Größen, ca. 3 Gehminuten vom Bahnhof Joaquín Sorolla.",
+"fr": "Casiers automatiques de plusieurs tailles, à environ 3 minutes à pied de la gare Joaquín Sorolla.",
+"pt": "Cacifos automáticos de vários tamanhos, a cerca de 3 minutos a pé da estação Joaquín Sorolla.",
+"va": "Taquilles automàtiques de diverses mides a uns 3 minuts a peu de l'estació Joaquín Sorolla."
+}
+}
+]
+},
+{
+"h": {
+"en": "📱 Apps: leave your bags in a nearby shop",
+"es": "📱 Apps: deja la maleta en un comercio cercano",
+"it": "📱 App: lascia la valigia in un negozio vicino",
+"de": "📱 Apps: Gepäck in einem Laden in der Nähe lassen",
+"fr": "📱 Applis : laissez vos bagages dans un commerce proche",
+"pt": "📱 Apps: deixe a mala numa loja próxima",
+"va": "📱 Apps: deixa la maleta en un comerç pròxim"
+},
+"items": [
+{
+"i": "📦",
+"n": "Stasher",
+"u": "https://stasher.com/luggage-storage/spain/valencia",
+"w": true,
+"s": {
+"en": "60+ drop-off points, many around Estació del Nord, Joaquín Sorolla and the bus station; from about €1.50 per bag per day.",
+"es": "Más de 60 puntos, muchos junto a la Estació del Nord, Joaquín Sorolla y la estación de autobuses; desde 1,50 € por maleta y día aprox.",
+"it": "Oltre 60 punti, molti vicino a Estació del Nord, Joaquín Sorolla e stazione degli autobus; da circa 1,50 € a bagaglio al giorno.",
+"de": "Über 60 Abgabestellen, viele um Estació del Nord, Joaquín Sorolla und Busbahnhof; ab ca. 1,50 € pro Gepäckstück und Tag.",
+"fr": "Plus de 60 points, dont beaucoup près de l'Estació del Nord, de Joaquín Sorolla et de la gare routière ; dès 1,50 € environ par bagage et par jour.",
+"pt": "Mais de 60 pontos, muitos junto à Estació del Nord, Joaquín Sorolla e terminal de autocarros; desde cerca de 1,50 € por mala por dia.",
+"va": "Més de 60 punts, molts al voltant de l'Estació del Nord, Joaquín Sorolla i l'estació d'autobusos; des d'1,50 € per maleta i dia aprox."
+}
+},
+{
+"i": "📦",
+"n": "Bounce",
+"u": "https://bounce.com/guides/valencia/luggage-storage-in-valencia",
+"w": true,
+"s": {
+"en": "Around 100 storage spots in shops and restaurants all over the city, bookable in the app.",
+"es": "Alrededor de 100 puntos en tiendas y restaurantes de toda la ciudad, con reserva en la app.",
+"it": "Circa 100 punti in negozi e ristoranti in tutta la città, prenotabili nell'app.",
+"de": "Rund 100 Stellen in Läden und Restaurants in der ganzen Stadt, per App buchbar.",
+"fr": "Une centaine de points dans des boutiques et restaurants de toute la ville, réservables dans l'appli.",
+"pt": "Cerca de 100 pontos em lojas e restaurantes por toda a cidade, com reserva na app.",
+"va": "Al voltant de 100 punts en botigues i restaurants de tota la ciutat, amb reserva a l'app."
+}
+},
+{
+"i": "📦",
+"n": "Radical Storage",
+"u": "https://radicalstorage.com/es/consigna-equipaje/valencia/valencia-joaquin-sorolla",
+"w": true,
+"s": {
+"en": "One of the largest networks in Valencia, including points near the airport; each bag is covered up to €3,000.",
+"es": "Una de las redes más grandes de Valencia, con puntos cerca del aeropuerto; cada maleta está cubierta hasta 3.000 €.",
+"it": "Una delle reti più grandi di Valencia, con punti vicino all'aeroporto; ogni bagaglio è coperto fino a 3.000 €.",
+"de": "Eines der größten Netze in Valencia, auch nahe dem Flughafen; jedes Gepäckstück ist bis 3.000 € versichert.",
+"fr": "L'un des plus grands réseaux de Valence, avec des points près de l'aéroport ; chaque bagage est couvert jusqu'à 3 000 €.",
+"pt": "Uma das maiores redes de Valência, com pontos perto do aeroporto; cada mala está coberta até 3.000 €.",
+"va": "Una de les xarxes més grans de València, amb punts prop de l'aeroport; cada maleta està coberta fins a 3.000 €."
+}
+},
+{
+"i": "📦",
+"n": "LuggageHero",
+"u": "https://luggagehero.com/es/valencia/valencia-joaquin-sorolla/",
+"w": true,
+"s": {
+"en": "Pay by the hour (from about €1/hour) — good if you only need a short stop.",
+"es": "Pago por horas (desde 1 €/hora aprox.): ideal si solo necesitas un rato.",
+"it": "Si paga a ore (da circa 1 €/ora): ideale per una sosta breve.",
+"de": "Abrechnung pro Stunde (ab ca. 1 €/Std.) – ideal für kurze Stopps.",
+"fr": "Paiement à l'heure (dès 1 €/heure environ) : idéal pour un court arrêt.",
+"pt": "Pagamento à hora (desde cerca de 1 €/hora) — ideal para uma paragem curta.",
+"va": "Pagament per hores (des d'1 €/hora aprox.): ideal si només necessites una estona."
+}
+},
+{
+"i": "📦",
+"n": "Nannybag",
+"u": "https://www.nannybag.com/es/consigna-equipaje/valencia/estacion-joaquin-sorolla",
+"w": true,
+"s": {
+"en": "Another network of partner shops and hotels near the stations and in the centre.",
+"es": "Otra red de comercios y hoteles asociados junto a las estaciones y en el centro.",
+"it": "Un'altra rete di negozi e hotel partner vicino alle stazioni e in centro.",
+"de": "Ein weiteres Netz von Partnerläden und Hotels nahe den Bahnhöfen und im Zentrum.",
+"fr": "Un autre réseau de commerces et hôtels partenaires près des gares et dans le centre.",
+"pt": "Outra rede de lojas e hotéis parceiros junto às estações e no centro.",
+"va": "Una altra xarxa de comerços i hotels associats prop de les estacions i al centre."
+}
+}
+]
+}
+]
+},
+"donate": {
+"u": "https://ko-fi.com/N2S42ARTB3"
+}
+}

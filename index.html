@@ -1,0 +1,519 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="color-scheme" content="light dark">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Valencia Now — what's open, what's on, where to go</title>
+<meta name="description" content="A simple local guide to Valencia: what's on tonight, clubs, tapas, paella, almuerzo, Fallas, museums, beaches and tours — in 7 languages.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,800&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<script>try{var _t=localStorage.getItem("vn_theme")||(matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light");document.documentElement.dataset.theme=_t}catch(e){}</script>
+<style>
+:root{--bg:#fbf6ee;--card:#fff;--ink:#1d1a16;--muted:#6b6258;--line:#ece3d6;--orange:#f26a1b;--orange-d:#c9500d;--sea:#0f6e8c;--green:#1f8a4c;--red:#c0392b;--radius:18px;--shadow:0 1px 2px rgba(40,30,10,.06),0 6px 18px rgba(40,30,10,.06)}
+*{box-sizing:border-box}
+html,body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.45 Inter,system-ui,sans-serif;-webkit-text-size-adjust:100%}
+a{color:inherit}button,input,select,textarea{font:inherit;color:inherit}button{cursor:pointer}
+.wrap{max-width:980px;margin:0 auto;padding:0 16px}
+header.top{position:sticky;top:0;z-index:5;background:rgba(251,246,238,.94);backdrop-filter:blur(8px);border-bottom:1px solid var(--line)}
+.bar{display:flex;align-items:center;gap:8px;height:50px}
+.logo{display:flex;align-items:center;gap:6px;min-width:0;text-decoration:none;font-family:"Bricolage Grotesque",sans-serif;font-weight:800;font-size:20px;letter-spacing:-.02em;white-space:nowrap}
+.logo .dot{width:24px;height:24px;border-radius:50%;background:radial-gradient(circle at 35% 35%,#ffb169,var(--orange) 55%,var(--orange-d))}
+.logo b{color:var(--orange)}
+.wbox{margin-left:auto;position:relative}.wchip{display:inline-flex;align-items:center;gap:6px;border:1px solid var(--line);background:#fff;border-radius:999px;padding:4px 9px;font-size:13px;white-space:nowrap}.wchip #wnow{font-weight:600}.wchip #wnow:empty{display:none}
+.wpop{position:absolute;right:-60px;top:calc(100% + 6px);background:#fff;border:1px solid var(--line);border-radius:14px;box-shadow:0 8px 24px rgba(40,30,10,.15);padding:10px;z-index:20;width:min(330px,92vw)}.wpop .w-days{margin-top:6px}.wpop h4{margin:0;font-size:13.5px}
+@media (max-width:420px){.wchip .clock{display:none}.logo{font-size:18px}}
+.clock{font-size:13px;color:var(--muted);white-space:nowrap;font-variant-numeric:tabular-nums}
+.langsel{display:inline-flex;align-items:center;gap:4px;border:1px solid var(--line);background:#fff;border-radius:999px;padding:4px 8px;font-size:13px;font-weight:600}
+.langsel{position:relative;padding:0;border:0;background:none}
+.lbtn{white-space:nowrap;display:inline-flex;align-items:center;gap:6px;border:1px solid var(--line);background:#fff;border-radius:999px;padding:4px 9px 4px 6px;font-size:13px;font-weight:600}
+.flag{width:22px;height:15px;border-radius:3px;box-shadow:0 0 0 1px rgba(0,0,0,.12);flex:none;display:block}
+.lmenu{position:absolute;right:0;top:calc(100% + 6px);background:#fff;border:1px solid var(--line);border-radius:14px;box-shadow:0 8px 24px rgba(40,30,10,.15);padding:6px;min-width:168px;z-index:20}
+.lmenu button{display:flex;align-items:center;gap:10px;width:100%;border:0;background:none;padding:9px 10px;border-radius:9px;font-size:15px;text-align:left}
+.lmenu button.on{background:#f4ede2;font-weight:600}
+.back{border:1px solid var(--line);background:#fff;border-radius:999px;width:32px;height:32px;font-size:15px;display:none;align-items:center;justify-content:center;padding:0;flex:none}
+.back.show{display:inline-flex}
+.langs{display:flex;gap:4px;padding:0 0 8px;overflow-x:auto;scrollbar-width:none}
+.langs::-webkit-scrollbar{display:none}
+.lang{border:1px solid var(--line);background:#fff;border-radius:999px;padding:3px 10px;font-size:13px;font-weight:600;white-space:nowrap}
+.lang.on{background:var(--ink);color:#fff;border-color:var(--ink)}
+.navlinks{display:flex;gap:6px;margin-left:auto}
+.navlinks a{font-size:13px;text-decoration:none;border:1px solid var(--line);background:#fff;border-radius:999px;padding:3px 10px;white-space:nowrap}
+.hero{padding:18px 0 4px}
+.hero h1{font-family:"Bricolage Grotesque",sans-serif;font-weight:800;font-size:clamp(27px,6vw,44px);line-height:1.05;letter-spacing:-.03em;margin:0 0 8px}
+.hero h1 span{color:var(--orange)}
+.hero p{margin:0;color:var(--muted);max-width:560px}
+.search{margin:14px 0 4px;position:relative}
+.search input{width:100%;padding:13px 14px 13px 42px;border-radius:14px;border:1px solid var(--line);background:#fff;font-size:16px;outline:none}
+.search input:focus{border-color:var(--orange);box-shadow:0 0 0 3px rgba(242,106,27,.15)}
+.search svg{position:absolute;left:14px;top:50%;transform:translateY(-50%);opacity:.5}
+.weather{margin:14px 0 4px;background:linear-gradient(135deg,#e7f3f8,#fff 70%);border:1px solid var(--line);border-radius:var(--radius);padding:14px 16px;box-shadow:var(--shadow)}
+.w-now{display:flex;align-items:center;gap:12px}
+.w-now .big{font-size:40px;line-height:1}
+.w-now .t{font-family:"Bricolage Grotesque",sans-serif;font-size:30px;font-weight:800}
+.w-now small{color:var(--muted);display:block;font-size:13px}
+.w-days{display:flex;gap:8px;overflow-x:auto;margin-top:12px;scrollbar-width:none}
+.w-days::-webkit-scrollbar{display:none}
+.w-day{flex:none;min-width:62px;text-align:center;background:#fff;border:1px solid var(--line);border-radius:12px;padding:7px 6px;font-size:13px}
+.w-day b{display:block;font-size:12px;color:var(--muted);font-weight:600}
+.w-day .e{font-size:22px;display:block;margin:2px 0}
+.w-day .r{color:var(--sea);font-size:11.5px}
+.w-src{font-size:11.5px;color:var(--muted);margin-top:8px}
+.quick{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:10px;margin:14px 0}
+.qcard{display:flex;align-items:center;gap:10px;padding:14px;border-radius:var(--radius);text-decoration:none;color:#fff;box-shadow:var(--shadow);min-height:72px}
+.qcard .ico{font-size:28px}
+.qcard b{display:block;font-family:"Bricolage Grotesque",sans-serif;font-size:17px;line-height:1.1}
+.qcard small{opacity:.85;font-size:12.5px}
+.q-night{background:linear-gradient(120deg,#1d1a16,#3a2516 60%,#7a3a12)}
+.q-beach{background:linear-gradient(120deg,#0f6e8c,#2aa3c4)}
+.q-alm{background:linear-gradient(120deg,#8a5a12,#d39a2a)}
+.q-fallas{background:linear-gradient(120deg,#9b1c1c,#f26a1b)}
+.q-traffic{background:linear-gradient(120deg,#2f3a45,#5b6b7a)}
+.q-travel{background:linear-gradient(120deg,#3b2a7a,#6a5acd)}
+.q-rent{background:linear-gradient(120deg,#0b4f6c,#1f8fbf)}
+.q-lug{background:linear-gradient(120deg,#4a4a4a,#7d7d7d)}
+.q-health{background:linear-gradient(120deg,#a3201b,#e0524a)}
+.q-med{background:linear-gradient(120deg,#5a2d0c,#a8642a)}
+.q-act{background:linear-gradient(120deg,#0e6b4f,#2fb380)}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:12px;margin:8px 0 24px}
+.tile{display:flex;flex-direction:column;gap:6px;padding:16px;border-radius:var(--radius);background:var(--card);border:1px solid var(--line);text-decoration:none;box-shadow:var(--shadow);min-height:112px}
+.tile .ico{font-size:30px;line-height:1}
+.tile b{font-size:16px;font-weight:600}
+.tile small{color:var(--muted);font-size:13px;line-height:1.3}
+.view-head{padding:16px 0 4px}
+.view-head h1{font-family:"Bricolage Grotesque",sans-serif;font-size:31px;margin:0;letter-spacing:-.03em;display:flex;gap:10px;align-items:center}
+.view-head p{margin:4px 0 0;color:var(--muted)}
+.chips{display:flex;gap:8px;overflow-x:auto;padding:10px 0;scrollbar-width:none}
+.chips::-webkit-scrollbar{display:none}
+.chip{flex:none;border:1px solid var(--line);background:#fff;border-radius:999px;padding:7px 13px;font-size:14px;white-space:nowrap}
+.chip.on{background:var(--ink);color:#fff;border-color:var(--ink)}
+.list{display:grid;grid-template-columns:repeat(auto-fill,minmax(290px,1fr));gap:12px;padding:6px 0 24px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);padding:15px 16px;box-shadow:var(--shadow);display:flex;flex-direction:column;gap:7px}
+.card h3{margin:0;font-size:17px;line-height:1.25}
+.meta{display:flex;flex-wrap:wrap;gap:6px;font-size:12.5px}
+.tag{padding:2px 8px;border-radius:999px;background:#f4ede2;color:#5a4f43}
+.tag.open{background:#e3f4ea;color:var(--green);font-weight:600}
+.tag.closed{background:#fbe9e7;color:var(--red)}
+.tag.free{background:#e6f1f6;color:var(--sea);font-weight:600}
+.tag.date{background:var(--orange);color:#fff;font-weight:600}
+.tag.new{background:#efe6ff;color:#5b3fa6;font-weight:600}
+.card p{margin:0;color:#3b352e;font-size:14.5px}
+.tip{font-size:13.5px;background:#fff6ec;border-left:3px solid var(--orange);padding:7px 10px;border-radius:6px;color:#5a3a1c}
+.hours{font-size:13px;color:var(--muted)}
+.actions{display:flex;flex-wrap:wrap;gap:8px;margin-top:auto;padding-top:4px}
+.btn{display:inline-flex;align-items:center;gap:6px;padding:8px 12px;border-radius:10px;border:1px solid var(--line);background:#fff;text-decoration:none;font-size:14px;font-weight:500}
+.btn.primary{background:var(--orange);border-color:var(--orange);color:#fff}
+.btn.danger{color:var(--red)}
+.empty{padding:26px;text-align:center;color:var(--muted);background:#fff;border:1px dashed var(--line);border-radius:var(--radius)}
+.subhead{font-weight:600;margin:18px 0 4px;font-size:14px;color:var(--muted);text-transform:uppercase;letter-spacing:.06em}
+.article{background:#fff;border:1px solid var(--line);border-radius:var(--radius);padding:16px 18px;box-shadow:var(--shadow);margin:8px 0 6px}
+.article p{margin:0 0 10px;font-size:15.5px;line-height:1.55}.article p:last-child{margin:0}
+.countdown{font-family:"Bricolage Grotesque",sans-serif;font-size:22px;font-weight:800;color:var(--red);margin:8px 0}
+.timeline{display:flex;flex-direction:column;gap:8px;margin:8px 0}
+.tl{display:flex;gap:12px;align-items:flex-start;background:#fff;border:1px solid var(--line);border-radius:12px;padding:10px 12px}
+.tl .d{flex:none;min-width:86px;font-weight:700;color:var(--red);font-size:14px}
+form.admin{display:grid;gap:10px;background:#fff;border:1px solid var(--line);border-radius:var(--radius);padding:16px}
+form.admin label{display:grid;gap:4px;font-size:13.5px;font-weight:600;color:#4a4239}
+form.admin input,form.admin select,form.admin textarea{border:1px solid var(--line);border-radius:10px;padding:9px 10px;font-weight:400;background:#fffdf9}
+form.admin .row{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+.note{font-size:13px;color:var(--muted)}
+.ok{color:var(--green);font-weight:600}.err{color:var(--red);font-weight:600}
+footer{border-top:1px solid var(--line);margin-top:20px;padding:18px 0 40px;color:var(--muted);font-size:13px}
+footer a{color:var(--muted)}
+.hidden{display:none!important}
+.tag.dist{background:#eef4ff;color:#2b4fa3;font-weight:600}
+.locbar{display:flex;align-items:center;gap:8px;font-size:13.5px;color:var(--muted);margin:2px 0 0}
+.locbar button{border:0;background:none;color:var(--orange-d);font-weight:600;padding:0;text-decoration:underline}
+.sheet-bg{position:fixed;inset:0;background:rgba(20,15,10,.45);z-index:30;display:flex;align-items:flex-end;justify-content:center}
+.sheet{background:#fff;width:100%;max-width:560px;border-radius:20px 20px 0 0;padding:18px 16px 26px;max-height:85vh;overflow:auto}
+.sheet h3{margin:0 0 4px;font-family:"Bricolage Grotesque",sans-serif;font-size:21px}
+.sheet .gps{width:100%;margin:12px 0;padding:12px;border-radius:12px;border:0;background:var(--orange);color:#fff;font-weight:600;font-size:15px}
+.zones{display:grid;grid-template-columns:1fr 1fr;gap:8px}
+.zones button{border:1px solid var(--line);background:#fffdf9;border-radius:12px;padding:10px;text-align:left;font-size:14px}
+.zones button.on{border-color:var(--ink);background:#f4ede2;font-weight:600}
+
+/* ===== DARK THEME ===== */
+html[data-theme=dark]{color-scheme:dark;--bg:#14120f;--card:#1f1c18;--ink:#f2ece3;--muted:#a59a8c;--line:#35302a;--shadow:0 1px 2px rgba(0,0,0,.4),0 6px 18px rgba(0,0,0,.35);--sea:#4fb3d4;--green:#4cc27e;--red:#ef6b5c}
+html[data-theme=dark] header.top{background:rgba(20,18,15,.92)}
+html[data-theme=dark] :is(.wchip,.wpop,.lbtn,.lmenu,.back,.lang,.navlinks a,.search input,.w-day,.chip,.btn,.empty,.article,.tl,form.admin,.sheet,.thbtn){background:#1f1c18;color:var(--ink)}
+html[data-theme=dark] :is(.tile,.card){background:var(--card)}
+html[data-theme=dark] :is(.lmenu button.on,.zones button.on,.tag){background:#2c2822;color:#d9cfc2}
+html[data-theme=dark] :is(.chip.on,.lang.on){background:var(--ink);color:#14120f}
+html[data-theme=dark] .btn.primary{background:var(--orange);color:#fff}
+html[data-theme=dark] .tag.open{background:#173826}
+html[data-theme=dark] .tag.closed{background:#3d1d19}
+html[data-theme=dark] .tag.free{background:#15323d}
+html[data-theme=dark] .tag.date{background:var(--orange);color:#fff}
+html[data-theme=dark] .tag.new{background:#2e2547;color:#c4b2ff}
+html[data-theme=dark] .tag.dist{background:#1d2a45;color:#9fb8ff}
+html[data-theme=dark] .card p{color:#d6cdc1}
+html[data-theme=dark] .tip{background:#2e2216;color:#f0c79c}
+html[data-theme=dark] form.admin label{color:#d6cdc1}
+html[data-theme=dark] :is(form.admin input,form.admin select,form.admin textarea,.zones button){background:#17150f;color:var(--ink)}
+html[data-theme=dark] .weather{background:linear-gradient(135deg,#17303a,#1f1c18 70%)}
+html[data-theme=dark] .flag{box-shadow:0 0 0 1px rgba(255,255,255,.18)}
+.donate{display:flex;flex-wrap:wrap;align-items:center;gap:12px;background:linear-gradient(120deg,#fff3e2,#ffe6cc);border:1px solid #f3cf9f;border-radius:var(--radius);padding:14px 16px;margin:0 0 14px}.donate p{margin:0;font-size:14.5px;color:#5a3a1c;flex:1 1 220px}.donate .btn{flex:none}.kofi{flex:none;display:inline-flex;align-items:center;gap:7px;height:36px;padding:0 14px;border-radius:9px;background:var(--orange);color:#fff;font-weight:700;font-size:14px;text-decoration:none;box-shadow:0 1px 2px rgba(0,0,0,.2);white-space:nowrap}.kofi:hover{filter:brightness(1.06)}.kofi .cup{display:inline-flex;align-items:center;justify-content:center;width:24px;height:24px;border-radius:50%;background:#fff;font-size:14px}
+html[data-theme=dark] .donate{background:linear-gradient(120deg,#2e2216,#3a2717);border-color:#5a3d22}html[data-theme=dark] .donate p{color:#f0c79c}
+.thbtn{border:1px solid var(--line);background:#fff;border-radius:999px;width:32px;height:30px;padding:0;font-size:15px;display:inline-flex;align-items:center;justify-content:center;flex:none}
+</style>
+</head>
+<body>
+<header class="top"><div class="wrap">
+  <div class="bar">
+    <button class="back" id="back" aria-label="Back">←</button>
+    <a class="logo" href="#"><span class="dot"></span>Valencia<b>Now</b></a>
+    <div class="wbox"><button class="wchip" id="wchip" aria-label="Weather"><span id="wnow"></span><span class="clock" id="clock"></span></button><div class="wpop hidden" id="wpop"></div></div>
+    <button class="thbtn" id="thbtn" aria-label="Theme"></button>
+    <div class="langsel" id="langs"></div>
+  </div>
+</div></header>
+
+<main class="wrap" id="app"><div class="empty" style="margin-top:30px">Loading…</div></main>
+
+<footer><div class="wrap">
+  <div id="donate"></div>
+  <p id="foot1"></p>
+  <p><span id="foot2"></span> · <a href="#admin" id="adminLink">Admin</a></p>
+</div></footer>
+
+<script>
+/* =================== I18N =================== */
+const LANGS=[["en","EN"],["es","ES"],["va","VA"],["it","IT"],["de","DE"],["fr","FR"],["pt","PT"]];
+const LNAME={en:"English",es:"Español",it:"Italiano",de:"Deutsch",fr:"Français",pt:"Português",va:"Valencià"};
+const FLAG={
+ en:'<svg class="flag" viewBox="0 0 60 30" preserveAspectRatio="none"><clipPath id="uk"><path d="M0,0 v30 h60 v-30 z"/></clipPath><clipPath id="ukt"><path d="M30,15 h30 v15 z v15 h-30 z h-30 v-15 z v-15 h30 z"/></clipPath><g clip-path="url(#uk)"><path d="M0,0 v30 h60 v-30 z" fill="#012169"/><path d="M0,0 L60,30 M60,0 L0,30" stroke="#fff" stroke-width="6"/><path d="M0,0 L60,30 M60,0 L0,30" clip-path="url(#ukt)" stroke="#C8102E" stroke-width="4"/><path d="M30,0 v30 M0,15 h60" stroke="#fff" stroke-width="10"/><path d="M30,0 v30 M0,15 h60" stroke="#C8102E" stroke-width="6"/></g></svg>',
+ es:'<svg class="flag" viewBox="0 0 3 2" preserveAspectRatio="none"><rect width="3" height="2" fill="#AA151B"/><rect y=".5" width="3" height="1" fill="#F1BF00"/></svg>',
+ it:'<svg class="flag" viewBox="0 0 3 2" preserveAspectRatio="none"><rect width="1" height="2" fill="#009246"/><rect x="1" width="1" height="2" fill="#fff"/><rect x="2" width="1" height="2" fill="#CE2B37"/></svg>',
+ de:'<svg class="flag" viewBox="0 0 5 3" preserveAspectRatio="none"><rect width="5" height="1" fill="#000"/><rect y="1" width="5" height="1" fill="#DD0000"/><rect y="2" width="5" height="1" fill="#FFCE00"/></svg>',
+ pt:'<svg class="flag" viewBox="0 0 30 20" preserveAspectRatio="none"><rect width="30" height="20" fill="#FF0000"/><rect width="12" height="20" fill="#006600"/><circle cx="12" cy="10" r="4.2" fill="#FFCC00"/><circle cx="12" cy="10" r="3.1" fill="#fff" stroke="#FF0000" stroke-width="1.4"/></svg>',
+ va:'<svg class="flag" viewBox="0 0 36 24" preserveAspectRatio="none"><rect width="36" height="24" fill="#FCDD09"/><g fill="#DA121A"><rect y="2.67" width="36" height="2.67"/><rect y="8" width="36" height="2.67"/><rect y="13.33" width="36" height="2.67"/><rect y="18.67" width="36" height="2.67"/></g><rect width="8" height="24" fill="#0F47AF"/><path d="M2.2 4.2l1 1.4 .8-1.8.8 1.8 1-1.4v2.6H2.2z" fill="#FCDD09"/></svg>',
+ fr:'<svg class="flag" viewBox="0 0 3 2" preserveAspectRatio="none"><rect width="1" height="2" fill="#0055A4"/><rect x="1" width="1" height="2" fill="#fff"/><rect x="2" width="1" height="2" fill="#EF4135"/></svg>'};
+const T={
+en:{donateTxt:"Did this guide help you? It's free and made by a local — you can buy me a coffee.",donateBtn:"Buy me a coffee",darkMode:"Dark mode",lightMode:"Light mode",everyYear:"Every year in",lastEd:"Last edition",fallasVideos:"Videos",watch:"Watch",hero1:"What do you feel like doing in",hero2:"A simple guide from a local: what's on, what's open and where to go.",search:"Try 'paella', 'jazz', 'beach', 'free'…",tonight:"What's on tonight",tonightSub:"Events today · open now",beaches:"Beaches",beachesSub:"City & wild beaches",almuerzo:"Almuerzo",almuerzoSub:"The 10am Valencian ritual",fallas:"Fallas",fallasSub:"Festival of fire · maps",openNow:"Open now",closedNow:"Closed now",free:"Free",map:"Map",website:"Website",searchWeb:"Search",tickets:"Tickets",moreInfo:"More info",hoursVary:"Hours vary — check on the map",open24:"Open 24 h",all:"All",nothingOpen:"Nothing open right now with these filters.",nothingFound:"Nothing found. Try another word.",events:"Events",places:"Places",today:"Today",tomorrow:"Tomorrow",onNow:"On now · until",comingUp:"Coming up",onWhile:"On for a while",openRightNow:"Open right now",openingLater:"Opening later tonight",alsoCheck:"Also worth checking",alsoCheckSub:"These venues change their nights — tap Map to check tonight.",eventsToday:"Events today",weatherNow:"Today in Valencia",weatherSrc:"Forecast: AEMET · updated",rain:"rain",feet1:"Valencia Now — a free local guide. Data from open sources (Valencia City Council, Visit València, AEMET, venue websites). Hours change: tap Map before you go.",foot2:"Emergencies: 112",where:"Where to go",untilFallas:"days to the first mascletà",fallasDates:"Key dates 2027",fallasMaps:"Maps & apps",almPlaces:"Where to have almuerzo",admin:"Admin",added:"New",loading:"Loading…",near:"Nearest first",whereAreYou:"Where are you?",whereSub:"We'll sort places by distance from you.",useGps:"📡 Use my location",gpsFail:"Location isn't available here — pick your area below.",youAreNear:"Distances from",change:"change",clearLoc:"Stop sorting by distance",walk:"min walk",liveNote:"Live data opens on the official websites.",airport:"✈️ Airport",trains:"🚄 AVE & trains",open:"Open"},
+es:{donateTxt:"¿Te ha servido esta guía? Es gratis y la hace un local: puedes invitarme a un café.",donateBtn:"Invítame a un café",darkMode:"Modo oscuro",lightMode:"Modo claro",everyYear:"Cada año en",lastEd:"Última edición",fallasVideos:"Vídeos",watch:"Ver vídeo",hero1:"¿Qué te apetece hacer en",hero2:"Una guía sencilla de un local: qué hay, qué está abierto y dónde ir.",search:"Prueba 'paella', 'jazz', 'playa', 'gratis'…",tonight:"Qué hay esta noche",tonightSub:"Eventos de hoy · abierto ahora",beaches:"Playas",beachesSub:"Urbanas y salvajes",almuerzo:"Almuerzo",almuerzoSub:"El ritual valenciano de las 10",fallas:"Fallas",fallasSub:"La fiesta del fuego · mapas",openNow:"Abierto ahora",closedNow:"Cerrado ahora",free:"Gratis",map:"Mapa",website:"Web",searchWeb:"Buscar",tickets:"Entradas",moreInfo:"Más info",hoursVary:"Horario variable: consúltalo en el mapa",open24:"Abierto 24 h",all:"Todo",nothingOpen:"Nada abierto ahora con estos filtros.",nothingFound:"Sin resultados. Prueba otra palabra.",events:"Eventos",places:"Lugares",today:"Hoy",tomorrow:"Mañana",onNow:"En curso · hasta",comingUp:"Próximamente",onWhile:"Durante una temporada",openRightNow:"Abierto ahora mismo",openingLater:"Abre más tarde esta noche",alsoCheck:"También merece la pena",alsoCheckSub:"Estos locales cambian de días: toca Mapa para ver si abren hoy.",eventsToday:"Eventos de hoy",weatherNow:"Hoy en Valencia",weatherSrc:"Previsión: AEMET · actualizada",rain:"lluvia",feet1:"Valencia Now: guía local gratuita. Datos de fuentes abiertas (Ayuntamiento, Visit València, AEMET, webs de los locales). Los horarios cambian: mira el mapa antes de ir.",foot2:"Emergencias: 112",where:"A dónde ir",untilFallas:"días para la primera mascletà",fallasDates:"Fechas clave 2027",fallasMaps:"Mapas y apps",almPlaces:"Dónde almorzar",admin:"Admin",added:"Nuevo",loading:"Cargando…",near:"Más cerca primero",whereAreYou:"¿Dónde estás?",whereSub:"Ordenaremos los sitios por distancia desde donde estés.",useGps:"📡 Usar mi ubicación",gpsFail:"La ubicación no está disponible aquí: elige tu zona abajo.",youAreNear:"Distancias desde",change:"cambiar",clearLoc:"Dejar de ordenar por distancia",walk:"min a pie",liveNote:"Los datos en directo se abren en las webs oficiales.",airport:"✈️ Aeropuerto",trains:"🚄 AVE y trenes",open:"Abrir"},
+it:{donateTxt:"Questa guida ti è stata utile? È gratuita e fatta da un locale: puoi offrirmi un caffè.",donateBtn:"Offrimi un caffè",darkMode:"Tema scuro",lightMode:"Tema chiaro",everyYear:"Ogni anno a",lastEd:"Ultima edizione",fallasVideos:"Video",watch:"Guarda",hero1:"Cosa ti va di fare a",hero2:"Una guida semplice di un local: cosa c'è, cosa è aperto e dove andare.",search:"Prova 'paella', 'jazz', 'spiaggia', 'gratis'…",tonight:"Cosa c'è stasera",tonightSub:"Eventi di oggi · aperto ora",beaches:"Spiagge",beachesSub:"Urbane e selvagge",almuerzo:"Almuerzo",almuerzoSub:"Il rito valenciano delle 10",fallas:"Fallas",fallasSub:"Festa del fuoco · mappe",openNow:"Aperto ora",closedNow:"Chiuso ora",free:"Gratis",map:"Mappa",website:"Sito web",searchWeb:"Cerca",tickets:"Biglietti",moreInfo:"Info",hoursVary:"Orari variabili: controlla sulla mappa",open24:"Aperto 24 h",all:"Tutto",nothingOpen:"Niente di aperto ora con questi filtri.",nothingFound:"Nessun risultato. Prova un'altra parola.",events:"Eventi",places:"Luoghi",today:"Oggi",tomorrow:"Domani",onNow:"In corso · fino al",comingUp:"In arrivo",onWhile:"Per un periodo",openRightNow:"Aperto adesso",openingLater:"Apre più tardi stasera",alsoCheck:"Da controllare",alsoCheckSub:"Questi locali cambiano serate: tocca Mappa per vedere se aprono stasera.",eventsToday:"Eventi di oggi",weatherNow:"Oggi a Valencia",weatherSrc:"Previsioni: AEMET · aggiornate",rain:"pioggia",feet1:"Valencia Now: guida locale gratuita. Dati da fonti aperte (Comune, Visit València, AEMET, siti dei locali). Gli orari cambiano: controlla la mappa prima di andare.",foot2:"Emergenze: 112",where:"Dove andare",untilFallas:"giorni alla prima mascletà",fallasDates:"Date chiave 2027",fallasMaps:"Mappe e app",almPlaces:"Dove fare l'almuerzo",admin:"Admin",added:"Nuovo",loading:"Caricamento…",near:"Più vicini prima",whereAreYou:"Dove sei?",whereSub:"Ordineremo i luoghi in base alla distanza da te.",useGps:"📡 Usa la mia posizione",gpsFail:"La posizione non è disponibile qui: scegli la tua zona qui sotto.",youAreNear:"Distanze da",change:"cambia",clearLoc:"Non ordinare per distanza",walk:"min a piedi",liveNote:"I dati in tempo reale si aprono sui siti ufficiali.",airport:"✈️ Aeroporto",trains:"🚄 AVE e treni",open:"Apri"},
+de:{donateTxt:"Hat dir der Guide geholfen? Er ist kostenlos und von einem Einheimischen – lad mich auf einen Kaffee ein.",donateBtn:"Kaffee spendieren",darkMode:"Dunkler Modus",lightMode:"Heller Modus",everyYear:"Jedes Jahr im",lastEd:"Letzte Ausgabe",fallasVideos:"Videos",watch:"Ansehen",hero1:"Worauf hast du Lust in",hero2:"Ein einfacher Guide von einem Einheimischen: was läuft, was offen ist und wohin.",search:"Probier 'Paella', 'Jazz', 'Strand', 'gratis'…",tonight:"Was ist heute Abend los",tonightSub:"Events heute · jetzt offen",beaches:"Strände",beachesSub:"Stadt- und Naturstrände",almuerzo:"Almuerzo",almuerzoSub:"Das 10-Uhr-Ritual",fallas:"Fallas",fallasSub:"Feuerfest · Karten",openNow:"Jetzt offen",closedNow:"Jetzt zu",free:"Gratis",map:"Karte",website:"Website",searchWeb:"Suchen",tickets:"Tickets",moreInfo:"Mehr Infos",hoursVary:"Zeiten variieren – auf der Karte prüfen",open24:"24 h offen",all:"Alle",nothingOpen:"Mit diesen Filtern ist gerade nichts offen.",nothingFound:"Nichts gefunden. Anderes Wort probieren.",events:"Events",places:"Orte",today:"Heute",tomorrow:"Morgen",onNow:"Läuft · bis",comingUp:"Demnächst",onWhile:"Länger zu sehen",openRightNow:"Gerade geöffnet",openingLater:"Öffnet später heute Nacht",alsoCheck:"Auch einen Blick wert",alsoCheckSub:"Diese Locations wechseln die Tage – auf Karte tippen.",eventsToday:"Events heute",weatherNow:"Heute in Valencia",weatherSrc:"Vorhersage: AEMET · aktualisiert",rain:"Regen",feet1:"Valencia Now – kostenloser lokaler Guide. Daten aus offenen Quellen (Stadt Valencia, Visit València, AEMET, Websites der Locations). Zeiten ändern sich: vorher auf der Karte prüfen.",foot2:"Notruf: 112",where:"Wohin",untilFallas:"Tage bis zur ersten Mascletà",fallasDates:"Wichtige Termine 2027",fallasMaps:"Karten & Apps",almPlaces:"Wo man Almuerzo isst",admin:"Admin",added:"Neu",loading:"Lädt…",near:"Nächste zuerst",whereAreYou:"Wo bist du?",whereSub:"Wir sortieren die Orte nach Entfernung zu dir.",useGps:"📡 Meinen Standort nutzen",gpsFail:"Standort hier nicht verfügbar – wähle unten deine Gegend.",youAreNear:"Entfernungen ab",change:"ändern",clearLoc:"Nicht mehr nach Entfernung sortieren",walk:"Min. zu Fuß",liveNote:"Live-Daten öffnen sich auf den offiziellen Websites.",airport:"✈️ Flughafen",trains:"🚄 AVE & Züge",open:"Öffnen"},
+pt:{donateTxt:"Este guia foi útil? É grátis e feito por um local — pode pagar-me um café.",donateBtn:"Pague-me um café",darkMode:"Modo escuro",lightMode:"Modo claro",everyYear:"Todos os anos em",lastEd:"Última edição",fallasVideos:"Vídeos",watch:"Ver vídeo",hero1:"O que te apetece fazer em",hero2:"Um guia simples feito por um local: o que se passa, o que está aberto e onde ir.",search:"Experimenta 'paella', 'jazz', 'praia', 'grátis'…",tonight:"O que há esta noite",tonightSub:"Eventos de hoje · aberto agora",beaches:"Praias",beachesSub:"Urbanas e selvagens",almuerzo:"Almuerzo",almuerzoSub:"O ritual valenciano das 10h",fallas:"Fallas",fallasSub:"Festa do fogo · mapas",openNow:"Aberto agora",closedNow:"Fechado agora",free:"Grátis",map:"Mapa",website:"Site",searchWeb:"Pesquisar",tickets:"Bilhetes",moreInfo:"Mais info",hoursVary:"Horário variável — confirme no mapa",open24:"Aberto 24 h",all:"Tudo",nothingOpen:"Nada aberto agora com estes filtros.",nothingFound:"Nada encontrado. Tente outra palavra.",events:"Eventos",places:"Locais",today:"Hoje",tomorrow:"Amanhã",onNow:"A decorrer · até",comingUp:"Em breve",onWhile:"Durante algum tempo",openRightNow:"Aberto neste momento",openingLater:"Abre mais logo à noite",alsoCheck:"Vale a pena ver também",alsoCheckSub:"Estes locais mudam as noites — toque em Mapa para ver hoje.",eventsToday:"Eventos de hoje",weatherNow:"Hoje em Valência",weatherSrc:"Previsão: AEMET · atualizada",rain:"chuva",feet1:"Valencia Now — um guia local gratuito. Dados de fontes abertas (Câmara de Valência, Visit València, AEMET, sites dos locais). Os horários mudam: toque em Mapa antes de ir.",foot2:"Emergências: 112",where:"Onde ir",untilFallas:"dias até à primeira mascletà",fallasDates:"Datas principais 2027",fallasMaps:"Mapas e apps",almPlaces:"Onde comer o almuerzo",admin:"Admin",added:"Novo",loading:"A carregar…",near:"Mais perto primeiro",whereAreYou:"Onde está?",whereSub:"Ordenamos os locais pela distância a si.",useGps:"📡 Usar a minha localização",gpsFail:"A localização não está disponível aqui — escolha a sua zona abaixo.",youAreNear:"Distâncias desde",change:"mudar",clearLoc:"Deixar de ordenar por distância",walk:"min a pé",liveNote:"Os dados em direto abrem nos sites oficiais.",airport:"✈️ Aeroporto",trains:"🚄 AVE e comboios",open:"Abrir"},
+va:{donateTxt:"T'ha servit esta guia? És gratuïta i la fa un local: pots convidar-me a un café.",donateBtn:"Convida'm a un café",darkMode:"Mode fosc",lightMode:"Mode clar",everyYear:"Cada any al mes de",lastEd:"Última edició",fallasVideos:"Vídeos",watch:"Veure vídeo",hero1:"Què et ve de gust fer a",hero2:"Una guia senzilla d'un local: què hi ha, què està obert i on anar.",search:"Prova 'paella', 'jazz', 'platja', 'gratis'…",tonight:"Què hi ha esta nit",tonightSub:"Esdeveniments de hui · obert ara",beaches:"Platges",beachesSub:"Urbanes i salvatges",almuerzo:"Esmorzar",almuerzoSub:"El ritual valencià de les 10",fallas:"Falles",fallasSub:"La festa del foc · mapes",openNow:"Obert ara",closedNow:"Tancat ara",free:"Gratis",map:"Mapa",website:"Web",searchWeb:"Buscar",tickets:"Entrades",moreInfo:"Més info",hoursVary:"Horari variable — consulta-ho al mapa",open24:"Obert 24 h",all:"Tot",nothingOpen:"No hi ha res obert ara amb estos filtres.",nothingFound:"No s'ha trobat res. Prova una altra paraula.",events:"Esdeveniments",places:"Llocs",today:"Hui",tomorrow:"Demà",onNow:"Ara · fins al",comingUp:"Pròximament",onWhile:"Durant un temps",openRightNow:"Obert ara mateix",openingLater:"Obri més tard esta nit",alsoCheck:"També val la pena",alsoCheckSub:"Estos locals canvien de nit — toca Mapa per a vore què fan hui.",eventsToday:"Esdeveniments de hui",weatherNow:"Hui a València",weatherSrc:"Previsió: AEMET · actualitzada",rain:"pluja",feet1:"Valencia Now — una guia local gratuïta. Dades de fonts obertes (Ajuntament de València, Visit València, AEMET, webs dels locals). Els horaris canvien: toca Mapa abans d'anar-hi.",foot2:"Emergències: 112",where:"On anar",untilFallas:"dies per a la primera mascletà",fallasDates:"Dates clau 2027",fallasMaps:"Mapes i apps",almPlaces:"On esmorzar",admin:"Admin",added:"Nou",loading:"Carregant…",near:"Més prop primer",whereAreYou:"On estàs?",whereSub:"Ordenarem els llocs per distància des d'on estàs.",useGps:"📡 Usar la meua ubicació",gpsFail:"La ubicació no està disponible ací — tria la teua zona davall.",youAreNear:"Distàncies des de",change:"canviar",clearLoc:"Deixar d'ordenar per distància",walk:"min a peu",liveNote:"Les dades en directe s'obrin a les webs oficials.",airport:"✈️ Aeroport",trains:"🚄 AVE i trens",open:"Obrir"},
+fr:{donateTxt:"Ce guide vous a aidé ? Il est gratuit et fait par un local : offrez-moi un café.",donateBtn:"Offrez-moi un café",darkMode:"Mode sombre",lightMode:"Mode clair",everyYear:"Chaque année en",lastEd:"Dernière édition",fallasVideos:"Vidéos",watch:"Regarder",hero1:"Qu'avez-vous envie de faire à",hero2:"Un guide simple par un local : ce qui se passe, ce qui est ouvert, où aller.",search:"Essayez 'paella', 'jazz', 'plage', 'gratuit'…",tonight:"Que faire ce soir",tonightSub:"Événements du jour · ouvert",beaches:"Plages",beachesSub:"Urbaines et sauvages",almuerzo:"Almuerzo",almuerzoSub:"Le rituel valencien de 10h",fallas:"Fallas",fallasSub:"Fête du feu · cartes",openNow:"Ouvert",closedNow:"Fermé",free:"Gratuit",map:"Carte",website:"Site web",searchWeb:"Rechercher",tickets:"Billets",moreInfo:"Infos",hoursVary:"Horaires variables : voir la carte",open24:"Ouvert 24 h",all:"Tout",nothingOpen:"Rien d'ouvert avec ces filtres.",nothingFound:"Aucun résultat. Essayez un autre mot.",events:"Événements",places:"Lieux",today:"Aujourd'hui",tomorrow:"Demain",onNow:"En cours · jusqu'au",comingUp:"À venir",onWhile:"Pendant un moment",openRightNow:"Ouvert maintenant",openingLater:"Ouvre plus tard ce soir",alsoCheck:"À voir aussi",alsoCheckSub:"Ces lieux changent de soirs : touchez Carte pour vérifier.",eventsToday:"Événements du jour",weatherNow:"Aujourd'hui à Valence",weatherSrc:"Prévisions : AEMET · mises à jour",rain:"pluie",feet1:"Valencia Now — guide local gratuit. Données de sources ouvertes (mairie, Visit València, AEMET, sites des lieux). Les horaires changent : vérifiez la carte avant d'y aller.",foot2:"Urgences : 112",where:"Où aller",untilFallas:"jours avant la première mascletà",fallasDates:"Dates clés 2027",fallasMaps:"Cartes et applis",almPlaces:"Où prendre l'almuerzo",admin:"Admin",added:"Nouveau",loading:"Chargement…",near:"Les plus proches",whereAreYou:"Où êtes-vous ?",whereSub:"Nous trierons les lieux selon leur distance.",useGps:"📡 Utiliser ma position",gpsFail:"Position indisponible ici : choisissez votre quartier ci-dessous.",youAreNear:"Distances depuis",change:"modifier",clearLoc:"Ne plus trier par distance",walk:"min à pied",liveNote:"Les données en direct s'ouvrent sur les sites officiels.",airport:"✈️ Aéroport",trains:"🚄 AVE et trains",open:"Ouvrir"}
+};
+const CATS=[
+ {id:"events",ico:"🎟️",n:{en:"Events",es:"Eventos",it:"Eventi",de:"Events",fr:"Événements",pt:"Eventos",va:"Esdeveniments"},s:{en:"Concerts, fairs & shows",es:"Conciertos, ferias y shows",it:"Concerti, fiere e show",de:"Konzerte, Messen, Shows",fr:"Concerts, foires, spectacles",pt:"Concertos, feiras e espetáculos",va:"Concerts, fires i espectacles"}},
+ {id:"clubs",ico:"🪩",n:{en:"Clubs",es:"Discotecas",it:"Discoteche",de:"Clubs",fr:"Boîtes de nuit",pt:"Discotecas",va:"Discoteques"},s:{en:"Where to dance",es:"Dónde bailar",it:"Dove ballare",de:"Wo tanzen",fr:"Où danser",pt:"Onde dançar",va:"On ballar"}},
+ {id:"bars",ico:"🍸",n:{en:"Bars & live music",es:"Bares y música en directo",it:"Bar e musica live",de:"Bars & Livemusik",fr:"Bars & musique live",pt:"Bares e música ao vivo",va:"Bars i música en directe"},s:{en:"Cocktails, jazz, flamenco",es:"Cócteles, jazz, flamenco",it:"Cocktail, jazz, flamenco",de:"Cocktails, Jazz, Flamenco",fr:"Cocktails, jazz, flamenco",pt:"Cocktails, jazz, flamenco",va:"Còctels, jazz, flamenc"}},
+ {id:"paella",ico:"🥘",n:{en:"Paella & rice",es:"Paella y arroces",it:"Paella e riso",de:"Paella & Reis",fr:"Paella & riz",pt:"Paella e arroz",va:"Paella i arrossos"},s:{en:"The real Valencian thing",es:"La auténtica",it:"Quella vera",de:"Das Original",fr:"La vraie",pt:"A verdadeira",va:"L'autèntica"}},
+ {id:"almuerzo",ico:"🥖",n:{en:"Almuerzo",es:"Almuerzo",it:"Almuerzo",de:"Almuerzo",fr:"Almuerzo",pt:"Almuerzo",va:"Esmorzar"},s:{en:"Mid-morning ritual (10–12h)",es:"El ritual de media mañana",it:"Rito di metà mattina",de:"Ritual am Vormittag",fr:"Rituel de milieu de matinée",pt:"Ritual de meio da manhã (10–12h)",va:"El ritual de mig matí (10–12h)"}},
+ {id:"tapas",ico:"🍤",n:{en:"Tapas & local food",es:"Tapas y cocina local",it:"Tapas e cucina locale",de:"Tapas & lokale Küche",fr:"Tapas & cuisine locale",pt:"Tapas e cozinha local",va:"Tapes i cuina local"},s:{en:"Classic bars & taverns",es:"Bares y tabernas clásicas",it:"Bar e taverne storiche",de:"Klassische Bars",fr:"Bars et tavernes",pt:"Bares e tabernas clássicas",va:"Bars i tavernes clàssiques"}},
+ {id:"cafes",ico:"☕",n:{en:"Cafés & horchata",es:"Cafés y horchata",it:"Caffè e horchata",de:"Cafés & Horchata",fr:"Cafés & horchata",pt:"Cafés e horchata",va:"Cafés i orxata"},s:{en:"Coffee, sweets, horchata",es:"Café, dulces, horchata",it:"Caffè, dolci, horchata",de:"Kaffee, Süßes, Horchata",fr:"Café, douceurs, horchata",pt:"Café, doces, horchata",va:"Café, dolços, orxata"}},
+ {id:"sights",ico:"🏛️",n:{en:"Monuments",es:"Monumentos",it:"Monumenti",de:"Sehenswürdigkeiten",fr:"Monuments",pt:"Monumentos",va:"Monuments"},s:{en:"Must-see landmarks",es:"Imprescindibles",it:"Da non perdere",de:"Pflichtprogramm",fr:"Incontournables",pt:"Imperdíveis",va:"Imprescindibles"}},
+ {id:"museums",ico:"🖼️",n:{en:"Museums",es:"Museos",it:"Musei",de:"Museen",fr:"Musées",pt:"Museus",va:"Museus"},s:{en:"Art, science, history",es:"Arte, ciencia, historia",it:"Arte, scienza, storia",de:"Kunst, Wissenschaft",fr:"Art, science, histoire",pt:"Arte, ciência, história",va:"Art, ciència, història"}},
+ {id:"theatres",ico:"🎭",n:{en:"Theatres",es:"Teatros",it:"Teatri",de:"Theater",fr:"Théâtres",pt:"Teatros",va:"Teatres"},s:{en:"Drama, musicals, opera",es:"Teatro, musicales, ópera",it:"Prosa, musical, opera",de:"Schauspiel, Musicals, Oper",fr:"Théâtre, comédies musicales, opéra",pt:"Teatro, musicais, ópera",va:"Teatre, musicals, òpera"}},
+ {id:"parks",ico:"🌳",n:{en:"Parks & walks",es:"Parques y paseos",it:"Parchi e passeggiate",de:"Parks & Spaziergänge",fr:"Parcs & balades",pt:"Parques e passeios",va:"Parcs i passejos"},s:{en:"Gardens & the Turia",es:"Jardines y el Turia",it:"Giardini e il Turia",de:"Gärten & Turia",fr:"Jardins & le Turia",pt:"Jardins e o Turia",va:"Jardins i el Túria"}},
+ {id:"nature",ico:"🥾",n:{en:"Nature & hiking",es:"Naturaleza y senderismo",it:"Natura ed escursioni",de:"Natur & Wandern",fr:"Nature & randonnée",pt:"Natureza e caminhadas",va:"Natura i senderisme"},s:{en:"Parks & trails around Valencia",es:"Parques y rutas cerca de Valencia",it:"Parchi e sentieri vicino a Valencia",de:"Parks & Wege rund um Valencia",fr:"Parcs et sentiers autour de Valence",pt:"Parques e trilhos perto de Valência",va:"Parcs i rutes prop de València"}},
+ {id:"beaches",ico:"🏖️",n:{en:"Beaches",es:"Playas",it:"Spiagge",de:"Strände",fr:"Plages",pt:"Praias",va:"Platges"},s:{en:"City & wild beaches",es:"Urbanas y salvajes",it:"Urbane e selvagge",de:"Stadt & Natur",fr:"Urbaines et sauvages",pt:"Urbanas e selvagens",va:"Urbanes i salvatges"}},
+ {id:"tours",ico:"🚲",n:{en:"Tours",es:"Tours",it:"Tour",de:"Touren",fr:"Visites",pt:"Tours",va:"Tours"},s:{en:"Walking, bike, boat",es:"A pie, en bici, en barca",it:"A piedi, bici, barca",de:"Zu Fuß, Rad, Boot",fr:"À pied, vélo, bateau",pt:"A pé, de bicicleta, de barco",va:"A peu, en bici, en barca"}},
+ {id:"markets",ico:"🍊",n:{en:"Markets",es:"Mercados",it:"Mercati",de:"Märkte",fr:"Marchés",pt:"Mercados",va:"Mercats"},s:{en:"Food & shopping",es:"Comida y compras",it:"Cibo e shopping",de:"Essen & Shopping",fr:"Produits & shopping",pt:"Comida e compras",va:"Menjar i compres"}},
+ {id:"trips",ico:"🚆",n:{en:"Day trips",es:"Excursiones",it:"Gite",de:"Ausflüge",fr:"Excursions",pt:"Excursões",va:"Excursions"},s:{en:"Easy escapes nearby",es:"Escapadas cercanas",it:"Fughe vicine",de:"Nahe Ausflugsziele",fr:"Escapades proches",pt:"Escapadinhas perto",va:"Escapades a prop"}},
+ {id:"fallas",ico:"🔥",n:{en:"Fallas",es:"Fallas",it:"Fallas",de:"Fallas",fr:"Fallas",pt:"Fallas",va:"Falles"},s:{en:"Festival of fire · maps",es:"Fiesta del fuego · mapas",it:"Festa del fuoco · mappe",de:"Feuerfest · Karten",fr:"Fête du feu · cartes",pt:"Festa do fogo · mapas",va:"La festa del foc · mapes"}},
+ {id:"traffic",ico:"🚦",n:{en:"Traffic",es:"Tráfico",it:"Traffico",de:"Verkehr",fr:"Trafic",pt:"Trânsito",va:"Trànsit"},s:{en:"Live traffic maps",es:"Mapas de tráfico en vivo",it:"Mappe del traffico live",de:"Live-Verkehrskarten",fr:"Cartes du trafic en direct",pt:"Mapas de trânsito ao vivo",va:"Mapes de trànsit en directe"}},
+ {id:"travel",ico:"🚇",n:{en:"Public transport",es:"Transporte público",it:"Trasporto pubblico",de:"Öffentlicher Verkehr",fr:"Transports publics",pt:"Transporte público",va:"Transport públic"},s:{en:"Metro, bus, SUMA card, flights & trains",es:"Metro, EMT, tarjeta SUMA, vuelos y trenes",it:"Metro, bus, tessera SUMA, voli e treni",de:"Metro, Bus, SUMA-Karte, Flüge & Züge",fr:"Métro, bus, carte SUMA, vols et trains",pt:"Metro, autocarro, cartão SUMA, voos e comboios",va:"Metro, EMT, targeta SUMA, vols i trens"}},
+ {id:"activities",ico:"🎯",n:{en:"Activities",es:"Actividades",it:"Attività",de:"Aktivitäten",fr:"Activités",pt:"Atividades",va:"Activitats"},s:{en:"Experiences & things to book",es:"Experiencias para reservar",it:"Esperienze da prenotare",de:"Erlebnisse zum Buchen",fr:"Expériences à réserver",pt:"Experiências para reservar",va:"Experiències per a reservar"}},
+ {id:"health",ico:"💊",n:{en:"Pharmacies & hospitals",es:"Farmacias y hospitales",it:"Farmacie e ospedali",de:"Apotheken & Kliniken",fr:"Pharmacies et hôpitaux",pt:"Farmácias e hospitais",va:"Farmàcies i hospitals"},s:{en:"On-duty pharmacies, A&E, 112",es:"Farmacias de guardia, urgencias, 112",it:"Farmacie di turno, pronto soccorso, 112",de:"Notdienst-Apotheken, Notaufnahme, 112",fr:"Pharmacies de garde, urgences, 112",pt:"Farmácias de serviço, urgências, 112",va:"Farmàcies de guàrdia, urgències, 112"}},
+ {id:"rentals",ico:"🛵",n:{en:"Rentals",es:"Alquileres",it:"Noleggi",de:"Verleih",fr:"Locations",pt:"Alugueres",va:"Lloguers"},s:{en:"Bikes, scooters, mopeds, cars",es:"Bicis, patinetes, motos, coches",it:"Bici, monopattini, scooter, auto",de:"Räder, E-Scooter, Roller, Autos",fr:"Vélos, trottinettes, scooters, voitures",pt:"Bicicletas, trotinetes, motas, carros",va:"Bicis, patinets, motos, cotxes"}},
+ {id:"luggage",ico:"🧳",n:{en:"Luggage storage",es:"Consignas",it:"Deposito bagagli",de:"Gepäckaufbewahrung",fr:"Consignes à bagages",pt:"Depósito de bagagem",va:"Consignes"},s:{en:"Lockers & bag drop",es:"Taquillas y guardamaletas",it:"Armadietti e deposito",de:"Schließfächer & Abgabe",fr:"Casiers et dépôt",pt:"Cacifos e guarda-malas",va:"Taquilles i guardamaletes"}},
+ {id:"info",ico:"🧭",n:{en:"Good to know",es:"Info útil",it:"Info utili",de:"Gut zu wissen",fr:"Bon à savoir",pt:"Bom saber",va:"Info útil"},s:{en:"Transport, times, tips",es:"Transporte, horarios",it:"Trasporti, orari",de:"Verkehr, Zeiten",fr:"Transports, horaires",pt:"Transportes, horários, dicas",va:"Transport, horaris, consells"}}
+];
+const AREAS={sanmarcelino:["San Marcelino","San Marcelino","San Marcelino","San Marcelino","San Marcelino","San Marcelino","Sant Marcel·lí"],old:["Old Town", "Centro histórico", "Centro storico", "Altstadt", "Vieille ville", "Centro histórico", "Centre històric"],carmen:["El Carmen", "El Carmen", "El Carmen", "El Carmen", "El Carmen", "El Carmen", "el Carme"],ruzafa:["Ruzafa", "Ruzafa", "Ruzafa", "Ruzafa", "Ruzafa", "Ruzafa", "Russafa"],beach:["Beach", "Playa", "Spiaggia", "Strand", "Plage", "Praia", "Platja"],cac:["City of Arts & Sciences", "Ciudad de las Artes", "Città delle Arti", "Stadt der Künste", "Cité des Arts", "Cidade das Artes", "Ciutat de les Arts"],ensanche:["Ensanche", "Ensanche", "Ensanche", "Ensanche", "Ensanche", "Ensanche", "l'Eixample"],extramurs:["Extramurs", "Extramurs", "Extramurs", "Extramurs", "Extramurs", "Extramurs", "Extramurs"],cabanyal:["Cabanyal", "Cabanyal", "Cabanyal", "Cabanyal", "Cabanyal", "Cabanyal", "Cabanyal"],port:["Marina / Port", "Marina / Puerto", "Marina / Porto", "Marina / Hafen", "Marina / Port", "Marina / Porto", "Marina / Port"],plareal:["Pla del Real", "Pla del Real", "Pla del Real", "Pla del Real", "Pla del Real", "Pla del Real", "Pla del Real"],albufera:["Albufera", "Albufera", "Albufera", "Albufera", "Albufera", "Albufera", "Albufera"],outside:["Around Valencia", "Alrededores", "Dintorni", "Umgebung", "Alentours", "Arredores", "Voltants"],centre:["Centre", "Centro", "Centro", "Zentrum", "Centre", "Centro", "Centre"],across:["Across the city", "Toda la ciudad", "Tutta la città", "Quer durch die Stadt", "Toute la ville", "Toda a cidade", "Tota la ciutat"],turia:["Turia gardens", "Jardín del Turia", "Giardini del Turia", "Turia-Gärten", "Jardins du Turia", "Jardim do Turia", "Jardí del Túria"],alboraya:["Alboraya", "Alboraya", "Alboraya", "Alboraya", "Alboraya", "Alboraya", "Alboraia"],marxalenes:["Marxalenes", "Marxalenes", "Marxalenes", "Marxalenes", "Marxalenes", "Marxalenes", "Marxalenes"],monteolivete:["Monteolivete", "Monteolivete", "Monteolivete", "Monteolivete", "Monteolivete", "Monteolivete", "Mont-Olivet"],cabecera:["Parque de Cabecera", "Parque de Cabecera", "Parque de Cabecera", "Parque de Cabecera", "Parque de Cabecera", "Parque de Cabecera", "Parc de Capçalera"],mestalla:["Mestalla", "Mestalla", "Mestalla", "Mestalla", "Mestalla", "Mestalla", "Mestalla"],torrefiel:["Torrefiel", "Torrefiel", "Torrefiel", "Torrefiel", "Torrefiel", "Torrefiel", "Torrefiel"],trip:["Day trip", "Excursión", "Gita", "Ausflug", "Excursion", "Excursão", "Excursió"],airport:["Airport", "Aeropuerto", "Aeroporto", "Flughafen", "Aéroport", "Aeroporto", "Aeroport"],pobla:["La Pobla de Farnals", "La Pobla de Farnals", "La Pobla de Farnals", "La Pobla de Farnals", "La Pobla de Farnals", "La Pobla de Farnals", "la Pobla de Farnals"],massamagrell:["Massamagrell", "Massamagrell", "Massamagrell", "Massamagrell", "Massamagrell", "Massamagrell", "Massamagrell"],pucol:["Puçol", "Puçol", "Puçol", "Puçol", "Puçol", "Puçol", "Puçol"],pinedo:["Pinedo", "Pinedo", "Pinedo", "Pinedo", "Pinedo", "Pinedo", "Pinedo"],puig:["El Puig", "El Puig", "El Puig", "El Puig", "El Puig", "El Puig", "el Puig"]};
+const REFS=[["old",39.4745,-0.3765],["carmen",39.4775,-0.3800],["centre",39.4685,-0.3770],["ruzafa",39.4615,-0.3735],["ensanche",39.4675,-0.3680],["extramurs",39.4700,-0.3880],["plareal",39.4780,-0.3660],["cac",39.4555,-0.3510],["beach",39.4720,-0.3245],["cabanyal",39.4670,-0.3300],["port",39.4600,-0.3250],["mestalla",39.4746,-0.3583],["alboraya",39.5070,-0.3210],["pinedo",39.4280,-0.3320],["albufera",39.3400,-0.3250],["airport",39.4893,-0.4816]];
+const KINDS={concert:["Concert", "Concierto", "Concerto", "Konzert", "Concert", "Concerto", "Concert"],fair:["Fair", "Feria", "Fiera", "Messe", "Foire", "Feira", "Fira"],show:["Show", "Espectáculo", "Spettacolo", "Show", "Spectacle", "Espetáculo", "Espectacle"],party:["Party", "Fiesta", "Festa", "Party", "Fête", "Festa", "Festa"],market:["Market", "Mercado", "Mercato", "Markt", "Marché", "Mercado", "Mercat"],art:["Art", "Arte", "Arte", "Kunst", "Art", "Arte", "Art"],sport:["Sport", "Deporte", "Sport", "Sport", "Sport", "Desporto", "Esport"],other:["Event", "Evento", "Evento", "Event", "Événement", "Evento", "Esdeveniment"]};
+const WICO={sun:"☀️",partly:"⛅",cloud:"☁️",rain:"🌧️",storm:"⛈️",fog:"🌫️",wind:"💨"};
+const DAYN={en:["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],es:["dom","lun","mar","mié","jue","vie","sáb"],it:["dom","lun","mar","mer","gio","ven","sab"],de:["So","Mo","Di","Mi","Do","Fr","Sa"],fr:["dim","lun","mar","mer","jeu","ven","sam"],pt:["dom","seg","ter","qua","qui","sex","sáb"],va:["dg","dl","dt","dc","dj","dv","ds"]};
+const LOCALE={en:"en-GB",es:"es-ES",it:"it-IT",de:"de-DE",fr:"fr-FR",pt:"pt-PT",va:"ca-ES"};
+const HTML_LANG={va:"ca"};
+
+/* =================== STATE =================== */
+let lang="en";
+try{const s=localStorage.getItem("vn_lang");if(s&&T[s])lang=s;else{let b=(navigator.language||"en").slice(0,2);if(b==="ca")b="va";if(T[b])lang=b;}}catch(e){}
+let DATA={places:[],events:[],content:null,weather:null};
+let EXTRA={places:[],events:[]}; // admin additions not yet merged
+let state={area:"all",openNow:false,query:""};
+let DB=null,USER=null,canAdmin=false;
+let LOC=null;try{const v=JSON.parse(localStorage.getItem("vn_loc")||"null");if(v&&typeof v.lat==="number")LOC=v}catch(e){}
+function saveLoc(v){LOC=v;try{v?localStorage.setItem("vn_loc",JSON.stringify(v)):localStorage.removeItem("vn_loc")}catch(e){}}
+function distKm(p){if(!LOC||!p.ll)return null;const R=6371,toR=x=>x*Math.PI/180,[la,lo]=p.ll;const dLa=toR(la-LOC.lat),dLo=toR(lo-LOC.lon);const a=Math.sin(dLa/2)**2+Math.cos(toR(LOC.lat))*Math.cos(toR(la))*Math.sin(dLo/2)**2;return 2*R*Math.asin(Math.sqrt(a))}
+function distTag(p){const d=distKm(p);if(d==null)return"";const w=d*1.25;return `<span class="tag dist">📍 ${w<0.1?"<100 m":w<1?Math.round(w*1000/50)*50+" m":w.toFixed(w<10?1:0)+" km"}${w<=2.5?" · 🚶 "+Math.max(1,Math.round(w/4.8*60))+" "+t("walk"):""}</span>`}
+function byDist(list){return LOC?list.slice().sort((a,b)=>{const da=distKm(a),db=distKm(b);return (da==null?1e9:da)-(db==null?1e9:db)}):list}
+function locLabel(){return LOC?(LOC.gps?"GPS":areaName(LOC.k)):""}
+function locBar(){return LOC?`<div class="locbar">📍 ${t("youAreNear")} <b>${esc(locLabel())}</b> · <button data-loc>${t("change")}</button></div>`:""}
+function openLocSheet(after){
+  const bg=document.createElement("div");bg.className="sheet-bg";
+  bg.innerHTML=`<div class="sheet" role="dialog"><h3>${t("whereAreYou")}</h3><div class="note">${t("whereSub")}</div><button class="gps" id="gpsBtn">${t("useGps")}</button><div class="note" id="gpsMsg"></div>
+   <div class="zones">${REFS.map(([k])=>`<button data-z="${k}" class="${LOC&&LOC.k===k?"on":""}">${esc(areaName(k))}</button>`).join("")}</div>
+   ${LOC?`<div style="margin-top:14px;text-align:center"><button class="btn" id="clrLoc">✖ ${t("clearLoc")}</button></div>`:""}</div>`;
+  document.body.appendChild(bg);
+  const close=()=>{bg.remove();after&&after()};
+  bg.addEventListener("click",e=>{if(e.target===bg)bg.remove()});
+  bg.querySelectorAll("[data-z]").forEach(b=>b.onclick=()=>{const r=REFS.find(x=>x[0]===b.dataset.z);saveLoc({k:r[0],lat:r[1],lon:r[2]});close()});
+  const c=bg.querySelector("#clrLoc");if(c)c.onclick=()=>{saveLoc(null);close()};
+  bg.querySelector("#gpsBtn").onclick=()=>{const m=bg.querySelector("#gpsMsg");m.textContent="…";
+    try{if(!navigator.geolocation)throw 0;navigator.geolocation.getCurrentPosition(pos=>{saveLoc({gps:true,lat:pos.coords.latitude,lon:pos.coords.longitude});close()},()=>{m.textContent=t("gpsFail")},{timeout:8000,maximumAge:300000})}catch(e){m.textContent=t("gpsFail")}};
+}
+function wireLoc(rerender){app.querySelectorAll("[data-loc]").forEach(b=>b.onclick=()=>openLocSheet(rerender));}
+const LI=()=>Math.max(0,["en","es","it","de","fr","pt","va"].indexOf(lang));
+const t=k=>(T[lang]&&T[lang][k])||T.en[k]||k;
+const tr=o=>o==null?"":(typeof o==="string"?o:(o[lang]||o.en||Object.values(o)[0]||""));
+const areaName=a=>AREAS[a]?AREAS[a][LI()]:(a||"");
+const catName=id=>{const c=CATS.find(c=>c.id===id);return c?tr(c.n):id};
+
+/* =================== TIME =================== */
+const DAYS=["Su","Mo","Tu","We","Th","Fr","Sa"];
+function vlcNow(){
+  const f=new Intl.DateTimeFormat("en-GB",{timeZone:"Europe/Madrid",year:"numeric",month:"2-digit",day:"2-digit",hour:"2-digit",minute:"2-digit",weekday:"short",hour12:false});
+  const o={};f.formatToParts(new Date()).forEach(p=>o[p.type]=p.value);
+  const wd=["Sun","Mon","Tue","Wed","Thu","Fri","Sat"].indexOf(o.weekday),hh=+o.hour%24;
+  return {wd,mins:hh*60+(+o.minute),iso:`${o.year}-${o.month}-${o.day}`,hh,mm:o.minute};
+}
+const addDays=(iso,n)=>{const d=new Date(iso+"T12:00:00Z");d.setUTCDate(d.getUTCDate()+n);return d.toISOString().slice(0,10)};
+const daysBetween=(a,b)=>Math.round((new Date(b+"T12:00:00Z")-new Date(a+"T12:00:00Z"))/864e5);
+const toMin=x=>{const[a,b]=x.split(":").map(Number);return a*60+b};
+function parseHours(h){
+  if(!h)return null;const out=[[],[],[],[],[],[],[]];
+  try{h.split(";").forEach(rule=>{rule=rule.trim();if(!rule)return;const[dp,tp]=rule.split(/\s+/);const days=new Set();
+    dp.split(",").forEach(seg=>{if(seg.includes("-")){const[a,b]=seg.split("-").map(x=>DAYS.indexOf(x));for(let i=a;;i=(i+1)%7){days.add(i);if(i===b)break;}}else days.add(DAYS.indexOf(seg));});
+    tp.split(",").forEach(r=>{let[s,e]=r.split("-").map(toMin);if(e<=s)e+=1440;days.forEach(d=>out[d].push([s,e]));});});}catch(e){return null}
+  return out;
+}
+function isOpen(h,now){const w=parseHours(h);if(!w)return null;const t=now.mins,d=now.wd,p=(d+6)%7;
+  return w[d].some(([s,e])=>t>=s&&t<e)||w[p].some(([s,e])=>e>1440&&t+1440>=s&&t+1440<e);}
+function opensTonight(h,now){const w=parseHours(h);if(!w)return null;return w[now.wd].some(([s,e])=>e>1200&&s<1800);}
+function niceHours(h){
+  if(!h)return"";if(/^Mo-Su 00:00-24:00$/.test(h))return t("open24");
+  const dn=DAYN[lang];const map={Su:dn[0],Mo:dn[1],Tu:dn[2],We:dn[3],Th:dn[4],Fr:dn[5],Sa:dn[6]};
+  return h.replace(/\b(2[4-9]|3\d):(\d\d)/g,(m,a,b)=>String(a-24).padStart(2,"0")+":"+b)
+          .replace(/\b(Mo|Tu|We|Th|Fr|Sa|Su)\b/g,m=>map[m]).replace(/;/g," ·").replace(/(\d)-(\d)/g,"$1–$2").replace(/,(?=\d)/g,", ");
+}
+const fmtDate=iso=>new Date(iso+"T12:00:00Z").toLocaleDateString(LOCALE[lang],{weekday:"short",day:"numeric",month:"short",timeZone:"UTC"});
+
+/* =================== HELPERS =================== */
+const app=document.getElementById("app");
+const esc=s=>String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const safeUrl=u=>/^https?:\/\//i.test(u||"")?u:"";
+const mapUrl=p=>"https://www.google.com/maps/search/?api=1&query="+encodeURIComponent((p.q||p.n)+(p.q?"":" Valencia"));
+const priceTag=p=>p===0?`<span class="tag free">${t("free")}</span>`:(p?`<span class="tag">${"€".repeat(p)}</span>`:"");
+const allPlaces=()=>DATA.places.concat(EXTRA.places);
+const allEvents=()=>DATA.events.concat(EXTRA.events);
+
+function placeCard(p,now){
+  const open=isOpen(p.h,now);
+  const st=open===null?"":(open?`<span class="tag open">● ${t("openNow")}</span>`:`<span class="tag closed">${t("closedNow")}</span>`);
+  const u=safeUrl(p.u);
+  return `<article class="card"><h3>${esc(p.n)}</h3>
+    <div class="meta">${p._new?`<span class="tag new">${t("added")}</span>`:""}<span class="tag">${esc(areaName(p.a))}</span>${distTag(p)}${priceTag(p.p)}${st}</div>
+    <p>${esc(tr(p.d))}</p>${p.t&&tr(p.t)?`<div class="tip">💡 ${esc(tr(p.t))}</div>`:""}
+    <div class="hours">🕒 ${p.h?esc(niceHours(p.h)):t("hoursVary")}</div>
+    <div class="actions"><a class="btn primary" href="${mapUrl(p)}" target="_blank" rel="noopener">🗺️ ${t("map")}</a>
+    ${u?`<a class="btn" href="${esc(u)}" target="_blank" rel="noopener">🌐 ${t("website")}</a>`:`<a class="btn" href="https://www.google.com/search?q=${encodeURIComponent(p.n+" Valencia")}" target="_blank" rel="noopener">🔎 ${t("searchWeb")}</a>`}</div></article>`;
+}
+function upcoming(now){return allEvents().filter(e=>(e.e||e.s)>=now.iso).sort((a,b)=>{const sa=a.s<now.iso?now.iso:a.s,sb=b.s<now.iso?now.iso:b.s;return sa.localeCompare(sb)||(a.e?1:0)-(b.e?1:0)});}
+function eventCard(e,now){
+  const on=e.s<=now.iso&&(e.e||e.s)>=now.iso;let when;
+  if(e.e&&e.e!==e.s)when=on?`${t("onNow")} ${fmtDate(e.e)}`:`${fmtDate(e.s)} – ${fmtDate(e.e)}`;
+  else when=e.s===now.iso?t("today"):e.s===addDays(now.iso,1)?t("tomorrow"):fmtDate(e.s);
+  const tick=["concert","show"].includes(e.k);const u=safeUrl(e.u)||("https://www.google.com/search?q="+encodeURIComponent(e.n+" Valencia"+(tick?" tickets":"")));
+  return `<article class="card"><div class="meta"><span class="tag date">${esc(when)}${e.time?" · "+esc(e.time):""}</span><span class="tag">${esc((KINDS[e.k]||KINDS.other)[LI()])}</span>${e._new?`<span class="tag new">${t("added")}</span>`:""}</div>
+    <h3>${esc(e.n)}</h3><p>${esc(tr(e.d))}</p><div class="hours">📍 ${esc(e.v)}</div>
+    <div class="actions"><a class="btn primary" href="https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(e.v+" Valencia")}" target="_blank" rel="noopener">🗺️ ${t("map")}</a>
+    <a class="btn" href="${esc(u)}" target="_blank" rel="noopener">${tick?"🎟️ "+t("tickets"):"ℹ️ "+t("moreInfo")}</a></div></article>`;
+}
+
+/* =================== VIEWS =================== */
+function weatherHead(){
+  const W=DATA.weather,box=document.getElementById("wnow"),pop=document.getElementById("wpop");if(!box)return;
+  const now=vlcNow();const days=W&&W.days?W.days.filter(d=>d.d>=now.iso):[];
+  if(!days.length){box.textContent="";pop.innerHTML="";return}
+  const d0=days[0],dn=DAYN[lang];box.textContent=`${WICO[d0.w]||"🌤️"} ${d0.max}°`;
+  pop.innerHTML=`<h4>${WICO[d0.w]||"🌤️"} ${t("weatherNow")}: ${d0.max}° / ${d0.min}°${d0.rain?` · 💧 ${d0.rain}% ${t("rain")}`:""}</h4>
+   <div class="w-days">${days.map(d=>`<div class="w-day"><b>${d.d===now.iso?t("today"):dn[new Date(d.d+"T12:00:00Z").getUTCDay()]+" "+(+d.d.slice(8))}</b><span class="e">${WICO[d.w]||"🌤️"}</span>${d.max}° <span style="color:var(--muted)">${d.min}°</span>${d.rain>=20?`<div class="r">💧${d.rain}%</div>`:""}</div>`).join("")}</div>
+   <div class="w-src">${t("weatherSrc")} ${fmtDate(W.updated)}</div>`;
+}
+document.getElementById("wchip").onclick=e=>{e.stopPropagation();const p=document.getElementById("wpop");if(!p.innerHTML)return;p.classList.toggle("hidden");const m=document.getElementById("lmenu");if(m)m.classList.add("hidden")};
+document.getElementById("wpop").onclick=e=>e.stopPropagation();
+function renderHome(){
+  const now=vlcNow();
+  app.innerHTML=`<section class="hero"><h1>${t("hero1")} <span>Valencia</span>?</h1><p>${t("hero2")}</p>
+    <div class="search"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg><input id="q" type="search" placeholder="${esc(t("search"))}" autocomplete="off"></div></section>
+   <div id="results"></div>
+   <div id="homebody">
+    <div class="quick">
+      <a class="qcard q-night" href="#tonight"><span class="ico">🌙</span><div><b>${t("tonight")}</b><small>${t("tonightSub")}</small></div></a>
+      <a class="qcard q-beach" href="#beaches"><span class="ico">🏖️</span><div><b>${t("beaches")}</b><small>${t("beachesSub")}</small></div></a>
+      <a class="qcard q-alm" href="#almuerzo"><span class="ico">🥖</span><div><b>${t("almuerzo")}</b><small>${t("almuerzoSub")}</small></div></a>
+      <a class="qcard q-fallas" href="#fallas"><span class="ico">🔥</span><div><b>${t("fallas")}</b><small>${t("fallasSub")}</small></div></a>
+      <a class="qcard q-traffic" href="#traffic"><span class="ico">🚦</span><div><b>${catName("traffic")}</b><small>${tr(CATS.find(c=>c.id==="traffic").s)}</small></div></a>
+      <a class="qcard q-travel" href="#travel"><span class="ico">🚇</span><div><b>${catName("travel")}</b><small>${tr(CATS.find(c=>c.id==="travel").s)}</small></div></a>
+      <a class="qcard q-act" href="#activities"><span class="ico">🎯</span><div><b>${catName("activities")}</b><small>${tr(CATS.find(c=>c.id==="activities").s)}</small></div></a>
+      <a class="qcard q-health" href="#health"><span class="ico">💊</span><div><b>${catName("health")}</b><small>${tr(CATS.find(c=>c.id==="health").s)}</small></div></a>
+      <a class="qcard q-rent" href="#rentals"><span class="ico">🛵</span><div><b>${catName("rentals")}</b><small>${tr(CATS.find(c=>c.id==="rentals").s)}</small></div></a>
+      <a class="qcard q-lug" href="#luggage"><span class="ico">🧳</span><div><b>${catName("luggage")}</b><small>${tr(CATS.find(c=>c.id==="luggage").s)}</small></div></a>
+    </div>
+    <div class="subhead">${t("where")}</div>
+    <div class="grid">${CATS.filter(c=>!["fallas","almuerzo","beaches","traffic","travel","activities","health","rentals","luggage"].includes(c.id)).map(c=>`<a class="tile" href="#${c.id}"><span class="ico">${c.ico}</span><b>${tr(c.n)}</b><small>${tr(c.s)}</small></a>`).join("")}</div></div>`;
+  const q=document.getElementById("q");q.value=state.query;q.addEventListener("input",()=>{state.query=q.value;renderSearch()});
+  if(state.query)renderSearch();
+}
+function renderSearch(){
+  const now=vlcNow(),res=document.getElementById("results"),body=document.getElementById("homebody");
+  const s=state.query.trim().toLowerCase();if(!s){res.innerHTML="";body.classList.remove("hidden");return}
+  body.classList.add("hidden");const terms=s.split(/\s+/);
+  const blob=o=>Object.values(o||{}).join(" ");
+  const match=txt=>{txt=txt.toLowerCase();return terms.every(x=>txt.includes(x))};
+  const ps=byDist(allPlaces().filter(p=>match([p.n,areaName(p.a),blob(p.d),blob(p.t),catName(p.c),p.p===0?Object.values(T).map(x=>x.free).join(" "):""].join(" "))));
+  const es=upcoming(now).filter(e=>match([e.n,e.v,blob(e.d),(KINDS[e.k]||[]).join(" ")].join(" ")));
+  res.innerHTML=(es.length?`<div class="subhead">${t("events")}</div><div class="list">${es.map(e=>eventCard(e,now)).join("")}</div>`:"")+(ps.length?`<div class="subhead">${t("places")}</div><div class="list">${ps.map(p=>placeCard(p,now)).join("")}</div>`:"")+(!es.length&&!ps.length?`<div class="empty">${t("nothingFound")}</div>`:"");
+}
+function head(id){const c=CATS.find(c=>c.id===id);return `<section class="view-head"><h1><span>${c.ico}</span>${tr(c.n)}</h1><p>${tr(c.s)}</p></section>`}
+function renderCategory(id){
+  const now=vlcNow();let items=allPlaces().filter(p=>p.c===id);
+  const areas=["all",...new Set(items.map(p=>p.a))];if(!areas.includes(state.area))state.area="all";
+  let shown=items.filter(p=>state.area==="all"||p.a===state.area);if(state.openNow)shown=shown.filter(p=>isOpen(p.h,now));
+  shown.sort((a,b)=>(isOpen(b.h,now)?1:0)-(isOpen(a.h,now)?1:0));shown=byDist(shown);
+  app.innerHTML=head(id)+locBar()+`<div class="chips"><button class="chip ${LOC?"on":""}" data-loc>📍 ${t("near")}</button>${items.some(p=>p.h)?`<button class="chip ${state.openNow?"on":""}" data-open>● ${t("openNow")}</button>`:""}
+    ${areas.length>2?areas.map(a=>`<button class="chip ${state.area===a?"on":""}" data-area="${esc(a)}">${esc(a==="all"?t("all"):areaName(a))}</button>`).join(""):""}</div>
+    <div class="list">${shown.length?shown.map(p=>placeCard(p,now)).join(""):`<div class="empty">${t("nothingOpen")}</div>`}</div>`;
+  app.querySelectorAll("[data-area]").forEach(b=>b.onclick=()=>{state.area=b.dataset.area;renderCategory(id)});
+  const o=app.querySelector("[data-open]");if(o)o.onclick=()=>{state.openNow=!state.openNow;renderCategory(id)};
+  wireLoc(()=>renderCategory(id));
+}
+function renderEvents(){const now=vlcNow(),l=upcoming(now),one=l.filter(e=>!e.e||e.e===e.s),lng=l.filter(e=>e.e&&e.e!==e.s);
+  app.innerHTML=head("events")+(one.length?`<div class="subhead">${t("comingUp")}</div><div class="list">${one.map(e=>eventCard(e,now)).join("")}</div>`:"")+(lng.length?`<div class="subhead">${t("onWhile")}</div><div class="list">${lng.map(e=>eventCard(e,now)).join("")}</div>`:"");}
+function renderInfo(){app.innerHTML=head("info")+`<div class="list">${(DATA.content?.info||[]).map(i=>`<article class="card"><h3>${i.i} ${esc(tr(i.t))}</h3><p>${esc(tr(i.d))}</p>${i.u?`<div class="actions"><a class="btn" href="${esc(i.u)}" target="_blank" rel="noopener">🌐 ${t("website")}</a></div>`:""}</article>`).join("")}</div>`;}
+function renderAlmuerzo(){const now=vlcNow(),A=DATA.content?.almuerzo;const ps=byDist(allPlaces().filter(p=>p.c==="almuerzo"));
+  app.innerHTML=head("almuerzo")+(A?`<div class="article"><h2 style="margin:0 0 8px;font-family:'Bricolage Grotesque',sans-serif">${esc(tr(A.title))}</h2>${A.paras.map(p=>`<p>${esc(tr(p))}</p>`).join("")}</div>`:"")+
+  `<div class="subhead">${t("almPlaces")}</div><div class="chips"><button class="chip ${LOC?"on":""}" data-loc>📍 ${LOC?esc(locLabel()):t("near")}</button></div><div class="list">${ps.map(p=>placeCard(p,now)).join("")}</div>`;wireLoc(renderAlmuerzo);}
+function renderFallas(){const now=vlcNow(),F=DATA.content?.fallas;if(!F){app.innerHTML=head("fallas");return}
+  const first=F.dates.find(d=>d.e)||F.dates[0];const n=daysBetween(now.iso,first.d);
+  app.innerHTML=head("fallas")+`<div class="article">${F.paras.map(p=>`<p>${esc(tr(p))}</p>`).join("")}${n>0?`<div class="countdown">🔥 ${n} ${t("untilFallas")}</div>`:""}</div>
+   <div class="subhead">${t("fallasDates")}</div><div class="timeline">${F.dates.map(d=>`<div class="tl"><div class="d">${fmtDate(d.d)}${d.e?"<br>– "+fmtDate(d.e):""}</div><div>${esc(tr(d.t))}</div></div>`).join("")}</div>
+   <div class="subhead">${t("fallasMaps")}</div><div class="list">${F.links.map(l=>`<article class="card"><h3>${l.i} ${esc(tr(l.n))}</h3><p>${esc(tr(l.s))}</p><div class="actions"><a class="btn primary" href="${esc(l.u)}" target="_blank" rel="noopener">🌐 ${t("moreInfo")}</a></div></article>`).join("")}</div>`+(F.videos&&F.videos.length?`<div class="subhead">${t("fallasVideos")}</div><div class="list">${F.videos.map(l=>`<article class="card"><h3>${l.i} ${esc(tr(l.n))}</h3><p>${esc(tr(l.s))}</p><div class="actions"><a class="btn primary" href="${esc(l.u)}" target="_blank" rel="noopener">▶️ ${t("watch")}</a></div></article>`).join("")}</div>`:"");}
+function linkCards(ls){return `<div class="list">${ls.map(l=>`<article class="card"><h3>${l.i} ${esc(tr(l.n))}</h3><p>${esc(tr(l.s))}</p><div class="actions"><a class="btn primary" href="${esc(l.u)}" target="_blank" rel="noopener">🔗 ${t("open")}</a></div></article>`).join("")}</div>`}
+function renderTraffic(){const X=DATA.content?.traffic;app.innerHTML=head("traffic")+(X?`<div class="article">${X.paras.map(p=>`<p>${esc(tr(p))}</p>`).join("")}<p class="note">ℹ️ ${t("liveNote")}</p></div>${linkCards(X.links)}`:"");}
+function renderTravel(){const X=DATA.content?.travel;if(!X){app.innerHTML=head("travel");return}
+  const sec=(h,o)=>`<div class="subhead">${h}</div><div class="article">${o.paras.map(p=>`<p>${esc(tr(p))}</p>`).join("")}</div>${linkCards(o.links)}`;
+  app.innerHTML=head("travel")+(X.local||[]).map(o=>sec(esc(tr(o.h)),o)).join("")+`<p class="note">ℹ️ ${t("liveNote")}</p>`+sec(t("airport"),X.airport)+sec(t("trains"),X.trains);}
+function renderActivities(){const X=DATA.content?.activities;if(!X){app.innerHTML=head("activities");return}
+  const E=encodeURIComponent,b=(u,l,p)=>`<a class="btn${p?" primary":""}" href="${esc(u)}" target="_blank" rel="noopener">${esc(l)}</a>`;
+  app.innerHTML=head("activities")+`<div class="article">${X.paras.map(p=>`<p>${esc(tr(p))}</p>`).join("")}</div><div class="list">${X.items.map(a=>`<article class="card"><h3>${a.i} ${esc(tr(a.n))}</h3><p>${esc(tr(a.s))}</p><div class="actions">${b("https://www.getyourguide.com/s/?q="+E(a.q),"GetYourGuide",1)}${b("https://www.google.com/search?q="+E("site:civitatis.com "+a.qe),"Civitatis")}${b("https://www.google.com/search?q="+E("site:groupon.es "+a.qe),"Groupon")}${(a.x||[]).map(x=>b(x[1],"🔗 "+x[0])).join("")}</div></article>`).join("")}</div>`;}
+function renderGroups(id){const X=DATA.content?.[id];if(!X){app.innerHTML=head(id);return}
+  const b=(u,l,p)=>`<a class="btn${p?" primary":""}" href="${esc(u)}" target="_blank" rel="noopener">${l}</a>`;
+  app.innerHTML=head(id)+`<div class="article">${X.paras.map(p=>`<p>${esc(tr(p))}</p>`).join("")}</div>`+X.groups.map(g=>`<div class="subhead">${esc(tr(g.h))}</div><div class="list">${g.items.map(a=>`<article class="card"><h3>${a.i} ${esc(a.n)}</h3><p>${esc(tr(a.s))}</p><div class="actions">${b(a.u,(a.w?"🌐 "+t("website"):a.u.includes("/maps/")?"🗺️ "+t("map"):"🔎 "+t("searchWeb")),1)}${a.m?b(a.m,"🗺️ "+t("map")):""}</div></article>`).join("")}</div>`).join("");}
+function renderMedieval(){const X=DATA.content?.medieval;if(!X){app.innerHTML=head("medieval");return}
+  const now=vlcNow(),T0=now.iso,cm=+T0.slice(5,7),mn=m=>{try{return new Intl.DateTimeFormat(LOCALE[lang]||"en-GB",{month:"long"}).format(new Date(Date.UTC(2026,m-1,15)))}catch(e){return m}};
+  const rng=a=>`${fmtDate(a.s)} – ${fmtDate(a.e||a.s)}`;
+  const st=a=>a.s<=T0&&(a.e||a.s)>=T0?0:a.s>T0?1:2;
+  const Y=+T0.slice(0,4),key=a=>{const k=st(a);return k===0?"0":k===1?"1"+a.s:"1"+(a.m>cm?Y:Y+1)+"-"+String(a.m).padStart(2,"0")+"-01"};
+  const items=X.items.slice().sort((a,b)=>key(a).localeCompare(key(b)));
+  app.innerHTML=head("medieval")+`<div class="article">${X.paras.map(p=>`<p>${esc(tr(p))}</p>`).join("")}</div><div class="list">${items.map(a=>{const k=st(a);
+    const tag=k===0?`<span class="tag open">${t("onNow")} ${fmtDate(a.e)}</span>`:k===1?`<span class="tag date">${a.est?"≈ ":""}${rng(a)}</span>`:`<span class="tag">📅 ${t("everyYear")} ${esc(mn(a.m))}</span>`;
+    return `<article class="card"><div class="meta">${tag}<span class="tag">📍 ${esc(a.town)}</span><span class="tag free">${t("free")}</span></div><h3>${esc(a.n)}</h3><p>${esc(tr(a.d))}</p>${k===2?`<div class="hours">${t("lastEd")}: ${rng(a)}</div>`:""}
+    <div class="actions"><a class="btn primary" href="https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(a.town.replace(/\(.*\)/,"")+" Valencia")}" target="_blank" rel="noopener">🗺️ ${t("map")}</a><a class="btn" href="${esc(a.u)}" target="_blank" rel="noopener">ℹ️ ${t("moreInfo")}</a></div></article>`}).join("")}</div>`+(X.more?linkCards(X.more):"");}
+function renderTonight(){const now=vlcNow();const evs=upcoming(now).filter(e=>e.s===now.iso&&!e.e);
+  const night=allPlaces().filter(p=>["clubs","bars"].includes(p.c));const on=byDist(night.filter(p=>isOpen(p.h,now))),later=byDist(night.filter(p=>!isOpen(p.h,now)&&opensTonight(p.h,now))),unk=byDist(night.filter(p=>!p.h));
+  app.innerHTML=`<section class="view-head"><h1><span>🌙</span>${t("tonight")}</h1><p>${fmtDate(now.iso)} · ${now.hh}:${now.mm}</p></section><div class="chips"><button class="chip ${LOC?"on":""}" data-loc>📍 ${LOC?esc(locLabel()):t("near")}</button></div>`+
+   (evs.length?`<div class="subhead">${t("eventsToday")}</div><div class="list">${evs.map(e=>eventCard(e,now)).join("")}</div>`:"")+
+   (on.length?`<div class="subhead">${t("openRightNow")}</div><div class="list">${on.map(p=>placeCard(p,now)).join("")}</div>`:"")+
+   (later.length&&now.mins>=360?`<div class="subhead">${t("openingLater")}</div><div class="list">${later.map(p=>placeCard(p,now)).join("")}</div>`:"")+
+   `<div class="subhead">${t("alsoCheck")}</div><p class="hours" style="margin:0 0 8px">${t("alsoCheckSub")}</p><div class="list">${unk.map(p=>placeCard(p,now)).join("")}</div>`;wireLoc(renderTonight);}
+
+/* =================== ADMIN =================== */
+const A_TXT={
+ es:{title:"Zona de administrador",need:"Esta zona solo se abre para el propietario de la web cuando ha iniciado sesión con su cuenta de Claude.",noDb:"No se puede conectar con la base de datos en esta vista. Abre la web desde tu cuenta de Claude.",place:"Lugar",event:"Evento",type:"Tipo",name:"Nombre",cat:"Categoría",area:"Zona",price:"Precio",hours:"Horario (formato: Mo-Sa 10:00-20:00; Su 10:00-14:00)",web:"Web oficial (https://…)",mapq:"Búsqueda en Google Maps (opcional)",desc:"Descripción (en cualquier idioma: se traducirá a los 5 idiomas)",tip:"Consejo local (opcional)",start:"Fecha inicio",end:"Fecha fin (opcional)",time:"Hora (opcional)",venue:"Lugar / sala",kind:"Tipo de evento",link:"Enlace entradas / info",save:"Guardar",saved:"Guardado. Ya lo ves en la web; en la próxima actualización automática se traduce y se publica para todos.",pending:"Altas pendientes de publicar",none:"No hay altas pendientes.",del:"Borrar",published:"Publicado",free:"Gratis",how:"Cómo funciona: lo que añades aquí aparece al momento para ti. Cada mañana la tarea automática lo traduce a los 5 idiomas, comprueba la web y lo publica para todos los visitantes."},
+};
+function at(k){return (A_TXT[lang]&&A_TXT[lang][k])||A_TXT.es[k]}
+async function renderAdmin(){
+  app.innerHTML=`<section class="view-head"><h1><span>🔐</span>${at("title")}</h1></section><div class="empty">${t("loading")}</div>`;
+  if(!DB||!USER){app.innerHTML=`<section class="view-head"><h1><span>🔐</span>${at("title")}</h1></section><div class="empty">${at("noDb")}</div>`;return}
+  let owner=false;try{owner=(USER.isOwner&&USER.isOwner())||(USER.canEdit&&USER.canEdit())}catch(e){}
+  if(!owner){app.innerHTML=`<section class="view-head"><h1><span>🔐</span>${at("title")}</h1></section><div class="empty">${at("need")}</div>`;return}
+  const catOpts=CATS.filter(c=>!["events","info","fallas","traffic","travel","activities","health","rentals","luggage"].includes(c.id)).map(c=>`<option value="${c.id}">${esc(tr(c.n))}</option>`).join("");
+  const areaOpts=Object.keys(AREAS).map(a=>`<option value="${a}">${esc(areaName(a))}</option>`).join("");
+  const kindOpts=Object.keys(KINDS).map(k=>`<option value="${k}">${esc(KINDS[k][LI()])}</option>`).join("");
+  app.innerHTML=`<section class="view-head"><h1><span>🔐</span>${at("title")}</h1><p class="note">${at("how")}</p></section>
+   <div class="chips"><button class="chip on" data-t="place">📍 ${at("place")}</button><button class="chip" data-t="event">🎟️ ${at("event")}</button></div>
+   <form class="admin" id="fPlace">
+     <label>${at("name")}<input name="n" required maxlength="80"></label>
+     <div class="row"><label>${at("cat")}<select name="c">${catOpts}</select></label><label>${at("area")}<select name="a">${areaOpts}</select></label></div>
+     <div class="row"><label>${at("price")}<select name="p"><option value="">—</option><option value="0">${at("free")}</option><option value="1">€</option><option value="2">€€</option><option value="3">€€€</option></select></label><label>${at("hours")}<input name="h" placeholder="Mo-Sa 10:00-20:00"></label></div>
+     <label>${at("web")}<input name="u" type="url" placeholder="https://"></label>
+     <label>${at("mapq")}<input name="q" placeholder="Nombre calle número Valencia"></label>
+     <label>${at("desc")}<textarea name="d" rows="3" required maxlength="400"></textarea></label>
+     <label>${at("tip")}<input name="t" maxlength="160"></label>
+     <button class="btn primary" type="submit">💾 ${at("save")}</button><div class="note" id="msgP"></div></form>
+   <form class="admin hidden" id="fEvent">
+     <label>${at("name")}<input name="n" required maxlength="80"></label>
+     <div class="row"><label>${at("start")}<input name="s" type="date" required></label><label>${at("end")}<input name="e" type="date"></label></div>
+     <div class="row"><label>${at("time")}<input name="time" placeholder="21:00"></label><label>${at("kind")}<select name="k">${kindOpts}</select></label></div>
+     <label>${at("venue")}<input name="v" required maxlength="80"></label>
+     <label>${at("link")}<input name="u" type="url" placeholder="https://"></label>
+     <label>${at("desc")}<textarea name="d" rows="3" required maxlength="400"></textarea></label>
+     <button class="btn primary" type="submit">💾 ${at("save")}</button><div class="note" id="msgE"></div></form>
+   <div class="subhead">${at("pending")}</div><div id="pend" class="list"></div>`;
+  app.querySelectorAll("[data-t]").forEach(b=>b.onclick=()=>{app.querySelectorAll("[data-t]").forEach(x=>x.classList.toggle("on",x===b));document.getElementById("fPlace").classList.toggle("hidden",b.dataset.t!=="place");document.getElementById("fEvent").classList.toggle("hidden",b.dataset.t!=="event")});
+  const save=async(form,type,msg)=>{const fd=Object.fromEntries(new FormData(form).entries());const doc={type,status:"pending",created:new Date().toISOString(),lang};
+    Object.entries(fd).forEach(([k,v])=>{v=String(v).trim();if(v!=="")doc[k]=v});if(doc.p!==undefined)doc.p=+doc.p;
+    const m=document.getElementById(msg);m.textContent="…";try{await DB.collection("submissions").add(doc);m.innerHTML=`<span class="ok">✔ ${at("saved")}</span>`;form.reset();await loadExtra();listPending()}catch(e){m.innerHTML=`<span class="err">✖ ${esc(e&&e.message||e)}</span>`}};
+  document.getElementById("fPlace").onsubmit=e=>{e.preventDefault();save(e.target,"place","msgP")};
+  document.getElementById("fEvent").onsubmit=e=>{e.preventDefault();save(e.target,"event","msgE")};
+  listPending();
+}
+let SUBS=[];
+function listPending(){const el=document.getElementById("pend");if(!el)return;
+  const items=SUBS.filter(s=>s.data.status!=="merged");
+  el.innerHTML=items.length?items.map(s=>`<article class="card"><div class="meta"><span class="tag">${s.data.type==="event"?"🎟️ "+at("event"):"📍 "+at("place")}</span><span class="tag">${esc((s.data.created||"").slice(0,10))}</span></div><h3>${esc(s.data.n)}</h3><p>${esc(s.data.d)}</p><div class="actions"><button class="btn danger" data-del="${esc(s.id)}">🗑️ ${at("del")}</button></div></article>`).join(""):`<div class="empty">${at("none")}</div>`;
+  el.querySelectorAll("[data-del]").forEach(b=>b.onclick=async()=>{b.disabled=true;try{await DB.collection("submissions").doc(b.dataset.del).delete();await loadExtra();listPending()}catch(e){b.disabled=false}});
+}
+async function loadExtra(){
+  if(!DB)return;try{const snap=await DB.collection("submissions").get();SUBS=snap.docs.map(d=>({id:d.id,data:d.data()||{}}));
+    const pend=SUBS.filter(s=>s.data.status!=="merged");
+    EXTRA.places=pend.filter(s=>s.data.type==="place"&&s.data.n).map(s=>({id:"sub-"+s.id,_new:true,c:s.data.c,n:s.data.n,a:s.data.a,p:s.data.p,h:s.data.h||"",u:s.data.u,q:s.data.q,d:s.data.d,t:s.data.t}));
+    EXTRA.events=pend.filter(s=>s.data.type==="event"&&s.data.n&&s.data.s).map(s=>({id:"sub-"+s.id,_new:true,n:s.data.n,s:s.data.s,e:s.data.e,time:s.data.time,v:s.data.v||"Valencia",k:s.data.k||"other",d:s.data.d,u:s.data.u}));
+  }catch(e){}
+}
+
+/* =================== ROUTER & BOOT =================== */
+function renderLangs(){const box=document.getElementById("langs");const cur=LANGS.find(l=>l[0]===lang);
+  box.innerHTML=`<button class="lbtn" id="lbtn" aria-haspopup="true" aria-label="Language">${FLAG[lang]}${cur[1]} ▾</button><div class="lmenu hidden" id="lmenu">${LANGS.map(([c])=>`<button data-l="${c}" class="${c===lang?"on":""}">${FLAG[c]}${LNAME[c]}</button>`).join("")}</div>`;
+  const menu=document.getElementById("lmenu");
+  document.getElementById("lbtn").onclick=e=>{e.stopPropagation();menu.classList.toggle("hidden")};
+  menu.querySelectorAll("[data-l]").forEach(b=>b.onclick=()=>{lang=b.dataset.l;try{localStorage.setItem("vn_lang",lang)}catch(e){};document.documentElement.lang=HTML_LANG[lang]||lang;renderChrome();route(true)});}
+document.addEventListener("click",()=>{const m=document.getElementById("lmenu");if(m)m.classList.add("hidden");const w=document.getElementById("wpop");if(w)w.classList.add("hidden")});
+function renderChrome(){renderLangs();document.getElementById("foot1").textContent=t("feet1");document.getElementById("foot2").textContent=t("foot2");tick();weatherHead();themeBtn();donateBox();}
+function route(keep){
+  const id=(location.hash||"").slice(1);document.getElementById("back").classList.toggle("show",!!id);
+  if(!keep){state.openNow=false;state.area="all"}
+  if(!id)renderHome();else if(id==="tonight")renderTonight();else if(id==="events")renderEvents();else if(id==="info")renderInfo();else if(id==="almuerzo")renderAlmuerzo();else if(id==="fallas")renderFallas();else if(id==="traffic")renderTraffic();else if(id==="travel")renderTravel();else if(id==="activities")renderActivities();else if(id==="rentals"||id==="luggage"||id==="health")renderGroups(id);else if(id==="admin")renderAdmin();
+  else if(CATS.some(c=>c.id===id))renderCategory(id);else renderHome();
+  if(!keep)window.scrollTo(0,0);
+}
+function tick(){const n=vlcNow();document.getElementById("clock").textContent=`${DAYN[lang][n.wd]} ${n.hh}:${n.mm}`;}
+function donateBox(){const el=document.getElementById("donate"),u=DATA.content?.donate?.u;if(!el)return;el.innerHTML=u?`<div class="donate"><span style="font-size:28px">☕</span><p>${t("donateTxt")}</p><a class="kofi" href="${esc(u)}" target="_blank" rel="noopener"><span class="cup">☕</span>${t("donateBtn")}</a></div>`:""}
+function themeBtn(){const d=document.documentElement.dataset.theme==="dark",b=document.getElementById("thbtn");b.textContent=d?"☀️":"🌙";b.title=t(d?"lightMode":"darkMode")}
+document.getElementById("thbtn").onclick=()=>{const n=document.documentElement.dataset.theme==="dark"?"light":"dark";document.documentElement.dataset.theme=n;try{localStorage.setItem("vn_theme",n)}catch(e){};themeBtn()};
+document.getElementById("back").onclick=()=>{location.hash=""};
+window.addEventListener("hashchange",()=>route(false));
+async function getJSON(p){const r=await fetch(p,{cache:"no-cache"});if(!r.ok)throw new Error(p+" "+r.status);return r.json()}
+(async function boot(){
+  document.documentElement.lang=HTML_LANG[lang]||lang;renderChrome();setInterval(tick,30000);
+  try{const[pl,ev,ct,wx]=await Promise.all([getJSON("data/places.json"),getJSON("data/events.json"),getJSON("data/content.json"),getJSON("data/weather.json").catch(()=>null)]);
+    DATA.places=pl.places||[];DATA.events=ev.events||[];DATA.content=ct;DATA.weather=wx;weatherHead();donateBox();}
+  catch(e){app.innerHTML=`<div class="empty" style="margin-top:30px">Could not load data. Please reload.</div>`;return}
+  route(false);
+  if(!(window.claude&&window.claude.use)){const al=document.getElementById("adminLink");if(al){al.previousSibling&&al.previousSibling.nodeType===3&&(al.previousSibling.textContent=al.previousSibling.textContent.replace(/\s*·\s*$/,""));al.remove()}}
+  // optional capabilities (owner/admin features + live additions)
+  try{if(window.claude&&window.claude.use){const[u,d]=await Promise.all([window.claude.use("user"),window.claude.use("db")]);USER=u;DB=d;
+    if(DB){await loadExtra();if((EXTRA.places.length||EXTRA.events.length)&&location.hash!=="#admin")route(true)}
+    if(location.hash==="#admin")renderAdmin();}}catch(e){}
+})();
+</script>
+</body>
+</html>
