@@ -3703,6 +3703,68 @@
 39.4584,
 -0.3846
 ]
+},
+{
+"id": "club-jerusalem",
+"c": "clubs",
+"n": "Jerusalem Club",
+"a": "extramurs",
+"p": 1,
+"h": "Th-Su 24:00-31:30",
+"q": "Jerusalem Club Calle Convento de Jerusalén 55 Valencia",
+"d": {
+"en": "A former 1920s rationalist cinema next to Bailén metro, now a central club for pop, rock and 80s–90s hits, with frequent concerts.",
+"es": "Antiguo cine racionalista junto al metro Bailén, hoy una sala céntrica de pop, rock y éxitos de los 80 y 90, con conciertos frecuentes.",
+"it": "Ex cinema razionalista accanto alla metro Bailén, oggi un club centrale di pop, rock e hit anni '80 e '90, con concerti frequenti.",
+"de": "Ehemaliges rationalistisches Kino neben der Metro Bailén, heute ein zentraler Club für Pop, Rock und 80er-/90er-Hits, mit vielen Konzerten.",
+"fr": "Ancien cinéma rationaliste près du métro Bailén, aujourd'hui un club central pop, rock et tubes des années 80-90, avec des concerts fréquents.",
+"pt": "Antigo cinema racionalista junto ao metro Bailén, hoje uma sala central de pop, rock e êxitos dos anos 80 e 90, com concertos frequentes.",
+"va": "Antic cinema racionalista al costat del metro Bailén, hui una sala cèntrica de pop, rock i èxits dels 80 i 90, amb concerts sovint."
+},
+"t": {
+"en": "Over 18 only, bring ID; door policy applies. Sign up to the free guest list on Xceed or the club's social media to pay less.",
+"es": "Solo mayores de 18, lleva DNI o pasaporte; se reserva el derecho de admisión. Apúntate a la lista gratis en Xceed o sus redes para pagar menos.",
+"it": "Solo maggiorenni, porta un documento; la selezione all'ingresso si applica. Iscriviti alla lista gratuita su Xceed o sui social del locale per pagare meno.",
+"de": "Nur ab 18, Ausweis mitbringen; es gibt Türpolitik. Auf Xceed oder Social Media auf die kostenlose Gästeliste setzen lassen und weniger zahlen.",
+"fr": "Réservé aux plus de 18 ans, pièce d'identité obligatoire ; sélection à l'entrée. Inscrivez-vous sur la liste gratuite via Xceed ou les réseaux du club pour payer moins.",
+"pt": "Só maiores de 18, leve documento de identificação; há direito de admissão. Inscreva-se na lista gratuita no Xceed ou nas redes do clube para pagar menos.",
+"va": "Només majors de 18, porta el DNI o el passaport; es reserva el dret d'admissió. Apunta't a la llista gratis a Xceed o a les seues xarxes per a pagar menys."
+},
+"ll": [
+39.4657,
+-0.3797
+]
+},
+{
+"id": "club-play",
+"c": "clubs",
+"n": "Play Club",
+"a": "ruzafa",
+"p": 1,
+"h": "",
+"u": "https://xceed.me/es/valencia/venue/play-club",
+"d": {
+"en": "Young, lively club in Ruzafa (Calle Cuba 8): chart hits, reggaeton and 90s–00s classics, plus themed parties.",
+"es": "Discoteca joven y animada en Ruzafa (calle Cuba 8): éxitos del momento, reguetón y clásicos de los 90 y 2000, además de fiestas temáticas.",
+"it": "Club giovane e vivace a Ruzafa (Calle Cuba 8): hit del momento, reggaeton e classici anni '90 e 2000, più feste a tema.",
+"de": "Junger, lebhafter Club in Ruzafa (Calle Cuba 8): aktuelle Hits, Reggaeton und Klassiker der 90er und 2000er, dazu Mottopartys.",
+"fr": "Club jeune et animé à Ruzafa (rue Cuba 8) : tubes du moment, reggaeton et classiques des années 90-2000, plus des soirées à thème.",
+"pt": "Discoteca jovem e animada em Ruzafa (Calle Cuba 8): êxitos do momento, reggaeton e clássicos dos anos 90 e 2000, além de festas temáticas.",
+"va": "Discoteca jove i animada a Russafa (carrer de Cuba 8): èxits del moment, reggaeton i clàssics dels 90 i 2000, a més de festes temàtiques."
+},
+"t": {
+"en": "Over 18 only, bring ID; door policy applies. Sign up to the free guest list on Xceed or the club's social media to pay less.",
+"es": "Solo mayores de 18, lleva DNI o pasaporte; se reserva el derecho de admisión. Apúntate a la lista gratis en Xceed o sus redes para pagar menos.",
+"it": "Solo maggiorenni, porta un documento; la selezione all'ingresso si applica. Iscriviti alla lista gratuita su Xceed o sui social del locale per pagare meno.",
+"de": "Nur ab 18, Ausweis mitbringen; es gibt Türpolitik. Auf Xceed oder Social Media auf die kostenlose Gästeliste setzen lassen und weniger zahlen.",
+"fr": "Réservé aux plus de 18 ans, pièce d'identité obligatoire ; sélection à l'entrée. Inscrivez-vous sur la liste gratuite via Xceed ou les réseaux du club pour payer moins.",
+"pt": "Só maiores de 18, leve documento de identificação; há direito de admissão. Inscreva-se na lista gratuita no Xceed ou nas redes do clube para pagar menos.",
+"va": "Només majors de 18, porta el DNI o el passaport; es reserva el dret d'admissió. Apunta't a la llista gratis a Xceed o a les seues xarxes per a pagar menys."
+},
+"ll": [
+39.4614,
+-0.3757
+]
 }
 ]
 }
