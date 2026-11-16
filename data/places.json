@@ -3610,6 +3610,99 @@
 39.4653,
 -0.3832
 ]
+},
+{
+"id": "club-rumbo144",
+"c": "clubs",
+"n": "Rumbo 144",
+"a": "plareal",
+"p": 1,
+"h": "We,Th,Fr,Sa 24:00-31:00",
+"q": "Rumbo 144 Avenida Blasco Ibáñez 144 Valencia",
+"d": {
+"en": "The classic student and Erasmus club on Avenida Blasco Ibáñez, in the university area: hip-hop, R&B, reggaeton and chart hits. Big night on Wednesdays and Thursdays.",
+"es": "La discoteca clásica de universitarios y Erasmus en la avenida Blasco Ibáñez, en la zona universitaria: hip-hop, R&B, reguetón y éxitos comerciales. Noches fuertes los miércoles y jueves.",
+"it": "Il classico club di studenti ed Erasmus in Avenida Blasco Ibáñez, nella zona universitaria: hip-hop, R&B, reggaeton e hit commerciali. Serate forti il mercoledì e il giovedì.",
+"de": "Der klassische Studenten- und Erasmus-Club an der Avenida Blasco Ibáñez im Uni-Viertel: Hip-Hop, R&B, Reggaeton und Chart-Hits. Große Nächte mittwochs und donnerstags.",
+"fr": "La boîte classique des étudiants et Erasmus sur l'avenue Blasco Ibáñez, dans le quartier universitaire : hip-hop, R&B, reggaeton et tubes commerciaux. Grosses soirées le mercredi et le jeudi.",
+"pt": "A discoteca clássica de universitários e Erasmus na avenida Blasco Ibáñez, na zona universitária: hip-hop, R&B, reggaeton e êxitos comerciais. Noites fortes às quartas e quintas.",
+"va": "La discoteca clàssica d'universitaris i Erasmus a l'avinguda de Blasco Ibáñez, a la zona universitària: hip-hop, R&B, reggaeton i èxits comercials. Nits fortes els dimecres i dijous."
+},
+"t": {
+"en": "Over 18 only, bring ID; door policy applies. Sign up to the free guest list on Xceed or the club's social media to pay less.",
+"es": "Solo mayores de 18, lleva DNI o pasaporte; se reserva el derecho de admisión. Apúntate a la lista gratis en Xceed o sus redes para pagar menos.",
+"it": "Solo maggiorenni, porta un documento; la selezione all'ingresso si applica. Iscriviti alla lista gratuita su Xceed o sui social del locale per pagare meno.",
+"de": "Nur ab 18, Ausweis mitbringen; es gibt Türpolitik. Auf Xceed oder Social Media auf die kostenlose Gästeliste setzen lassen und weniger zahlen.",
+"fr": "Réservé aux plus de 18 ans, pièce d'identité obligatoire ; sélection à l'entrée. Inscrivez-vous sur la liste gratuite via Xceed ou les réseaux du club pour payer moins.",
+"pt": "Só maiores de 18, leve documento de identificação; há direito de admissão. Inscreva-se na lista gratuita no Xceed ou nas redes do clube para pagar menos.",
+"va": "Només majors de 18, porta el DNI o el passaport; es reserva el dret d'admissió. Apunta't a la llista gratis a Xceed o a les seues xarxes per a pagar menys."
+},
+"ll": [
+39.4749,
+-0.3477
+]
+},
+{
+"id": "club-indiana",
+"c": "clubs",
+"n": "Indiana",
+"a": "extramurs",
+"p": 2,
+"h": "Th-Sa 24:00-31:00",
+"u": "https://xceed.me/es/valencia/club/indiana",
+"d": {
+"en": "One of the best-known clubs in the city centre, on Calle San Vicente Mártir: several rooms with commercial, reggaeton, house and pop. Smart-casual crowd.",
+"es": "Una de las discotecas más conocidas del centro, en la calle San Vicente Mártir: varias salas con música comercial, reguetón, house y pop. Público arreglado.",
+"it": "Una delle discoteche più note del centro, in Calle San Vicente Mártir: diverse sale con musica commerciale, reggaeton, house e pop. Pubblico elegante.",
+"de": "Einer der bekanntesten Clubs im Zentrum, in der Calle San Vicente Mártir: mehrere Räume mit Charts, Reggaeton, House und Pop. Schickes Publikum.",
+"fr": "L'une des boîtes les plus connues du centre, rue San Vicente Mártir : plusieurs salles avec musique commerciale, reggaeton, house et pop. Public plutôt habillé.",
+"pt": "Uma das discotecas mais conhecidas do centro, na Calle San Vicente Mártir: várias salas com música comercial, reggaeton, house e pop. Público arranjado.",
+"va": "Una de les discoteques més conegudes del centre, al carrer de Sant Vicent Màrtir: diverses sales amb música comercial, reggaeton, house i pop. Públic arreglat."
+},
+"t": {
+"en": "Over 18 only, bring ID; door policy applies. Sign up to the free guest list on Xceed or the club's social media to pay less.",
+"es": "Solo mayores de 18, lleva DNI o pasaporte; se reserva el derecho de admisión. Apúntate a la lista gratis en Xceed o sus redes para pagar menos.",
+"it": "Solo maggiorenni, porta un documento; la selezione all'ingresso si applica. Iscriviti alla lista gratuita su Xceed o sui social del locale per pagare meno.",
+"de": "Nur ab 18, Ausweis mitbringen; es gibt Türpolitik. Auf Xceed oder Social Media auf die kostenlose Gästeliste setzen lassen und weniger zahlen.",
+"fr": "Réservé aux plus de 18 ans, pièce d'identité obligatoire ; sélection à l'entrée. Inscrivez-vous sur la liste gratuite via Xceed ou les réseaux du club pour payer moins.",
+"pt": "Só maiores de 18, leve documento de identificação; há direito de admissão. Inscreva-se na lista gratuita no Xceed ou nas redes do clube para pagar menos.",
+"va": "Només majors de 18, porta el DNI o el passaport; es reserva el dret d'admissió. Apunta't a la llista gratis a Xceed o a les seues xarxes per a pagar menys."
+},
+"ll": [
+39.4632,
+-0.3808
+]
+},
+{
+"id": "club-committee",
+"c": "clubs",
+"n": "Committee",
+"a": "extramurs",
+"p": 2,
+"h": "Th-Sa 24:00-31:30",
+"q": "Committee club Calle San Vicente Mártir 200 Valencia",
+"d": {
+"en": "Large club on Calle San Vicente Mártir 200 (Jesús area): commercial music and reggaeton, shows and VIP tables. Popular for birthdays and hen/stag parties.",
+"es": "Discoteca grande en la calle San Vicente Mártir 200 (zona de Jesús): música comercial y reguetón, espectáculos y reservados VIP. Muy elegida para cumpleaños y despedidas.",
+"it": "Grande discoteca in Calle San Vicente Mártir 200 (zona Jesús): musica commerciale e reggaeton, spettacoli e tavoli VIP. Molto scelta per compleanni e addii al celibato/nubilato.",
+"de": "Großer Club in der Calle San Vicente Mártir 200 (Viertel Jesús): Charts und Reggaeton, Shows und VIP-Tische. Beliebt für Geburtstage und Junggesellenabschiede.",
+"fr": "Grande boîte au 200, rue San Vicente Mártir (quartier Jesús) : musique commerciale et reggaeton, shows et tables VIP. Très prisée pour les anniversaires et les EVJF/EVG.",
+"pt": "Discoteca grande na Calle San Vicente Mártir 200 (zona de Jesús): música comercial e reggaeton, espetáculos e mesas VIP. Muito escolhida para aniversários e despedidas de solteiro.",
+"va": "Discoteca gran al carrer de Sant Vicent Màrtir 200 (zona de Jesús): música comercial i reggaeton, espectacles i reservats VIP. Molt triada per a aniversaris i comiats."
+},
+"t": {
+"en": "Over 18 only, bring ID; door policy applies. Sign up to the free guest list on Xceed or the club's social media to pay less.",
+"es": "Solo mayores de 18, lleva DNI o pasaporte; se reserva el derecho de admisión. Apúntate a la lista gratis en Xceed o sus redes para pagar menos.",
+"it": "Solo maggiorenni, porta un documento; la selezione all'ingresso si applica. Iscriviti alla lista gratuita su Xceed o sui social del locale per pagare meno.",
+"de": "Nur ab 18, Ausweis mitbringen; es gibt Türpolitik. Auf Xceed oder Social Media auf die kostenlose Gästeliste setzen lassen und weniger zahlen.",
+"fr": "Réservé aux plus de 18 ans, pièce d'identité obligatoire ; sélection à l'entrée. Inscrivez-vous sur la liste gratuite via Xceed ou les réseaux du club pour payer moins.",
+"pt": "Só maiores de 18, leve documento de identificação; há direito de admissão. Inscreva-se na lista gratuita no Xceed ou nas redes do clube para pagar menos.",
+"va": "Només majors de 18, porta el DNI o el passaport; es reserva el dret d'admissió. Apunta't a la llista gratis a Xceed o a les seues xarxes per a pagar menys."
+},
+"ll": [
+39.4584,
+-0.3846
+]
 }
 ]
 }
