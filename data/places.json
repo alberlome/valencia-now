@@ -30,7 +30,16 @@
 "ll": [
 39.468,
 -0.343
-]
+],
+"mu": {
+"en": "House · Techno · Commercial",
+"es": "House · Techno · Comercial",
+"it": "House · Techno · Commerciale",
+"de": "House · Techno · Charts",
+"fr": "House · Techno · Commercial",
+"pt": "House · Techno · Comercial",
+"va": "House · Techno · Comercial"
+}
 },
 {
 "id": "mya",
@@ -61,7 +70,16 @@
 "ll": [
 39.457,
 -0.3505
-]
+],
+"mu": {
+"en": "Commercial · House · Reggaeton",
+"es": "Comercial · House · Reguetón",
+"it": "Commerciale · House · Reggaeton",
+"de": "Charts · House · Reggaeton",
+"fr": "Commercial · House · Reggaeton",
+"pt": "Comercial · House · Reggaeton",
+"va": "Comercial · House · Reggaeton"
+}
 },
 {
 "id": "marina-beach",
@@ -92,7 +110,16 @@
 "ll": [
 39.46,
 -0.325
-]
+],
+"mu": {
+"en": "House · Commercial",
+"es": "House · Comercial",
+"it": "House · Commerciale",
+"de": "House · Charts",
+"fr": "House · Commercial",
+"pt": "House · Comercial",
+"va": "House · Comercial"
+}
 },
 {
 "id": "akuarela",
@@ -123,7 +150,16 @@
 "ll": [
 39.483,
 -0.324
-]
+],
+"mu": {
+"en": "Commercial · Reggaeton · Latin",
+"es": "Comercial · Reguetón · Latina",
+"it": "Commerciale · Reggaeton · Latina",
+"de": "Charts · Reggaeton · Latin",
+"fr": "Commercial · Reggaeton · Latino",
+"pt": "Comercial · Reggaeton · Latina",
+"va": "Comercial · Reggaeton · Llatina"
+}
 },
 {
 "id": "deseo54",
@@ -145,7 +181,16 @@
 "ll": [
 39.472,
 -0.391
-]
+],
+"mu": {
+"en": "Pop · Dance · Commercial",
+"es": "Pop · Dance · Comercial",
+"it": "Pop · Dance · Commerciale",
+"de": "Pop · Dance · Charts",
+"fr": "Pop · Dance · Commercial",
+"pt": "Pop · Dance · Comercial",
+"va": "Pop · Dance · Comercial"
+}
 },
 {
 "id": "venial",
@@ -167,7 +212,16 @@
 "ll": [
 39.476,
 -0.382
-]
+],
+"mu": {
+"en": "Pop · Dance",
+"es": "Pop · Dance",
+"it": "Pop · Dance",
+"de": "Pop · Dance",
+"fr": "Pop · Dance",
+"pt": "Pop · Dance",
+"va": "Pop · Dance"
+}
 },
 {
 "id": "barraca",
@@ -198,7 +252,16 @@
 "ll": [
 39.21,
 -0.25
-]
+],
+"mu": {
+"en": "Techno · House · Electronic",
+"es": "Techno · House · Electrónica",
+"it": "Techno · House · Elettronica",
+"de": "Techno · House · Elektronisch",
+"fr": "Techno · House · Électro",
+"pt": "Techno · House · Eletrónica",
+"va": "Techno · House · Electrònica"
+}
 },
 {
 "id": "horas",
@@ -3640,7 +3703,16 @@
 "ll": [
 39.4749,
 -0.3477
-]
+],
+"mu": {
+"en": "Hip-hop · R&B · Reggaeton · Commercial",
+"es": "Hip-hop · R&B · Reguetón · Comercial",
+"it": "Hip-hop · R&B · Reggaeton · Commerciale",
+"de": "Hip-hop · R&B · Reggaeton · Charts",
+"fr": "Hip-hop · R&B · Reggaeton · Commercial",
+"pt": "Hip-hop · R&B · Reggaeton · Comercial",
+"va": "Hip-hop · R&B · Reggaeton · Comercial"
+}
 },
 {
 "id": "club-indiana",
@@ -3671,7 +3743,16 @@
 "ll": [
 39.4632,
 -0.3808
-]
+],
+"mu": {
+"en": "Commercial · Reggaeton · House · Pop",
+"es": "Comercial · Reguetón · House · Pop",
+"it": "Commerciale · Reggaeton · House · Pop",
+"de": "Charts · Reggaeton · House · Pop",
+"fr": "Commercial · Reggaeton · House · Pop",
+"pt": "Comercial · Reggaeton · House · Pop",
+"va": "Comercial · Reggaeton · House · Pop"
+}
 },
 {
 "id": "club-committee",
@@ -3702,7 +3783,16 @@
 "ll": [
 39.4584,
 -0.3846
-]
+],
+"mu": {
+"en": "Commercial · Reggaeton",
+"es": "Comercial · Reguetón",
+"it": "Commerciale · Reggaeton",
+"de": "Charts · Reggaeton",
+"fr": "Commercial · Reggaeton",
+"pt": "Comercial · Reggaeton",
+"va": "Comercial · Reggaeton"
+}
 },
 {
 "id": "club-jerusalem",
@@ -3733,7 +3823,16 @@
 "ll": [
 39.4657,
 -0.3797
-]
+],
+"mu": {
+"en": "Pop · Rock · 80s & 90s",
+"es": "Pop · Rock · 80 y 90",
+"it": "Pop · Rock · Anni '80 e '90",
+"de": "Pop · Rock · 80er & 90er",
+"fr": "Pop · Rock · Années 80 et 90",
+"pt": "Pop · Rock · Anos 80 e 90",
+"va": "Pop · Rock · 80 i 90"
+}
 },
 {
 "id": "club-play",
@@ -3764,7 +3863,16 @@
 "ll": [
 39.4614,
 -0.3757
-]
+],
+"mu": {
+"en": "Current hits · Reggaeton · 90s & 00s",
+"es": "Éxitos actuales · Reguetón · 90 y 2000",
+"it": "Hit del momento · Reggaeton · Anni '90 e 2000",
+"de": "Aktuelle Hits · Reggaeton · 90er & 2000er",
+"fr": "Tubes du moment · Reggaeton · Années 90 et 2000",
+"pt": "Êxitos atuais · Reggaeton · Anos 90 e 2000",
+"va": "Èxits actuals · Reggaeton · 90 i 2000"
+}
 }
 ]
 }

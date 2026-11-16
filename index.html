@@ -100,7 +100,7 @@ header.top{position:sticky;top:0;z-index:5;background:rgba(251,246,238,.94);back
 .tag.new{background:#efe6ff;color:#5b3fa6;font-weight:600}
 .card p{margin:0;color:#3b352e;font-size:14.5px}
 .tip{font-size:13.5px;background:#fff6ec;border-left:3px solid var(--orange);padding:7px 10px;border-radius:6px;color:#5a3a1c}
-.hours{font-size:13px;color:var(--muted)}
+.hours{font-size:13px;color:var(--muted)}.music{font-size:13.5px;font-weight:600;color:var(--orange);margin:2px 0 4px}
 .actions{display:flex;flex-wrap:wrap;gap:8px;margin-top:auto;padding-top:4px}
 .btn{display:inline-flex;align-items:center;gap:6px;padding:8px 12px;border-radius:10px;border:1px solid var(--line);background:#fff;text-decoration:none;font-size:14px;font-weight:500}
 .btn.primary{background:var(--orange);border-color:var(--orange);color:#fff}
@@ -237,7 +237,7 @@ let lang="en";
 try{const s=localStorage.getItem("vn_lang");if(s&&T[s])lang=s;else{let b=(navigator.language||"en").slice(0,2);if(b==="ca")b="va";if(T[b])lang=b;}}catch(e){}
 let DATA={places:[],events:[],content:null,weather:null};
 let EXTRA={places:[],events:[]}; // admin additions not yet merged
-let state={area:"all",openNow:false,query:""};
+let state={area:"all",openNow:false,query:"",genre:"all"};
 let DB=null,USER=null,canAdmin=false;
 let LOC=null;try{const v=JSON.parse(localStorage.getItem("vn_loc")||"null");if(v&&typeof v.lat==="number")LOC=v}catch(e){}
 function saveLoc(v){LOC=v;try{v?localStorage.setItem("vn_loc",JSON.stringify(v)):localStorage.removeItem("vn_loc")}catch(e){}}
@@ -310,7 +310,7 @@ function placeCard(p,now){
   const u=safeUrl(p.u);
   return `<article class="card"><h3>${esc(p.n)}</h3>
     <div class="meta">${p._new?`<span class="tag new">${t("added")}</span>`:""}<span class="tag">${esc(areaName(p.a))}</span>${distTag(p)}${priceTag(p.p)}${st}</div>
-    <p>${esc(tr(p.d))}</p>${p.t&&tr(p.t)?`<div class="tip">💡 ${esc(tr(p.t))}</div>`:""}
+    ${p.mu&&tr(p.mu)?`<div class="music">🎵 ${esc(tr(p.mu))}</div>`:""}<p>${esc(tr(p.d))}</p>${p.t&&tr(p.t)?`<div class="tip">💡 ${esc(tr(p.t))}</div>`:""}
     <div class="hours">🕒 ${p.h?esc(niceHours(p.h)):t("hoursVary")}</div>
     <div class="actions"><a class="btn primary" href="${mapUrl(p)}" target="_blank" rel="noopener">🗺️ ${t("map")}</a>
     ${u?`<a class="btn" href="${esc(u)}" target="_blank" rel="noopener">🌐 ${t("website")}</a>`:`<a class="btn" href="https://www.google.com/search?q=${encodeURIComponent(p.n+" Valencia")}" target="_blank" rel="noopener">🔎 ${t("searchWeb")}</a>`}</div></article>`;
@@ -368,7 +368,7 @@ function renderSearch(){
   body.classList.add("hidden");const terms=s.split(/\s+/);
   const blob=o=>Object.values(o||{}).join(" ");
   const match=txt=>{txt=txt.toLowerCase();return terms.every(x=>txt.includes(x))};
-  const ps=byDist(allPlaces().filter(p=>match([p.n,areaName(p.a),blob(p.d),blob(p.t),catName(p.c),p.p===0?Object.values(T).map(x=>x.free).join(" "):""].join(" "))));
+  const ps=byDist(allPlaces().filter(p=>match([p.n,areaName(p.a),blob(p.d),blob(p.t),blob(p.mu),catName(p.c),p.p===0?Object.values(T).map(x=>x.free).join(" "):""].join(" "))));
   const es=upcoming(now).filter(e=>match([e.n,e.v,blob(e.d),(KINDS[e.k]||[]).join(" ")].join(" ")));
   res.innerHTML=(es.length?`<div class="subhead">${t("events")}</div><div class="list">${es.map(e=>eventCard(e,now)).join("")}</div>`:"")+(ps.length?`<div class="subhead">${t("places")}</div><div class="list">${ps.map(p=>placeCard(p,now)).join("")}</div>`:"")+(!es.length&&!ps.length?`<div class="empty">${t("nothingFound")}</div>`:"");
 }
@@ -376,12 +376,14 @@ function head(id){const c=CATS.find(c=>c.id===id);return `<section class="view-h
 function renderCategory(id){
   const now=vlcNow();let items=allPlaces().filter(p=>p.c===id);
   const areas=["all",...new Set(items.map(p=>p.a))];if(!areas.includes(state.area))state.area="all";
-  let shown=items.filter(p=>state.area==="all"||p.a===state.area);if(state.openNow)shown=shown.filter(p=>isOpen(p.h,now));
+  const gens=p=>p.mu?tr(p.mu).split(" · "):[];const genres=["all",...[...new Set(items.flatMap(gens))].sort()];if(!genres.includes(state.genre))state.genre="all";
+  let shown=items.filter(p=>(state.area==="all"||p.a===state.area)&&(state.genre==="all"||gens(p).includes(state.genre)));if(state.openNow)shown=shown.filter(p=>isOpen(p.h,now));
   shown.sort((a,b)=>(isOpen(b.h,now)?1:0)-(isOpen(a.h,now)?1:0));shown=byDist(shown);
   app.innerHTML=head(id)+locBar()+`<div class="chips"><button class="chip ${LOC?"on":""}" data-loc>📍 ${t("near")}</button>${items.some(p=>p.h)?`<button class="chip ${state.openNow?"on":""}" data-open>● ${t("openNow")}</button>`:""}
-    ${areas.length>2?areas.map(a=>`<button class="chip ${state.area===a?"on":""}" data-area="${esc(a)}">${esc(a==="all"?t("all"):areaName(a))}</button>`).join(""):""}</div>
+    ${areas.length>2?areas.map(a=>`<button class="chip ${state.area===a?"on":""}" data-area="${esc(a)}">${esc(a==="all"?t("all"):areaName(a))}</button>`).join(""):""}</div>${genres.length>2?`<div class="chips">${genres.map(g=>`<button class="chip ${state.genre===g?"on":""}" data-genre="${esc(g)}">${g==="all"?"🎵 "+t("all"):esc(g)}</button>`).join("")}</div>`:""}
     <div class="list">${shown.length?shown.map(p=>placeCard(p,now)).join(""):`<div class="empty">${t("nothingOpen")}</div>`}</div>`;
   app.querySelectorAll("[data-area]").forEach(b=>b.onclick=()=>{state.area=b.dataset.area;renderCategory(id)});
+  app.querySelectorAll("[data-genre]").forEach(b=>b.onclick=()=>{state.genre=b.dataset.genre;renderCategory(id)});
   const o=app.querySelector("[data-open]");if(o)o.onclick=()=>{state.openNow=!state.openNow;renderCategory(id)};
   wireLoc(()=>renderCategory(id));
 }
