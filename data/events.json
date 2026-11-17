@@ -1,398 +1,510 @@
 {
-"version": 1,
-"events": [
-{
-"id": "minerval26",
-"n": "Minerval — mineral & fossil fair",
-"s": "2026-11-14",
-"v": "Escuelas San José (Jesuitas)",
-"k": "fair",
-"d": {
-"en": "Free entry: minerals, fossils and gems from 42 exhibitors.",
-"es": "Entrada libre: minerales, fósiles y gemas de 42 expositores.",
-"it": "Ingresso libero: minerali, fossili e gemme di 42 espositori.",
-"de": "Eintritt frei: Mineralien, Fossilien und Edelsteine von 42 Ausstellern.",
-"fr": "Entrée libre : minéraux, fossiles et gemmes de 42 exposants.",
-"pt": "Entrada livre: minerais, fósseis e pedras preciosas de 42 expositores.",
-"va": "Entrada lliure: minerals, fòssils i pedres precioses de 42 expositors."
-},
-"e": "2026-11-15"
-},
-{
-"id": "jesseyjoy26",
-"n": "Jesse & Joy",
-"s": "2026-11-15",
-"v": "Roig Arena",
-"k": "concert",
-"d": {
-"en": "Latin pop duo from Mexico.",
-"es": "Dúo de pop latino mexicano.",
-"it": "Duo pop latino dal Messico.",
-"de": "Latin-Pop-Duo aus Mexiko.",
-"fr": "Duo pop latino mexicain.",
-"pt": "Dupla de pop latino do México.",
-"va": "Duo de pop llatí de Mèxic."
-},
-"u": "https://www.roigarena.com/"
-},
-{
-"id": "mondragon26",
-"n": "Orquesta Mondragón — 50th anniversary",
-"s": "2026-11-19",
-"v": "Auditorio Roig Arena",
-"k": "concert",
-"d": {
-"en": "The classic Spanish pop-rock band celebrates 50 years.",
-"es": "La mítica orquesta celebra sus 50 años.",
-"it": "La storica band pop-rock spagnola festeggia 50 anni.",
-"de": "Die spanische Kultband feiert 50 Jahre.",
-"fr": "Le groupe culte espagnol fête ses 50 ans.",
-"pt": "A clássica banda espanhola de pop-rock celebra 50 anos.",
-"va": "El clàssic grup espanyol de pop-rock celebra 50 anys."
-},
-"time": "22:00",
-"u": "https://www.roigarena.com/"
-},
-{
-"id": "lagos26",
-"n": "Lagos",
-"s": "2026-11-20",
-"v": "Auditorio Roig Arena",
-"k": "concert",
-"d": {
-"en": "Venezuelan Latin-pop duo, 'En La Noche Tour'.",
-"es": "Dúo venezolano de pop latino, gira «En La Noche».",
-"it": "Duo venezuelano di pop latino, tour 'En La Noche'.",
-"de": "Venezolanisches Latin-Pop-Duo, 'En La Noche Tour'.",
-"fr": "Duo vénézuélien de pop latino, tournée « En La Noche ».",
-"pt": "Dupla venezuelana de pop latino, digressão 'En La Noche'.",
-"va": "Duo veneçolà de pop llatí, gira 'En La Noche'."
-},
-"u": "https://www.roigarena.com/"
-},
-{
-"id": "tardeo26",
-"n": "Tardeo at Parc Central",
-"s": "2026-11-21",
-"v": "Parc Central",
-"k": "party",
-"d": {
-"en": "Afternoon party with two DJ booths: 'remember' and electronic music.",
-"es": "Tardeo con dos cabinas: remember y electrónica.",
-"it": "Festa pomeridiana con due consolle: 'remember' ed elettronica.",
-"de": "Nachmittagsparty mit zwei DJ-Pulten: 'Remember' und Elektro.",
-"fr": "Fête d'après-midi avec deux cabines DJ : « remember » et électro.",
-"pt": "Festa à tarde com duas cabines de DJ: 'remember' e música eletrónica.",
-"va": "Festa de vesprada amb dues cabines de DJ: 'remember' i música electrònica."
-}
-},
-{
-"id": "circo26",
-"n": "Gran Circo Monumental",
-"s": "2026-11-21",
-"v": "Valencia",
-"k": "show",
-"d": {
-"en": "Circus with acrobatics, magic and anime, running through Christmas.",
-"es": "Circo con acrobacias, magia y anime durante toda la Navidad.",
-"it": "Circo con acrobazie, magia e anime per tutto il periodo natalizio.",
-"de": "Zirkus mit Akrobatik, Magie und Anime über Weihnachten.",
-"fr": "Cirque avec acrobaties, magie et anime pendant les fêtes.",
-"pt": "Circo com acrobacias, magia e anime durante todo o Natal.",
-"va": "Circ amb acrobàcies, màgia i anime durant tot el Nadal."
-},
-"e": "2027-01-06"
-},
-{
-"id": "japanweekend26",
-"n": "Japan Weekend Valencia",
-"s": "2026-11-21",
-"v": "Valencia",
-"k": "fair",
-"d": {
-"en": "Manga, anime, video games, cosplay and Japanese culture.",
-"es": "Manga, anime, videojuegos, cosplay y cultura japonesa.",
-"it": "Manga, anime, videogiochi, cosplay e cultura giapponese.",
-"de": "Manga, Anime, Videospiele, Cosplay und japanische Kultur.",
-"fr": "Manga, anime, jeux vidéo, cosplay et culture japonaise.",
-"pt": "Manga, anime, videojogos, cosplay e cultura japonesa.",
-"va": "Manga, anime, videojocs, cosplay i cultura japonesa."
-},
-"e": "2026-11-22"
-},
-{
-"id": "carolina26",
-"n": "Carolina Durante",
-"s": "2026-11-26",
-"v": "Roig Arena",
-"k": "concert",
-"d": {
-"en": "Madrid indie band's biggest concert so far — end of tour.",
-"es": "El concierto más grande de la banda indie madrileña, fin de gira.",
-"it": "Il concerto più grande della band indie di Madrid, fine tour.",
-"de": "Größtes Konzert der Madrider Indieband – Tourabschluss.",
-"fr": "Le plus grand concert du groupe indé madrilène, fin de tournée.",
-"pt": "O maior concerto da banda indie de Madrid até hoje — fim de digressão.",
-"va": "El concert més gran fins ara del grup indie de Madrid — final de gira."
-},
-"time": "21:00",
-"u": "https://www.roigarena.com/"
-},
-{
-"id": "estopa26",
-"n": "Estopa",
-"s": "2026-11-28",
-"v": "Roig Arena",
-"k": "concert",
-"d": {
-"en": "Their only concert of 2026, with guest Mafalda Cardenal.",
-"es": "Su único concierto de 2026, con Mafalda Cardenal como invitada.",
-"it": "Il loro unico concerto del 2026, ospite Mafalda Cardenal.",
-"de": "Ihr einziges Konzert 2026, Gast: Mafalda Cardenal.",
-"fr": "Leur unique concert de 2026, invitée Mafalda Cardenal.",
-"pt": "O seu único concerto de 2026, com a convidada Mafalda Cardenal.",
-"va": "El seu únic concert de 2026, amb la convidada Mafalda Cardenal."
-},
-"u": "https://www.roigarena.com/"
-},
-{
-"id": "catupecu26",
-"n": "Catupecu Machu",
-"s": "2026-12-04",
-"v": "Sala Rock City",
-"k": "concert",
-"d": {
-"en": "Argentine rock.",
-"es": "Rock argentino.",
-"it": "Rock argentino.",
-"de": "Argentinischer Rock.",
-"fr": "Rock argentin.",
-"pt": "Rock argentino.",
-"va": "Rock argentí."
-}
-},
-{
-"id": "raimundo26",
-"n": "Raimundo Amador",
-"s": "2026-12-05",
-"v": "Auditorio Roig Arena",
-"k": "concert",
-"d": {
-"en": "Flamenco-blues guitar master.",
-"es": "Maestro de la guitarra flamenco-blues.",
-"it": "Maestro della chitarra flamenco-blues.",
-"de": "Meister der Flamenco-Blues-Gitarre.",
-"fr": "Maître de la guitare flamenco-blues.",
-"pt": "Mestre da guitarra flamenco-blues.",
-"va": "Mestre de la guitarra flamenc-blues."
-},
-"u": "https://www.roigarena.com/"
-},
-{
-"id": "airbag26",
-"n": "Airbag",
-"s": "2026-12-05",
-"v": "Sala 16 Toneladas",
-"k": "concert",
-"d": {
-"en": "Power-pop / punk-pop.",
-"es": "Power pop / punk pop.",
-"it": "Power pop / punk pop.",
-"de": "Power-Pop / Punk-Pop.",
-"fr": "Power-pop / punk-pop.",
-"pt": "Power-pop / punk-pop.",
-"va": "Power-pop / punk-pop."
-},
-"u": "https://16toneladas.com/"
-},
-{
-"id": "pastori26",
-"n": "Niña Pastori",
-"s": "2026-12-06",
-"v": "Auditorio Roig Arena",
-"k": "concert",
-"d": {
-"en": "Flamenco singer.",
-"es": "Cantaora flamenca.",
-"it": "Cantante di flamenco.",
-"de": "Flamenco-Sängerin.",
-"fr": "Chanteuse de flamenco.",
-"pt": "Cantora de flamenco.",
-"va": "Cantaora de flamenc."
-},
-"u": "https://www.roigarena.com/"
-},
-{
-"id": "bunbury26",
-"n": "Bunbury",
-"s": "2026-12-07",
-"v": "Roig Arena",
-"k": "concert",
-"d": {
-"en": "'Nuevas Mutaciones Tour 2026'.",
-"es": "Gira «Nuevas Mutaciones 2026».",
-"it": "Tour 'Nuevas Mutaciones 2026'.",
-"de": "'Nuevas Mutaciones Tour 2026'.",
-"fr": "Tournée « Nuevas Mutaciones 2026 ».",
-"pt": "Digressão 'Nuevas Mutaciones 2026'.",
-"va": "Gira 'Nuevas Mutaciones 2026'."
-},
-"u": "https://www.roigarena.com/"
-},
-{
-"id": "ubago26",
-"n": "Álex Ubago",
-"s": "2026-12-10",
-"v": "Roig Arena",
-"k": "concert",
-"d": {
-"en": "25th anniversary of '¿Qué pides tú?'.",
-"es": "25 aniversario de «¿Qué pides tú?».",
-"it": "25° anniversario di '¿Qué pides tú?'.",
-"de": "25 Jahre '¿Qué pides tú?'.",
-"fr": "25 ans de « ¿Qué pides tú? ».",
-"pt": "25.º aniversário de '¿Qué pides tú?'.",
-"va": "25é aniversari de '¿Qué pides tú?'."
-},
-"u": "https://www.roigarena.com/"
-},
-{
-"id": "ellar26",
-"n": "Sofía Ellar",
-"s": "2026-12-12",
-"v": "Roig Arena",
-"k": "concert",
-"d": {
-"en": "Spanish pop singer-songwriter.",
-"es": "Cantautora pop española.",
-"it": "Cantautrice pop spagnola.",
-"de": "Spanische Pop-Singer-Songwriterin.",
-"fr": "Auteure-compositrice pop espagnole.",
-"pt": "Cantautora pop espanhola.",
-"va": "Cantautora pop espanyola."
-},
-"u": "https://www.roigarena.com/"
-},
-{
-"id": "melendi26",
-"n": "Melendi",
-"s": "2026-12-13",
-"v": "Roig Arena",
-"k": "concert",
-"d": {
-"en": "Spanish pop-rumba.",
-"es": "Pop-rumba español.",
-"it": "Pop-rumba spagnolo.",
-"de": "Spanischer Pop-Rumba.",
-"fr": "Pop-rumba espagnole.",
-"pt": "Pop-rumba espanhola.",
-"va": "Pop-rumba espanyola."
-},
-"u": "https://www.roigarena.com/"
-},
-{
-"id": "macygray26",
-"n": "Macy Gray",
-"s": "2026-12-15",
-"v": "Roig Arena",
-"k": "concert",
-"d": {
-"en": "US soul and R&B.",
-"es": "Soul y R&B estadounidense.",
-"it": "Soul e R&B americano.",
-"de": "US-Soul und R&B.",
-"fr": "Soul et R&B américain.",
-"pt": "Soul e R&B norte-americano.",
-"va": "Soul i R&B nord-americà."
-},
-"u": "https://www.roigarena.com/"
-},
-{
-"id": "rayareal26",
-"n": "Raya Real — Christmas tour",
-"s": "2026-12-16",
-"v": "Roig Arena",
-"k": "concert",
-"d": {
-"en": "Andalusian rumba Christmas show.",
-"es": "Espectáculo navideño de rumba andaluza.",
-"it": "Spettacolo natalizio di rumba andalusa.",
-"de": "Weihnachtsshow mit andalusischer Rumba.",
-"fr": "Spectacle de Noël de rumba andalouse.",
-"pt": "Espetáculo de Natal de rumba andaluza.",
-"va": "Espectacle nadalenc de rumba andalusa."
-},
-"u": "https://www.roigarena.com/"
-},
-{
-"id": "jsq26",
-"n": "Japan Sound Quest",
-"s": "2026-12-18",
-"v": "Roig Arena",
-"k": "concert",
-"d": {
-"en": "Japanese video-game and anime music live.",
-"es": "Música de videojuegos y anime japonés en directo.",
-"it": "Musica di videogiochi e anime giapponesi dal vivo.",
-"de": "Japanische Videospiel- und Anime-Musik live.",
-"fr": "Musique de jeux vidéo et d'anime japonais en live.",
-"pt": "Música de videojogos e anime japoneses ao vivo.",
-"va": "Música de videojocs i anime japonesos en directe."
-},
-"u": "https://www.roigarena.com/"
-},
-{
-"id": "jazzroom26",
-"n": "The Jazz Room: New Orleans",
-"s": "2026-07-24",
-"v": "Loco Club",
-"k": "show",
-"d": {
-"en": "Jazz show inspired by New Orleans.",
-"es": "Espectáculo de jazz inspirado en Nueva Orleans.",
-"it": "Spettacolo jazz ispirato a New Orleans.",
-"de": "Jazzshow im Stil von New Orleans.",
-"fr": "Spectacle de jazz inspiré de La Nouvelle-Orléans.",
-"pt": "Espetáculo de jazz inspirado em Nova Orleães.",
-"va": "Espectacle de jazz inspirat en Nova Orleans."
-},
-"e": "2027-01-17",
-"u": "https://feverup.com/en/valencia"
-},
-{
-"id": "jury26",
-"n": "The Jury Experience: Murder Case",
-"s": "2026-07-11",
-"v": "Ateneu Mercantil",
-"k": "show",
-"d": {
-"en": "Interactive show where you are the jury.",
-"es": "Espectáculo interactivo: tú eres el jurado.",
-"it": "Spettacolo interattivo: la giuria sei tu.",
-"de": "Interaktive Show: Du bist die Jury.",
-"fr": "Spectacle interactif : c'est vous le jury.",
-"pt": "Espetáculo interativo em que o júri é você.",
-"va": "Espectacle interactiu on el jurat eres tu."
-},
-"e": "2027-01-22",
-"u": "https://feverup.com/en/valencia"
-},
-{
-"id": "xmasmarket26",
-"n": "Christmas markets",
-"s": "2026-11-28",
-"v": "Plaza de la Reina",
-"k": "market",
-"d": {
-"en": "Christmas craft stalls in the old town until 6 January (2026 dates to be confirmed).",
-"es": "Mercadillos navideños en el centro hasta el 6 de enero (fechas 2026 por confirmar).",
-"it": "Mercatini di Natale in centro fino al 6 gennaio (date 2026 da confermare).",
-"de": "Weihnachtsmärkte in der Altstadt bis 6. Januar (Termine 2026 noch offen).",
-"fr": "Marchés de Noël dans la vieille ville jusqu'au 6 janvier (dates 2026 à confirmer).",
-"pt": "Bancas de artesanato de Natal no centro histórico até 6 de janeiro (datas de 2026 por confirmar).",
-"va": "Parades d'artesania nadalenca al centre històric fins al 6 de gener (dates de 2026 per confirmar)."
-},
-"e": "2027-01-06"
-}
-]
+ "version": 3,
+ "events": [
+  {
+   "id": "mondragon26",
+   "n": "Orquesta Mondragón — 50th anniversary",
+   "s": "2026-11-19",
+   "v": "Auditorio Roig Arena",
+   "k": "concert",
+   "d": {
+    "en": "The classic Spanish pop-rock band celebrates 50 years.",
+    "es": "La mítica orquesta celebra sus 50 años.",
+    "it": "La storica band pop-rock spagnola festeggia 50 anni.",
+    "de": "Die spanische Kultband feiert 50 Jahre.",
+    "fr": "Le groupe culte espagnol fête ses 50 ans.",
+    "pt": "A clássica banda espanhola de pop-rock celebra 50 anos.",
+    "va": "El clàssic grup espanyol de pop-rock celebra 50 anys."
+   },
+   "time": "22:00",
+   "u": "https://www.roigarena.com/"
+  },
+  {
+   "id": "lagos26",
+   "n": "Lagos",
+   "s": "2026-11-20",
+   "v": "Auditorio Roig Arena",
+   "k": "concert",
+   "d": {
+    "en": "Venezuelan Latin-pop duo, 'En La Noche Tour'.",
+    "es": "Dúo venezolano de pop latino, gira «En La Noche».",
+    "it": "Duo venezuelano di pop latino, tour 'En La Noche'.",
+    "de": "Venezolanisches Latin-Pop-Duo, 'En La Noche Tour'.",
+    "fr": "Duo vénézuélien de pop latino, tournée « En La Noche ».",
+    "pt": "Dupla venezuelana de pop latino, digressão 'En La Noche'.",
+    "va": "Duo veneçolà de pop llatí, gira 'En La Noche'."
+   },
+   "u": "https://www.roigarena.com/"
+  },
+  {
+   "id": "tardeo26",
+   "n": "Tardeo at Parc Central",
+   "s": "2026-11-21",
+   "v": "Parc Central",
+   "k": "party",
+   "d": {
+    "en": "Afternoon party with two DJ booths: 'remember' and electronic music.",
+    "es": "Tardeo con dos cabinas: remember y electrónica.",
+    "it": "Festa pomeridiana con due consolle: 'remember' ed elettronica.",
+    "de": "Nachmittagsparty mit zwei DJ-Pulten: 'Remember' und Elektro.",
+    "fr": "Fête d'après-midi avec deux cabines DJ : « remember » et électro.",
+    "pt": "Festa à tarde com duas cabines de DJ: 'remember' e música eletrónica.",
+    "va": "Festa de vesprada amb dues cabines de DJ: 'remember' i música electrònica."
+   }
+  },
+  {
+   "id": "circo26",
+   "n": "Gran Circo Monumental",
+   "s": "2026-11-21",
+   "v": "Valencia",
+   "k": "show",
+   "d": {
+    "en": "Circus with acrobatics, magic and anime, running through Christmas.",
+    "es": "Circo con acrobacias, magia y anime durante toda la Navidad.",
+    "it": "Circo con acrobazie, magia e anime per tutto il periodo natalizio.",
+    "de": "Zirkus mit Akrobatik, Magie und Anime über Weihnachten.",
+    "fr": "Cirque avec acrobaties, magie et anime pendant les fêtes.",
+    "pt": "Circo com acrobacias, magia e anime durante todo o Natal.",
+    "va": "Circ amb acrobàcies, màgia i anime durant tot el Nadal."
+   },
+   "e": "2027-01-06"
+  },
+  {
+   "id": "japanweekend26",
+   "n": "Japan Weekend Valencia",
+   "s": "2026-11-21",
+   "v": "Feria Valencia",
+   "k": "fair",
+   "d": {
+    "en": "Manga, anime, video games, cosplay and Japanese culture. Tickets €19/day, €24 both days.",
+    "es": "Manga, anime, videojuegos, cosplay y cultura japonesa. Entrada 19 €/día, 24 € los dos días.",
+    "it": "Manga, anime, videogiochi, cosplay e cultura giapponese. Biglietto 19 €/giorno, 24 € due giorni.",
+    "de": "Manga, Anime, Videospiele, Cosplay und japanische Kultur. Eintritt 19 €/Tag, 24 € für beide Tage.",
+    "fr": "Manga, anime, jeux vidéo, cosplay et culture japonaise. Entrée 19 €/jour, 24 € les deux jours.",
+    "pt": "Manga, anime, videojogos, cosplay e cultura japonesa. Bilhete 19 €/dia, 24 € os dois dias.",
+    "va": "Manga, anime, videojocs, cosplay i cultura japonesa. Entrada 19 €/dia, 24 € els dos dies."
+   },
+   "e": "2026-11-22",
+   "u": "https://www.japanweekend.com/valencia/"
+  },
+  {
+   "id": "carolina26",
+   "n": "Carolina Durante",
+   "s": "2026-11-26",
+   "v": "Roig Arena",
+   "k": "concert",
+   "d": {
+    "en": "Madrid indie band's biggest concert so far — end of tour.",
+    "es": "El concierto más grande de la banda indie madrileña, fin de gira.",
+    "it": "Il concerto più grande della band indie di Madrid, fine tour.",
+    "de": "Größtes Konzert der Madrider Indieband – Tourabschluss.",
+    "fr": "Le plus grand concert du groupe indé madrilène, fin de tournée.",
+    "pt": "O maior concerto da banda indie de Madrid até hoje — fim de digressão.",
+    "va": "El concert més gran fins ara del grup indie de Madrid — final de gira."
+   },
+   "time": "21:00",
+   "u": "https://www.roigarena.com/"
+  },
+  {
+   "id": "estopa26",
+   "n": "Estopa",
+   "s": "2026-11-28",
+   "v": "Roig Arena",
+   "k": "concert",
+   "d": {
+    "en": "Their only concert of 2026, with guest Mafalda Cardenal.",
+    "es": "Su único concierto de 2026, con Mafalda Cardenal como invitada.",
+    "it": "Il loro unico concerto del 2026, ospite Mafalda Cardenal.",
+    "de": "Ihr einziges Konzert 2026, Gast: Mafalda Cardenal.",
+    "fr": "Leur unique concert de 2026, invitée Mafalda Cardenal.",
+    "pt": "O seu único concerto de 2026, com a convidada Mafalda Cardenal.",
+    "va": "El seu únic concert de 2026, amb la convidada Mafalda Cardenal."
+   },
+   "u": "https://www.roigarena.com/"
+  },
+  {
+   "id": "catupecu26",
+   "n": "Catupecu Machu",
+   "s": "2026-12-04",
+   "v": "Sala Rock City",
+   "k": "concert",
+   "d": {
+    "en": "Argentine rock.",
+    "es": "Rock argentino.",
+    "it": "Rock argentino.",
+    "de": "Argentinischer Rock.",
+    "fr": "Rock argentin.",
+    "pt": "Rock argentino.",
+    "va": "Rock argentí."
+   }
+  },
+  {
+   "id": "raimundo26",
+   "n": "Raimundo Amador",
+   "s": "2026-12-05",
+   "v": "Auditorio Roig Arena",
+   "k": "concert",
+   "d": {
+    "en": "Flamenco-blues guitar master.",
+    "es": "Maestro de la guitarra flamenco-blues.",
+    "it": "Maestro della chitarra flamenco-blues.",
+    "de": "Meister der Flamenco-Blues-Gitarre.",
+    "fr": "Maître de la guitare flamenco-blues.",
+    "pt": "Mestre da guitarra flamenco-blues.",
+    "va": "Mestre de la guitarra flamenc-blues."
+   },
+   "u": "https://www.roigarena.com/"
+  },
+  {
+   "id": "airbag26",
+   "n": "Airbag",
+   "s": "2026-12-05",
+   "v": "Sala 16 Toneladas",
+   "k": "concert",
+   "d": {
+    "en": "Power-pop / punk-pop.",
+    "es": "Power pop / punk pop.",
+    "it": "Power pop / punk pop.",
+    "de": "Power-Pop / Punk-Pop.",
+    "fr": "Power-pop / punk-pop.",
+    "pt": "Power-pop / punk-pop.",
+    "va": "Power-pop / punk-pop."
+   },
+   "u": "https://16toneladas.com/"
+  },
+  {
+   "id": "pastori26",
+   "n": "Niña Pastori",
+   "s": "2026-12-06",
+   "v": "Auditorio Roig Arena",
+   "k": "concert",
+   "d": {
+    "en": "Flamenco singer.",
+    "es": "Cantaora flamenca.",
+    "it": "Cantante di flamenco.",
+    "de": "Flamenco-Sängerin.",
+    "fr": "Chanteuse de flamenco.",
+    "pt": "Cantora de flamenco.",
+    "va": "Cantaora de flamenc."
+   },
+   "u": "https://www.roigarena.com/"
+  },
+  {
+   "id": "bunbury26",
+   "n": "Bunbury",
+   "s": "2026-12-07",
+   "v": "Roig Arena",
+   "k": "concert",
+   "d": {
+    "en": "'Nuevas Mutaciones Tour 2026'.",
+    "es": "Gira «Nuevas Mutaciones 2026».",
+    "it": "Tour 'Nuevas Mutaciones 2026'.",
+    "de": "'Nuevas Mutaciones Tour 2026'.",
+    "fr": "Tournée « Nuevas Mutaciones 2026 ».",
+    "pt": "Digressão 'Nuevas Mutaciones 2026'.",
+    "va": "Gira 'Nuevas Mutaciones 2026'."
+   },
+   "u": "https://www.roigarena.com/"
+  },
+  {
+   "id": "ubago26",
+   "n": "Álex Ubago",
+   "s": "2026-12-10",
+   "v": "Roig Arena",
+   "k": "concert",
+   "d": {
+    "en": "25th anniversary of '¿Qué pides tú?'.",
+    "es": "25 aniversario de «¿Qué pides tú?».",
+    "it": "25° anniversario di '¿Qué pides tú?'.",
+    "de": "25 Jahre '¿Qué pides tú?'.",
+    "fr": "25 ans de « ¿Qué pides tú? ».",
+    "pt": "25.º aniversário de '¿Qué pides tú?'.",
+    "va": "25é aniversari de '¿Qué pides tú?'."
+   },
+   "u": "https://www.roigarena.com/"
+  },
+  {
+   "id": "ellar26",
+   "n": "Sofía Ellar",
+   "s": "2026-12-12",
+   "v": "Roig Arena",
+   "k": "concert",
+   "d": {
+    "en": "Spanish pop singer-songwriter.",
+    "es": "Cantautora pop española.",
+    "it": "Cantautrice pop spagnola.",
+    "de": "Spanische Pop-Singer-Songwriterin.",
+    "fr": "Auteure-compositrice pop espagnole.",
+    "pt": "Cantautora pop espanhola.",
+    "va": "Cantautora pop espanyola."
+   },
+   "u": "https://www.roigarena.com/"
+  },
+  {
+   "id": "melendi26",
+   "n": "Melendi",
+   "s": "2026-12-13",
+   "v": "Roig Arena",
+   "k": "concert",
+   "d": {
+    "en": "Spanish pop-rumba.",
+    "es": "Pop-rumba español.",
+    "it": "Pop-rumba spagnolo.",
+    "de": "Spanischer Pop-Rumba.",
+    "fr": "Pop-rumba espagnole.",
+    "pt": "Pop-rumba espanhola.",
+    "va": "Pop-rumba espanyola."
+   },
+   "u": "https://www.roigarena.com/"
+  },
+  {
+   "id": "macygray26",
+   "n": "Macy Gray",
+   "s": "2026-12-15",
+   "v": "Roig Arena",
+   "k": "concert",
+   "d": {
+    "en": "US soul and R&B.",
+    "es": "Soul y R&B estadounidense.",
+    "it": "Soul e R&B americano.",
+    "de": "US-Soul und R&B.",
+    "fr": "Soul et R&B américain.",
+    "pt": "Soul e R&B norte-americano.",
+    "va": "Soul i R&B nord-americà."
+   },
+   "u": "https://www.roigarena.com/"
+  },
+  {
+   "id": "rayareal26",
+   "n": "Raya Real — Christmas tour",
+   "s": "2026-12-16",
+   "v": "Roig Arena",
+   "k": "concert",
+   "d": {
+    "en": "Andalusian rumba Christmas show.",
+    "es": "Espectáculo navideño de rumba andaluza.",
+    "it": "Spettacolo natalizio di rumba andalusa.",
+    "de": "Weihnachtsshow mit andalusischer Rumba.",
+    "fr": "Spectacle de Noël de rumba andalouse.",
+    "pt": "Espetáculo de Natal de rumba andaluza.",
+    "va": "Espectacle nadalenc de rumba andalusa."
+   },
+   "u": "https://www.roigarena.com/"
+  },
+  {
+   "id": "jsq26",
+   "n": "Japan Sound Quest",
+   "s": "2026-12-18",
+   "v": "Roig Arena",
+   "k": "concert",
+   "d": {
+    "en": "Japanese video-game and anime music live.",
+    "es": "Música de videojuegos y anime japonés en directo.",
+    "it": "Musica di videogiochi e anime giapponesi dal vivo.",
+    "de": "Japanische Videospiel- und Anime-Musik live.",
+    "fr": "Musique de jeux vidéo et d'anime japonais en live.",
+    "pt": "Música de videojogos e anime japoneses ao vivo.",
+    "va": "Música de videojocs i anime japonesos en directe."
+   },
+   "u": "https://www.roigarena.com/"
+  },
+  {
+   "id": "jazzroom26",
+   "n": "The Jazz Room: New Orleans",
+   "s": "2026-07-24",
+   "v": "Loco Club",
+   "k": "show",
+   "d": {
+    "en": "Jazz show inspired by New Orleans.",
+    "es": "Espectáculo de jazz inspirado en Nueva Orleans.",
+    "it": "Spettacolo jazz ispirato a New Orleans.",
+    "de": "Jazzshow im Stil von New Orleans.",
+    "fr": "Spectacle de jazz inspiré de La Nouvelle-Orléans.",
+    "pt": "Espetáculo de jazz inspirado em Nova Orleães.",
+    "va": "Espectacle de jazz inspirat en Nova Orleans."
+   },
+   "e": "2027-01-17",
+   "u": "https://feverup.com/en/valencia"
+  },
+  {
+   "id": "jury26",
+   "n": "The Jury Experience: Murder Case",
+   "s": "2026-07-11",
+   "v": "Ateneu Mercantil",
+   "k": "show",
+   "d": {
+    "en": "Interactive show where you are the jury.",
+    "es": "Espectáculo interactivo: tú eres el jurado.",
+    "it": "Spettacolo interattivo: la giuria sei tu.",
+    "de": "Interaktive Show: Du bist die Jury.",
+    "fr": "Spectacle interactif : c'est vous le jury.",
+    "pt": "Espetáculo interativo em que o júri é você.",
+    "va": "Espectacle interactiu on el jurat eres tu."
+   },
+   "e": "2027-01-22",
+   "u": "https://feverup.com/en/valencia"
+  },
+  {
+   "id": "xmasmarket26",
+   "n": "Christmas markets",
+   "s": "2026-11-28",
+   "v": "Plaza de la Reina",
+   "k": "market",
+   "d": {
+    "en": "Christmas craft stalls in the old town until 6 January (2026 dates to be confirmed).",
+    "es": "Mercadillos navideños en el centro hasta el 6 de enero (fechas 2026 por confirmar).",
+    "it": "Mercatini di Natale in centro fino al 6 gennaio (date 2026 da confermare).",
+    "de": "Weihnachtsmärkte in der Altstadt bis 6. Januar (Termine 2026 noch offen).",
+    "fr": "Marchés de Noël dans la vieille ville jusqu'au 6 janvier (dates 2026 à confirmer).",
+    "pt": "Bancas de artesanato de Natal no centro histórico até 6 de janeiro (datas de 2026 por confirmar).",
+    "va": "Parades d'artesania nadalenca al centre històric fins al 6 de gener (dates de 2026 per confirmar)."
+   },
+   "e": "2027-01-06"
+  },
+  {
+   "id": "2ruedas26",
+   "n": "Salón 2Ruedas",
+   "s": "2026-11-27",
+   "e": "2026-11-29",
+   "v": "Feria Valencia",
+   "k": "fair",
+   "u": "https://dosruedas.feriavalencia.com/",
+   "d": {
+    "en": "Motorbike and bicycle show: new models, accessories, test rides and stunt shows.",
+    "es": "Salón de la moto y la bici: novedades, accesorios, pruebas y exhibiciones.",
+    "it": "Salone di moto e bici: novità, accessori, prove ed esibizioni.",
+    "de": "Motorrad- und Fahrradmesse: Neuheiten, Zubehör, Probefahrten und Shows.",
+    "fr": "Salon de la moto et du vélo : nouveautés, accessoires, essais et démonstrations.",
+    "pt": "Salão de motas e bicicletas: novidades, acessórios, test-drives e exibições.",
+    "va": "Saló de la moto i la bici: novetats, accessoris, proves i exhibicions."
+   }
+  },
+  {
+   "id": "expo42k26",
+   "n": "Expo 42K — Valencia Marathon",
+   "s": "2026-12-03",
+   "e": "2026-12-05",
+   "v": "Feria Valencia",
+   "k": "fair",
+   "u": "https://www.valenciaciudaddelrunning.com/en/",
+   "d": {
+    "en": "Runners' fair and bib pick-up for the Valencia Marathon: brands, gear and running talks.",
+    "es": "Feria del corredor y recogida de dorsales del Maratón Valencia: marcas, material y charlas.",
+    "it": "Fiera del runner e ritiro pettorali della Maratona di Valencia: marchi, materiale e incontri.",
+    "de": "Läufermesse und Startnummernausgabe des Valencia-Marathons: Marken, Ausrüstung, Vorträge.",
+    "fr": "Salon du coureur et retrait des dossards du Marathon de Valence : marques, matériel, conférences.",
+    "pt": "Feira do corredor e levantamento de dorsais da Maratona de Valência: marcas, material e palestras.",
+    "va": "Fira del corredor i recollida de dorsals del Marató València: marques, material i xarrades."
+   }
+  },
+  {
+   "id": "maraton26",
+   "n": "Valencia Marathon",
+   "s": "2026-12-06",
+   "v": "City streets · finish at City of Arts & Sciences",
+   "k": "sport",
+   "u": "https://www.valenciaciudaddelrunning.com/en/",
+   "d": {
+    "en": "One of the world's fastest marathons. Great atmosphere to cheer along the route; expect road closures.",
+    "es": "Uno de los maratones más rápidos del mundo. Gran ambiente para animar; habrá cortes de tráfico.",
+    "it": "Una delle maratone più veloci al mondo. Ottima atmosfera lungo il percorso; strade chiuse.",
+    "de": "Einer der schnellsten Marathons der Welt. Tolle Stimmung an der Strecke; Straßensperrungen.",
+    "fr": "L'un des marathons les plus rapides du monde. Superbe ambiance sur le parcours ; routes fermées.",
+    "pt": "Uma das maratonas mais rápidas do mundo. Ótimo ambiente ao longo do percurso; haverá cortes de trânsito.",
+    "va": "Un dels maratons més ràpids del món. Gran ambient per a animar; hi haurà talls de trànsit."
+   }
+  },
+  {
+   "id": "automovil26",
+   "n": "Feria del Automóvil",
+   "s": "2026-12-04",
+   "e": "2026-12-06",
+   "time": "10:00–20:00",
+   "v": "Feria Valencia",
+   "k": "fair",
+   "u": "https://feriavalencia.com/",
+   "d": {
+    "en": "Big new and used car fair with thousands of vehicles for sale and dealer discounts.",
+    "es": "Gran feria de coches nuevos, de ocasión y comerciales, con miles de vehículos a la venta.",
+    "it": "Grande fiera di auto nuove e usate, con migliaia di veicoli in vendita e sconti.",
+    "de": "Große Messe für Neu- und Gebrauchtwagen mit Tausenden Fahrzeugen und Rabatten.",
+    "fr": "Grand salon de voitures neuves et d'occasion, avec des milliers de véhicules à vendre.",
+    "pt": "Grande feira de carros novos e usados, com milhares de veículos à venda e descontos.",
+    "va": "Gran fira de cotxes nous, d'ocasió i comercials, amb milers de vehicles a la venda."
+   }
+  },
+  {
+   "id": "edos26",
+   "n": "EDOS — European Drone Operators Summit",
+   "s": "2026-12-16",
+   "e": "2026-12-17",
+   "v": "Feria Valencia",
+   "k": "other",
+   "u": "https://feriavalencia.com/",
+   "d": {
+    "en": "First European summit for drone operators (professional congress).",
+    "es": "Primera cumbre europea de operadores de drones (congreso profesional).",
+    "it": "Primo vertice europeo degli operatori di droni (congresso professionale).",
+    "de": "Erster europäischer Gipfel für Drohnenbetreiber (Fachkongress).",
+    "fr": "Premier sommet européen des opérateurs de drones (congrès professionnel).",
+    "pt": "Primeira cimeira europeia de operadores de drones (congresso profissional).",
+    "va": "Primera cimera europea d'operadors de drons (congrés professional)."
+   }
+  },
+  {
+   "id": "jocrol26",
+   "n": "Joc & Rol",
+   "s": "2026-12-26",
+   "e": "2026-12-27",
+   "v": "Feria Valencia",
+   "k": "fair",
+   "u": "https://feriavalencia.com/",
+   "d": {
+    "en": "Board games and role-playing weekend: open play tables, demos and tournaments.",
+    "es": "Fin de semana de juegos de mesa y rol: mesas de juego libre, demos y torneos.",
+    "it": "Weekend di giochi da tavolo e di ruolo: tavoli liberi, demo e tornei.",
+    "de": "Brett- und Rollenspiel-Wochenende: offene Spieltische, Demos und Turniere.",
+    "fr": "Week-end de jeux de société et de rôle : tables libres, démos et tournois.",
+    "pt": "Fim de semana de jogos de tabuleiro e de RPG: mesas livres, demonstrações e torneios.",
+    "va": "Cap de setmana de jocs de taula i de rol: taules de joc lliure, demos i tornejos."
+   }
+  },
+  {
+   "id": "expojove26",
+   "n": "Expojove",
+   "s": "2026-12-26",
+   "e": "2027-01-04",
+   "time": "11:00–20:00",
+   "v": "Feria Valencia",
+   "k": "fair",
+   "u": "https://www.expojove.com/es/home/",
+   "d": {
+    "en": "Christmas fair for kids and families: games, workshops and shows. From €3 (31 Dec 10–14h, 1 Jan 16–21h).",
+    "es": "Feria navideña para niños y familias: juegos, talleres y espectáculos. Desde 3 € (31 dic 10–14 h, 1 ene 16–21 h).",
+    "it": "Fiera natalizia per bambini e famiglie: giochi, laboratori e spettacoli. Da 3 € (31 dic 10–14, 1 gen 16–21).",
+    "de": "Weihnachtsmesse für Kinder und Familien: Spiele, Workshops, Shows. Ab 3 € (31.12. 10–14 Uhr, 1.1. 16–21 Uhr).",
+    "fr": "Salon de Noël pour enfants et familles : jeux, ateliers, spectacles. Dès 3 € (31 déc. 10h–14h, 1er janv. 16h–21h).",
+    "pt": "Feira de Natal para crianças e famílias: jogos, oficinas e espetáculos. Desde 3 € (31 dez 10–14h, 1 jan 16–21h).",
+    "va": "Fira nadalenca per a xiquets i famílies: jocs, tallers i espectacles. Des de 3 € (31 des. 10–14 h, 1 gen. 16–21 h)."
+   }
+  },
+  {
+   "id": "fimi27",
+   "n": "Babykid Spain + FIMI",
+   "s": "2027-01-20",
+   "e": "2027-01-22",
+   "v": "Feria Valencia",
+   "k": "fair",
+   "u": "https://feriavalencia.com/",
+   "d": {
+    "en": "International children's fashion and baby products fair (trade only).",
+    "es": "Feria internacional de moda infantil y puericultura (solo profesionales).",
+    "it": "Fiera internazionale di moda bimbo e puericultura (solo operatori).",
+    "de": "Internationale Messe für Kindermode und Babyartikel (nur Fachbesucher).",
+    "fr": "Salon international de la mode enfantine et de la puériculture (réservé aux professionnels).",
+    "pt": "Feira internacional de moda infantil e puericultura (só profissionais).",
+    "va": "Fira internacional de moda infantil i puericultura (només professionals)."
+   }
+  }
+ ]
 }
