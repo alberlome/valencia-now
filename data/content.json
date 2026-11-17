@@ -1745,13 +1745,13 @@
 },
 {
 "h": {
-"en": "🏨 Private hospital (travel insurance)",
-"es": "🏨 Hospital privado (seguro de viaje)",
-"it": "🏨 Ospedale privato (assicurazione di viaggio)",
-"de": "🏨 Privatklinik (Reiseversicherung)",
-"fr": "🏨 Hôpital privé (assurance voyage)",
-"pt": "🏨 Hospital privado (seguro de viagem)",
-"va": "🏨 Hospital privat (assegurança de viatge)"
+"en": "🏨 Private hospitals (travel insurance)",
+"es": "🏨 Hospitales privados (seguro de viaje)",
+"it": "🏨 Ospedali privati (assicurazione di viaggio)",
+"de": "🏨 Privatkliniken (Reiseversicherung)",
+"fr": "🏨 Hôpitaux privés (assurance voyage)",
+"pt": "🏨 Hospitais privados (seguro de viagem)",
+"va": "🏨 Hospitals privats (assegurança de viatge)"
 },
 "items": [
 {
@@ -1767,6 +1767,21 @@
 "fr": "Urgences adultes et pédiatriques 24 h/24 ; utile si vous avez une assurance voyage privée.",
 "pt": "Urgências de adultos e pediátricas 24 horas; útil se tiver seguro de viagem privado.",
 "va": "Urgències d'adults i pediàtriques 24 hores; útil si tens assegurança de viatge privada."
+}
+},
+{
+"i": "🏨",
+"n": "Hospital IMED Valencia",
+"u": "https://www.google.com/maps/search/?api=1&query=Hospital+IMED+Valencia+Avenida+de+la+Ilustraci%C3%B3n+1+Burjassot",
+"w": false,
+"s": {
+"en": "Large private hospital in Burjassot (Av. de la Ilustración 1), just north-west of the city by the Ronda Norte: 24-hour emergencies, with a separate children's emergency area. Tel. 963 003 000.",
+"es": "Gran hospital privado en Burjassot (Av. de la Ilustración 1), al noroeste de la ciudad junto a la Ronda Norte: urgencias 24 horas, con urgencias pediátricas en un espacio aparte. Tel. 963 003 000.",
+"it": "Grande ospedale privato a Burjassot (Av. de la Ilustración 1), a nord-ovest della città vicino alla Ronda Norte: pronto soccorso 24 ore, con un'area separata per i bambini. Tel. 963 003 000.",
+"de": "Großes Privatkrankenhaus in Burjassot (Av. de la Ilustración 1), nordwestlich der Stadt an der Ronda Norte: 24-Stunden-Notaufnahme, mit eigenem Bereich für Kinder. Tel. 963 003 000.",
+"fr": "Grand hôpital privé à Burjassot (Av. de la Ilustración 1), au nord-ouest de la ville près de la Ronda Norte : urgences 24 h/24, avec un espace séparé pour les enfants. Tél. 963 003 000.",
+"pt": "Grande hospital privado em Burjassot (Av. de la Ilustración 1), a noroeste da cidade junto à Ronda Norte: urgências 24 horas, com área pediátrica separada. Tel. 963 003 000.",
+"va": "Gran hospital privat a Burjassot (Av. de la Il·lustració 1), al nord-oest de la ciutat prop de la Ronda Nord: urgències 24 hores, amb urgències pediàtriques en un espai a banda. Tel. 963 003 000."
 }
 }
 ]
