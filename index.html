@@ -175,6 +175,7 @@ html[data-theme=dark] .donate{background:linear-gradient(120deg,#2e2216,#3a2717)
   <div id="donate"></div>
   <p id="foot1"></p>
   <p><span id="foot2"></span> · <a href="#admin" id="adminLink">Admin</a></p>
+  <p class="copy">© <span id="cyear">2026</span> Alberlome · <a href="https://www.linkedin.com/in/alberlome" target="_blank" rel="noopener">LinkedIn</a></p>
 </div></footer>
 
 <script>
@@ -320,8 +321,8 @@ function eventCard(e,now){
   const on=e.s<=now.iso&&(e.e||e.s)>=now.iso;let when;
   if(e.e&&e.e!==e.s)when=on?`${t("onNow")} ${fmtDate(e.e)}`:`${fmtDate(e.s)} – ${fmtDate(e.e)}`;
   else when=e.s===now.iso?t("today"):e.s===addDays(now.iso,1)?t("tomorrow"):fmtDate(e.s);
-  const tick=["concert","show"].includes(e.k);const u=safeUrl(e.u)||("https://www.google.com/search?q="+encodeURIComponent(e.n+" Valencia"+(tick?" tickets":"")));
-  return `<article class="card"><div class="meta"><span class="tag date">${esc(when)}${e.time?" · "+esc(e.time):""}</span><span class="tag">${esc((KINDS[e.k]||KINDS.other)[LI()])}</span>${e._new?`<span class="tag new">${t("added")}</span>`:""}</div>
+  const tick=["concert","show"].includes(e.k)||!!e.sp;const u=safeUrl(e.u)||("https://www.google.com/search?q="+encodeURIComponent(e.n+" Valencia"+(tick?" tickets":"")));
+  return `<article class="card"><div class="meta"><span class="tag date">${esc(when)}${e.time?" · "+esc(e.time):""}</span><span class="tag">${e.sp==="football"?"⚽ "+esc(tr(SPT.football)):e.sp==="basketball"?"🏀 "+esc(tr(SPT.basketball)):esc((KINDS[e.k]||KINDS.other)[LI()])}</span>${e._new?`<span class="tag new">${t("added")}</span>`:""}</div>
     <h3>${esc(e.n)}</h3><p>${esc(tr(e.d))}</p><div class="hours">📍 ${esc(e.v)}</div>
     <div class="actions"><a class="btn primary" href="https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(e.v+" Valencia")}" target="_blank" rel="noopener">🗺️ ${t("map")}</a>
     <a class="btn" href="${esc(u)}" target="_blank" rel="noopener">${tick?"🎟️ "+t("tickets"):"ℹ️ "+t("moreInfo")}</a></div></article>`;
@@ -387,8 +388,14 @@ function renderCategory(id){
   const o=app.querySelector("[data-open]");if(o)o.onclick=()=>{state.openNow=!state.openNow;renderCategory(id)};
   wireLoc(()=>renderCategory(id));
 }
-function renderEvents(){const now=vlcNow(),l=upcoming(now),one=l.filter(e=>!e.e||e.e===e.s),lng=l.filter(e=>e.e&&e.e!==e.s);
-  app.innerHTML=head("events")+(one.length?`<div class="subhead">${t("comingUp")}</div><div class="list">${one.map(e=>eventCard(e,now)).join("")}</div>`:"")+(lng.length?`<div class="subhead">${t("onWhile")}</div><div class="list">${lng.map(e=>eventCard(e,now)).join("")}</div>`:"");}
+const SPT={sports:{en:"Sports events",es:"Eventos deportivos",it:"Eventi sportivi",de:"Sport-Events",fr:"Événements sportifs",pt:"Eventos desportivos",va:"Esdeveniments esportius"},football:{en:"Football",es:"Fútbol",it:"Calcio",de:"Fußball",fr:"Football",pt:"Futebol",va:"Futbol"},basketball:{en:"Basketball",es:"Baloncesto",it:"Basket",de:"Basketball",fr:"Basket",pt:"Basquetebol",va:"Bàsquet"},sub:{en:"Home matches of Valencia CF, Levante UD and Valencia Basket. Times are confirmed about two weeks before.",es:"Partidos en casa del Valencia CF, Levante UD y Valencia Basket. Los horarios se confirman unas dos semanas antes.",it:"Partite in casa di Valencia CF, Levante UD e Valencia Basket. Gli orari si confermano circa due settimane prima.",de:"Heimspiele von Valencia CF, Levante UD und Valencia Basket. Anstoßzeiten stehen etwa zwei Wochen vorher fest.",fr:"Matchs à domicile du Valencia CF, du Levante UD et du Valencia Basket. Horaires confirmés environ deux semaines avant.",pt:"Jogos em casa do Valencia CF, Levante UD e Valencia Basket. Os horários confirmam-se cerca de duas semanas antes.",va:"Partits a casa del Valencia CF, Llevant UD i Valencia Basket. Els horaris es confirmen unes dues setmanes abans."},none:{en:"No matches listed right now.",es:"No hay partidos ahora mismo.",it:"Nessuna partita al momento.",de:"Gerade keine Spiele.",fr:"Aucun match pour l'instant.",pt:"Sem jogos de momento.",va:"No hi ha partits ara mateix."},cal:{en:"Official calendars & tickets",es:"Calendarios oficiales y entradas",it:"Calendari ufficiali e biglietti",de:"Offizielle Spielpläne & Tickets",fr:"Calendriers officiels et billets",pt:"Calendários oficiais e bilhetes",va:"Calendaris oficials i entrades"}};
+const SPLINKS=[{i:"⚽",n:"Valencia CF",s:{en:"Mestalla",es:"Mestalla",it:"Mestalla",de:"Mestalla",fr:"Mestalla",pt:"Mestalla",va:"Mestalla"},u:"https://www.valenciacf.com/"},{i:"⚽",n:"Levante UD",s:{en:"Ciutat de València",es:"Ciutat de València",it:"Ciutat de València",de:"Ciutat de València",fr:"Ciutat de València",pt:"Ciutat de València",va:"Ciutat de València"},u:"https://www.levanteud.com/es/"},{i:"🏀",n:"Valencia Basket",s:{en:"Roig Arena · men & women",es:"Roig Arena · masculino y femenino",it:"Roig Arena · maschile e femminile",de:"Roig Arena · Herren & Damen",fr:"Roig Arena · hommes et femmes",pt:"Roig Arena · masculino e feminino",va:"Roig Arena · masculí i femení"},u:"https://www.valenciabasket.com/"}];
+function renderEvents(){const now=vlcNow(),all=upcoming(now),sp=all.filter(e=>e.k==="sport"),l=all.filter(e=>e.k!=="sport"),one=l.filter(e=>!e.e||e.e===e.s),lng=l.filter(e=>e.e&&e.e!==e.s);
+  const f=state.sport||"all",spS=sp.filter(e=>f==="all"||e.sp===f);
+  const sportsHtml=`<div class="subhead" id="sports">⚽🏀 ${tr(SPT.sports)}</div><p class="hours" style="margin:0 0 4px">${tr(SPT.sub)}</p><div class="chips">${[["all","",t("all")],["football","⚽ ",tr(SPT.football)],["basketball","🏀 ",tr(SPT.basketball)]].map(([k,i,n])=>`<button class="chip ${f===k?"on":""}" data-sp="${k}">${i}${esc(n)}</button>`).join("")}</div><div class="list">${spS.length?spS.map(e=>eventCard(e,now)).join(""):`<div class="empty">${tr(SPT.none)}</div>`}</div><div class="subhead">${tr(SPT.cal)}</div>${linkCards(SPLINKS)}`;
+  app.innerHTML=head("events")+`<div class="chips"><a class="chip" href="#events" data-jump style="text-decoration:none">⚽🏀 ${tr(SPT.sports)} ↓</a></div>`+(one.length?`<div class="subhead">${t("comingUp")}</div><div class="list">${one.map(e=>eventCard(e,now)).join("")}</div>`:"")+sportsHtml+(lng.length?`<div class="subhead">${t("onWhile")}</div><div class="list">${lng.map(e=>eventCard(e,now)).join("")}</div>`:"");
+  app.querySelectorAll("[data-sp]").forEach(b=>b.onclick=()=>{state.sport=b.dataset.sp;const y=window.scrollY;renderEvents();window.scrollTo(0,y)});
+  const j=app.querySelector("[data-jump]");if(j)j.onclick=e=>{e.preventDefault();const s=document.getElementById("sports");if(s)s.scrollIntoView({behavior:"smooth",block:"start"})};}
 function renderInfo(){app.innerHTML=head("info")+`<div class="list">${(DATA.content?.info||[]).map(i=>`<article class="card"><h3>${i.i} ${esc(tr(i.t))}</h3><p>${esc(tr(i.d))}</p>${i.u?`<div class="actions"><a class="btn" href="${esc(i.u)}" target="_blank" rel="noopener">🌐 ${t("website")}</a></div>`:""}</article>`).join("")}</div>`;}
 function renderAlmuerzo(){const now=vlcNow(),A=DATA.content?.almuerzo;const ps=byDist(allPlaces().filter(p=>p.c==="almuerzo"));
   app.innerHTML=head("almuerzo")+(A?`<div class="article"><h2 style="margin:0 0 8px;font-family:'Bricolage Grotesque',sans-serif">${esc(tr(A.title))}</h2>${A.paras.map(p=>`<p>${esc(tr(p))}</p>`).join("")}</div>`:"")+
@@ -489,7 +496,7 @@ function renderLangs(){const box=document.getElementById("langs");const cur=LANG
   document.getElementById("lbtn").onclick=e=>{e.stopPropagation();menu.classList.toggle("hidden")};
   menu.querySelectorAll("[data-l]").forEach(b=>b.onclick=()=>{lang=b.dataset.l;try{localStorage.setItem("vn_lang",lang)}catch(e){};document.documentElement.lang=HTML_LANG[lang]||lang;renderChrome();route(true)});}
 document.addEventListener("click",()=>{const m=document.getElementById("lmenu");if(m)m.classList.add("hidden");const w=document.getElementById("wpop");if(w)w.classList.add("hidden")});
-function renderChrome(){renderLangs();document.getElementById("foot1").textContent=t("feet1");document.getElementById("foot2").textContent=t("foot2");tick();weatherHead();themeBtn();donateBox();}
+function renderChrome(){try{document.getElementById("cyear").textContent=new Date().getFullYear()}catch(e){}renderLangs();document.getElementById("foot1").textContent=t("feet1");document.getElementById("foot2").textContent=t("foot2");tick();weatherHead();themeBtn();donateBox();}
 function route(keep){
   const id=(location.hash||"").slice(1);document.getElementById("back").classList.toggle("show",!!id);
   if(!keep){state.openNow=false;state.area="all"}

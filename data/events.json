@@ -505,6 +505,339 @@
     "pt": "Feira internacional de moda infantil e puericultura (só profissionais).",
     "va": "Fira internacional de moda infantil i puericultura (només professionals)."
    }
+  },
+  {
+   "id": "lud-elche26",
+   "n": "Levante UD – Elche CF",
+   "s": "2026-11-22",
+   "v": "Estadi Ciutat de València",
+   "k": "sport",
+   "sp": "football",
+   "d": {
+    "en": "LaLiga match. Kick-off time to be confirmed (date may move by a day).",
+    "es": "Partido de LaLiga. Horario por confirmar (la fecha puede moverse un día).",
+    "it": "Partita di LaLiga. Orario da confermare (la data può slittare di un giorno).",
+    "de": "LaLiga-Spiel. Anstoßzeit noch offen (Termin kann sich um einen Tag verschieben).",
+    "fr": "Match de LaLiga. Horaire à confirmer (la date peut bouger d'un jour).",
+    "pt": "Jogo da LaLiga. Horário por confirmar (a data pode mudar um dia).",
+    "va": "Partit de LaLiga. Horari per confirmar (la data pot moure's un dia)."
+   },
+   "u": "https://www.levanteud.com/es/"
+  },
+  {
+   "id": "vb-breogan26",
+   "n": "Valencia Basket – Río Breogán",
+   "s": "2026-11-22",
+   "v": "Roig Arena",
+   "k": "sport",
+   "sp": "basketball",
+   "d": {
+    "en": "Liga Endesa (ACB) basketball.",
+    "es": "Baloncesto, Liga Endesa (ACB).",
+    "it": "Basket, Liga Endesa (ACB).",
+    "de": "Basketball, Liga Endesa (ACB).",
+    "fr": "Basket, Liga Endesa (ACB).",
+    "pt": "Basquetebol, Liga Endesa (ACB).",
+    "va": "Bàsquet, Lliga Endesa (ACB)."
+   },
+   "time": "17:00",
+   "u": "https://www.valenciabasket.com/"
+  },
+  {
+   "id": "vb-pao26",
+   "n": "Valencia Basket – Panathinaikos",
+   "s": "2026-11-24",
+   "v": "Roig Arena",
+   "k": "sport",
+   "sp": "basketball",
+   "d": {
+    "en": "EuroLeague basketball — top European level.",
+    "es": "Euroliga de baloncesto, la máxima competición europea.",
+    "it": "Eurolega di basket, il top europeo.",
+    "de": "EuroLeague-Basketball – Europas Spitzenklasse.",
+    "fr": "EuroLigue de basket, le plus haut niveau européen.",
+    "pt": "EuroLiga de basquetebol, o topo europeu.",
+    "va": "Eurolliga de bàsquet, la màxima competició europea."
+   },
+   "time": "20:30",
+   "u": "https://www.valenciabasket.com/"
+  },
+  {
+   "id": "vcf-osasuna26",
+   "n": "Valencia CF – CA Osasuna",
+   "s": "2026-11-29",
+   "v": "Mestalla",
+   "k": "sport",
+   "sp": "football",
+   "d": {
+    "en": "LaLiga match.",
+    "es": "Partido de LaLiga.",
+    "it": "Partita di LaLiga.",
+    "de": "LaLiga-Spiel.",
+    "fr": "Match de LaLiga.",
+    "pt": "Jogo da LaLiga.",
+    "va": "Partit de LaLiga."
+   },
+   "u": "https://www.valenciacf.com/",
+   "time": "13:00"
+  },
+  {
+   "id": "lud-racing26",
+   "n": "Levante UD – Racing Santander",
+   "s": "2026-11-29",
+   "v": "Estadi Ciutat de València",
+   "k": "sport",
+   "sp": "football",
+   "d": {
+    "en": "LaLiga match. Kick-off time to be confirmed (date may move by a day).",
+    "es": "Partido de LaLiga. Horario por confirmar (la fecha puede moverse un día).",
+    "it": "Partita di LaLiga. Orario da confermare (la data può slittare di un giorno).",
+    "de": "LaLiga-Spiel. Anstoßzeit noch offen (Termin kann sich um einen Tag verschieben).",
+    "fr": "Match de LaLiga. Horaire à confirmer (la date peut bouger d'un jour).",
+    "pt": "Jogo da LaLiga. Horário por confirmar (a data pode mudar um dia).",
+    "va": "Partit de LaLiga. Horari per confirmar (la data pot moure's un dia)."
+   },
+   "u": "https://www.levanteud.com/es/"
+  },
+  {
+   "id": "vb-zvezda26",
+   "n": "Valencia Basket – Crvena Zvezda",
+   "s": "2026-12-11",
+   "v": "Roig Arena",
+   "k": "sport",
+   "sp": "basketball",
+   "d": {
+    "en": "EuroLeague basketball — top European level.",
+    "es": "Euroliga de baloncesto, la máxima competición europea.",
+    "it": "Eurolega di basket, il top europeo.",
+    "de": "EuroLeague-Basketball – Europas Spitzenklasse.",
+    "fr": "EuroLigue de basket, le plus haut niveau européen.",
+    "pt": "EuroLiga de basquetebol, o topo europeu.",
+    "va": "Eurolliga de bàsquet, la màxima competició europea."
+   },
+   "time": "20:30",
+   "u": "https://www.valenciabasket.com/"
+  },
+  {
+   "id": "lud-alaves26",
+   "n": "Levante UD – Deportivo Alavés",
+   "s": "2026-12-13",
+   "v": "Estadi Ciutat de València",
+   "k": "sport",
+   "sp": "football",
+   "d": {
+    "en": "LaLiga match. Kick-off time to be confirmed (date may move by a day).",
+    "es": "Partido de LaLiga. Horario por confirmar (la fecha puede moverse un día).",
+    "it": "Partita di LaLiga. Orario da confermare (la data può slittare di un giorno).",
+    "de": "LaLiga-Spiel. Anstoßzeit noch offen (Termin kann sich um einen Tag verschieben).",
+    "fr": "Match de LaLiga. Horaire à confirmer (la date peut bouger d'un jour).",
+    "pt": "Jogo da LaLiga. Horário por confirmar (a data pode mudar um dia).",
+    "va": "Partit de LaLiga. Horari per confirmar (la data pot moure's un dia)."
+   },
+   "u": "https://www.levanteud.com/es/"
+  },
+  {
+   "id": "vb-dubai26",
+   "n": "Valencia Basket – Dubai Basketball",
+   "s": "2026-12-15",
+   "v": "Roig Arena",
+   "k": "sport",
+   "sp": "basketball",
+   "d": {
+    "en": "EuroLeague basketball — top European level.",
+    "es": "Euroliga de baloncesto, la máxima competición europea.",
+    "it": "Eurolega di basket, il top europeo.",
+    "de": "EuroLeague-Basketball – Europas Spitzenklasse.",
+    "fr": "EuroLigue de basket, le plus haut niveau européen.",
+    "pt": "EuroLiga de basquetebol, o topo europeu.",
+    "va": "Eurolliga de bàsquet, la màxima competició europea."
+   },
+   "time": "20:30",
+   "u": "https://www.valenciabasket.com/"
+  },
+  {
+   "id": "vcf-espanyol26",
+   "n": "Valencia CF – RCD Espanyol",
+   "s": "2026-12-20",
+   "v": "Mestalla",
+   "k": "sport",
+   "sp": "football",
+   "d": {
+    "en": "LaLiga match. Kick-off time to be confirmed (date may move by a day).",
+    "es": "Partido de LaLiga. Horario por confirmar (la fecha puede moverse un día).",
+    "it": "Partita di LaLiga. Orario da confermare (la data può slittare di un giorno).",
+    "de": "LaLiga-Spiel. Anstoßzeit noch offen (Termin kann sich um einen Tag verschieben).",
+    "fr": "Match de LaLiga. Horaire à confirmer (la date peut bouger d'un jour).",
+    "pt": "Jogo da LaLiga. Horário por confirmar (a data pode mudar um dia).",
+    "va": "Partit de LaLiga. Horari per confirmar (la data pot moure's un dia)."
+   },
+   "u": "https://www.valenciacf.com/"
+  },
+  {
+   "id": "vb-tenerife26",
+   "n": "Valencia Basket – La Laguna Tenerife",
+   "s": "2026-12-20",
+   "v": "Roig Arena",
+   "k": "sport",
+   "sp": "basketball",
+   "d": {
+    "en": "Liga Endesa (ACB) basketball.",
+    "es": "Baloncesto, Liga Endesa (ACB).",
+    "it": "Basket, Liga Endesa (ACB).",
+    "de": "Basketball, Liga Endesa (ACB).",
+    "fr": "Basket, Liga Endesa (ACB).",
+    "pt": "Basquetebol, Liga Endesa (ACB).",
+    "va": "Bàsquet, Lliga Endesa (ACB)."
+   },
+   "time": "12:30",
+   "u": "https://www.valenciabasket.com/"
+  },
+  {
+   "id": "vbcf-cadi26",
+   "n": "Valencia BC (women) – Cadí La Seu",
+   "s": "2026-12-20",
+   "v": "Roig Arena",
+   "k": "sport",
+   "sp": "basketball",
+   "d": {
+    "en": "Women's basketball, Liga Femenina Endesa. Check venue and time on the club website.",
+    "es": "Baloncesto femenino, Liga Femenina Endesa. Confirma pabellón y hora en la web del club.",
+    "it": "Basket femminile, Liga Femenina Endesa. Verifica impianto e orario sul sito del club.",
+    "de": "Frauenbasketball, Liga Femenina Endesa. Halle und Uhrzeit auf der Vereinsseite prüfen.",
+    "fr": "Basket féminin, Liga Femenina Endesa. Vérifiez salle et horaire sur le site du club.",
+    "pt": "Basquetebol feminino, Liga Femenina Endesa. Confirme pavilhão e hora no site do clube.",
+    "va": "Bàsquet femení, Lliga Femenina Endesa. Confirma pavelló i hora a la web del club."
+   },
+   "time": "12:15",
+   "u": "https://www.valenciabasket.com/"
+  },
+  {
+   "id": "vbcf-jairis26",
+   "n": "Valencia BC (women) – Hozono Global Jairis",
+   "s": "2026-12-22",
+   "v": "Roig Arena",
+   "k": "sport",
+   "sp": "basketball",
+   "d": {
+    "en": "Women's basketball, Liga Femenina Endesa. Check venue and time on the club website.",
+    "es": "Baloncesto femenino, Liga Femenina Endesa. Confirma pabellón y hora en la web del club.",
+    "it": "Basket femminile, Liga Femenina Endesa. Verifica impianto e orario sul sito del club.",
+    "de": "Frauenbasketball, Liga Femenina Endesa. Halle und Uhrzeit auf der Vereinsseite prüfen.",
+    "fr": "Basket féminin, Liga Femenina Endesa. Vérifiez salle et horaire sur le site du club.",
+    "pt": "Basquetebol feminino, Liga Femenina Endesa. Confirme pavilhão e hora no site do clube.",
+    "va": "Bàsquet femení, Lliga Femenina Endesa. Confirma pavelló i hora a la web del club."
+   },
+   "time": "20:00",
+   "u": "https://www.valenciabasket.com/"
+  },
+  {
+   "id": "derbi27",
+   "n": "Levante UD – Valencia CF",
+   "s": "2027-01-03",
+   "v": "Estadi Ciutat de València",
+   "k": "sport",
+   "sp": "football",
+   "d": {
+    "en": "The Valencia derby! LaLiga match. Kick-off time to be confirmed (date may move by a day).",
+    "es": "¡El derbi valenciano! Partido de LaLiga. Horario por confirmar (la fecha puede moverse un día).",
+    "it": "Il derby di Valencia! Partita di LaLiga. Orario da confermare (la data può slittare di un giorno).",
+    "de": "Das Valencia-Derby! LaLiga-Spiel. Anstoßzeit noch offen (Termin kann sich um einen Tag verschieben).",
+    "fr": "Le derby de Valence ! Match de LaLiga. Horaire à confirmer (la date peut bouger d'un jour).",
+    "pt": "O dérbi de Valência! Jogo da LaLiga. Horário por confirmar (a data pode mudar um dia).",
+    "va": "El derbi valencià! Partit de LaLiga. Horari per confirmar (la data pot moure's un dia)."
+   },
+   "u": "https://www.levanteud.com/es/"
+  },
+  {
+   "id": "vb-rm27",
+   "n": "Valencia Basket – Real Madrid",
+   "s": "2027-01-04",
+   "v": "Roig Arena",
+   "k": "sport",
+   "sp": "basketball",
+   "d": {
+    "en": "Liga Endesa (ACB) basketball.",
+    "es": "Baloncesto, Liga Endesa (ACB).",
+    "it": "Basket, Liga Endesa (ACB).",
+    "de": "Basketball, Liga Endesa (ACB).",
+    "fr": "Basket, Liga Endesa (ACB).",
+    "pt": "Basquetebol, Liga Endesa (ACB).",
+    "va": "Bàsquet, Lliga Endesa (ACB)."
+   },
+   "time": "20:00",
+   "u": "https://www.valenciabasket.com/"
+  },
+  {
+   "id": "vcf-malaga27",
+   "n": "Valencia CF – Málaga CF",
+   "s": "2027-01-10",
+   "v": "Mestalla",
+   "k": "sport",
+   "sp": "football",
+   "d": {
+    "en": "LaLiga match. Kick-off time to be confirmed (date may move by a day).",
+    "es": "Partido de LaLiga. Horario por confirmar (la fecha puede moverse un día).",
+    "it": "Partita di LaLiga. Orario da confermare (la data può slittare di un giorno).",
+    "de": "LaLiga-Spiel. Anstoßzeit noch offen (Termin kann sich um einen Tag verschieben).",
+    "fr": "Match de LaLiga. Horaire à confirmer (la date peut bouger d'un jour).",
+    "pt": "Jogo da LaLiga. Horário por confirmar (a data pode mudar um dia).",
+    "va": "Partit de LaLiga. Horari per confirmar (la data pot moure's un dia)."
+   },
+   "u": "https://www.valenciacf.com/"
+  },
+  {
+   "id": "lud-espanyol27",
+   "n": "Levante UD – RCD Espanyol",
+   "s": "2027-01-17",
+   "v": "Estadi Ciutat de València",
+   "k": "sport",
+   "sp": "football",
+   "d": {
+    "en": "LaLiga match. Kick-off time to be confirmed (date may move by a day).",
+    "es": "Partido de LaLiga. Horario por confirmar (la fecha puede moverse un día).",
+    "it": "Partita di LaLiga. Orario da confermare (la data può slittare di un giorno).",
+    "de": "LaLiga-Spiel. Anstoßzeit noch offen (Termin kann sich um einen Tag verschieben).",
+    "fr": "Match de LaLiga. Horaire à confirmer (la date peut bouger d'un jour).",
+    "pt": "Jogo da LaLiga. Horário por confirmar (a data pode mudar um dia).",
+    "va": "Partit de LaLiga. Horari per confirmar (la data pot moure's un dia)."
+   },
+   "u": "https://www.levanteud.com/es/"
+  },
+  {
+   "id": "vcf-sevilla27",
+   "n": "Valencia CF – Sevilla FC",
+   "s": "2027-01-24",
+   "v": "Mestalla",
+   "k": "sport",
+   "sp": "football",
+   "d": {
+    "en": "LaLiga match. Kick-off time to be confirmed (date may move by a day).",
+    "es": "Partido de LaLiga. Horario por confirmar (la fecha puede moverse un día).",
+    "it": "Partita di LaLiga. Orario da confermare (la data può slittare di un giorno).",
+    "de": "LaLiga-Spiel. Anstoßzeit noch offen (Termin kann sich um einen Tag verschieben).",
+    "fr": "Match de LaLiga. Horaire à confirmer (la date peut bouger d'un jour).",
+    "pt": "Jogo da LaLiga. Horário por confirmar (a data pode mudar um dia).",
+    "va": "Partit de LaLiga. Horari per confirmar (la data pot moure's un dia)."
+   },
+   "u": "https://www.valenciacf.com/"
+  },
+  {
+   "id": "lud-rsoc27",
+   "n": "Levante UD – Real Sociedad",
+   "s": "2027-01-31",
+   "v": "Estadi Ciutat de València",
+   "k": "sport",
+   "sp": "football",
+   "d": {
+    "en": "LaLiga match. Kick-off time to be confirmed (date may move by a day).",
+    "es": "Partido de LaLiga. Horario por confirmar (la fecha puede moverse un día).",
+    "it": "Partita di LaLiga. Orario da confermare (la data può slittare di un giorno).",
+    "de": "LaLiga-Spiel. Anstoßzeit noch offen (Termin kann sich um einen Tag verschieben).",
+    "fr": "Match de LaLiga. Horaire à confirmer (la date peut bouger d'un jour).",
+    "pt": "Jogo da LaLiga. Horário por confirmar (a data pode mudar um dia).",
+    "va": "Partit de LaLiga. Horari per confirmar (la data pot moure's un dia)."
+   },
+   "u": "https://www.levanteud.com/es/"
   }
  ]
 }
