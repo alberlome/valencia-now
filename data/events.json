@@ -1,24 +1,6 @@
 {
- "version": 3,
+ "version": 4,
  "events": [
-  {
-   "id": "mondragon26",
-   "n": "Orquesta Mondragón — 50th anniversary",
-   "s": "2026-11-19",
-   "v": "Auditorio Roig Arena",
-   "k": "concert",
-   "d": {
-    "en": "The classic Spanish pop-rock band celebrates 50 years.",
-    "es": "La mítica orquesta celebra sus 50 años.",
-    "it": "La storica band pop-rock spagnola festeggia 50 anni.",
-    "de": "Die spanische Kultband feiert 50 Jahre.",
-    "fr": "Le groupe culte espagnol fête ses 50 ans.",
-    "pt": "A clássica banda espanhola de pop-rock celebra 50 anos.",
-    "va": "El clàssic grup espanyol de pop-rock celebra 50 anys."
-   },
-   "time": "22:00",
-   "u": "https://www.roigarena.com/"
-  },
   {
    "id": "lagos26",
    "n": "Lagos",
