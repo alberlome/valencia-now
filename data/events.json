@@ -1,6 +1,42 @@
 {
- "version": 5,
+ "version": 6,
  "events": [
+  {
+   "id": "jury26",
+   "n": "The Jury Experience: Murder Case",
+   "s": "2026-07-11",
+   "v": "Ateneu Mercantil",
+   "k": "show",
+   "d": {
+    "en": "Interactive show where you are the jury.",
+    "es": "Espectáculo interactivo: tú eres el jurado.",
+    "it": "Spettacolo interattivo: la giuria sei tu.",
+    "de": "Interaktive Show: Du bist die Jury.",
+    "fr": "Spectacle interactif : c'est vous le jury.",
+    "pt": "Espetáculo interativo em que o júri é você.",
+    "va": "Espectacle interactiu on el jurat eres tu."
+   },
+   "e": "2027-01-22",
+   "u": "https://feverup.com/en/valencia"
+  },
+  {
+   "id": "jazzroom26",
+   "n": "The Jazz Room: New Orleans",
+   "s": "2026-07-24",
+   "v": "Loco Club",
+   "k": "show",
+   "d": {
+    "en": "Jazz show inspired by New Orleans.",
+    "es": "Espectáculo de jazz inspirado en Nueva Orleans.",
+    "it": "Spettacolo jazz ispirato a New Orleans.",
+    "de": "Jazzshow im Stil von New Orleans.",
+    "fr": "Spectacle de jazz inspiré de La Nouvelle-Orléans.",
+    "pt": "Espetáculo de jazz inspirado em Nova Orleães.",
+    "va": "Espectacle de jazz inspirat en Nova Orleans."
+   },
+   "e": "2027-01-17",
+   "u": "https://feverup.com/en/valencia"
+  },
   {
    "id": "tardeo26",
    "n": "Tardeo at Parc Central",
@@ -53,6 +89,82 @@
    "u": "https://www.japanweekend.com/valencia/"
   },
   {
+   "id": "vb-breogan26",
+   "n": "Valencia Basket – Río Breogán",
+   "s": "2026-11-22",
+   "v": "Roig Arena",
+   "k": "sport",
+   "sp": "basketball",
+   "d": {
+    "en": "Liga Endesa (ACB) basketball.",
+    "es": "Baloncesto, Liga Endesa (ACB).",
+    "it": "Basket, Liga Endesa (ACB).",
+    "de": "Basketball, Liga Endesa (ACB).",
+    "fr": "Basket, Liga Endesa (ACB).",
+    "pt": "Basquetebol, Liga Endesa (ACB).",
+    "va": "Bàsquet, Lliga Endesa (ACB)."
+   },
+   "time": "17:00",
+   "u": "https://www.valenciabasket.com/"
+  },
+  {
+   "id": "vbcf-leganes26",
+   "n": "Valencia BC (women) – Innova-TSN Leganés",
+   "s": "2026-11-22",
+   "time": "12:30",
+   "v": "Roig Arena",
+   "k": "sport",
+   "sp": "basketball",
+   "d": {
+    "en": "Women's basketball, Liga Femenina Endesa. Check venue on the club website.",
+    "es": "Baloncesto femenino, Liga Femenina Endesa. Confirma el pabellón en la web del club.",
+    "it": "Basket femminile, Liga Femenina Endesa. Verifica l'impianto sul sito del club.",
+    "de": "Frauenbasketball, Liga Femenina Endesa. Halle auf der Vereinsseite prüfen.",
+    "fr": "Basket féminin, Liga Femenina Endesa. Vérifiez la salle sur le site du club.",
+    "pt": "Basquetebol feminino, Liga Femenina Endesa. Confirme o pavilhão no site do clube.",
+    "va": "Bàsquet femení, Lliga Femenina Endesa. Confirma el pavelló a la web del club."
+   },
+   "u": "https://www.valenciabasket.com/"
+  },
+  {
+   "id": "lud-elche26",
+   "n": "Levante UD – Elche CF",
+   "s": "2026-11-23",
+   "v": "Estadi Ciutat de València",
+   "k": "sport",
+   "sp": "football",
+   "d": {
+    "en": "LaLiga match.",
+    "es": "Partido de LaLiga.",
+    "it": "Partita di LaLiga.",
+    "de": "LaLiga-Spiel.",
+    "fr": "Match de LaLiga.",
+    "pt": "Jogo da LaLiga.",
+    "va": "Partit de LaLiga."
+   },
+   "u": "https://www.levanteud.com/es/",
+   "time": "21:00"
+  },
+  {
+   "id": "vb-pao26",
+   "n": "Valencia Basket – Panathinaikos",
+   "s": "2026-11-24",
+   "v": "Roig Arena",
+   "k": "sport",
+   "sp": "basketball",
+   "d": {
+    "en": "EuroLeague basketball — top European level.",
+    "es": "Euroliga de baloncesto, la máxima competición europea.",
+    "it": "Eurolega di basket, il top europeo.",
+    "de": "EuroLeague-Basketball – Europas Spitzenklasse.",
+    "fr": "EuroLigue de basket, le plus haut niveau européen.",
+    "pt": "EuroLiga de basquetebol, o topo europeu.",
+    "va": "Eurolliga de bàsquet, la màxima competició europea."
+   },
+   "time": "20:30",
+   "u": "https://www.valenciabasket.com/"
+  },
+  {
    "id": "carolina26",
    "n": "Carolina Durante",
    "s": "2026-11-26",
@@ -69,6 +181,61 @@
    },
    "time": "21:00",
    "u": "https://www.roigarena.com/"
+  },
+  {
+   "id": "2ruedas26",
+   "n": "Salón 2Ruedas",
+   "s": "2026-11-27",
+   "e": "2026-11-29",
+   "v": "Feria Valencia",
+   "k": "fair",
+   "u": "https://dosruedas.feriavalencia.com/",
+   "d": {
+    "en": "Motorbike and bicycle show: new models, accessories, test rides and stunt shows.",
+    "es": "Salón de la moto y la bici: novedades, accesorios, pruebas y exhibiciones.",
+    "it": "Salone di moto e bici: novità, accessori, prove ed esibizioni.",
+    "de": "Motorrad- und Fahrradmesse: Neuheiten, Zubehör, Probefahrten und Shows.",
+    "fr": "Salon de la moto et du vélo : nouveautés, accessoires, essais et démonstrations.",
+    "pt": "Salão de motas e bicicletas: novidades, acessórios, test-drives e exibições.",
+    "va": "Saló de la moto i la bici: novetats, accessoris, proves i exhibicions."
+   }
+  },
+  {
+   "id": "lud-racing26",
+   "n": "Levante UD – Racing Santander",
+   "s": "2026-11-27",
+   "v": "Estadi Ciutat de València",
+   "k": "sport",
+   "sp": "football",
+   "d": {
+    "en": "LaLiga match.",
+    "es": "Partido de LaLiga.",
+    "it": "Partita di LaLiga.",
+    "de": "LaLiga-Spiel.",
+    "fr": "Match de LaLiga.",
+    "pt": "Jogo da LaLiga.",
+    "va": "Partit de LaLiga."
+   },
+   "u": "https://www.levanteud.com/es/",
+   "time": "21:00"
+  },
+  {
+   "id": "ov-abono11",
+   "n": "Orquestra de València – Silver-Garburg Piano Duo",
+   "s": "2026-11-27",
+   "time": "19:30",
+   "v": "Palau de la Música",
+   "k": "concert",
+   "u": "https://www.palauvalencia.com/",
+   "d": {
+    "en": "The city orchestra under Christian Vásquez with the Silver-Garburg piano duo.",
+    "es": "La Orquestra de València, dirigida por Christian Vásquez, con el dúo de pianos Silver-Garburg.",
+    "it": "L'Orquestra de València diretta da Christian Vásquez con il duo pianistico Silver-Garburg.",
+    "de": "Das Stadtorchester unter Christian Vásquez mit dem Klavierduo Silver-Garburg.",
+    "fr": "L'orchestre de la ville dirigé par Christian Vásquez avec le duo de pianos Silver-Garburg.",
+    "pt": "A orquestra da cidade dirigida por Christian Vásquez com o duo de pianos Silver-Garburg.",
+    "va": "L'Orquestra de València, dirigida per Christian Vásquez, amb el duo de pianos Silver-Garburg."
+   }
   },
   {
    "id": "estopa26",
@@ -88,6 +255,96 @@
    "u": "https://www.roigarena.com/"
   },
   {
+   "id": "xmasmarket26",
+   "n": "Christmas markets",
+   "s": "2026-11-28",
+   "v": "Plaza de la Reina",
+   "k": "market",
+   "d": {
+    "en": "Christmas craft stalls in the old town until 6 January (2026 dates to be confirmed).",
+    "es": "Mercadillos navideños en el centro hasta el 6 de enero (fechas 2026 por confirmar).",
+    "it": "Mercatini di Natale in centro fino al 6 gennaio (date 2026 da confermare).",
+    "de": "Weihnachtsmärkte in der Altstadt bis 6. Januar (Termine 2026 noch offen).",
+    "fr": "Marchés de Noël dans la vieille ville jusqu'au 6 janvier (dates 2026 à confirmer).",
+    "pt": "Bancas de artesanato de Natal no centro histórico até 6 de janeiro (datas de 2026 por confirmar).",
+    "va": "Parades d'artesania nadalenca al centre històric fins al 6 de gener (dates de 2026 per confirmar)."
+   },
+   "e": "2027-01-06"
+  },
+  {
+   "id": "fagioli26",
+   "n": "Franco Fagioli – Farinelli",
+   "s": "2026-11-28",
+   "v": "Palau de les Arts",
+   "k": "concert",
+   "u": "https://www.lesarts.com/",
+   "d": {
+    "en": "Star countertenor in a programme devoted to the legendary castrato Farinelli.",
+    "es": "El gran contratenor en un programa dedicado al legendario castrato Farinelli.",
+    "it": "Il celebre controtenore in un programma dedicato al leggendario castrato Farinelli.",
+    "de": "Der Star-Countertenor mit einem Programm rund um den legendären Kastraten Farinelli.",
+    "fr": "Le célèbre contre-ténor dans un programme consacré au légendaire castrat Farinelli.",
+    "pt": "O famoso contratenor num programa dedicado ao lendário castrato Farinelli.",
+    "va": "El gran contratenor en un programa dedicat al llegendari castrat Farinelli."
+   }
+  },
+  {
+   "id": "vcf-osasuna26",
+   "n": "Valencia CF – CA Osasuna",
+   "s": "2026-11-29",
+   "v": "Mestalla",
+   "k": "sport",
+   "sp": "football",
+   "d": {
+    "en": "LaLiga match.",
+    "es": "Partido de LaLiga.",
+    "it": "Partita di LaLiga.",
+    "de": "LaLiga-Spiel.",
+    "fr": "Match de LaLiga.",
+    "pt": "Jogo da LaLiga.",
+    "va": "Partit de LaLiga."
+   },
+   "u": "https://www.valenciacf.com/",
+   "time": "14:00"
+  },
+  {
+   "id": "vbcf-estepona26",
+   "n": "Valencia BC (women) – Impulso 360 Estepona",
+   "s": "2026-11-29",
+   "time": "12:15",
+   "v": "Roig Arena",
+   "k": "sport",
+   "sp": "basketball",
+   "d": {
+    "en": "Women's basketball, Liga Femenina Endesa. Check venue on the club website.",
+    "es": "Baloncesto femenino, Liga Femenina Endesa. Confirma el pabellón en la web del club.",
+    "it": "Basket femminile, Liga Femenina Endesa. Verifica l'impianto sul sito del club.",
+    "de": "Frauenbasketball, Liga Femenina Endesa. Halle auf der Vereinsseite prüfen.",
+    "fr": "Basket féminin, Liga Femenina Endesa. Vérifiez la salle sur le site du club.",
+    "pt": "Basquetebol feminino, Liga Femenina Endesa. Confirme o pavilhão no site do clube.",
+    "va": "Bàsquet femení, Lliga Femenina Endesa. Confirma el pavelló a la web del club."
+   },
+   "u": "https://www.valenciabasket.com/"
+  },
+  {
+   "id": "expo42k26",
+   "n": "Expo 42K — Valencia Marathon",
+   "s": "2026-12-03",
+   "e": "2026-12-05",
+   "v": "Feria Valencia",
+   "k": "fair",
+   "u": "https://www.valenciaciudaddelrunning.com/en/",
+   "d": {
+    "en": "Runners' fair and bib pick-up for the Valencia Marathon: brands, gear and running talks.",
+    "es": "Feria del corredor y recogida de dorsales del Maratón Valencia: marcas, material y charlas.",
+    "it": "Fiera del runner e ritiro pettorali della Maratona di Valencia: marchi, materiale e incontri.",
+    "de": "Läufermesse und Startnummernausgabe des Valencia-Marathons: Marken, Ausrüstung, Vorträge.",
+    "fr": "Salon du coureur et retrait des dossards du Marathon de Valence : marques, matériel, conférences.",
+    "pt": "Feira do corredor e levantamento de dorsais da Maratona de Valência: marcas, material e palestras.",
+    "va": "Fira del corredor i recollida de dorsals del Marató València: marques, material i xarrades."
+   }
+  },
+  {
    "id": "catupecu26",
    "n": "Catupecu Machu",
    "s": "2026-12-04",
@@ -101,6 +358,25 @@
     "fr": "Rock argentin.",
     "pt": "Rock argentino.",
     "va": "Rock argentí."
+   }
+  },
+  {
+   "id": "automovil26",
+   "n": "Feria del Automóvil",
+   "s": "2026-12-04",
+   "e": "2026-12-06",
+   "time": "10:00–20:00",
+   "v": "Feria Valencia",
+   "k": "fair",
+   "u": "https://feriavalencia.com/",
+   "d": {
+    "en": "Big new and used car fair with thousands of vehicles for sale and dealer discounts.",
+    "es": "Gran feria de coches nuevos, de ocasión y comerciales, con miles de vehículos a la venta.",
+    "it": "Grande fiera di auto nuove e usate, con migliaia di veicoli in vendita e sconti.",
+    "de": "Große Messe für Neu- und Gebrauchtwagen mit Tausenden Fahrzeugen und Rabatten.",
+    "fr": "Grand salon de voitures neuves et d'occasion, avec des milliers de véhicules à vendre.",
+    "pt": "Grande feira de carros novos e usados, com milhares de veículos à venda e descontos.",
+    "va": "Gran fira de cotxes nous, d'ocasió i comercials, amb milers de vehicles a la venda."
    }
   },
   {
@@ -138,6 +414,24 @@
    "u": "https://16toneladas.com/"
   },
   {
+   "id": "barconavidad26",
+   "n": "Christmas Boat",
+   "s": "2026-12-05",
+   "e": "2027-01-04",
+   "v": "La Marina de València",
+   "k": "other",
+   "u": "https://www.boramar.net/barco-de-la-navidad-en-valencia/",
+   "d": {
+    "en": "Family boat trip around the port with Santa and the Grinch (5–8, 12–13 Dec and daily 19 Dec–4 Jan).",
+    "es": "Paseo en barco por el puerto con Papá Noel y el Grinch (5–8, 12–13 dic y a diario del 19 dic al 4 ene).",
+    "it": "Giro in barca nel porto con Babbo Natale e il Grinch (5–8, 12–13 dic e ogni giorno dal 19 dic al 4 gen).",
+    "de": "Familien-Bootsfahrt durch den Hafen mit Weihnachtsmann und Grinch (5.–8., 12.–13.12. und täglich 19.12.–4.1.).",
+    "fr": "Balade en bateau dans le port avec le Père Noël et le Grinch (5–8, 12–13 déc. et tous les jours du 19 déc. au 4 janv.).",
+    "pt": "Passeio de barco pelo porto com o Pai Natal e o Grinch (5–8, 12–13 dez e diariamente de 19 dez a 4 jan).",
+    "va": "Passeig en barca pel port amb el Pare Noel i el Grinch (5–8, 12–13 des i cada dia del 19 des al 4 gen)."
+   }
+  },
+  {
    "id": "pastori26",
    "n": "Niña Pastori",
    "s": "2026-12-06",
@@ -153,214 +447,6 @@
     "va": "Cantaora de flamenc."
    },
    "u": "https://www.roigarena.com/"
-  },
-  {
-   "id": "bunbury26",
-   "n": "Bunbury",
-   "s": "2026-12-07",
-   "v": "Roig Arena",
-   "k": "concert",
-   "d": {
-    "en": "'Nuevas Mutaciones Tour 2026'.",
-    "es": "Gira «Nuevas Mutaciones 2026».",
-    "it": "Tour 'Nuevas Mutaciones 2026'.",
-    "de": "'Nuevas Mutaciones Tour 2026'.",
-    "fr": "Tournée « Nuevas Mutaciones 2026 ».",
-    "pt": "Digressão 'Nuevas Mutaciones 2026'.",
-    "va": "Gira 'Nuevas Mutaciones 2026'."
-   },
-   "u": "https://www.roigarena.com/"
-  },
-  {
-   "id": "ubago26",
-   "n": "Álex Ubago",
-   "s": "2026-12-10",
-   "v": "Roig Arena",
-   "k": "concert",
-   "d": {
-    "en": "25th anniversary of '¿Qué pides tú?'.",
-    "es": "25 aniversario de «¿Qué pides tú?».",
-    "it": "25° anniversario di '¿Qué pides tú?'.",
-    "de": "25 Jahre '¿Qué pides tú?'.",
-    "fr": "25 ans de « ¿Qué pides tú? ».",
-    "pt": "25.º aniversário de '¿Qué pides tú?'.",
-    "va": "25é aniversari de '¿Qué pides tú?'."
-   },
-   "u": "https://www.roigarena.com/"
-  },
-  {
-   "id": "ellar26",
-   "n": "Sofía Ellar",
-   "s": "2026-12-12",
-   "v": "Roig Arena",
-   "k": "concert",
-   "d": {
-    "en": "Spanish pop singer-songwriter.",
-    "es": "Cantautora pop española.",
-    "it": "Cantautrice pop spagnola.",
-    "de": "Spanische Pop-Singer-Songwriterin.",
-    "fr": "Auteure-compositrice pop espagnole.",
-    "pt": "Cantautora pop espanhola.",
-    "va": "Cantautora pop espanyola."
-   },
-   "u": "https://www.roigarena.com/"
-  },
-  {
-   "id": "melendi26",
-   "n": "Melendi",
-   "s": "2026-12-13",
-   "v": "Roig Arena",
-   "k": "concert",
-   "d": {
-    "en": "Spanish pop-rumba.",
-    "es": "Pop-rumba español.",
-    "it": "Pop-rumba spagnolo.",
-    "de": "Spanischer Pop-Rumba.",
-    "fr": "Pop-rumba espagnole.",
-    "pt": "Pop-rumba espanhola.",
-    "va": "Pop-rumba espanyola."
-   },
-   "u": "https://www.roigarena.com/"
-  },
-  {
-   "id": "macygray26",
-   "n": "Macy Gray",
-   "s": "2026-12-15",
-   "v": "Roig Arena",
-   "k": "concert",
-   "d": {
-    "en": "US soul and R&B.",
-    "es": "Soul y R&B estadounidense.",
-    "it": "Soul e R&B americano.",
-    "de": "US-Soul und R&B.",
-    "fr": "Soul et R&B américain.",
-    "pt": "Soul e R&B norte-americano.",
-    "va": "Soul i R&B nord-americà."
-   },
-   "u": "https://www.roigarena.com/"
-  },
-  {
-   "id": "rayareal26",
-   "n": "Raya Real — Christmas tour",
-   "s": "2026-12-16",
-   "v": "Roig Arena",
-   "k": "concert",
-   "d": {
-    "en": "Andalusian rumba Christmas show.",
-    "es": "Espectáculo navideño de rumba andaluza.",
-    "it": "Spettacolo natalizio di rumba andalusa.",
-    "de": "Weihnachtsshow mit andalusischer Rumba.",
-    "fr": "Spectacle de Noël de rumba andalouse.",
-    "pt": "Espetáculo de Natal de rumba andaluza.",
-    "va": "Espectacle nadalenc de rumba andalusa."
-   },
-   "u": "https://www.roigarena.com/"
-  },
-  {
-   "id": "jsq26",
-   "n": "Japan Sound Quest",
-   "s": "2026-12-18",
-   "v": "Roig Arena",
-   "k": "concert",
-   "d": {
-    "en": "Japanese video-game and anime music live.",
-    "es": "Música de videojuegos y anime japonés en directo.",
-    "it": "Musica di videogiochi e anime giapponesi dal vivo.",
-    "de": "Japanische Videospiel- und Anime-Musik live.",
-    "fr": "Musique de jeux vidéo et d'anime japonais en live.",
-    "pt": "Música de videojogos e anime japoneses ao vivo.",
-    "va": "Música de videojocs i anime japonesos en directe."
-   },
-   "u": "https://www.roigarena.com/"
-  },
-  {
-   "id": "jazzroom26",
-   "n": "The Jazz Room: New Orleans",
-   "s": "2026-07-24",
-   "v": "Loco Club",
-   "k": "show",
-   "d": {
-    "en": "Jazz show inspired by New Orleans.",
-    "es": "Espectáculo de jazz inspirado en Nueva Orleans.",
-    "it": "Spettacolo jazz ispirato a New Orleans.",
-    "de": "Jazzshow im Stil von New Orleans.",
-    "fr": "Spectacle de jazz inspiré de La Nouvelle-Orléans.",
-    "pt": "Espetáculo de jazz inspirado em Nova Orleães.",
-    "va": "Espectacle de jazz inspirat en Nova Orleans."
-   },
-   "e": "2027-01-17",
-   "u": "https://feverup.com/en/valencia"
-  },
-  {
-   "id": "jury26",
-   "n": "The Jury Experience: Murder Case",
-   "s": "2026-07-11",
-   "v": "Ateneu Mercantil",
-   "k": "show",
-   "d": {
-    "en": "Interactive show where you are the jury.",
-    "es": "Espectáculo interactivo: tú eres el jurado.",
-    "it": "Spettacolo interattivo: la giuria sei tu.",
-    "de": "Interaktive Show: Du bist die Jury.",
-    "fr": "Spectacle interactif : c'est vous le jury.",
-    "pt": "Espetáculo interativo em que o júri é você.",
-    "va": "Espectacle interactiu on el jurat eres tu."
-   },
-   "e": "2027-01-22",
-   "u": "https://feverup.com/en/valencia"
-  },
-  {
-   "id": "xmasmarket26",
-   "n": "Christmas markets",
-   "s": "2026-11-28",
-   "v": "Plaza de la Reina",
-   "k": "market",
-   "d": {
-    "en": "Christmas craft stalls in the old town until 6 January (2026 dates to be confirmed).",
-    "es": "Mercadillos navideños en el centro hasta el 6 de enero (fechas 2026 por confirmar).",
-    "it": "Mercatini di Natale in centro fino al 6 gennaio (date 2026 da confermare).",
-    "de": "Weihnachtsmärkte in der Altstadt bis 6. Januar (Termine 2026 noch offen).",
-    "fr": "Marchés de Noël dans la vieille ville jusqu'au 6 janvier (dates 2026 à confirmer).",
-    "pt": "Bancas de artesanato de Natal no centro histórico até 6 de janeiro (datas de 2026 por confirmar).",
-    "va": "Parades d'artesania nadalenca al centre històric fins al 6 de gener (dates de 2026 per confirmar)."
-   },
-   "e": "2027-01-06"
-  },
-  {
-   "id": "2ruedas26",
-   "n": "Salón 2Ruedas",
-   "s": "2026-11-27",
-   "e": "2026-11-29",
-   "v": "Feria Valencia",
-   "k": "fair",
-   "u": "https://dosruedas.feriavalencia.com/",
-   "d": {
-    "en": "Motorbike and bicycle show: new models, accessories, test rides and stunt shows.",
-    "es": "Salón de la moto y la bici: novedades, accesorios, pruebas y exhibiciones.",
-    "it": "Salone di moto e bici: novità, accessori, prove ed esibizioni.",
-    "de": "Motorrad- und Fahrradmesse: Neuheiten, Zubehör, Probefahrten und Shows.",
-    "fr": "Salon de la moto et du vélo : nouveautés, accessoires, essais et démonstrations.",
-    "pt": "Salão de motas e bicicletas: novidades, acessórios, test-drives e exibições.",
-    "va": "Saló de la moto i la bici: novetats, accessoris, proves i exhibicions."
-   }
-  },
-  {
-   "id": "expo42k26",
-   "n": "Expo 42K — Valencia Marathon",
-   "s": "2026-12-03",
-   "e": "2026-12-05",
-   "v": "Feria Valencia",
-   "k": "fair",
-   "u": "https://www.valenciaciudaddelrunning.com/en/",
-   "d": {
-    "en": "Runners' fair and bib pick-up for the Valencia Marathon: brands, gear and running talks.",
-    "es": "Feria del corredor y recogida de dorsales del Maratón Valencia: marcas, material y charlas.",
-    "it": "Fiera del runner e ritiro pettorali della Maratona di Valencia: marchi, materiale e incontri.",
-    "de": "Läufermesse und Startnummernausgabe des Valencia-Marathons: Marken, Ausrüstung, Vorträge.",
-    "fr": "Salon du coureur et retrait des dossards du Marathon de Valence : marques, matériel, conférences.",
-    "pt": "Feira do corredor e levantamento de dorsais da Maratona de Valência: marcas, material e palestras.",
-    "va": "Fira del corredor i recollida de dorsals del Marató València: marques, material i xarrades."
-   }
   },
   {
    "id": "maraton26",
@@ -380,194 +466,80 @@
    }
   },
   {
-   "id": "automovil26",
-   "n": "Feria del Automóvil",
-   "s": "2026-12-04",
-   "e": "2026-12-06",
-   "time": "10:00–20:00",
-   "v": "Feria Valencia",
-   "k": "fair",
-   "u": "https://feriavalencia.com/",
-   "d": {
-    "en": "Big new and used car fair with thousands of vehicles for sale and dealer discounts.",
-    "es": "Gran feria de coches nuevos, de ocasión y comerciales, con miles de vehículos a la venta.",
-    "it": "Grande fiera di auto nuove e usate, con migliaia di veicoli in vendita e sconti.",
-    "de": "Große Messe für Neu- und Gebrauchtwagen mit Tausenden Fahrzeugen und Rabatten.",
-    "fr": "Grand salon de voitures neuves et d'occasion, avec des milliers de véhicules à vendre.",
-    "pt": "Grande feira de carros novos e usados, com milhares de veículos à venda e descontos.",
-    "va": "Gran fira de cotxes nous, d'ocasió i comercials, amb milers de vehicles a la venda."
-   }
-  },
-  {
-   "id": "edos26",
-   "n": "EDOS — European Drone Operators Summit",
-   "s": "2026-12-16",
-   "e": "2026-12-17",
-   "v": "Feria Valencia",
-   "k": "other",
-   "u": "https://feriavalencia.com/",
-   "d": {
-    "en": "First European summit for drone operators (professional congress).",
-    "es": "Primera cumbre europea de operadores de drones (congreso profesional).",
-    "it": "Primo vertice europeo degli operatori di droni (congresso professionale).",
-    "de": "Erster europäischer Gipfel für Drohnenbetreiber (Fachkongress).",
-    "fr": "Premier sommet européen des opérateurs de drones (congrès professionnel).",
-    "pt": "Primeira cimeira europeia de operadores de drones (congresso profissional).",
-    "va": "Primera cimera europea d'operadors de drons (congrés professional)."
-   }
-  },
-  {
-   "id": "jocrol26",
-   "n": "Joc & Rol",
-   "s": "2026-12-26",
-   "e": "2026-12-27",
-   "v": "Feria Valencia",
-   "k": "fair",
-   "u": "https://feriavalencia.com/",
-   "d": {
-    "en": "Board games and role-playing weekend: open play tables, demos and tournaments.",
-    "es": "Fin de semana de juegos de mesa y rol: mesas de juego libre, demos y torneos.",
-    "it": "Weekend di giochi da tavolo e di ruolo: tavoli liberi, demo e tornei.",
-    "de": "Brett- und Rollenspiel-Wochenende: offene Spieltische, Demos und Turniere.",
-    "fr": "Week-end de jeux de société et de rôle : tables libres, démos et tournois.",
-    "pt": "Fim de semana de jogos de tabuleiro e de RPG: mesas livres, demonstrações e torneios.",
-    "va": "Cap de setmana de jocs de taula i de rol: taules de joc lliure, demos i tornejos."
-   }
-  },
-  {
-   "id": "expojove26",
-   "n": "Expojove",
-   "s": "2026-12-26",
-   "e": "2027-01-04",
-   "time": "11:00–20:00",
-   "v": "Feria Valencia",
-   "k": "fair",
-   "u": "https://www.expojove.com/es/home/",
-   "d": {
-    "en": "Christmas fair for kids and families: games, workshops and shows. From €3 (31 Dec 10–14h, 1 Jan 16–21h).",
-    "es": "Feria navideña para niños y familias: juegos, talleres y espectáculos. Desde 3 € (31 dic 10–14 h, 1 ene 16–21 h).",
-    "it": "Fiera natalizia per bambini e famiglie: giochi, laboratori e spettacoli. Da 3 € (31 dic 10–14, 1 gen 16–21).",
-    "de": "Weihnachtsmesse für Kinder und Familien: Spiele, Workshops, Shows. Ab 3 € (31.12. 10–14 Uhr, 1.1. 16–21 Uhr).",
-    "fr": "Salon de Noël pour enfants et familles : jeux, ateliers, spectacles. Dès 3 € (31 déc. 10h–14h, 1er janv. 16h–21h).",
-    "pt": "Feira de Natal para crianças e famílias: jogos, oficinas e espetáculos. Desde 3 € (31 dez 10–14h, 1 jan 16–21h).",
-    "va": "Fira nadalenca per a xiquets i famílies: jocs, tallers i espectacles. Des de 3 € (31 des. 10–14 h, 1 gen. 16–21 h)."
-   }
-  },
-  {
-   "id": "fimi27",
-   "n": "Babykid Spain + FIMI",
-   "s": "2027-01-20",
-   "e": "2027-01-22",
-   "v": "Feria Valencia",
-   "k": "fair",
-   "u": "https://feriavalencia.com/",
-   "d": {
-    "en": "International children's fashion and baby products fair (trade only).",
-    "es": "Feria internacional de moda infantil y puericultura (solo profesionales).",
-    "it": "Fiera internazionale di moda bimbo e puericultura (solo operatori).",
-    "de": "Internationale Messe für Kindermode und Babyartikel (nur Fachbesucher).",
-    "fr": "Salon international de la mode enfantine et de la puériculture (réservé aux professionnels).",
-    "pt": "Feira internacional de moda infantil e puericultura (só profissionais).",
-    "va": "Fira internacional de moda infantil i puericultura (només professionals)."
-   }
-  },
-  {
-   "id": "lud-elche26",
-   "n": "Levante UD – Elche CF",
-   "s": "2026-11-22",
-   "v": "Estadi Ciutat de València",
-   "k": "sport",
-   "sp": "football",
-   "d": {
-    "en": "LaLiga match. Kick-off time to be confirmed (date may move by a day).",
-    "es": "Partido de LaLiga. Horario por confirmar (la fecha puede moverse un día).",
-    "it": "Partita di LaLiga. Orario da confermare (la data può slittare di un giorno).",
-    "de": "LaLiga-Spiel. Anstoßzeit noch offen (Termin kann sich um einen Tag verschieben).",
-    "fr": "Match de LaLiga. Horaire à confirmer (la date peut bouger d'un jour).",
-    "pt": "Jogo da LaLiga. Horário por confirmar (a data pode mudar um dia).",
-    "va": "Partit de LaLiga. Horari per confirmar (la data pot moure's un dia)."
-   },
-   "u": "https://www.levanteud.com/es/"
-  },
-  {
-   "id": "vb-breogan26",
-   "n": "Valencia Basket – Río Breogán",
-   "s": "2026-11-22",
+   "id": "bunbury26",
+   "n": "Bunbury",
+   "s": "2026-12-07",
    "v": "Roig Arena",
-   "k": "sport",
-   "sp": "basketball",
+   "k": "concert",
    "d": {
-    "en": "Liga Endesa (ACB) basketball.",
-    "es": "Baloncesto, Liga Endesa (ACB).",
-    "it": "Basket, Liga Endesa (ACB).",
-    "de": "Basketball, Liga Endesa (ACB).",
-    "fr": "Basket, Liga Endesa (ACB).",
-    "pt": "Basquetebol, Liga Endesa (ACB).",
-    "va": "Bàsquet, Lliga Endesa (ACB)."
+    "en": "'Nuevas Mutaciones Tour 2026'.",
+    "es": "Gira «Nuevas Mutaciones 2026».",
+    "it": "Tour 'Nuevas Mutaciones 2026'.",
+    "de": "'Nuevas Mutaciones Tour 2026'.",
+    "fr": "Tournée « Nuevas Mutaciones 2026 ».",
+    "pt": "Digressão 'Nuevas Mutaciones 2026'.",
+    "va": "Gira 'Nuevas Mutaciones 2026'."
    },
-   "time": "17:00",
-   "u": "https://www.valenciabasket.com/"
+   "u": "https://www.roigarena.com/"
   },
   {
-   "id": "vb-pao26",
-   "n": "Valencia Basket – Panathinaikos",
-   "s": "2026-11-24",
-   "v": "Roig Arena",
-   "k": "sport",
-   "sp": "basketball",
-   "d": {
-    "en": "EuroLeague basketball — top European level.",
-    "es": "Euroliga de baloncesto, la máxima competición europea.",
-    "it": "Eurolega di basket, il top europeo.",
-    "de": "EuroLeague-Basketball – Europas Spitzenklasse.",
-    "fr": "EuroLigue de basket, le plus haut niveau européen.",
-    "pt": "EuroLiga de basquetebol, o topo europeu.",
-    "va": "Eurolliga de bàsquet, la màxima competició europea."
-   },
+   "id": "jaywheeler26",
+   "n": "Jay Wheeler",
+   "s": "2026-12-08",
    "time": "20:30",
+   "v": "Roig Arena",
+   "k": "concert",
+   "u": "https://www.roigarena.com/",
+   "d": {
+    "en": "Puerto Rican reggaeton and R&B.",
+    "es": "Reguetón y R&B puertorriqueño.",
+    "it": "Reggaeton e R&B portoricano.",
+    "de": "Reggaeton und R&B aus Puerto Rico.",
+    "fr": "Reggaeton et R&B portoricain.",
+    "pt": "Reggaeton e R&B porto-riquenho.",
+    "va": "Reggaeton i R&B porto-riqueny."
+   }
+  },
+  {
+   "id": "vbcf-euskotren26",
+   "n": "Valencia BC (women) – Mirai Euskotren",
+   "s": "2026-12-09",
+   "time": "19:00",
+   "v": "Roig Arena",
+   "k": "sport",
+   "sp": "basketball",
+   "d": {
+    "en": "Women's basketball, Liga Femenina Endesa. Check venue on the club website.",
+    "es": "Baloncesto femenino, Liga Femenina Endesa. Confirma el pabellón en la web del club.",
+    "it": "Basket femminile, Liga Femenina Endesa. Verifica l'impianto sul sito del club.",
+    "de": "Frauenbasketball, Liga Femenina Endesa. Halle auf der Vereinsseite prüfen.",
+    "fr": "Basket féminin, Liga Femenina Endesa. Vérifiez la salle sur le site du club.",
+    "pt": "Basquetebol feminino, Liga Femenina Endesa. Confirme o pavilhão no site do clube.",
+    "va": "Bàsquet femení, Lliga Femenina Endesa. Confirma el pavelló a la web del club."
+   },
    "u": "https://www.valenciabasket.com/"
   },
   {
-   "id": "vcf-osasuna26",
-   "n": "Valencia CF – CA Osasuna",
-   "s": "2026-11-29",
-   "v": "Mestalla",
-   "k": "sport",
-   "sp": "football",
+   "id": "ubago26",
+   "n": "Álex Ubago",
+   "s": "2026-12-10",
+   "v": "Roig Arena",
+   "k": "concert",
    "d": {
-    "en": "LaLiga match.",
-    "es": "Partido de LaLiga.",
-    "it": "Partita di LaLiga.",
-    "de": "LaLiga-Spiel.",
-    "fr": "Match de LaLiga.",
-    "pt": "Jogo da LaLiga.",
-    "va": "Partit de LaLiga."
+    "en": "25th anniversary of '¿Qué pides tú?'.",
+    "es": "25 aniversario de «¿Qué pides tú?».",
+    "it": "25° anniversario di '¿Qué pides tú?'.",
+    "de": "25 Jahre '¿Qué pides tú?'.",
+    "fr": "25 ans de « ¿Qué pides tú? ».",
+    "pt": "25.º aniversário de '¿Qué pides tú?'.",
+    "va": "25é aniversari de '¿Qué pides tú?'."
    },
-   "u": "https://www.valenciacf.com/",
-   "time": "13:00"
-  },
-  {
-   "id": "lud-racing26",
-   "n": "Levante UD – Racing Santander",
-   "s": "2026-11-29",
-   "v": "Estadi Ciutat de València",
-   "k": "sport",
-   "sp": "football",
-   "d": {
-    "en": "LaLiga match. Kick-off time to be confirmed (date may move by a day).",
-    "es": "Partido de LaLiga. Horario por confirmar (la fecha puede moverse un día).",
-    "it": "Partita di LaLiga. Orario da confermare (la data può slittare di un giorno).",
-    "de": "LaLiga-Spiel. Anstoßzeit noch offen (Termin kann sich um einen Tag verschieben).",
-    "fr": "Match de LaLiga. Horaire à confirmer (la date peut bouger d'un jour).",
-    "pt": "Jogo da LaLiga. Horário por confirmar (a data pode mudar um dia).",
-    "va": "Partit de LaLiga. Horari per confirmar (la data pot moure's un dia)."
-   },
-   "u": "https://www.levanteud.com/es/"
+   "u": "https://www.roigarena.com/"
   },
   {
    "id": "vb-zvezda26",
    "n": "Valencia Basket – Crvena Zvezda",
-   "s": "2026-12-11",
+   "s": "2026-12-10",
    "v": "Roig Arena",
    "k": "sport",
    "sp": "basketball",
@@ -582,6 +554,222 @@
    },
    "time": "20:30",
    "u": "https://www.valenciabasket.com/"
+  },
+  {
+   "id": "lohengrin26",
+   "n": "Lohengrin (Wagner)",
+   "s": "2026-12-10",
+   "e": "2026-12-22",
+   "time": "18:30",
+   "v": "Palau de les Arts",
+   "k": "show",
+   "u": "https://www.lesarts.com/en/programme/c/1286-lohengrin.html",
+   "d": {
+    "en": "Wagner's opera conducted by Sir Mark Elder, staged by Damiano Michieletto. Performances 10, 13 (18:00), 16, 19 and 22 Dec.",
+    "es": "Ópera de Wagner dirigida por Sir Mark Elder, con escena de Damiano Michieletto. Funciones 10, 13 (18:00), 16, 19 y 22 dic.",
+    "it": "Opera di Wagner diretta da Sir Mark Elder, regia di Damiano Michieletto. Recite 10, 13 (18:00), 16, 19 e 22 dic.",
+    "de": "Wagners Oper unter Sir Mark Elder, Regie Damiano Michieletto. Vorstellungen am 10., 13. (18:00), 16., 19. und 22. Dez.",
+    "fr": "Opéra de Wagner dirigé par Sir Mark Elder, mise en scène de Damiano Michieletto. Représentations les 10, 13 (18h), 16, 19 et 22 déc.",
+    "pt": "Ópera de Wagner dirigida por Sir Mark Elder, encenação de Damiano Michieletto. Récitas a 10, 13 (18:00), 16, 19 e 22 dez.",
+    "va": "Òpera de Wagner dirigida per Sir Mark Elder, amb escena de Damiano Michieletto. Funcions 10, 13 (18:00), 16, 19 i 22 des."
+   }
+  },
+  {
+   "id": "sonrisas26",
+   "n": "Sonrisas y Lágrimas (The Sound of Music)",
+   "s": "2026-12-10",
+   "e": "2027-01-10",
+   "v": "Teatro Olympia",
+   "k": "show",
+   "u": "https://visitvalencia.teatroenvalencia.com/espectaculo/sonrisas-y-lagrimas-el-musical/OLYMSONRISASLA",
+   "d": {
+    "en": "The classic musical in Spanish, all Christmas season.",
+    "es": "El musical clásico, durante toda la Navidad.",
+    "it": "Il musical classico in spagnolo, per tutto il periodo natalizio.",
+    "de": "Das Musical-Klassiker auf Spanisch, die ganze Weihnachtszeit.",
+    "fr": "Le grand classique en espagnol, pendant toutes les fêtes.",
+    "pt": "O musical clássico em espanhol, durante todo o Natal.",
+    "va": "El musical clàssic, durant tot el Nadal."
+   }
+  },
+  {
+   "id": "xmascentral26",
+   "n": "Christmas & Three Kings market – Mercado Central",
+   "s": "2026-12-10",
+   "e": "2027-01-06",
+   "time": "09:00–22:00",
+   "v": "Mercado Central",
+   "k": "market",
+   "u": "https://www.visitvalencia.com/agenda-valencia/mercadillos-tus-compras-navidenas",
+   "d": {
+    "en": "Traditional stalls around the Central Market (open late on 24 Dec and 5 Jan).",
+    "es": "Puestos tradicionales alrededor del Mercado Central (abre hasta tarde el 24 dic y el 5 ene).",
+    "it": "Bancarelle tradizionali intorno al Mercato Centrale (apertura serale prolungata il 24 dic e il 5 gen).",
+    "de": "Traditionelle Stände rund um die Markthalle (am 24.12. und 5.1. bis spät geöffnet).",
+    "fr": "Stands traditionnels autour du Marché central (ouvert tard le 24 déc. et le 5 janv.).",
+    "pt": "Bancas tradicionais à volta do Mercado Central (aberto até tarde a 24 dez e 5 jan).",
+    "va": "Parades tradicionals al voltant del Mercat Central (obri fins tard el 24 des i el 5 gen)."
+   }
+  },
+  {
+   "id": "brownlee26",
+   "n": "Lawrence Brownlee – recital",
+   "s": "2026-12-11",
+   "v": "Palau de les Arts",
+   "k": "concert",
+   "u": "https://www.lesarts.com/",
+   "d": {
+    "en": "Recital by the American bel canto tenor.",
+    "es": "Recital del tenor belcantista estadounidense.",
+    "it": "Recital del tenore belcantista statunitense.",
+    "de": "Liederabend des US-amerikanischen Belcanto-Tenors.",
+    "fr": "Récital du ténor belcantiste américain.",
+    "pt": "Recital do tenor belcantista norte-americano.",
+    "va": "Recital del tenor belcantista nord-americà."
+   }
+  },
+  {
+   "id": "betacam26",
+   "n": "Visuals: Betacam + \"Espíritu Sagrado\"",
+   "s": "2026-12-11",
+   "time": "19:30",
+   "v": "Palau de la Música",
+   "k": "concert",
+   "u": "https://www.visitvalencia.com/agenda-valencia/cine-y-musica-en-directo-se-encuentran-en-el-palau-de-la-musica-con-el-ciclo",
+   "d": {
+    "en": "Betacam plays a live synth soundtrack to the film.",
+    "es": "Betacam pone banda sonora en directo con sintetizadores a la película.",
+    "it": "Betacam esegue dal vivo una colonna sonora elettronica per il film.",
+    "de": "Betacam spielt live einen Synth-Soundtrack zum Film.",
+    "fr": "Betacam joue en direct une bande-son électro sur le film.",
+    "pt": "Betacam toca ao vivo uma banda sonora eletrónica para o filme.",
+    "va": "Betacam posa banda sonora en directe amb sintetitzadors a la pel·lícula."
+   }
+  },
+  {
+   "id": "lol26",
+   "n": "Love of Lesbian",
+   "s": "2026-12-11",
+   "time": "21:00",
+   "v": "Roig Arena",
+   "k": "concert",
+   "u": "https://www.roigarena.com/en/event/Love-of-lesbian-20261211",
+   "d": {
+    "en": "Catalan indie band's big show before an indefinite break.",
+    "es": "El gran concierto del grupo indie catalán antes de su parón indefinido.",
+    "it": "Il grande concerto della band indie catalana prima di una pausa a tempo indeterminato.",
+    "de": "Großes Konzert der katalanischen Indie-Band vor ihrer unbefristeten Pause.",
+    "fr": "Le grand concert du groupe indie catalan avant une pause indéfinie.",
+    "pt": "O grande concerto da banda indie catalã antes de uma pausa indefinida.",
+    "va": "El gran concert del grup indie català abans de la seua aturada indefinida."
+   }
+  },
+  {
+   "id": "hens26",
+   "n": "Hens – Una mudanza",
+   "s": "2026-12-11",
+   "time": "21:00",
+   "v": "Auditorio Roig Arena",
+   "k": "concert",
+   "u": "https://www.roigarena.com/en/event/hens-20261211/",
+   "d": {
+    "en": "Valencian singer-songwriter on his new tour.",
+    "es": "El cantautor valenciano presenta su nueva gira.",
+    "it": "Il cantautore valenciano presenta il suo nuovo tour.",
+    "de": "Der valencianische Singer-Songwriter auf neuer Tour.",
+    "fr": "Le chanteur-compositeur valencien présente sa nouvelle tournée.",
+    "pt": "O cantautor valenciano apresenta a sua nova digressão.",
+    "va": "El cantautor valencià presenta la seua nova gira."
+   }
+  },
+  {
+   "id": "xmascac26",
+   "n": "Christmas market – City of Arts and Sciences",
+   "s": "2026-12-11",
+   "e": "2027-01-06",
+   "time": "11:00–23:00",
+   "v": "Ciutat de les Arts i les Ciències",
+   "k": "market",
+   "u": "https://www.visitvalencia.com/agenda-valencia/mercadillos-tus-compras-navidenas",
+   "d": {
+    "en": "Big Christmas market with stalls and food (24 & 31 Dec until 17:00; 25 Dec & 1 Jan from 17:00).",
+    "es": "Gran mercado navideño con puestos y comida (24 y 31 dic hasta las 17:00; 25 dic y 1 ene desde las 17:00).",
+    "it": "Grande mercatino di Natale con bancarelle e cibo (24 e 31 dic fino alle 17; 25 dic e 1 gen dalle 17).",
+    "de": "Großer Weihnachtsmarkt mit Ständen und Essen (24. & 31.12. bis 17 Uhr; 25.12. & 1.1. ab 17 Uhr).",
+    "fr": "Grand marché de Noël avec stands et restauration (24 et 31 déc. jusqu'à 17h ; 25 déc. et 1er janv. dès 17h).",
+    "pt": "Grande mercado de Natal com bancas e comida (24 e 31 dez até às 17:00; 25 dez e 1 jan a partir das 17:00).",
+    "va": "Gran mercat nadalenc amb parades i menjar (24 i 31 des fins a les 17:00; 25 des i 1 gen des de les 17:00)."
+   }
+  },
+  {
+   "id": "ellar26",
+   "n": "Sofía Ellar",
+   "s": "2026-12-12",
+   "v": "Roig Arena",
+   "k": "concert",
+   "d": {
+    "en": "Spanish pop singer-songwriter.",
+    "es": "Cantautora pop española.",
+    "it": "Cantautrice pop spagnola.",
+    "de": "Spanische Pop-Singer-Songwriterin.",
+    "fr": "Auteure-compositrice pop espagnole.",
+    "pt": "Cantautora pop espanhola.",
+    "va": "Cantautora pop espanyola."
+   },
+   "u": "https://www.roigarena.com/"
+  },
+  {
+   "id": "zambomba26",
+   "n": "Zambomba Flamenca",
+   "s": "2026-12-12",
+   "v": "Palau de les Arts – Teatre Martín i Soler",
+   "k": "concert",
+   "u": "https://www.lesarts.com/",
+   "d": {
+    "en": "Traditional Andalusian Christmas flamenco party.",
+    "es": "Zambomba flamenca navideña de tradición andaluza.",
+    "it": "Festa natalizia di flamenco della tradizione andalusa.",
+    "de": "Traditionelles andalusisches Flamenco-Weihnachtsfest.",
+    "fr": "Fête de Noël flamenca de tradition andalouse.",
+    "pt": "Festa de Natal flamenca de tradição andaluza.",
+    "va": "Zambomba flamenca nadalenca de tradició andalusa."
+   }
+  },
+  {
+   "id": "russafira26",
+   "n": "Russafira – Mercat de les Ànimes",
+   "s": "2026-12-12",
+   "e": "2026-12-13",
+   "time": "12:00–22:00",
+   "v": "Parc Central",
+   "k": "fair",
+   "u": "https://www.visitvalencia.com/agenda-valencia/russafira-2026-artesania-pasacalles-y-conciertos",
+   "d": {
+    "en": "Ruzafa's craft and artists' fair with workshops, concerts and a parade (Sat 19:30).",
+    "es": "Feria de artesanía y artistas de Russafa con talleres, conciertos y pasacalles (sáb 19:30).",
+    "it": "Fiera di artigianato e artisti di Russafa con laboratori, concerti e parata (sab 19:30).",
+    "de": "Kunsthandwerks- und Künstlermarkt aus Russafa mit Workshops, Konzerten und Umzug (Sa 19:30).",
+    "fr": "Foire d'artisanat et d'artistes de Russafa avec ateliers, concerts et défilé (sam. 19h30).",
+    "pt": "Feira de artesanato e artistas de Russafa com oficinas, concertos e desfile (sáb 19:30).",
+    "va": "Fira d'artesania i artistes de Russafa amb tallers, concerts i cercavila (dissabte 19:30)."
+   }
+  },
+  {
+   "id": "melendi26",
+   "n": "Melendi",
+   "s": "2026-12-13",
+   "v": "Roig Arena",
+   "k": "concert",
+   "d": {
+    "en": "Spanish pop-rumba.",
+    "es": "Pop-rumba español.",
+    "it": "Pop-rumba spagnolo.",
+    "de": "Spanischer Pop-Rumba.",
+    "fr": "Pop-rumba espagnole.",
+    "pt": "Pop-rumba espanhola.",
+    "va": "Pop-rumba espanyola."
+   },
+   "u": "https://www.roigarena.com/"
   },
   {
    "id": "lud-alaves26",
@@ -602,6 +790,23 @@
    "u": "https://www.levanteud.com/es/"
   },
   {
+   "id": "macygray26",
+   "n": "Macy Gray",
+   "s": "2026-12-15",
+   "v": "Roig Arena",
+   "k": "concert",
+   "d": {
+    "en": "US soul and R&B.",
+    "es": "Soul y R&B estadounidense.",
+    "it": "Soul e R&B americano.",
+    "de": "US-Soul und R&B.",
+    "fr": "Soul et R&B américain.",
+    "pt": "Soul e R&B norte-americano.",
+    "va": "Soul i R&B nord-americà."
+   },
+   "u": "https://www.roigarena.com/"
+  },
+  {
    "id": "vb-dubai26",
    "n": "Valencia Basket – Dubai Basketball",
    "s": "2026-12-15",
@@ -619,6 +824,94 @@
    },
    "time": "20:30",
    "u": "https://www.valenciabasket.com/"
+  },
+  {
+   "id": "rayareal26",
+   "n": "Raya Real — Christmas tour",
+   "s": "2026-12-16",
+   "v": "Roig Arena",
+   "k": "concert",
+   "d": {
+    "en": "Andalusian rumba Christmas show.",
+    "es": "Espectáculo navideño de rumba andaluza.",
+    "it": "Spettacolo natalizio di rumba andalusa.",
+    "de": "Weihnachtsshow mit andalusischer Rumba.",
+    "fr": "Spectacle de Noël de rumba andalouse.",
+    "pt": "Espetáculo de Natal de rumba andaluza.",
+    "va": "Espectacle nadalenc de rumba andalusa."
+   },
+   "u": "https://www.roigarena.com/"
+  },
+  {
+   "id": "edos26",
+   "n": "EDOS — European Drone Operators Summit",
+   "s": "2026-12-16",
+   "e": "2026-12-17",
+   "v": "Feria Valencia",
+   "k": "other",
+   "u": "https://feriavalencia.com/",
+   "d": {
+    "en": "First European summit for drone operators (professional congress).",
+    "es": "Primera cumbre europea de operadores de drones (congreso profesional).",
+    "it": "Primo vertice europeo degli operatori di droni (congresso professionale).",
+    "de": "Erster europäischer Gipfel für Drohnenbetreiber (Fachkongress).",
+    "fr": "Premier sommet européen des opérateurs de drones (congrès professionnel).",
+    "pt": "Primeira cimeira europeia de operadores de drones (congresso profissional).",
+    "va": "Primera cimera europea d'operadors de drons (congrés professional)."
+   }
+  },
+  {
+   "id": "jsq26",
+   "n": "Japan Sound Quest",
+   "s": "2026-12-18",
+   "v": "Roig Arena",
+   "k": "concert",
+   "d": {
+    "en": "Japanese video-game and anime music live.",
+    "es": "Música de videojuegos y anime japonés en directo.",
+    "it": "Musica di videogiochi e anime giapponesi dal vivo.",
+    "de": "Japanische Videospiel- und Anime-Musik live.",
+    "fr": "Musique de jeux vidéo et d'anime japonais en live.",
+    "pt": "Música de videojogos e anime japoneses ao vivo.",
+    "va": "Música de videojocs i anime japonesos en directe."
+   },
+   "u": "https://www.roigarena.com/"
+  },
+  {
+   "id": "manacorda26",
+   "n": "Manacorda: Mahler's 4th",
+   "s": "2026-12-18",
+   "time": "19:30",
+   "v": "Palau de les Arts",
+   "k": "concert",
+   "u": "https://www.lesarts.com/en/programme/c/1312-antonello-manacorda.html",
+   "d": {
+    "en": "Orquestra de la Comunitat Valenciana and soprano Christiane Karg: Berg and Mahler's Fourth Symphony.",
+    "es": "La Orquestra de la Comunitat Valenciana y la soprano Christiane Karg: Berg y la Cuarta de Mahler.",
+    "it": "L'Orquestra de la Comunitat Valenciana e il soprano Christiane Karg: Berg e la Quarta di Mahler.",
+    "de": "Orquestra de la Comunitat Valenciana und Sopranistin Christiane Karg: Berg und Mahlers Vierte.",
+    "fr": "L'Orquestra de la Comunitat Valenciana et la soprano Christiane Karg : Berg et la 4e de Mahler.",
+    "pt": "A Orquestra de la Comunitat Valenciana e a soprano Christiane Karg: Berg e a Quarta de Mahler.",
+    "va": "L'Orquestra de la Comunitat Valenciana i la soprano Christiane Karg: Berg i la Quarta de Mahler."
+   }
+  },
+  {
+   "id": "locos26",
+   "n": "Locos por la Música",
+   "s": "2026-12-19",
+   "time": "16:00",
+   "v": "Roig Arena",
+   "k": "concert",
+   "u": "https://www.roigarena.com/en/event/locos-por-la-musica-20261219/",
+   "d": {
+    "en": "Seven hours of 80s-90s Spanish pop-rock: M Clan, Duncan Dhu, Despistaos and more.",
+    "es": "Siete horas de pop-rock español de los 80 y 90: M Clan, Duncan Dhu, Despistaos y más.",
+    "it": "Sette ore di pop-rock spagnolo anni '80 e '90: M Clan, Duncan Dhu, Despistaos e altri.",
+    "de": "Sieben Stunden spanischer Pop-Rock der 80er und 90er: M Clan, Duncan Dhu, Despistaos u. a.",
+    "fr": "Sept heures de pop-rock espagnol des années 80-90 : M Clan, Duncan Dhu, Despistaos…",
+    "pt": "Sete horas de pop-rock espanhol dos anos 80 e 90: M Clan, Duncan Dhu, Despistaos e mais.",
+    "va": "Set hores de pop-rock espanyol dels 80 i 90: M Clan, Duncan Dhu, Despistaos i més."
+   }
   },
   {
    "id": "vcf-espanyol26",
@@ -673,8 +966,26 @@
     "pt": "Basquetebol feminino, Liga Femenina Endesa. Confirme pavilhão e hora no site do clube.",
     "va": "Bàsquet femení, Lliga Femenina Endesa. Confirma pavelló i hora a la web del club."
    },
-   "time": "12:15",
+   "time": "17:30",
    "u": "https://www.valenciabasket.com/"
+  },
+  {
+   "id": "navmagicas26",
+   "n": "Navidades Mágicas",
+   "s": "2026-12-21",
+   "e": "2027-01-04",
+   "v": "Teatre Talia",
+   "k": "show",
+   "u": "https://visitvalencia.teatroenvalencia.com/espectaculo/navidades-magicas/TALNAVMAGI",
+   "d": {
+    "en": "Family Christmas magic show.",
+    "es": "Espectáculo de magia navideño para toda la familia.",
+    "it": "Spettacolo di magia natalizio per famiglie.",
+    "de": "Weihnachtliche Zaubershow für die ganze Familie.",
+    "fr": "Spectacle de magie de Noël pour toute la famille.",
+    "pt": "Espetáculo de magia de Natal para toda a família.",
+    "va": "Espectacle de màgia nadalenc per a tota la família."
+   }
   },
   {
    "id": "vbcf-jairis26",
@@ -692,8 +1003,98 @@
     "pt": "Basquetebol feminino, Liga Femenina Endesa. Confirme pavilhão e hora no site do clube.",
     "va": "Bàsquet femení, Lliga Femenina Endesa. Confirma pavelló i hora a la web del club."
    },
-   "time": "20:00",
+   "time": "20:45",
    "u": "https://www.valenciabasket.com/"
+  },
+  {
+   "id": "jocrol26",
+   "n": "Joc & Rol",
+   "s": "2026-12-26",
+   "e": "2026-12-27",
+   "v": "Feria Valencia",
+   "k": "fair",
+   "u": "https://feriavalencia.com/",
+   "d": {
+    "en": "Board games and role-playing weekend: open play tables, demos and tournaments.",
+    "es": "Fin de semana de juegos de mesa y rol: mesas de juego libre, demos y torneos.",
+    "it": "Weekend di giochi da tavolo e di ruolo: tavoli liberi, demo e tornei.",
+    "de": "Brett- und Rollenspiel-Wochenende: offene Spieltische, Demos und Turniere.",
+    "fr": "Week-end de jeux de société et de rôle : tables libres, démos et tournois.",
+    "pt": "Fim de semana de jogos de tabuleiro e de RPG: mesas livres, demonstrações e torneios.",
+    "va": "Cap de setmana de jocs de taula i de rol: taules de joc lliure, demos i tornejos."
+   }
+  },
+  {
+   "id": "expojove26",
+   "n": "Expojove",
+   "s": "2026-12-26",
+   "e": "2027-01-04",
+   "time": "11:00–20:00",
+   "v": "Feria Valencia",
+   "k": "fair",
+   "u": "https://www.expojove.com/es/home/",
+   "d": {
+    "en": "Christmas fair for kids and families: games, workshops and shows. From €3 (31 Dec 10–14h, 1 Jan 16–21h).",
+    "es": "Feria navideña para niños y familias: juegos, talleres y espectáculos. Desde 3 € (31 dic 10–14 h, 1 ene 16–21 h).",
+    "it": "Fiera natalizia per bambini e famiglie: giochi, laboratori e spettacoli. Da 3 € (31 dic 10–14, 1 gen 16–21).",
+    "de": "Weihnachtsmesse für Kinder und Familien: Spiele, Workshops, Shows. Ab 3 € (31.12. 10–14 Uhr, 1.1. 16–21 Uhr).",
+    "fr": "Salon de Noël pour enfants et familles : jeux, ateliers, spectacles. Dès 3 € (31 déc. 10h–14h, 1er janv. 16h–21h).",
+    "pt": "Feira de Natal para crianças e famílias: jogos, oficinas e espetáculos. Desde 3 € (31 dez 10–14h, 1 jan 16–21h).",
+    "va": "Fira nadalenca per a xiquets i famílies: jocs, tallers i espectacles. Des de 3 € (31 des. 10–14 h, 1 gen. 16–21 h)."
+   }
+  },
+  {
+   "id": "magia26",
+   "n": "Festival Mundial de Magia",
+   "s": "2026-12-26",
+   "e": "2026-12-31",
+   "v": "Teatro La Rambleta",
+   "k": "show",
+   "u": "https://www.festivalmundialdemagia.com/",
+   "d": {
+    "en": "International magic festival with nightly galas.",
+    "es": "Festival internacional de magia con galas cada día.",
+    "it": "Festival internazionale di magia con gala ogni sera.",
+    "de": "Internationales Zauberfestival mit täglichen Galas.",
+    "fr": "Festival international de magie avec galas chaque soir.",
+    "pt": "Festival internacional de magia com galas diárias.",
+    "va": "Festival internacional de màgia amb gales cada dia."
+   }
+  },
+  {
+   "id": "malikian26",
+   "n": "Ara Malikian",
+   "s": "2026-12-27",
+   "v": "Palacio de Congresos",
+   "k": "concert",
+   "u": "https://www.visitvalencia.com/agenda-valencia/concierto-de-ara-malikian-en-valencia",
+   "d": {
+    "en": "The virtuoso violinist plays two end-of-year concerts (afternoon and 21:00).",
+    "es": "El virtuoso violinista ofrece dos conciertos de fin de año (tarde y 21:00).",
+    "it": "Il virtuoso violinista tiene due concerti di fine anno (pomeriggio e 21:00).",
+    "de": "Der Violinvirtuose gibt zwei Jahresendkonzerte (nachmittags und 21:00).",
+    "fr": "Le violoniste virtuose donne deux concerts de fin d'année (après-midi et 21h).",
+    "pt": "O virtuoso violinista dá dois concertos de fim de ano (tarde e 21:00).",
+    "va": "El virtuós violinista ofereix dos concerts de fi d'any (vesprada i 21:00)."
+   }
+  },
+  {
+   "id": "luli26",
+   "n": "Luli Pampín",
+   "s": "2026-12-29",
+   "time": "18:00",
+   "v": "Roig Arena",
+   "k": "show",
+   "u": "https://www.roigarena.com/",
+   "d": {
+    "en": "Family music show by the children's favourite.",
+    "es": "Espectáculo musical familiar de la estrella infantil.",
+    "it": "Spettacolo musicale per famiglie della star dei bambini.",
+    "de": "Familien-Musikshow des Kinderstars.",
+    "fr": "Spectacle musical familial de la star des enfants.",
+    "pt": "Espetáculo musical familiar da estrela infantil.",
+    "va": "Espectacle musical familiar de l'estrela infantil."
+   }
   },
   {
    "id": "derbi27",
@@ -712,6 +1113,25 @@
     "va": "El derbi valencià! Partit de LaLiga. Horari per confirmar (la data pot moure's un dia)."
    },
    "u": "https://www.levanteud.com/es/"
+  },
+  {
+   "id": "vbcf-girona27",
+   "n": "Valencia BC (women) – Spar Girona",
+   "s": "2027-01-03",
+   "time": "12:15",
+   "v": "Roig Arena",
+   "k": "sport",
+   "sp": "basketball",
+   "d": {
+    "en": "Women's basketball, Liga Femenina Endesa. Check venue on the club website.",
+    "es": "Baloncesto femenino, Liga Femenina Endesa. Confirma el pabellón en la web del club.",
+    "it": "Basket femminile, Liga Femenina Endesa. Verifica l'impianto sul sito del club.",
+    "de": "Frauenbasketball, Liga Femenina Endesa. Halle auf der Vereinsseite prüfen.",
+    "fr": "Basket féminin, Liga Femenina Endesa. Vérifiez la salle sur le site du club.",
+    "pt": "Basquetebol feminino, Liga Femenina Endesa. Confirme o pavilhão no site do clube.",
+    "va": "Bàsquet femení, Lliga Femenina Endesa. Confirma el pavelló a la web del club."
+   },
+   "u": "https://www.valenciabasket.com/"
   },
   {
    "id": "vb-rm27",
@@ -733,6 +1153,25 @@
    "u": "https://www.valenciabasket.com/"
   },
   {
+   "id": "vb-partizan27",
+   "n": "Valencia Basket – Partizan Belgrade",
+   "s": "2027-01-07",
+   "time": "20:30",
+   "v": "Roig Arena",
+   "k": "sport",
+   "sp": "basketball",
+   "d": {
+    "en": "EuroLeague basketball — top European level.",
+    "es": "Euroliga de baloncesto, la máxima competición europea.",
+    "it": "Eurolega di basket, il top europeo.",
+    "de": "EuroLeague-Basketball – Europas Spitzenklasse.",
+    "fr": "EuroLigue de basket, le plus haut niveau européen.",
+    "pt": "EuroLiga de basquetebol, o topo europeu.",
+    "va": "Eurolliga de bàsquet, la màxima competició europea."
+   },
+   "u": "https://www.valenciabasket.com/"
+  },
+  {
    "id": "vcf-malaga27",
    "n": "Valencia CF – Málaga CF",
    "s": "2027-01-10",
@@ -751,6 +1190,25 @@
    "u": "https://www.valenciacf.com/"
   },
   {
+   "id": "vb-bilbao27",
+   "n": "Valencia Basket – Surne Bilbao Basket",
+   "s": "2027-01-10",
+   "time": "16:30",
+   "v": "Roig Arena",
+   "k": "sport",
+   "sp": "basketball",
+   "d": {
+    "en": "Liga Endesa basketball (Spanish top league).",
+    "es": "Baloncesto de la Liga Endesa (ACB).",
+    "it": "Basket della Liga Endesa (massima serie spagnola).",
+    "de": "Basketball in der Liga Endesa (spanische Top-Liga).",
+    "fr": "Basket de la Liga Endesa (élite espagnole).",
+    "pt": "Basquetebol da Liga Endesa (principal liga espanhola).",
+    "va": "Bàsquet de la Lliga Endesa (ACB)."
+   },
+   "u": "https://www.valenciabasket.com/"
+  },
+  {
    "id": "lud-espanyol27",
    "n": "Levante UD – RCD Espanyol",
    "s": "2027-01-17",
@@ -767,6 +1225,62 @@
     "va": "Partit de LaLiga. Horari per confirmar (la data pot moure's un dia)."
    },
    "u": "https://www.levanteud.com/es/"
+  },
+  {
+   "id": "vb-andorra27",
+   "n": "Valencia Basket – MoraBanc Andorra",
+   "s": "2027-01-17",
+   "time": "18:00",
+   "v": "Roig Arena",
+   "k": "sport",
+   "sp": "basketball",
+   "d": {
+    "en": "Liga Endesa basketball (Spanish top league).",
+    "es": "Baloncesto de la Liga Endesa (ACB).",
+    "it": "Basket della Liga Endesa (massima serie spagnola).",
+    "de": "Basketball in der Liga Endesa (spanische Top-Liga).",
+    "fr": "Basket de la Liga Endesa (élite espagnole).",
+    "pt": "Basquetebol da Liga Endesa (principal liga espanhola).",
+    "va": "Bàsquet de la Lliga Endesa (ACB)."
+   },
+   "u": "https://www.valenciabasket.com/"
+  },
+  {
+   "id": "vbcf-mallorca27",
+   "n": "Valencia BC (women) – Azulmarino Mallorca Palma",
+   "s": "2027-01-17",
+   "time": "12:15",
+   "v": "Roig Arena",
+   "k": "sport",
+   "sp": "basketball",
+   "d": {
+    "en": "Women's basketball, Liga Femenina Endesa. Check venue on the club website.",
+    "es": "Baloncesto femenino, Liga Femenina Endesa. Confirma el pabellón en la web del club.",
+    "it": "Basket femminile, Liga Femenina Endesa. Verifica l'impianto sul sito del club.",
+    "de": "Frauenbasketball, Liga Femenina Endesa. Halle auf der Vereinsseite prüfen.",
+    "fr": "Basket féminin, Liga Femenina Endesa. Vérifiez la salle sur le site du club.",
+    "pt": "Basquetebol feminino, Liga Femenina Endesa. Confirme o pavilhão no site do clube.",
+    "va": "Bàsquet femení, Lliga Femenina Endesa. Confirma el pavelló a la web del club."
+   },
+   "u": "https://www.valenciabasket.com/"
+  },
+  {
+   "id": "fimi27",
+   "n": "Babykid Spain + FIMI",
+   "s": "2027-01-20",
+   "e": "2027-01-22",
+   "v": "Feria Valencia",
+   "k": "fair",
+   "u": "https://feriavalencia.com/",
+   "d": {
+    "en": "International children's fashion and baby products fair (trade only).",
+    "es": "Feria internacional de moda infantil y puericultura (solo profesionales).",
+    "it": "Fiera internazionale di moda bimbo e puericultura (solo operatori).",
+    "de": "Internationale Messe für Kindermode und Babyartikel (nur Fachbesucher).",
+    "fr": "Salon international de la mode enfantine et de la puériculture (réservé aux professionnels).",
+    "pt": "Feira internacional de moda infantil e puericultura (só profissionais).",
+    "va": "Fira internacional de moda infantil i puericultura (només professionals)."
+   }
   },
   {
    "id": "vcf-sevilla27",
