@@ -1,23 +1,6 @@
 {
- "version": 4,
+ "version": 5,
  "events": [
-  {
-   "id": "lagos26",
-   "n": "Lagos",
-   "s": "2026-11-20",
-   "v": "Auditorio Roig Arena",
-   "k": "concert",
-   "d": {
-    "en": "Venezuelan Latin-pop duo, 'En La Noche Tour'.",
-    "es": "Dúo venezolano de pop latino, gira «En La Noche».",
-    "it": "Duo venezuelano di pop latino, tour 'En La Noche'.",
-    "de": "Venezolanisches Latin-Pop-Duo, 'En La Noche Tour'.",
-    "fr": "Duo vénézuélien de pop latino, tournée « En La Noche ».",
-    "pt": "Dupla venezuelana de pop latino, digressão 'En La Noche'.",
-    "va": "Duo veneçolà de pop llatí, gira 'En La Noche'."
-   },
-   "u": "https://www.roigarena.com/"
-  },
   {
    "id": "tardeo26",
    "n": "Tardeo at Parc Central",
