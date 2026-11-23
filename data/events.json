@@ -1,5 +1,5 @@
 {
- "version": 6,
+ "version": 7,
  "events": [
   {
    "id": "jury26",
@@ -36,22 +36,6 @@
    },
    "e": "2027-01-17",
    "u": "https://feverup.com/en/valencia"
-  },
-  {
-   "id": "tardeo26",
-   "n": "Tardeo at Parc Central",
-   "s": "2026-11-21",
-   "v": "Parc Central",
-   "k": "party",
-   "d": {
-    "en": "Afternoon party with two DJ booths: 'remember' and electronic music.",
-    "es": "Tardeo con dos cabinas: remember y electrónica.",
-    "it": "Festa pomeridiana con due consolle: 'remember' ed elettronica.",
-    "de": "Nachmittagsparty mit zwei DJ-Pulten: 'Remember' und Elektro.",
-    "fr": "Fête d'après-midi avec deux cabines DJ : « remember » et électro.",
-    "pt": "Festa à tarde com duas cabines de DJ: 'remember' e música eletrónica.",
-    "va": "Festa de vesprada amb dues cabines de DJ: 'remember' i música electrònica."
-   }
   },
   {
    "id": "circo26",
@@ -377,6 +361,24 @@
     "fr": "Grand salon de voitures neuves et d'occasion, avec des milliers de véhicules à vendre.",
     "pt": "Grande feira de carros novos e usados, com milhares de veículos à venda e descontos.",
     "va": "Gran fira de cotxes nous, d'ocasió i comercials, amb milers de vehicles a la venda."
+   }
+  },
+  {
+   "id": "ov-rousset26",
+   "n": "Orquestra de València – Haydn & Mozart (Christophe Rousset)",
+   "s": "2026-12-04",
+   "time": "19:30",
+   "v": "Palau de la Música",
+   "k": "concert",
+   "u": "https://www.visitvalencia.com/agenda-valencia/conciertos-de-la-orquesta-de-la-valencia-en-el-palau-de-la-musica",
+   "d": {
+    "en": "Haydn and Mozart symphonies conducted by Christophe Rousset.",
+    "es": "Sinfonías de Haydn y Mozart dirigidas por Christophe Rousset.",
+    "it": "Sinfonie di Haydn e Mozart dirette da Christophe Rousset.",
+    "de": "Sinfonien von Haydn und Mozart unter Christophe Rousset.",
+    "fr": "Symphonies de Haydn et Mozart dirigées par Christophe Rousset.",
+    "pt": "Sinfonias de Haydn e Mozart dirigidas por Christophe Rousset.",
+    "va": "Simfonies de Haydn i Mozart dirigides per Christophe Rousset."
    }
   },
   {
@@ -755,6 +757,24 @@
    }
   },
   {
+   "id": "ov-sheherazade26",
+   "n": "Orquestra de València – Shéhérazade",
+   "s": "2026-12-12",
+   "time": "19:00",
+   "v": "Palau de la Música",
+   "k": "concert",
+   "u": "https://www.visitvalencia.com/agenda-valencia/conciertos-de-la-orquesta-de-la-valencia-en-el-palau-de-la-musica",
+   "d": {
+    "en": "Christian Vásquez conducts Rimsky-Korsakov's Shéhérazade, with Edicson Ruiz on double bass.",
+    "es": "Christian Vásquez dirige «Shéhérazade» de Rimsky-Korsakov, con Edicson Ruiz al contrabajo.",
+    "it": "Christian Vásquez dirige «Shéhérazade» di Rimskij-Korsakov, con Edicson Ruiz al contrabbasso.",
+    "de": "Christian Vásquez dirigiert Rimski-Korsakows «Scheherazade», mit Edicson Ruiz am Kontrabass.",
+    "fr": "Christian Vásquez dirige «Shéhérazade» de Rimski-Korsakov, avec Edicson Ruiz à la contrebasse.",
+    "pt": "Christian Vásquez dirige «Sherazade» de Rimsky-Korsakov, com Edicson Ruiz no contrabaixo.",
+    "va": "Christian Vásquez dirigeix «Xahrazad» de Rimski-Kórsakov, amb Edicson Ruiz al contrabaix."
+   }
+  },
+  {
    "id": "melendi26",
    "n": "Melendi",
    "s": "2026-12-13",
@@ -861,6 +881,25 @@
    }
   },
   {
+   "id": "laternura26",
+   "n": "La Ternura (Alfredo Sanzol)",
+   "s": "2026-12-16",
+   "e": "2027-01-03",
+   "time": "20:00",
+   "v": "Teatre Talia",
+   "k": "show",
+   "u": "https://visitvalencia.teatroenvalencia.com/espectaculo/la-ternura/TALTERNURA",
+   "d": {
+    "en": "Shakespeare-inspired romantic comedy, Max Award 2019 for best show. Wed–Fri 20:00, Sat 17:00 & 20:00, Sun 18:00 (no show on 24 Dec). In Spanish.",
+    "es": "Comedia romántica inspirada en Shakespeare, Premio Max 2019 al mejor espectáculo. Mié–vie 20:00, sáb 17:00 y 20:00, dom 18:00 (sin función el 24 dic).",
+    "it": "Commedia romantica ispirata a Shakespeare, Premio Max 2019 come miglior spettacolo. Mer–ven 20:00, sab 17:00 e 20:00, dom 18:00 (nessuna replica il 24 dic). In spagnolo.",
+    "de": "Von Shakespeare inspirierte romantische Komödie, Max-Preis 2019 als beste Produktion. Mi–Fr 20 Uhr, Sa 17 & 20 Uhr, So 18 Uhr (24. Dez. keine Vorstellung). Auf Spanisch.",
+    "fr": "Comédie romantique inspirée de Shakespeare, prix Max 2019 du meilleur spectacle. Mer–ven 20h, sam 17h et 20h, dim 18h (relâche le 24 déc). En espagnol.",
+    "pt": "Comédia romântica inspirada em Shakespeare, Prémio Max 2019 de melhor espetáculo. Qua–sex 20:00, sáb 17:00 e 20:00, dom 18:00 (sem sessão a 24 dez). Em espanhol.",
+    "va": "Comèdia romàntica inspirada en Shakespeare, Premi Max 2019 al millor espectacle. Dc–dv 20:00, ds 17:00 i 20:00, dg 18:00 (sense funció el 24 de des.)."
+   }
+  },
+  {
    "id": "jsq26",
    "n": "Japan Sound Quest",
    "s": "2026-12-18",
@@ -893,6 +932,24 @@
     "fr": "L'Orquestra de la Comunitat Valenciana et la soprano Christiane Karg : Berg et la 4e de Mahler.",
     "pt": "A Orquestra de la Comunitat Valenciana e a soprano Christiane Karg: Berg e a Quarta de Mahler.",
     "va": "L'Orquestra de la Comunitat Valenciana i la soprano Christiane Karg: Berg i la Quarta de Mahler."
+   }
+  },
+  {
+   "id": "ov-mahler1-26",
+   "n": "Orquestra de València – Mahler's 1st",
+   "s": "2026-12-18",
+   "time": "19:30",
+   "v": "Palau de la Música",
+   "k": "concert",
+   "u": "https://www.visitvalencia.com/agenda-valencia/conciertos-de-la-orquesta-de-la-valencia-en-el-palau-de-la-musica",
+   "d": {
+    "en": "Mahler's First Symphony with conductor Alexander Liebreich and trumpeter Pacho Flores.",
+    "es": "Primera Sinfonía de Mahler con Alexander Liebreich a la batuta y Pacho Flores a la trompeta.",
+    "it": "Prima Sinfonia di Mahler con Alexander Liebreich sul podio e Pacho Flores alla tromba.",
+    "de": "Mahlers Erste Sinfonie mit Dirigent Alexander Liebreich und Trompeter Pacho Flores.",
+    "fr": "Première Symphonie de Mahler avec Alexander Liebreich à la baguette et Pacho Flores à la trompette.",
+    "pt": "Primeira Sinfonia de Mahler com Alexander Liebreich na direção e Pacho Flores no trompete.",
+    "va": "Primera Simfonia de Mahler amb Alexander Liebreich a la batuta i Pacho Flores a la trompeta."
    }
   },
   {
@@ -1007,6 +1064,43 @@
    "u": "https://www.valenciabasket.com/"
   },
   {
+   "id": "ballet-rambleta26",
+   "n": "Swan Lake & The Nutcracker (Imperial Heritage Ballet)",
+   "s": "2026-12-22",
+   "e": "2026-12-23",
+   "time": "20:30",
+   "v": "La Rambleta",
+   "k": "show",
+   "u": "https://www.visitvalencia.com/agenda-valencia/ballet-el-lago-de-los-cisnes-y-el-cascanueces-en-valencia",
+   "d": {
+    "en": "Two Tchaikovsky classics: Swan Lake on 22 Dec and The Nutcracker on 23 Dec.",
+    "es": "Dos clásicos de Chaikovski: «El lago de los cisnes» el 22 de diciembre y «El Cascanueces» el 23.",
+    "it": "Due classici di Čajkovskij: «Il lago dei cigni» il 22 dicembre e «Lo schiaccianoci» il 23.",
+    "de": "Zwei Tschaikowsky-Klassiker: «Schwanensee» am 22. und «Der Nussknacker» am 23. Dezember.",
+    "fr": "Deux classiques de Tchaïkovski : «Le Lac des cygnes» le 22 décembre et «Casse-Noisette» le 23.",
+    "pt": "Dois clássicos de Tchaikovsky: «O Lago dos Cisnes» a 22 de dezembro e «O Quebra-Nozes» a 23.",
+    "va": "Dos clàssics de Txaikovski: «El llac dels cignes» el 22 de desembre i «El Trencanous» el 23."
+   }
+  },
+  {
+   "id": "solocasa26",
+   "n": "Estoy Solo en Casa – family musical",
+   "s": "2026-12-22",
+   "time": "18:30",
+   "v": "Auditorio Roig Arena",
+   "k": "show",
+   "u": "https://www.visitvalencia.com/agenda-valencia/estoy-solo-en-casa-el-musical-familiar-de-navidad-en-roig-arena",
+   "d": {
+    "en": "Family musical based on the 90s Christmas film (in Spanish).",
+    "es": "Musical familiar basado en la película navideña de los 90.",
+    "it": "Musical per famiglie ispirato al film natalizio degli anni '90 (in spagnolo).",
+    "de": "Familienmusical nach dem Weihnachtsfilm aus den 90ern (auf Spanisch).",
+    "fr": "Comédie musicale familiale inspirée du film de Noël des années 90 (en espagnol).",
+    "pt": "Musical familiar baseado no filme de Natal dos anos 90 (em espanhol).",
+    "va": "Musical familiar basat en la pel·lícula nadalenca dels 90."
+   }
+  },
+  {
    "id": "jocrol26",
    "n": "Joc & Rol",
    "s": "2026-12-26",
@@ -1062,6 +1156,42 @@
    }
   },
   {
+   "id": "rudolph26",
+   "n": "Rudolph – family musical",
+   "s": "2026-12-26",
+   "time": "18:00",
+   "v": "Auditorio Roig Arena",
+   "k": "show",
+   "u": "https://www.visitvalencia.com/agenda-valencia/musical-familiar-rudolph-en-roig-arena",
+   "d": {
+    "en": "Christmas musical about the red-nosed reindeer, with carols and visual effects.",
+    "es": "Musical navideño sobre el reno de la nariz roja, con villancicos y efectos visuales.",
+    "it": "Musical natalizio sulla renna dal naso rosso, con canti di Natale ed effetti visivi.",
+    "de": "Weihnachtsmusical über das Rentier mit der roten Nase, mit Liedern und Effekten.",
+    "fr": "Comédie musicale de Noël sur le renne au nez rouge, avec chants et effets visuels.",
+    "pt": "Musical de Natal sobre a rena do nariz vermelho, com canções e efeitos visuais.",
+    "va": "Musical nadalenc sobre el ren del nas roig, amb nadales i efectes visuals."
+   }
+  },
+  {
+   "id": "arsmagna26",
+   "n": "Ars Magna Christmas Concert",
+   "s": "2026-12-26",
+   "time": "20:30",
+   "v": "Iglesia de San Juan de la Cruz (C/ Poeta Querol 6)",
+   "k": "concert",
+   "u": "https://arsmagna.live/events/concierto-de-navidad-2/",
+   "d": {
+    "en": "Traditional Christmas choral concert in a baroque church in the centre.",
+    "es": "Tradicional concierto coral navideño en una iglesia barroca del centro.",
+    "it": "Tradizionale concerto corale natalizio in una chiesa barocca del centro.",
+    "de": "Traditionelles Weihnachtschorkonzert in einer Barockkirche im Zentrum.",
+    "fr": "Concert choral de Noël traditionnel dans une église baroque du centre.",
+    "pt": "Tradicional concerto coral de Natal numa igreja barroca do centro.",
+    "va": "Tradicional concert coral nadalenc en una església barroca del centre."
+   }
+  },
+  {
    "id": "malikian26",
    "n": "Ara Malikian",
    "s": "2026-12-27",
@@ -1094,6 +1224,59 @@
     "fr": "Spectacle musical familial de la star des enfants.",
     "pt": "Espetáculo musical familiar da estrela infantil.",
     "va": "Espectacle musical familiar de l'estrela infantil."
+   }
+  },
+  {
+   "id": "sansilvestre26",
+   "n": "San Silvestre Valenciana",
+   "s": "2026-12-30",
+   "time": "20:00",
+   "v": "Calle Xàtiva (Plaza del Ayuntamiento)",
+   "k": "sport",
+   "u": "https://www.fdmvalencia.es/es/eventos/san-silvestre-valencia-2026/",
+   "d": {
+    "en": "Festive New Year fun run through the centre, with lots of costumes. Great to watch.",
+    "es": "Carrera popular de fin de año por el centro, con disfraces y mucho ambiente.",
+    "it": "Corsa popolare di fine anno nel centro, con costumi e tanta atmosfera.",
+    "de": "Silvesterlauf durch das Zentrum, mit vielen Kostümen und toller Stimmung.",
+    "fr": "Course populaire de fin d'année dans le centre, déguisements et ambiance festive.",
+    "pt": "Corrida popular de fim de ano pelo centro, com disfarces e muito ambiente.",
+    "va": "Carrera popular de cap d'any pel centre, amb disfresses i molt d'ambient."
+   }
+  },
+  {
+   "id": "nochevieja26",
+   "n": "New Year's Eve parties & gala dinners",
+   "s": "2026-12-31",
+   "v": "Various venues",
+   "k": "party",
+   "u": "https://www.visitvalencia.com/agenda-valencia/fiestas-de-nochevieja-2026-en-valencia-cenas-de-gala-fiestas-y-planes-especiales",
+   "d": {
+    "en": "Gala dinners, cotillón parties and clubs open until dawn (Hotel Olympia, Loco Club, Casino Cirsa and more). Book ahead.",
+    "es": "Cenas de gala, cotillones y fiestas hasta el amanecer (Hotel Olympia, Loco Club, Casino Cirsa y más). Reserva con antelación.",
+    "it": "Cene di gala, feste con cotillón e locali aperti fino all'alba (Hotel Olympia, Loco Club, Casino Cirsa e altri). Prenota in anticipo.",
+    "de": "Galadinner, Silvesterpartys und Clubs bis zum Morgen (Hotel Olympia, Loco Club, Casino Cirsa u. a.). Rechtzeitig reservieren.",
+    "fr": "Dîners de gala, réveillons et soirées jusqu'à l'aube (Hotel Olympia, Loco Club, Casino Cirsa et plus). Réservez à l'avance.",
+    "pt": "Jantares de gala, festas de passagem de ano e discotecas até de madrugada (Hotel Olympia, Loco Club, Casino Cirsa e outros). Reserve com antecedência.",
+    "va": "Sopars de gala, cotillons i festes fins a la matinada (Hotel Olympia, Loco Club, Casino Cirsa i més). Reserva amb antelació."
+   }
+  },
+  {
+   "id": "anonuevo27",
+   "n": "New Year's Concert",
+   "s": "2027-01-01",
+   "time": "19:30",
+   "v": "Roig Arena",
+   "k": "concert",
+   "u": "https://www.visitvalencia.com/agenda-valencia/concierto-de-ano-nuevo-en-roig-arena",
+   "d": {
+    "en": "Viennese Strauss waltzes with the OSIV conducted by José Escandell and soprano Ainhoa Arteta.",
+    "es": "Valses vieneses de Strauss con la OSIV dirigida por José Escandell y la soprano Ainhoa Arteta.",
+    "it": "Valzer viennesi di Strauss con l'OSIV diretta da José Escandell e il soprano Ainhoa Arteta.",
+    "de": "Wiener Strauss-Walzer mit dem OSIV unter José Escandell und Sopranistin Ainhoa Arteta.",
+    "fr": "Valses viennoises de Strauss avec l'OSIV dirigé par José Escandell et la soprano Ainhoa Arteta.",
+    "pt": "Valsas vienenses de Strauss com a OSIV dirigida por José Escandell e a soprano Ainhoa Arteta.",
+    "va": "Valsos vienesos de Strauss amb l'OSIV dirigida per José Escandell i la soprano Ainhoa Arteta."
    }
   },
   {
