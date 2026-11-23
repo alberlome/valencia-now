@@ -1,5 +1,5 @@
 {
- "version": 7,
+ "version": 8,
  "events": [
   {
    "id": "jury26",
@@ -1500,6 +1500,120 @@
     "va": "Partit de LaLiga. Horari per confirmar (la data pot moure's un dia)."
    },
    "u": "https://www.levanteud.com/es/"
+  },
+  {
+   "id": "motogp-fanfest26",
+   "n": "MotoGP Fan Fest",
+   "s": "2026-11-25",
+   "e": "2026-11-29",
+   "v": "Ciutat de les Arts i les Ciències",
+   "k": "sport",
+   "sp": "motor",
+   "u": "https://www.motogp.com/",
+   "d": {
+    "en": "Free MotoGP fan zone in the city: riders, simulators, gaming and big screens for the races. Free, advance registration required.",
+    "es": "Zona de aficionados gratuita de MotoGP en la ciudad: pilotos, simuladores, videojuegos y pantallas para ver las carreras. Gratis con inscripción previa.",
+    "it": "Fan zone gratuita della MotoGP in città: piloti, simulatori, videogiochi e maxischermi per le gare. Gratis con registrazione.",
+    "de": "Kostenlose MotoGP-Fanzone in der Stadt: Fahrer, Simulatoren, Gaming und Leinwände für die Rennen. Gratis, Anmeldung nötig.",
+    "fr": "Fan zone MotoGP gratuite en ville : pilotes, simulateurs, jeux vidéo et écrans géants pour les courses. Gratuit sur inscription.",
+    "pt": "Zona de fãs gratuita do MotoGP na cidade: pilotos, simuladores, videojogos e ecrãs gigantes para as corridas. Grátis com inscrição prévia.",
+    "va": "Zona d'aficionats gratuïta de MotoGP a la ciutat: pilots, simuladors, videojocs i pantalles per a veure les carreres. Gratis amb inscripció prèvia."
+   }
+  },
+  {
+   "id": "motogp-valencia26",
+   "n": "MotoGP – Gran Premio Motul de la Comunitat Valenciana",
+   "s": "2026-11-27",
+   "e": "2026-11-29",
+   "v": "Circuit Ricardo Tormo (Cheste)",
+   "k": "sport",
+   "sp": "motor",
+   "u": "https://www.circuitricardotormo.com/",
+   "d": {
+    "en": "Season finale of the MotoGP, Moto2 and Moto3 World Championship. Races on Sunday 29. Tickets from €61.20.",
+    "es": "Última carrera del Mundial de MotoGP, Moto2 y Moto3. Carreras el domingo 29. Entradas desde 61,20 €.",
+    "it": "Gara finale del Mondiale MotoGP, Moto2 e Moto3. Gare domenica 29. Biglietti da 61,20 €.",
+    "de": "Saisonfinale der MotoGP-, Moto2- und Moto3-WM. Rennen am Sonntag, 29. Tickets ab 61,20 €.",
+    "fr": "Dernière manche du Mondial MotoGP, Moto2 et Moto3. Courses le dimanche 29. Billets dès 61,20 €.",
+    "pt": "Última prova do Mundial de MotoGP, Moto2 e Moto3. Corridas no domingo, 29. Bilhetes desde 61,20 €.",
+    "va": "Última carrera del Mundial de MotoGP, Moto2 i Moto3. Carreres el diumenge 29. Entrades des de 61,20 €."
+   }
+  },
+  {
+   "id": "motogp-test26",
+   "n": "MotoGP Valencia Test",
+   "s": "2026-12-01",
+   "time": "10:00",
+   "v": "Circuit Ricardo Tormo (Cheste)",
+   "k": "sport",
+   "sp": "motor",
+   "u": "https://www.circuitricardotormo.com/",
+   "d": {
+    "en": "Official test: first laps of the new 2027 850cc bikes, 10:00–17:00. Tickets on the circuit website.",
+    "es": "Test oficial: primeras vueltas de las nuevas motos de 850 cc de 2027, de 10:00 a 17:00. Entradas en la web del circuito.",
+    "it": "Test ufficiale: primi giri delle nuove moto 850 cc del 2027, 10:00–17:00. Biglietti sul sito del circuito.",
+    "de": "Offizieller Test: erste Runden der neuen 850-cm³-Bikes für 2027, 10–17 Uhr. Tickets auf der Website der Strecke.",
+    "fr": "Test officiel : premiers tours des nouvelles motos 850 cm³ de 2027, de 10 h à 17 h. Billets sur le site du circuit.",
+    "pt": "Teste oficial: primeiras voltas das novas motos de 850 cc de 2027, das 10:00 às 17:00. Bilhetes no site do circuito.",
+    "va": "Test oficial: primeres voltes de les noves motos de 850 cc de 2027, de 10:00 a 17:00. Entrades a la web del circuit."
+   }
+  },
+  {
+   "id": "feriaautomovil26",
+   "n": "Feria del Automóvil de Valencia",
+   "s": "2026-12-04",
+   "e": "2026-12-06",
+   "time": "10:00–20:00",
+   "v": "Feria Valencia",
+   "k": "fair",
+   "sp": "motor",
+   "u": "https://www.feriaautomovil.es/",
+   "d": {
+    "en": "Spain's biggest car show: new, electric and used cars from dozens of brands, across four halls.",
+    "es": "La mayor feria del automóvil de España: coches nuevos, eléctricos y de ocasión de decenas de marcas en cuatro pabellones.",
+    "it": "La più grande fiera dell'auto in Spagna: auto nuove, elettriche e usate di decine di marchi in quattro padiglioni.",
+    "de": "Spaniens größte Automesse: Neu-, Elektro- und Gebrauchtwagen Dutzender Marken in vier Hallen.",
+    "fr": "Le plus grand salon automobile d'Espagne : voitures neuves, électriques et d'occasion de dizaines de marques, sur quatre halls.",
+    "pt": "A maior feira automóvel de Espanha: carros novos, elétricos e usados de dezenas de marcas em quatro pavilhões.",
+    "va": "La fira de l'automòbil més gran d'Espanya: cotxes nous, elèctrics i d'ocasió de desenes de marques en quatre pavellons."
+   }
+  },
+  {
+   "id": "winterseries27",
+   "n": "Winter Series – Final round",
+   "s": "2027-03-04",
+   "e": "2027-03-07",
+   "v": "Circuit Ricardo Tormo (Cheste)",
+   "k": "sport",
+   "sp": "motor",
+   "u": "https://winter-series.racing/",
+   "d": {
+    "en": "GT, GT4 and single-seater racing: season finale where the champions are crowned.",
+    "es": "Carreras de GT, GT4 y monoplazas: final de temporada en la que se coronan los campeones.",
+    "it": "Gare GT, GT4 e monoposto: finale di stagione con la proclamazione dei campioni.",
+    "de": "GT-, GT4- und Formelrennen: Saisonfinale mit Titelentscheidung.",
+    "fr": "Courses GT, GT4 et monoplaces : finale de la saison où sont sacrés les champions.",
+    "pt": "Corridas de GT, GT4 e monolugares: final de temporada em que se coroam os campeões.",
+    "va": "Carreres de GT, GT4 i monoplaces: final de temporada en què es coronen els campions."
+   }
+  },
+  {
+   "id": "worldsbk27",
+   "n": "WorldSBK & WorldWCR – Spanish Round",
+   "s": "2027-04-02",
+   "e": "2027-04-04",
+   "v": "Circuit Ricardo Tormo (Cheste)",
+   "k": "sport",
+   "sp": "motor",
+   "d": {
+    "en": "Superbike World Championship returns to Valencia after 17 years, with the women's world championship. Provisional dates.",
+    "es": "El Mundial de Superbikes vuelve a Valencia 17 años después, junto al Mundial femenino. Fechas provisionales.",
+    "it": "Il Mondiale Superbike torna a Valencia dopo 17 anni, insieme al Mondiale femminile. Date provvisorie.",
+    "de": "Die Superbike-WM kehrt nach 17 Jahren nach Valencia zurück, mit der Frauen-WM. Vorläufige Termine.",
+    "fr": "Le Mondial Superbike revient à Valence après 17 ans, avec le championnat du monde féminin. Dates provisoires.",
+    "pt": "O Mundial de Superbike regressa a Valência 17 anos depois, com o Mundial feminino. Datas provisórias.",
+    "va": "El Mundial de Superbikes torna a València 17 anys després, junt amb el Mundial femení. Dates provisionals."
+   }
   }
  ]
 }
