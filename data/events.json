@@ -1,5 +1,5 @@
 {
- "version": 8,
+ "version": 9,
  "events": [
   {
    "id": "jury26",
@@ -53,62 +53,6 @@
     "va": "Circ amb acrobàcies, màgia i anime durant tot el Nadal."
    },
    "e": "2027-01-06"
-  },
-  {
-   "id": "japanweekend26",
-   "n": "Japan Weekend Valencia",
-   "s": "2026-11-21",
-   "v": "Feria Valencia",
-   "k": "fair",
-   "d": {
-    "en": "Manga, anime, video games, cosplay and Japanese culture. Tickets €19/day, €24 both days.",
-    "es": "Manga, anime, videojuegos, cosplay y cultura japonesa. Entrada 19 €/día, 24 € los dos días.",
-    "it": "Manga, anime, videogiochi, cosplay e cultura giapponese. Biglietto 19 €/giorno, 24 € due giorni.",
-    "de": "Manga, Anime, Videospiele, Cosplay und japanische Kultur. Eintritt 19 €/Tag, 24 € für beide Tage.",
-    "fr": "Manga, anime, jeux vidéo, cosplay et culture japonaise. Entrée 19 €/jour, 24 € les deux jours.",
-    "pt": "Manga, anime, videojogos, cosplay e cultura japonesa. Bilhete 19 €/dia, 24 € os dois dias.",
-    "va": "Manga, anime, videojocs, cosplay i cultura japonesa. Entrada 19 €/dia, 24 € els dos dies."
-   },
-   "e": "2026-11-22",
-   "u": "https://www.japanweekend.com/valencia/"
-  },
-  {
-   "id": "vb-breogan26",
-   "n": "Valencia Basket – Río Breogán",
-   "s": "2026-11-22",
-   "v": "Roig Arena",
-   "k": "sport",
-   "sp": "basketball",
-   "d": {
-    "en": "Liga Endesa (ACB) basketball.",
-    "es": "Baloncesto, Liga Endesa (ACB).",
-    "it": "Basket, Liga Endesa (ACB).",
-    "de": "Basketball, Liga Endesa (ACB).",
-    "fr": "Basket, Liga Endesa (ACB).",
-    "pt": "Basquetebol, Liga Endesa (ACB).",
-    "va": "Bàsquet, Lliga Endesa (ACB)."
-   },
-   "time": "17:00",
-   "u": "https://www.valenciabasket.com/"
-  },
-  {
-   "id": "vbcf-leganes26",
-   "n": "Valencia BC (women) – Innova-TSN Leganés",
-   "s": "2026-11-22",
-   "time": "12:30",
-   "v": "Roig Arena",
-   "k": "sport",
-   "sp": "basketball",
-   "d": {
-    "en": "Women's basketball, Liga Femenina Endesa. Check venue on the club website.",
-    "es": "Baloncesto femenino, Liga Femenina Endesa. Confirma el pabellón en la web del club.",
-    "it": "Basket femminile, Liga Femenina Endesa. Verifica l'impianto sul sito del club.",
-    "de": "Frauenbasketball, Liga Femenina Endesa. Halle auf der Vereinsseite prüfen.",
-    "fr": "Basket féminin, Liga Femenina Endesa. Vérifiez la salle sur le site du club.",
-    "pt": "Basquetebol feminino, Liga Femenina Endesa. Confirme o pavilhão no site do clube.",
-    "va": "Bàsquet femení, Lliga Femenina Endesa. Confirma el pavelló a la web del club."
-   },
-   "u": "https://www.valenciabasket.com/"
   },
   {
    "id": "lud-elche26",
