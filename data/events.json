@@ -1,5 +1,5 @@
 {
- "version": 9,
+ "version": 10,
  "events": [
   {
    "id": "jury26",
@@ -53,25 +53,6 @@
     "va": "Circ amb acrobàcies, màgia i anime durant tot el Nadal."
    },
    "e": "2027-01-06"
-  },
-  {
-   "id": "lud-elche26",
-   "n": "Levante UD – Elche CF",
-   "s": "2026-11-23",
-   "v": "Estadi Ciutat de València",
-   "k": "sport",
-   "sp": "football",
-   "d": {
-    "en": "LaLiga match.",
-    "es": "Partido de LaLiga.",
-    "it": "Partita di LaLiga.",
-    "de": "LaLiga-Spiel.",
-    "fr": "Match de LaLiga.",
-    "pt": "Jogo da LaLiga.",
-    "va": "Partit de LaLiga."
-   },
-   "u": "https://www.levanteud.com/es/",
-   "time": "21:00"
   },
   {
    "id": "vb-pao26",
