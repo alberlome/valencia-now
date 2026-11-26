@@ -1,5 +1,5 @@
 {
- "version": 10,
+ "version": 11,
  "events": [
   {
    "id": "jury26",
@@ -53,25 +53,6 @@
     "va": "Circ amb acrobàcies, màgia i anime durant tot el Nadal."
    },
    "e": "2027-01-06"
-  },
-  {
-   "id": "vb-pao26",
-   "n": "Valencia Basket – Panathinaikos",
-   "s": "2026-11-24",
-   "v": "Roig Arena",
-   "k": "sport",
-   "sp": "basketball",
-   "d": {
-    "en": "EuroLeague basketball — top European level.",
-    "es": "Euroliga de baloncesto, la máxima competición europea.",
-    "it": "Eurolega di basket, il top europeo.",
-    "de": "EuroLeague-Basketball – Europas Spitzenklasse.",
-    "fr": "EuroLigue de basket, le plus haut niveau européen.",
-    "pt": "EuroLiga de basquetebol, o topo europeu.",
-    "va": "Eurolliga de bàsquet, la màxima competició europea."
-   },
-   "time": "20:30",
-   "u": "https://www.valenciabasket.com/"
   },
   {
    "id": "carolina26",
