@@ -1,5 +1,5 @@
 {
- "version": 11,
+ "version": 12,
  "events": [
   {
    "id": "jury26",
@@ -38,6 +38,24 @@
    "u": "https://feverup.com/en/valencia"
   },
   {
+   "id": "xmaseci26",
+   "n": "Christmas market – Plaza de los Pinazo",
+   "s": "2026-11-20",
+   "e": "2027-01-05",
+   "time": "10:00–22:00",
+   "v": "Plaza de los Pinazo (next to El Corte Inglés Pintor Sorolla)",
+   "k": "market",
+   "d": {
+    "en": "Christmas stalls and food in the shopping district; 24 and 31 Dec 12:00–20:00, closed 25 Dec and 1 Jan.",
+    "es": "Puestos navideños y comida en la zona comercial; 24 y 31 dic de 12:00 a 20:00, cerrado 25 dic y 1 ene.",
+    "it": "Bancarelle natalizie e cibo nella zona dello shopping; 24 e 31 dic 12:00–20:00, chiuso 25 dic e 1 gen.",
+    "de": "Weihnachtsstände und Essen im Einkaufsviertel; 24. und 31. Dez. 12–20 Uhr, 25. Dez. und 1. Jan. geschlossen.",
+    "fr": "Stands de Noël et restauration dans le quartier commerçant ; 24 et 31 déc. 12h–20h, fermé 25 déc. et 1er janv.",
+    "pt": "Bancas de Natal e comida na zona comercial; 24 e 31 dez. das 12:00 às 20:00, fechado a 25 dez. e 1 jan.",
+    "va": "Parades nadalenques i menjar a la zona comercial; el 24 i 31 de desembre de 12.00 a 20.00, tancat el 25 de desembre i l'1 de gener."
+   }
+  },
+  {
    "id": "circo26",
    "n": "Gran Circo Monumental",
    "s": "2026-11-21",
@@ -53,6 +71,25 @@
     "va": "Circ amb acrobàcies, màgia i anime durant tot el Nadal."
    },
    "e": "2027-01-06"
+  },
+  {
+   "id": "motogp-fanfest26",
+   "n": "MotoGP Fan Fest",
+   "s": "2026-11-25",
+   "e": "2026-11-29",
+   "v": "Ciutat de les Arts i les Ciències",
+   "k": "sport",
+   "sp": "motor",
+   "u": "https://www.motogp.com/",
+   "d": {
+    "en": "Free MotoGP fan zone in the city: riders, simulators, gaming and big screens for the races. Free, advance registration required.",
+    "es": "Zona de aficionados gratuita de MotoGP en la ciudad: pilotos, simuladores, videojuegos y pantallas para ver las carreras. Gratis con inscripción previa.",
+    "it": "Fan zone gratuita della MotoGP in città: piloti, simulatori, videogiochi e maxischermi per le gare. Gratis con registrazione.",
+    "de": "Kostenlose MotoGP-Fanzone in der Stadt: Fahrer, Simulatoren, Gaming und Leinwände für die Rennen. Gratis, Anmeldung nötig.",
+    "fr": "Fan zone MotoGP gratuite en ville : pilotes, simulateurs, jeux vidéo et écrans géants pour les courses. Gratuit sur inscription.",
+    "pt": "Zona de fãs gratuita do MotoGP na cidade: pilotos, simuladores, videojogos e ecrãs gigantes para as corridas. Grátis com inscrição prévia.",
+    "va": "Zona d'aficionats gratuïta de MotoGP a la ciutat: pilots, simuladors, videojocs i pantalles per a veure les carreres. Gratis amb inscripció prèvia."
+   }
   },
   {
    "id": "carolina26",
@@ -128,6 +165,115 @@
    }
   },
   {
+   "id": "motogp-valencia26",
+   "n": "MotoGP – Gran Premio Motul de la Comunitat Valenciana",
+   "s": "2026-11-27",
+   "e": "2026-11-29",
+   "v": "Circuit Ricardo Tormo (Cheste)",
+   "k": "sport",
+   "sp": "motor",
+   "u": "https://www.circuitricardotormo.com/",
+   "d": {
+    "en": "Season finale of the MotoGP, Moto2 and Moto3 World Championship. Races on Sunday 29. Tickets from €61.20.",
+    "es": "Última carrera del Mundial de MotoGP, Moto2 y Moto3. Carreras el domingo 29. Entradas desde 61,20 €.",
+    "it": "Gara finale del Mondiale MotoGP, Moto2 e Moto3. Gare domenica 29. Biglietti da 61,20 €.",
+    "de": "Saisonfinale der MotoGP-, Moto2- und Moto3-WM. Rennen am Sonntag, 29. Tickets ab 61,20 €.",
+    "fr": "Dernière manche du Mondial MotoGP, Moto2 et Moto3. Courses le dimanche 29. Billets dès 61,20 €.",
+    "pt": "Última prova do Mundial de MotoGP, Moto2 e Moto3. Corridas no domingo, 29. Bilhetes desde 61,20 €.",
+    "va": "Última carrera del Mundial de MotoGP, Moto2 i Moto3. Carreres el diumenge 29. Entrades des de 61,20 €."
+   }
+  },
+  {
+   "id": "accept26",
+   "n": "Accept",
+   "s": "2026-11-27",
+   "time": "21:00",
+   "v": "Auditorio Roig Arena",
+   "k": "concert",
+   "u": "https://www.roigarena.com/en/event/accept-20261127/",
+   "d": {
+    "en": "The legendary German heavy metal band plays the Roig Arena's auditorium hall.",
+    "es": "La legendaria banda alemana de heavy metal actúa en la Sala Auditorio del Roig Arena.",
+    "it": "La leggendaria band heavy metal tedesca suona nella Sala Auditorio del Roig Arena.",
+    "de": "Die legendäre deutsche Heavy-Metal-Band spielt im Auditorium der Roig Arena.",
+    "fr": "Le légendaire groupe allemand de heavy metal joue dans la salle Auditorio du Roig Arena.",
+    "pt": "A lendária banda alemã de heavy metal atua na Sala Auditorio do Roig Arena.",
+    "va": "La llegendària banda alemanya de heavy metal actua a la Sala Auditori del Roig Arena."
+   }
+  },
+  {
+   "id": "yerai26",
+   "n": "Yerai Cortés – Popular",
+   "s": "2026-11-27",
+   "time": "19:30",
+   "v": "Palau de les Arts – Auditori",
+   "k": "concert",
+   "u": "https://www.lesarts.com/es/programacion/c/1326-yerai-cortes.html",
+   "d": {
+    "en": "Flamenco guitar from one of the genre's most personal young voices. From €32.",
+    "es": "Guitarra flamenca de una de las voces jóvenes más personales del género. Desde 32 €.",
+    "it": "Chitarra flamenca di una delle giovani voci più originali del genere. Da 32 €.",
+    "de": "Flamencogitarre von einer der eigenwilligsten jungen Stimmen des Genres. Ab 32 €.",
+    "fr": "Guitare flamenca par l'une des jeunes voix les plus singulières du genre. Dès 32 €.",
+    "pt": "Guitarra flamenca de uma das jovens vozes mais pessoais do género. Desde 32 €.",
+    "va": "Guitarra flamenca d'una de les veus jóvens més personals del gènere. Des de 32 €."
+   }
+  },
+  {
+   "id": "pistahielo26",
+   "n": "Ice rink & carousel – Plaza del Ayuntamiento",
+   "s": "2026-11-27",
+   "e": "2027-01-06",
+   "time": "11:00–22:00",
+   "v": "Plaza del Ayuntamiento",
+   "k": "other",
+   "d": {
+    "en": "Christmas ice rink (€10 per 30-min session, skates included, gloves required) and carousel in the main square; weekdays until 4 Dec from 15:00, 24 and 31 Dec until 20:00.",
+    "es": "Pista de hielo navideña (10 € por sesión de 30 min, patines incluidos, guantes obligatorios) y carrusel en la plaza; hasta el 4 dic los laborables desde las 15:00, 24 y 31 dic hasta las 20:00.",
+    "it": "Pista di pattinaggio natalizia (10 € per sessione di 30 min, pattini inclusi, guanti obbligatori) e giostra nella piazza principale; feriali fino al 4 dic dalle 15:00, 24 e 31 dic fino alle 20:00.",
+    "de": "Weihnachtliche Eisbahn (10 € pro 30-Min.-Session, inkl. Schlittschuhe, Handschuhe Pflicht) und Karussell auf dem Rathausplatz; werktags bis 4. Dez. ab 15:00, 24. und 31. Dez. bis 20:00.",
+    "fr": "Patinoire de Noël (10 € la session de 30 min, patins inclus, gants obligatoires) et manège sur la place de l'Hôtel de Ville ; jusqu'au 4 déc. en semaine dès 15h, 24 et 31 déc. jusqu'à 20h.",
+    "pt": "Pista de gelo de Natal (10 € por sessão de 30 min, patins incluídos, luvas obrigatórias) e carrossel na praça principal; dias úteis até 4 dez. a partir das 15:00, 24 e 31 dez. até às 20:00.",
+    "va": "Pista de gel nadalenca (10 € per sessió de 30 min, patins inclosos, guants obligatoris) i carrusel a la plaça; fins al 4 de desembre els dies feiners des de les 15.00, el 24 i 31 de desembre fins a les 20.00."
+   }
+  },
+  {
+   "id": "atracciones26",
+   "n": "Christmas Funfair",
+   "s": "2026-11-27",
+   "e": "2027-01-24",
+   "v": "Former Grao station (Av. Ingeniero Manuel Soto 11)",
+   "k": "fair",
+   "u": "https://www.visitvalencia.com/agenda-valencia/feria-atracciones-navidad",
+   "d": {
+    "en": "Over 40 rides near La Marina; free entry, rides from €4. Daily 22 Dec–6 Jan, weekends otherwise; 2-for-1 on 11, 18 and 22 Dec.",
+    "es": "Más de 40 atracciones junto a La Marina; entrada libre, atracciones desde 4 €. A diario del 22 dic al 6 ene y fines de semana el resto; 2x1 el 11, 18 y 22 dic.",
+    "it": "Oltre 40 attrazioni vicino a La Marina; ingresso libero, giostre da 4 €. Tutti i giorni dal 22 dic al 6 gen, altrimenti nei weekend; 2x1 l'11, 18 e 22 dic.",
+    "de": "Über 40 Fahrgeschäfte nahe La Marina; Eintritt frei, Fahrten ab 4 €. Täglich 22. Dez.–6. Jan., sonst an Wochenenden; 2-für-1 am 11., 18. und 22. Dez.",
+    "fr": "Plus de 40 manèges près de La Marina ; entrée libre, manèges dès 4 €. Tous les jours du 22 déc. au 6 janv., sinon le week-end ; 2 pour 1 les 11, 18 et 22 déc.",
+    "pt": "Mais de 40 diversões junto a La Marina; entrada livre, diversões desde 4 €. Diariamente de 22 dez. a 6 jan., fins de semana no resto; 2x1 a 11, 18 e 22 dez.",
+    "va": "Més de 40 atraccions al costat de La Marina; entrada lliure, atraccions des de 4 €. Cada dia del 22 de desembre al 6 de gener i caps de setmana la resta; 2x1 l'11, 18 i 22 de desembre."
+   }
+  },
+  {
+   "id": "xmasmarket26",
+   "n": "Christmas Crafts Fair – Plaza de la Reina",
+   "s": "2026-11-27",
+   "v": "Plaza de la Reina",
+   "k": "market",
+   "d": {
+    "en": "25th Christmas crafts fair with over 30 local artisans in Plaza de la Reina, with live craft demonstrations from 4 to 31 December.",
+    "es": "25ª Feria de Artesanía de Navidad, con más de 30 artesanos en la plaza de la Reina y talleres demostrativos del 4 al 31 de diciembre.",
+    "it": "25ª Fiera dell'artigianato di Natale con oltre 30 artigiani in Plaza de la Reina e dimostrazioni dal 4 al 31 dicembre.",
+    "de": "25. Weihnachts-Kunsthandwerksmarkt mit über 30 Kunsthandwerkern auf der Plaza de la Reina, Vorführungen vom 4. bis 31. Dezember.",
+    "fr": "25e Foire de l'artisanat de Noël avec plus de 30 artisans place de la Reina, et démonstrations du 4 au 31 décembre.",
+    "pt": "25.ª Feira de Artesanato de Natal com mais de 30 artesãos na Plaza de la Reina e demonstrações de 4 a 31 de dezembro.",
+    "va": "25a Fira d'Artesania de Nadal, amb més de 30 artesans a la plaça de la Reina i tallers demostratius del 4 al 31 de desembre."
+   },
+   "e": "2027-01-06",
+   "time": "10:30–14:00, 16:30–21:00"
+  },
+  {
    "id": "estopa26",
    "n": "Estopa",
    "s": "2026-11-28",
@@ -145,23 +291,6 @@
    "u": "https://www.roigarena.com/"
   },
   {
-   "id": "xmasmarket26",
-   "n": "Christmas markets",
-   "s": "2026-11-28",
-   "v": "Plaza de la Reina",
-   "k": "market",
-   "d": {
-    "en": "Christmas craft stalls in the old town until 6 January (2026 dates to be confirmed).",
-    "es": "Mercadillos navideños en el centro hasta el 6 de enero (fechas 2026 por confirmar).",
-    "it": "Mercatini di Natale in centro fino al 6 gennaio (date 2026 da confermare).",
-    "de": "Weihnachtsmärkte in der Altstadt bis 6. Januar (Termine 2026 noch offen).",
-    "fr": "Marchés de Noël dans la vieille ville jusqu'au 6 janvier (dates 2026 à confirmer).",
-    "pt": "Bancas de artesanato de Natal no centro histórico até 6 de janeiro (datas de 2026 por confirmar).",
-    "va": "Parades d'artesania nadalenca al centre històric fins al 6 de gener (dates de 2026 per confirmar)."
-   },
-   "e": "2027-01-06"
-  },
-  {
    "id": "fagioli26",
    "n": "Franco Fagioli – Farinelli",
    "s": "2026-11-28",
@@ -176,6 +305,24 @@
     "fr": "Le célèbre contre-ténor dans un programme consacré au légendaire castrat Farinelli.",
     "pt": "O famoso contratenor num programa dedicado ao lendário castrato Farinelli.",
     "va": "El gran contratenor en un programa dedicat al llegendari castrat Farinelli."
+   }
+  },
+  {
+   "id": "mindent26",
+   "n": "Mind Enterprises",
+   "s": "2026-11-28",
+   "time": "21:00",
+   "v": "Auditorio Roig Arena",
+   "k": "concert",
+   "u": "https://www.roigarena.com/en/event/mind-enterprises-20261128/",
+   "d": {
+    "en": "Dance-pop and indie electronica from the international project led by Andrea Tirone.",
+    "es": "Dance-pop y electrónica indie del proyecto internacional liderado por Andrea Tirone.",
+    "it": "Dance-pop ed elettronica indie dal progetto internazionale guidato da Andrea Tirone.",
+    "de": "Dance-Pop und Indie-Elektronik vom internationalen Projekt um Andrea Tirone.",
+    "fr": "Dance-pop et électro indie du projet international mené par Andrea Tirone.",
+    "pt": "Dance-pop e eletrónica indie do projeto internacional liderado por Andrea Tirone.",
+    "va": "Dance-pop i electrònica indie del projecte internacional liderat per Andrea Tirone."
    }
   },
   {
@@ -217,6 +364,43 @@
    "u": "https://www.valenciabasket.com/"
   },
   {
+   "id": "motogp-test26",
+   "n": "MotoGP Valencia Test",
+   "s": "2026-12-01",
+   "time": "10:00",
+   "v": "Circuit Ricardo Tormo (Cheste)",
+   "k": "sport",
+   "sp": "motor",
+   "u": "https://www.circuitricardotormo.com/",
+   "d": {
+    "en": "Official test: first laps of the new 2027 850cc bikes, 10:00–17:00. Tickets on the circuit website.",
+    "es": "Test oficial: primeras vueltas de las nuevas motos de 850 cc de 2027, de 10:00 a 17:00. Entradas en la web del circuito.",
+    "it": "Test ufficiale: primi giri delle nuove moto 850 cc del 2027, 10:00–17:00. Biglietti sul sito del circuito.",
+    "de": "Offizieller Test: erste Runden der neuen 850-cm³-Bikes für 2027, 10–17 Uhr. Tickets auf der Website der Strecke.",
+    "fr": "Test officiel : premiers tours des nouvelles motos 850 cm³ de 2027, de 10 h à 17 h. Billets sur le site du circuit.",
+    "pt": "Teste oficial: primeiras voltas das novas motos de 850 cc de 2027, das 10:00 às 17:00. Bilhetes no site do circuito.",
+    "va": "Test oficial: primeres voltes de les noves motos de 850 cc de 2027, de 10:00 a 17:00. Entrades a la web del circuit."
+   }
+  },
+  {
+   "id": "perianes26",
+   "n": "Javier Perianes – Chopin",
+   "s": "2026-12-01",
+   "time": "19:30",
+   "v": "Palau de la Música – Sala Iturbi",
+   "k": "concert",
+   "u": "https://palauvalencia.com/event?id=2684&mod=1795601019",
+   "d": {
+    "en": "Spain's star pianist plays Chopin nocturnes, mazurkas and waltzes.",
+    "es": "El gran pianista español interpreta nocturnos, mazurcas y valses de Chopin.",
+    "it": "Il grande pianista spagnolo interpreta notturni, mazurche e valzer di Chopin.",
+    "de": "Spaniens Starpianist spielt Nocturnes, Mazurken und Walzer von Chopin.",
+    "fr": "Le grand pianiste espagnol joue nocturnes, mazurkas et valses de Chopin.",
+    "pt": "O grande pianista espanhol interpreta noturnos, mazurcas e valsas de Chopin.",
+    "va": "El gran pianista espanyol interpreta nocturns, masurques i valsos de Chopin."
+   }
+  },
+  {
    "id": "expo42k26",
    "n": "Expo 42K — Valencia Marathon",
    "s": "2026-12-03",
@@ -251,25 +435,6 @@
    }
   },
   {
-   "id": "automovil26",
-   "n": "Feria del Automóvil",
-   "s": "2026-12-04",
-   "e": "2026-12-06",
-   "time": "10:00–20:00",
-   "v": "Feria Valencia",
-   "k": "fair",
-   "u": "https://feriavalencia.com/",
-   "d": {
-    "en": "Big new and used car fair with thousands of vehicles for sale and dealer discounts.",
-    "es": "Gran feria de coches nuevos, de ocasión y comerciales, con miles de vehículos a la venta.",
-    "it": "Grande fiera di auto nuove e usate, con migliaia di veicoli in vendita e sconti.",
-    "de": "Große Messe für Neu- und Gebrauchtwagen mit Tausenden Fahrzeugen und Rabatten.",
-    "fr": "Grand salon de voitures neuves et d'occasion, avec des milliers de véhicules à vendre.",
-    "pt": "Grande feira de carros novos e usados, com milhares de veículos à venda e descontos.",
-    "va": "Gran fira de cotxes nous, d'ocasió i comercials, amb milers de vehicles a la venda."
-   }
-  },
-  {
    "id": "ov-rousset26",
    "n": "Orquestra de València – Haydn & Mozart (Christophe Rousset)",
    "s": "2026-12-04",
@@ -285,6 +450,61 @@
     "fr": "Symphonies de Haydn et Mozart dirigées par Christophe Rousset.",
     "pt": "Sinfonias de Haydn e Mozart dirigidas por Christophe Rousset.",
     "va": "Simfonies de Haydn i Mozart dirigides per Christophe Rousset."
+   }
+  },
+  {
+   "id": "feriaautomovil26",
+   "n": "Feria del Automóvil de Valencia",
+   "s": "2026-12-04",
+   "e": "2026-12-06",
+   "time": "10:00–20:00",
+   "v": "Feria Valencia",
+   "k": "fair",
+   "sp": "motor",
+   "u": "https://www.feriaautomovil.es/",
+   "d": {
+    "en": "Spain's biggest car show: new, electric and used cars from dozens of brands, across four halls.",
+    "es": "La mayor feria del automóvil de España: coches nuevos, eléctricos y de ocasión de decenas de marcas en cuatro pabellones.",
+    "it": "La più grande fiera dell'auto in Spagna: auto nuove, elettriche e usate di decine di marchi in quattro padiglioni.",
+    "de": "Spaniens größte Automesse: Neu-, Elektro- und Gebrauchtwagen Dutzender Marken in vier Hallen.",
+    "fr": "Le plus grand salon automobile d'Espagne : voitures neuves, électriques et d'occasion de dizaines de marques, sur quatre halls.",
+    "pt": "A maior feira automóvel de Espanha: carros novos, elétricos e usados de dezenas de marcas em quatro pavilhões.",
+    "va": "La fira de l'automòbil més gran d'Espanya: cotxes nous, elèctrics i d'ocasió de desenes de marques en quatre pavellons."
+   }
+  },
+  {
+   "id": "luces26",
+   "n": "Christmas lights switch-on",
+   "s": "2026-12-04",
+   "v": "Plaza del Ayuntamiento",
+   "k": "party",
+   "u": "https://www.visitvalencia.com/agenda-valencia/encendido-de-las-luces-de-navidad-en-valencia-2026",
+   "d": {
+    "en": "Free evening party as the falleras mayores switch on the city's Christmas lights beside the giant tree; time to be confirmed, expect crowds and traffic cuts.",
+    "es": "Fiesta gratuita en la que las falleras mayores encienden las luces navideñas junto al gran árbol; hora por confirmar, habrá mucha gente y cortes de tráfico.",
+    "it": "Festa gratuita: le falleras mayores accendono le luci di Natale accanto al grande albero; orario da confermare, folla e strade chiuse.",
+    "de": "Kostenloses Fest, bei dem die Falleras Mayores die Weihnachtsbeleuchtung am großen Baum einschalten; Uhrzeit noch offen, viel Andrang und Straßensperren.",
+    "fr": "Fête gratuite où les falleras mayores allument les illuminations de Noël près du grand sapin ; horaire à confirmer, foule et routes fermées.",
+    "pt": "Festa gratuita em que as falleras mayores acendem as luzes de Natal junto à grande árvore; hora por confirmar, muita gente e cortes de trânsito.",
+    "va": "Festa gratuïta en què les falleres majors encenen les llums de Nadal al costat del gran arbre; hora per confirmar, hi haurà molta gent i talls de trànsit."
+   }
+  },
+  {
+   "id": "laleona26",
+   "n": "La Leona – Olga Pericet",
+   "s": "2026-12-04",
+   "time": "19:30",
+   "v": "Palau de les Arts – Teatre Martín i Soler",
+   "k": "show",
+   "u": "https://www.lesarts.com/es/programacion/c/1293-la-leona.html",
+   "d": {
+    "en": "Acclaimed flamenco dance piece by National Dance Award winner Olga Pericet, with live music. From €30.",
+    "es": "Aclamado espectáculo de baile flamenco de la Premio Nacional de Danza Olga Pericet, con música en directo. Desde 30 €.",
+    "it": "Acclamato spettacolo di danza flamenca di Olga Pericet, Premio Nazionale di Danza, con musica dal vivo. Da 30 €.",
+    "de": "Gefeiertes Flamenco-Tanzstück der Nationalpreisträgerin Olga Pericet mit Livemusik. Ab 30 €.",
+    "fr": "Spectacle de danse flamenca acclamé d'Olga Pericet, Prix national de danse, avec musique live. Dès 30 €.",
+    "pt": "Aclamado espetáculo de dança flamenca de Olga Pericet, Prémio Nacional de Dança, com música ao vivo. Desde 30 €.",
+    "va": "Aclamat espectacle de ball flamenc de la Premi Nacional de Dansa Olga Pericet, amb música en directe. Des de 30 €."
    }
   },
   {
@@ -428,6 +648,24 @@
    "u": "https://www.valenciabasket.com/"
   },
   {
+   "id": "freiburger26",
+   "n": "Freiburger Barockorchester & Collegium Vocale Gent – Schubert",
+   "s": "2026-12-09",
+   "time": "19:30",
+   "v": "Palau de la Música – Sala Iturbi",
+   "k": "concert",
+   "u": "https://palauvalencia.com/event?id=2680&mod=1793699435",
+   "d": {
+    "en": "Pablo Heras-Casado conducts two top European period ensembles in Schubert's 'Great' Symphony.",
+    "es": "Pablo Heras-Casado dirige a dos grandes conjuntos historicistas europeos en la Sinfonía «La Grande» de Schubert.",
+    "it": "Pablo Heras-Casado dirige due grandi ensemble europei su strumenti d'epoca nella Sinfonia «La Grande» di Schubert.",
+    "de": "Pablo Heras-Casado dirigiert zwei europäische Spitzenensembles für Alte Musik in Schuberts „Großer“ Sinfonie.",
+    "fr": "Pablo Heras-Casado dirige deux grands ensembles européens sur instruments d'époque dans la « Grande » Symphonie de Schubert.",
+    "pt": "Pablo Heras-Casado dirige dois grandes agrupamentos europeus de instrumentos de época na Sinfonia «A Grande» de Schubert.",
+    "va": "Pablo Heras-Casado dirigix dos grans conjunts historicistes europeus en la Simfonia «La Gran» de Schubert."
+   }
+  },
+  {
    "id": "ubago26",
    "n": "Álex Ubago",
    "s": "2026-12-10",
@@ -517,6 +755,23 @@
     "fr": "Stands traditionnels autour du Marché central (ouvert tard le 24 déc. et le 5 janv.).",
     "pt": "Bancas tradicionais à volta do Mercado Central (aberto até tarde a 24 dez e 5 jan).",
     "va": "Parades tradicionals al voltant del Mercat Central (obri fins tard el 24 des i el 5 gen)."
+   }
+  },
+  {
+   "id": "circowow26",
+   "n": "Gran Circo WOW – Tesoros de Asia",
+   "s": "2026-12-10",
+   "e": "2027-01-10",
+   "v": "La Marina de València (next to Tinglado 2)",
+   "k": "show",
+   "d": {
+    "en": "Big-top Christmas circus by the harbour with an Asian-themed show of about two hours.",
+    "es": "Circo navideño junto al puerto con un espectáculo de temática asiática de unas dos horas.",
+    "it": "Circo natalizio sotto il tendone vicino al porto, con uno spettacolo a tema asiatico di circa due ore.",
+    "de": "Weihnachtszirkus im Zelt am Hafen mit einer rund zweistündigen Asien-Show.",
+    "fr": "Cirque de Noël sous chapiteau près du port, avec un spectacle de deux heures sur le thème de l'Asie.",
+    "pt": "Circo de Natal junto ao porto com um espetáculo de temática asiática de cerca de duas horas.",
+    "va": "Circ nadalenc al costat del port amb un espectacle de temàtica asiàtica d'unes dues hores."
    }
   },
   {
@@ -681,39 +936,77 @@
    }
   },
   {
-   "id": "melendi26",
-   "n": "Melendi",
-   "s": "2026-12-13",
-   "v": "Roig Arena",
-   "k": "concert",
-   "d": {
-    "en": "Spanish pop-rumba.",
-    "es": "Pop-rumba español.",
-    "it": "Pop-rumba spagnolo.",
-    "de": "Spanischer Pop-Rumba.",
-    "fr": "Pop-rumba espagnole.",
-    "pt": "Pop-rumba espanhola.",
-    "va": "Pop-rumba espanyola."
-   },
-   "u": "https://www.roigarena.com/"
-  },
-  {
    "id": "lud-alaves26",
    "n": "Levante UD – Deportivo Alavés",
-   "s": "2026-12-13",
+   "s": "2026-12-12",
    "v": "Estadi Ciutat de València",
    "k": "sport",
    "sp": "football",
    "d": {
-    "en": "LaLiga match. Kick-off time to be confirmed (date may move by a day).",
-    "es": "Partido de LaLiga. Horario por confirmar (la fecha puede moverse un día).",
-    "it": "Partita di LaLiga. Orario da confermare (la data può slittare di un giorno).",
-    "de": "LaLiga-Spiel. Anstoßzeit noch offen (Termin kann sich um einen Tag verschieben).",
-    "fr": "Match de LaLiga. Horaire à confirmer (la date peut bouger d'un jour).",
-    "pt": "Jogo da LaLiga. Horário por confirmar (a data pode mudar um dia).",
-    "va": "Partit de LaLiga. Horari per confirmar (la data pot moure's un dia)."
+    "en": "LaLiga match.",
+    "es": "Partido de LaLiga.",
+    "it": "Partita della LaLiga.",
+    "de": "LaLiga-Spiel.",
+    "fr": "Match de LaLiga.",
+    "pt": "Jogo da LaLiga.",
+    "va": "Partit de LaLiga."
    },
-   "u": "https://www.levanteud.com/es/"
+   "u": "https://www.levanteud.com/es/",
+   "time": "14:00"
+  },
+  {
+   "id": "tardeo26",
+   "n": "Christmas Tardeo – Parc Central",
+   "s": "2026-12-12",
+   "time": "17:00",
+   "v": "Parc Central",
+   "k": "party",
+   "u": "https://www.visitvalencia.com/agenda-valencia/tardeo-especial-navidad-en-el-parc-central-de-valencia",
+   "d": {
+    "en": "Open-air afternoon dance party with five DJs spinning dance and Valencian 'remember' classics. From €6.60.",
+    "es": "Fiesta al aire libre por la tarde con cinco DJs de dance y remember valenciano. Desde 6,60 €.",
+    "it": "Festa pomeridiana all'aperto con cinque DJ di dance e classici del 'remember' valenciano. Da 6,60 €.",
+    "de": "Open-Air-Tanzparty am Nachmittag mit fünf DJs, Dance und valencianischen „Remember“-Klassikern. Ab 6,60 €.",
+    "fr": "Fête dansante en plein air l'après-midi avec cinq DJ, dance et classiques du « remember » valencien. Dès 6,60 €.",
+    "pt": "Festa ao ar livre à tarde com cinco DJs de dance e clássicos do 'remember' valenciano. Desde 6,60 €.",
+    "va": "Festa a l'aire lliure de vesprada amb cinc DJ de dance i remember valencià. Des de 6,60 €."
+   }
+  },
+  {
+   "id": "melendi26",
+   "n": "Melendi",
+   "s": "2026-12-12",
+   "v": "Roig Arena",
+   "k": "concert",
+   "d": {
+    "en": "Spanish pop-rumba: two concerts, 12 and 13 December.",
+    "es": "Pop-rumba español: dos conciertos, 12 y 13 de diciembre.",
+    "it": "Pop-rumba spagnolo: due concerti, 12 e 13 dicembre.",
+    "de": "Spanischer Pop-Rumba: zwei Konzerte, 12. und 13. Dezember.",
+    "fr": "Pop-rumba espagnole : deux concerts, les 12 et 13 décembre.",
+    "pt": "Pop-rumba espanhola: dois concertos, 12 e 13 de dezembro.",
+    "va": "Pop-rumba espanyola: dos concerts, 12 i 13 de desembre."
+   },
+   "u": "https://www.roigarena.com/",
+   "e": "2026-12-13",
+   "time": "20:30"
+  },
+  {
+   "id": "benimarket26",
+   "n": "Benimarket – Christmas edition",
+   "s": "2026-12-13",
+   "time": "11:00–14:00",
+   "v": "Plaza de Benimaclet",
+   "k": "market",
+   "d": {
+    "en": "Neighbourhood market with 60+ stalls of local artisans, vintage, vinyl and illustration, plus live music.",
+    "es": "Mercado de barrio con más de 60 puestos de artesanos, vintage, vinilos e ilustración, y música en directo.",
+    "it": "Mercato di quartiere con oltre 60 bancarelle di artigiani, vintage, vinili e illustrazione, più musica dal vivo.",
+    "de": "Viertelmarkt mit über 60 Ständen: Kunsthandwerk, Vintage, Vinyl und Illustration, dazu Livemusik.",
+    "fr": "Marché de quartier avec plus de 60 stands d'artisans, vintage, vinyles et illustration, et musique live.",
+    "pt": "Mercado de bairro com mais de 60 bancas de artesãos, vintage, vinil e ilustração, e música ao vivo.",
+    "va": "Mercat de barri amb més de 60 parades d'artesans, vintage, vinils i il·lustració, i música en directe."
+   }
   },
   {
    "id": "macygray26",
@@ -803,6 +1096,24 @@
     "fr": "Comédie romantique inspirée de Shakespeare, prix Max 2019 du meilleur spectacle. Mer–ven 20h, sam 17h et 20h, dim 18h (relâche le 24 déc). En espagnol.",
     "pt": "Comédia romântica inspirada em Shakespeare, Prémio Max 2019 de melhor espetáculo. Qua–sex 20:00, sáb 17:00 e 20:00, dom 18:00 (sem sessão a 24 dez). Em espanhol.",
     "va": "Comèdia romàntica inspirada en Shakespeare, Premi Max 2019 al millor espectacle. Dc–dv 20:00, ds 17:00 i 20:00, dg 18:00 (sense funció el 24 de des.)."
+   }
+  },
+  {
+   "id": "koopman26",
+   "n": "Bach Christmas Oratorio – Ton Koopman",
+   "s": "2026-12-17",
+   "time": "19:30",
+   "v": "Palau de la Música – Sala Iturbi",
+   "k": "concert",
+   "u": "https://palauvalencia.com/event?id=2686&mod=1792157109",
+   "d": {
+    "en": "Ton Koopman and the Amsterdam Baroque Orchestra & Choir perform cantatas 1–4 of Bach's Christmas Oratorio.",
+    "es": "Ton Koopman y la Amsterdam Baroque Orchestra & Choir interpretan las cantatas 1–4 del Oratorio de Navidad de Bach.",
+    "it": "Ton Koopman e l'Amsterdam Baroque Orchestra & Choir eseguono le cantate 1–4 dell'Oratorio di Natale di Bach.",
+    "de": "Ton Koopman und das Amsterdam Baroque Orchestra & Choir spielen die Kantaten 1–4 von Bachs Weihnachtsoratorium.",
+    "fr": "Ton Koopman et l'Amsterdam Baroque Orchestra & Choir interprètent les cantates 1 à 4 de l'Oratorio de Noël de Bach.",
+    "pt": "Ton Koopman e a Amsterdam Baroque Orchestra & Choir interpretam as cantatas 1–4 da Oratória de Natal de Bach.",
+    "va": "Ton Koopman i l'Amsterdam Baroque Orchestra & Choir interpreten les cantates 1–4 de l'Oratori de Nadal de Bach."
    }
   },
   {
@@ -931,6 +1242,24 @@
    },
    "time": "17:30",
    "u": "https://www.valenciabasket.com/"
+  },
+  {
+   "id": "bandanadal26",
+   "n": "Banda Sinfónica Municipal – Christmas Concert",
+   "s": "2026-12-20",
+   "time": "11:30",
+   "v": "Palau de la Música – Sala Iturbi",
+   "k": "concert",
+   "u": "https://palauvalencia.com/event?id=2773&mod=1795093711",
+   "d": {
+    "en": "Free Christmas concert by the city's symphonic band with choir and soloists; tickets (max. 2) from 18 Dec.",
+    "es": "Concierto de Navidad gratuito de la Banda Sinfónica Municipal con coro y solistas; entradas (máx. 2) desde el 18 dic.",
+    "it": "Concerto di Natale gratuito della banda sinfonica municipale con coro e solisti; biglietti (max 2) dal 18 dic.",
+    "de": "Kostenloses Weihnachtskonzert des städtischen Sinfonieblasorchesters mit Chor und Solisten; Karten (max. 2) ab 18. Dez.",
+    "fr": "Concert de Noël gratuit de l'orchestre d'harmonie municipal avec chœur et solistes ; billets (2 max.) dès le 18 déc.",
+    "pt": "Concerto de Natal gratuito da banda sinfónica municipal com coro e solistas; bilhetes (máx. 2) a partir de 18 dez.",
+    "va": "Concert de Nadal gratuït de la Banda Simfònica Municipal amb cor i solistes; entrades (màx. 2) des del 18 de desembre."
+   }
   },
   {
    "id": "navmagicas26",
@@ -1151,6 +1480,24 @@
    }
   },
   {
+   "id": "handel26",
+   "n": "Mr Handel's Christmas Story – Gabrieli Roar",
+   "s": "2026-12-30",
+   "time": "19:30",
+   "v": "Palau de la Música – Sala Iturbi",
+   "k": "concert",
+   "u": "https://palauvalencia.com/event?id=2857&mod=1794320447",
+   "d": {
+    "en": "Paul McCreesh and the young singers of Gabrieli Roar tell the Christmas story through Handel's music.",
+    "es": "Paul McCreesh y los jóvenes cantantes de Gabrieli Roar cuentan la historia de la Navidad con música de Händel.",
+    "it": "Paul McCreesh e i giovani cantanti di Gabrieli Roar raccontano la storia del Natale con la musica di Händel.",
+    "de": "Paul McCreesh und die jungen Sänger von Gabrieli Roar erzählen die Weihnachtsgeschichte mit Musik von Händel.",
+    "fr": "Paul McCreesh et les jeunes chanteurs de Gabrieli Roar racontent l'histoire de Noël en musique avec Haendel.",
+    "pt": "Paul McCreesh e os jovens cantores de Gabrieli Roar contam a história do Natal com música de Händel.",
+    "va": "Paul McCreesh i els jóvens cantants de Gabrieli Roar conten la història del Nadal amb música de Händel."
+   }
+  },
+  {
    "id": "nochevieja26",
    "n": "New Year's Eve parties & gala dinners",
    "s": "2026-12-31",
@@ -1183,6 +1530,25 @@
     "fr": "Valses viennoises de Strauss avec l'OSIV dirigé par José Escandell et la soprano Ainhoa Arteta.",
     "pt": "Valsas vienenses de Strauss com a OSIV dirigida por José Escandell e a soprano Ainhoa Arteta.",
     "va": "Valsos vienesos de Strauss amb l'OSIV dirigida per José Escandell i la soprano Ainhoa Arteta."
+   }
+  },
+  {
+   "id": "ohhappyday27",
+   "n": "Oh Happy Day! – Alabama Gospel",
+   "s": "2027-01-01",
+   "e": "2027-01-05",
+   "time": "19:00",
+   "v": "Teatro Olympia",
+   "k": "concert",
+   "u": "https://www.visitvalencia.com/agenda-valencia/show-oh-happy-day-de-alabama-gospel-en-el-teatro-olympia",
+   "d": {
+    "en": "Uplifting gospel choir show; two performances only: 1 Jan at 19:00 and 5 Jan at 20:00.",
+    "es": "Vibrante espectáculo de coro gospel; solo dos funciones: 1 ene a las 19:00 y 5 ene a las 20:00.",
+    "it": "Coinvolgente spettacolo di coro gospel; solo due date: 1 gen alle 19:00 e 5 gen alle 20:00.",
+    "de": "Mitreißende Gospelchor-Show; nur zwei Vorstellungen: 1. Jan. um 19:00 und 5. Jan. um 20:00.",
+    "fr": "Spectacle de chorale gospel entraînant ; deux dates seulement : 1er janv. à 19h et 5 janv. à 20h.",
+    "pt": "Vibrante espetáculo de coro gospel; apenas duas sessões: 1 jan. às 19:00 e 5 jan. às 20:00.",
+    "va": "Vibrant espectacle de cor gospel; només dues funcions: l'1 de gener a les 19.00 i el 5 de gener a les 20.00."
    }
   },
   {
@@ -1223,6 +1589,24 @@
    "u": "https://www.valenciabasket.com/"
   },
   {
+   "id": "reyescabanyal27",
+   "n": "Three Kings market – Cabanyal",
+   "s": "2027-01-03",
+   "e": "2027-01-06",
+   "time": "09:00–22:00",
+   "v": "Around Mercado del Cabanyal",
+   "k": "market",
+   "d": {
+    "en": "Traditional toy and gift stalls by the seaside market for last-minute Kings' presents; open until 05:00 on the night of 5 Jan.",
+    "es": "Puestos tradicionales de juguetes y regalos junto al mercado del Cabanyal para Reyes; la noche del 5 ene abre hasta las 05:00.",
+    "it": "Bancarelle tradizionali di giocattoli e regali vicino al mercato del Cabanyal per l'Epifania; la notte del 5 gen aperto fino alle 05:00.",
+    "de": "Traditionelle Spielzeug- und Geschenkstände am Markt im Cabanyal für Dreikönigsgeschenke; in der Nacht zum 6. Jan. bis 05:00 geöffnet.",
+    "fr": "Stands traditionnels de jouets et cadeaux près du marché du Cabanyal pour les Rois ; ouvert jusqu'à 5h dans la nuit du 5 janv.",
+    "pt": "Bancas tradicionais de brinquedos e presentes junto ao mercado do Cabanyal para os Reis; na noite de 5 jan. abre até às 05:00.",
+    "va": "Parades tradicionals de joguets i regals al voltant del mercat del Cabanyal per als Reis; la nit del 5 de gener obri fins a les 05.00."
+   }
+  },
+  {
    "id": "vb-rm27",
    "n": "Valencia Basket – Real Madrid",
    "s": "2027-01-04",
@@ -1242,6 +1626,24 @@
    "u": "https://www.valenciabasket.com/"
   },
   {
+   "id": "cabalgata27",
+   "n": "Three Kings Parade (Cabalgata de Reyes)",
+   "s": "2027-01-05",
+   "time": "17:30",
+   "v": "Navarro Reverter → Plaza de la Reina → Plaza del Ayuntamiento",
+   "k": "other",
+   "u": "https://www.valencia.es/cas/actualidad/-/content/organizaci%C3%B3n-cabalgata-reyes-magos-val%C3%A8ncia-2027",
+   "d": {
+    "en": "The Three Wise Men parade through the centre throwing sweets, from Navarro Reverter via Plaza de la Reina and Plaza del Ayuntamiento to Marqués de Sotelo; free, arrive early.",
+    "es": "Los Reyes Magos recorren el centro repartiendo caramelos, de Navarro Reverter por la plaza de la Reina y la del Ayuntamiento hasta Marqués de Sotelo; gratis, ve con tiempo.",
+    "it": "I Re Magi sfilano nel centro lanciando caramelle, da Navarro Reverter per Plaza de la Reina e Plaza del Ayuntamiento fino a Marqués de Sotelo; gratis, arrivate presto.",
+    "de": "Die Heiligen Drei Könige ziehen Bonbons werfend durch das Zentrum, von Navarro Reverter über Plaza de la Reina und Rathausplatz bis Marqués de Sotelo; gratis, früh kommen.",
+    "fr": "Les Rois mages défilent dans le centre en lançant des bonbons, de Navarro Reverter par la Plaza de la Reina et la place de l'Hôtel de Ville jusqu'à Marqués de Sotelo ; gratuit, venez tôt.",
+    "pt": "Os Reis Magos desfilam pelo centro a distribuir rebuçados, de Navarro Reverter pela Plaza de la Reina e Plaza del Ayuntamiento até Marqués de Sotelo; grátis, chegue cedo.",
+    "va": "Els Reis d'Orient recorren el centre repartint caramels, de Navarro Reverter per la plaça de la Reina i la de l'Ajuntament fins a Marqués de Sotelo; gratuït, aneu amb temps."
+   }
+  },
+  {
    "id": "vb-partizan27",
    "n": "Valencia Basket – Partizan Belgrade",
    "s": "2027-01-07",
@@ -1259,6 +1661,60 @@
     "va": "Eurolliga de bàsquet, la màxima competició europea."
    },
    "u": "https://www.valenciabasket.com/"
+  },
+  {
+   "id": "cupido27",
+   "n": "Cupido – Amor Compartido Tour",
+   "s": "2027-01-08",
+   "time": "21:00",
+   "v": "Auditorio Roig Arena",
+   "k": "concert",
+   "u": "https://www.visitvalencia.com/agenda-valencia/concierto-de-cupido-en-roig-arena",
+   "d": {
+    "en": "The Catalan indie-pop band brings its 'Amor Compartido' tour to Valencia.",
+    "es": "La banda catalana de indie pop trae a Valencia su gira «Amor Compartido».",
+    "it": "La band indie pop catalana porta a Valencia il tour «Amor Compartido».",
+    "de": "Die katalanische Indie-Pop-Band kommt mit ihrer Tour „Amor Compartido“ nach Valencia.",
+    "fr": "Le groupe catalan d'indie pop présente à Valence sa tournée « Amor Compartido ».",
+    "pt": "A banda catalã de indie pop traz a Valência a digressão «Amor Compartido».",
+    "va": "La banda catalana d'indie pop porta a València la gira «Amor Compartido»."
+   }
+  },
+  {
+   "id": "obk27",
+   "n": "OBK – Vértigo Tour",
+   "s": "2027-01-09",
+   "time": "21:00",
+   "v": "Auditorio Roig Arena",
+   "k": "concert",
+   "u": "https://www.roigarena.com/en/event/obk-20270116/",
+   "d": {
+    "en": "The classic Spanish synth-pop duo plays its 90s hits and new songs.",
+    "es": "El mítico dúo español de tecnopop repasa sus éxitos de los 90 y sus nuevas canciones.",
+    "it": "Lo storico duo synth-pop spagnolo ripercorre i successi anni '90 e i nuovi brani.",
+    "de": "Das legendäre spanische Synthpop-Duo spielt seine 90er-Hits und neue Songs.",
+    "fr": "Le mythique duo espagnol de synth-pop revisite ses tubes des années 90 et ses nouveaux titres.",
+    "pt": "O mítico duo espanhol de synth-pop revisita os êxitos dos anos 90 e as novas canções.",
+    "va": "El mític duo espanyol de tecnopop repassa els seus èxits dels 90 i les noves cançons."
+   }
+  },
+  {
+   "id": "chapito27",
+   "n": "Rey Lear – Companhia do Chapitô",
+   "s": "2027-01-09",
+   "time": "20:00",
+   "v": "Teatre El Musical (TEM)",
+   "k": "show",
+   "u": "https://www.valencia.es/documents/d/guest/tem-26-27-sep-ene",
+   "d": {
+    "en": "Lisbon's Chapitô company turns Shakespeare's King Lear into fast, physical, comic theatre.",
+    "es": "La compañía lisboeta Chapitô convierte el Rey Lear de Shakespeare en un teatro físico, ágil y cómico.",
+    "it": "La compagnia lisbonese Chapitô trasforma il Re Lear di Shakespeare in un teatro fisico, rapido e comico.",
+    "de": "Die Lissabonner Compagnie Chapitô macht aus Shakespeares König Lear schnelles, körperliches, komisches Theater.",
+    "fr": "La compagnie lisboète Chapitô fait du Roi Lear de Shakespeare un théâtre physique, rapide et comique.",
+    "pt": "A companhia lisboeta Chapitô transforma o Rei Lear de Shakespeare num teatro físico, ágil e cómico.",
+    "va": "La companyia lisboeta Chapitô convertix el Rei Lear de Shakespeare en un teatre físic, àgil i còmic."
+   }
   },
   {
    "id": "vcf-malaga27",
@@ -1296,6 +1752,24 @@
     "va": "Bàsquet de la Lliga Endesa (ACB)."
    },
    "u": "https://www.valenciabasket.com/"
+  },
+  {
+   "id": "tina27",
+   "n": "Simply The Best – Tina Turner Tribute",
+   "s": "2027-01-10",
+   "time": "20:00",
+   "v": "Auditorio Roig Arena",
+   "k": "concert",
+   "u": "https://www.roigarena.com/en/event/tributotinaturner-20270101",
+   "d": {
+    "en": "Tribute show reviving Tina Turner's greatest hits with live band and dancers.",
+    "es": "Espectáculo tributo que revive los grandes éxitos de Tina Turner con banda en directo y bailarines.",
+    "it": "Spettacolo tributo che fa rivivere i grandi successi di Tina Turner con band dal vivo e ballerini.",
+    "de": "Tribute-Show mit Tina Turners größten Hits, Liveband und Tänzern.",
+    "fr": "Spectacle hommage qui fait revivre les grands tubes de Tina Turner avec groupe live et danseurs.",
+    "pt": "Espetáculo de tributo que revive os grandes êxitos de Tina Turner com banda ao vivo e bailarinos.",
+    "va": "Espectacle tribut que reviu els grans èxits de Tina Turner amb banda en directe i ballarins."
+   }
   },
   {
    "id": "lud-espanyol27",
@@ -1372,6 +1846,26 @@
    }
   },
   {
+   "id": "vb-asvel27",
+   "n": "Valencia Basket – LDLC ASVEL Villeurbanne",
+   "s": "2027-01-21",
+   "time": "20:00",
+   "v": "Roig Arena",
+   "k": "sport",
+   "sp": "basketball",
+   "u": "https://www.valenciabasket.com",
+   "d": {
+    "en": "EuroLeague basketball, Europe's top competition.",
+    "es": "Euroliga de baloncesto, la máxima competición europea.",
+    "it": "Eurolega di basket, la massima competizione europea.",
+    "de": "Basketball-EuroLeague, Europas höchster Wettbewerb.",
+    "fr": "Euroligue de basket, la plus grande compétition européenne.",
+    "pt": "Euroliga de basquetebol, a principal competição europeia.",
+    "va": "Eurolliga de bàsquet, la màxima competició europea."
+   },
+   "source": "https://www.valenciabasket.com/calendario"
+  },
+  {
    "id": "vcf-sevilla27",
    "n": "Valencia CF – Sevilla FC",
    "s": "2027-01-24",
@@ -1406,83 +1900,6 @@
     "va": "Partit de LaLiga. Horari per confirmar (la data pot moure's un dia)."
    },
    "u": "https://www.levanteud.com/es/"
-  },
-  {
-   "id": "motogp-fanfest26",
-   "n": "MotoGP Fan Fest",
-   "s": "2026-11-25",
-   "e": "2026-11-29",
-   "v": "Ciutat de les Arts i les Ciències",
-   "k": "sport",
-   "sp": "motor",
-   "u": "https://www.motogp.com/",
-   "d": {
-    "en": "Free MotoGP fan zone in the city: riders, simulators, gaming and big screens for the races. Free, advance registration required.",
-    "es": "Zona de aficionados gratuita de MotoGP en la ciudad: pilotos, simuladores, videojuegos y pantallas para ver las carreras. Gratis con inscripción previa.",
-    "it": "Fan zone gratuita della MotoGP in città: piloti, simulatori, videogiochi e maxischermi per le gare. Gratis con registrazione.",
-    "de": "Kostenlose MotoGP-Fanzone in der Stadt: Fahrer, Simulatoren, Gaming und Leinwände für die Rennen. Gratis, Anmeldung nötig.",
-    "fr": "Fan zone MotoGP gratuite en ville : pilotes, simulateurs, jeux vidéo et écrans géants pour les courses. Gratuit sur inscription.",
-    "pt": "Zona de fãs gratuita do MotoGP na cidade: pilotos, simuladores, videojogos e ecrãs gigantes para as corridas. Grátis com inscrição prévia.",
-    "va": "Zona d'aficionats gratuïta de MotoGP a la ciutat: pilots, simuladors, videojocs i pantalles per a veure les carreres. Gratis amb inscripció prèvia."
-   }
-  },
-  {
-   "id": "motogp-valencia26",
-   "n": "MotoGP – Gran Premio Motul de la Comunitat Valenciana",
-   "s": "2026-11-27",
-   "e": "2026-11-29",
-   "v": "Circuit Ricardo Tormo (Cheste)",
-   "k": "sport",
-   "sp": "motor",
-   "u": "https://www.circuitricardotormo.com/",
-   "d": {
-    "en": "Season finale of the MotoGP, Moto2 and Moto3 World Championship. Races on Sunday 29. Tickets from €61.20.",
-    "es": "Última carrera del Mundial de MotoGP, Moto2 y Moto3. Carreras el domingo 29. Entradas desde 61,20 €.",
-    "it": "Gara finale del Mondiale MotoGP, Moto2 e Moto3. Gare domenica 29. Biglietti da 61,20 €.",
-    "de": "Saisonfinale der MotoGP-, Moto2- und Moto3-WM. Rennen am Sonntag, 29. Tickets ab 61,20 €.",
-    "fr": "Dernière manche du Mondial MotoGP, Moto2 et Moto3. Courses le dimanche 29. Billets dès 61,20 €.",
-    "pt": "Última prova do Mundial de MotoGP, Moto2 e Moto3. Corridas no domingo, 29. Bilhetes desde 61,20 €.",
-    "va": "Última carrera del Mundial de MotoGP, Moto2 i Moto3. Carreres el diumenge 29. Entrades des de 61,20 €."
-   }
-  },
-  {
-   "id": "motogp-test26",
-   "n": "MotoGP Valencia Test",
-   "s": "2026-12-01",
-   "time": "10:00",
-   "v": "Circuit Ricardo Tormo (Cheste)",
-   "k": "sport",
-   "sp": "motor",
-   "u": "https://www.circuitricardotormo.com/",
-   "d": {
-    "en": "Official test: first laps of the new 2027 850cc bikes, 10:00–17:00. Tickets on the circuit website.",
-    "es": "Test oficial: primeras vueltas de las nuevas motos de 850 cc de 2027, de 10:00 a 17:00. Entradas en la web del circuito.",
-    "it": "Test ufficiale: primi giri delle nuove moto 850 cc del 2027, 10:00–17:00. Biglietti sul sito del circuito.",
-    "de": "Offizieller Test: erste Runden der neuen 850-cm³-Bikes für 2027, 10–17 Uhr. Tickets auf der Website der Strecke.",
-    "fr": "Test officiel : premiers tours des nouvelles motos 850 cm³ de 2027, de 10 h à 17 h. Billets sur le site du circuit.",
-    "pt": "Teste oficial: primeiras voltas das novas motos de 850 cc de 2027, das 10:00 às 17:00. Bilhetes no site do circuito.",
-    "va": "Test oficial: primeres voltes de les noves motos de 850 cc de 2027, de 10:00 a 17:00. Entrades a la web del circuit."
-   }
-  },
-  {
-   "id": "feriaautomovil26",
-   "n": "Feria del Automóvil de Valencia",
-   "s": "2026-12-04",
-   "e": "2026-12-06",
-   "time": "10:00–20:00",
-   "v": "Feria Valencia",
-   "k": "fair",
-   "sp": "motor",
-   "u": "https://www.feriaautomovil.es/",
-   "d": {
-    "en": "Spain's biggest car show: new, electric and used cars from dozens of brands, across four halls.",
-    "es": "La mayor feria del automóvil de España: coches nuevos, eléctricos y de ocasión de decenas de marcas en cuatro pabellones.",
-    "it": "La più grande fiera dell'auto in Spagna: auto nuove, elettriche e usate di decine di marchi in quattro padiglioni.",
-    "de": "Spaniens größte Automesse: Neu-, Elektro- und Gebrauchtwagen Dutzender Marken in vier Hallen.",
-    "fr": "Le plus grand salon automobile d'Espagne : voitures neuves, électriques et d'occasion de dizaines de marques, sur quatre halls.",
-    "pt": "A maior feira automóvel de Espanha: carros novos, elétricos e usados de dezenas de marcas em quatro pavilhões.",
-    "va": "La fira de l'automòbil més gran d'Espanya: cotxes nous, elèctrics i d'ocasió de desenes de marques en quatre pavellons."
-   }
   },
   {
    "id": "winterseries27",

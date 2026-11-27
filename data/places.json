@@ -1,5 +1,5 @@
 {
- "version": 5,
+ "version": 6,
  "places": [
   {
    "id": "la3",
@@ -190,37 +190,6 @@
     "fr": "Pop · Dance · Commercial",
     "pt": "Pop · Dance · Comercial",
     "va": "Pop · Dance · Comercial"
-   }
-  },
-  {
-   "id": "venial",
-   "c": "clubs",
-   "n": "Venial",
-   "a": "carmen",
-   "p": 1,
-   "h": "Mo-Su 22:00-04:00",
-   "q": "Venial Valencia Calle Quart",
-   "d": {
-    "en": "Classic LGBTQ+ bar-club in the old town, open every night (Calle Quart 26).",
-    "es": "Bar-club LGTBIQ+ clásico del casco antiguo, abierto todas las noches (Calle Quart 26).",
-    "it": "Storico bar-club LGBTQ+ nel centro storico, aperto ogni sera (Calle Quart 26).",
-    "de": "Klassische LGBTQ+-Bar mit Tanzfläche in der Altstadt, jede Nacht geöffnet (Calle Quart 26).",
-    "fr": "Bar-club LGBTQ+ classique de la vieille ville, ouvert tous les soirs (Calle Quart 26).",
-    "pt": "Bar-discoteca LGBTQ+ clássico no centro histórico, aberto todas as noites (Calle Quart 26).",
-    "va": "Bar-discoteca LGTBI+ clàssic al centre històric, obert totes les nits (carrer Quart 26)."
-   },
-   "ll": [
-    39.476,
-    -0.382
-   ],
-   "mu": {
-    "en": "Pop · Dance",
-    "es": "Pop · Dance",
-    "it": "Pop · Dance",
-    "de": "Pop · Dance",
-    "fr": "Pop · Dance",
-    "pt": "Pop · Dance",
-    "va": "Pop · Dance"
    }
   },
   {
@@ -465,7 +434,8 @@
    "ll": [
     39.473,
     -0.353
-   ]
+   ],
+   "u": "http://www.blacknoteclub.com/"
   },
   {
    "id": "foxcongo",
@@ -584,7 +554,8 @@
    "ll": [
     39.468,
     -0.354
-   ]
+   ],
+   "u": "https://www.sh-hoteles.com/es/restaurantes/"
   },
   {
    "id": "balandret",
@@ -1030,7 +1001,8 @@
    "ll": [
     39.462,
     -0.329
-   ]
+   ],
+   "u": "https://casaguillermo1957.com"
   },
   {
    "id": "mistela",
@@ -2398,13 +2370,13 @@
     "va": "Més de 4.600 hectàrees de bosc de ribera a l'oest de la ciutat. La sendera de 27 km vora riu comença al Parc de Capçalera; el pinar de la Vallesa és prop de la línia 1 de metro."
    },
    "t": {
-    "en": "Do the riverside path in sections — the whole thing takes about 7 hours.",
-    "es": "Haz la ruta fluvial por tramos: entera son unas 7 horas.",
-    "it": "Fate il sentiero a tratti: intero sono circa 7 ore.",
-    "de": "Den Flussweg in Etappen gehen – komplett ca. 7 Stunden.",
-    "fr": "Faites le sentier par tronçons : en entier, environ 7 heures.",
-    "pt": "Faça o trilho do rio por troços — completo demora cerca de 7 horas.",
-    "va": "Fes la sendera del riu per trams — sencera dura unes 7 hores."
+    "en": "Do the riverside path in sections (the whole thing takes about 7 hours). Some riverside stretches and crossings are still being repaired after the 2024 floods, so check the park's status before long walks; La Vallesa pine forest is unaffected.",
+    "es": "Haz la ruta fluvial por tramos (entera son unas 7 horas). Algunos tramos y pasos junto al río siguen en reparación tras la DANA de 2024: consulta el estado del parque antes de rutas largas; el pinar de La Vallesa no se vio afectado.",
+    "it": "Fate il sentiero a tratti (intero sono circa 7 ore). Alcuni tratti e attraversamenti lungo il fiume sono ancora in riparazione dopo l'alluvione del 2024: controllate lo stato del parco prima di percorsi lunghi; la pineta de La Vallesa non è stata colpita.",
+    "de": "Den Flussweg in Etappen gehen (komplett ca. 7 Stunden). Einige Abschnitte und Übergänge am Fluss werden nach dem Hochwasser 2024 noch repariert – vor längeren Touren den Zustand des Parks prüfen; der Kiefernwald La Vallesa ist nicht betroffen.",
+    "fr": "Faites le sentier par tronçons (en entier, environ 7 heures). Certains tronçons et passages au bord du fleuve sont encore en réparation après les inondations de 2024 : vérifiez l'état du parc avant une longue rando ; la pinède de La Vallesa n'a pas été touchée.",
+    "pt": "Faça o trilho do rio por troços (completo demora cerca de 7 horas). Alguns troços e passagens junto ao rio ainda estão em reparação após as cheias de 2024: confirme o estado do parque antes de percursos longos; o pinhal de La Vallesa não foi afetado.",
+    "va": "Fes la sendera del riu per trams (sencera dura unes 7 hores). Alguns trams i passos vora riu encara estan en reparació després de la DANA de 2024: consulta l'estat del parc abans de rutes llargues; el pinar de la Vallesa no es va veure afectat."
    },
    "ll": [
     39.478,
@@ -2730,13 +2702,13 @@
     "va": "Platja llarga just al sud del port, al costat d'arrossars i horta, amb molts restaurants de paella valenciana de veritat. L'única platja de la ciutat que admet gossos (zona canina a l'estiu)."
    },
    "t": {
-    "en": "Dog beach: 1 July–30 September, 9:30–19:30.",
-    "es": "Playa para perros: del 1 de julio al 30 de septiembre, de 9:30 a 19:30.",
-    "it": "Spiaggia per cani: dal 1° luglio al 30 settembre, 9:30–19:30.",
-    "de": "Hundestrand: 1. Juli–30. September, 9:30–19:30.",
-    "fr": "Plage pour chiens : du 1er juillet au 30 septembre, 9h30–19h30.",
-    "pt": "Praia para cães: de 1 de julho a 30 de setembro, 9:30–19:30.",
-    "va": "Platja per a gossos: de l'1 de juliol al 30 de setembre, 9:30–19:30."
+    "en": "Dog beach (north end): usually mid-June to 30 September, about 9:30–19:30; check valencia.es for this year's dates.",
+    "es": "Playa para perros (extremo norte): normalmente de mediados de junio al 30 de septiembre, hacia las 9:30–19:30; consulta las fechas de cada año en valencia.es.",
+    "it": "Spiaggia per cani (lato nord): di solito da metà giugno al 30 settembre, circa 9:30–19:30; verifica le date dell'anno su valencia.es.",
+    "de": "Hundestrand (Nordende): meist Mitte Juni bis 30. September, ca. 9:30–19:30; die aktuellen Termine stehen auf valencia.es.",
+    "fr": "Plage pour chiens (extrémité nord) : en général de mi-juin au 30 septembre, vers 9h30–19h30 ; vérifiez les dates de l'année sur valencia.es.",
+    "pt": "Praia para cães (extremo norte): normalmente de meados de junho a 30 de setembro, cerca das 9:30–19:30; confirme as datas do ano em valencia.es.",
+    "va": "Platja per a gossos (extrem nord): normalment de mitjan juny al 30 de setembre, cap a les 9:30–19:30; consulta les dates de cada any a valencia.es."
    },
    "ll": [
     39.428,
@@ -2892,7 +2864,8 @@
    "ll": [
     39.4697,
     -0.3765
-   ]
+   ],
+   "u": "https://ivc.gva.es/es/ivc/programacion-ivc/teatro-rialto-de-valencia"
   },
   {
    "id": "t-olympia",
@@ -3146,7 +3119,8 @@
    "ll": [
     39.4701,
     -0.3291
-   ]
+   ],
+   "u": "https://www.teatrolaestrella.com"
   },
   {
    "id": "t-lesarts",
@@ -3239,7 +3213,8 @@
    "ll": [
     39.4597,
     -0.3478
-   ]
+   ],
+   "u": "https://www.barcelo.com/en-ca/barcelo-valencia/facilities/terraza-270"
   },
   {
    "id": "sky-vertical",
@@ -3301,7 +3276,8 @@
    "ll": [
     39.479,
     -0.3786
-   ]
+   ],
+   "u": "https://www.blanqhotels.com/en/carmen"
   },
   {
    "id": "sky-torreon",
@@ -3309,7 +3285,7 @@
    "n": "El Torreón (Palacio Santa Clara)",
    "a": "centre",
    "p": 3,
-   "h": "",
+   "h": "Mo-Th,Su 17:00-24:00; Fr,Sa 17:00-25:00",
    "q": "El Torreón rooftop Palacio Santa Clara Valencia",
    "d": {
     "en": "Rooftop of the Palacio Santa Clara hotel near Calle Colón, in a 1916 modernist building — a calm, elegant spot for a chill-out drink.",
@@ -3332,7 +3308,8 @@
    "ll": [
     39.4695,
     -0.3729
-   ]
+   ],
+   "u": "https://www.marriott.com/en-us/hotels/vlcak-palacio-santa-clara-autograph-collection/dining"
   },
   {
    "id": "cafe-clem",

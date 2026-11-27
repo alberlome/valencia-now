@@ -514,7 +514,7 @@
      "pt": "Veja como se constroem as fallas, no bairro das oficinas (Av. Sant Josep Artesà 17).",
      "va": "Mira com es construïxen les falles, al barri dels tallers (Av. Sant Josep Artesà 17)."
     },
-    "u": "http://www.gremiodeartistasfalleros.es/"
+    "u": "https://artistasfallerosgremio.com/"
    }
   ],
   "videos": [
@@ -1202,8 +1202,8 @@
     "qe": "paseo fotográfico Valencia",
     "x": [
      [
-      "Meetup: Valencia Photo",
-      "https://www.meetup.com/valencia-photo/"
+      "Meetup: ValenFoto",
+      "https://www.meetup.com/valenfoto-photography-events-in-valencia/"
      ],
      [
       "Civitatis: photoshoot",
@@ -1626,6 +1626,52 @@
      "pt": "Passeios guiados para todos os níveis pelas praias e pântanos de Gandia e Xeraco, ou no bosque de La Vallesa junto a Valência.",
      "va": "Rutes guiades per a tots els nivells per les platges i la marjal de Gandia i Xeraco, o pel bosc de la Vallesa al costat de València."
     }
+   },
+   {
+    "i": "🐬",
+    "q": "Oceanografic Valencia ticket",
+    "qe": "entrada Oceanogràfic Valencia",
+    "n": {
+     "en": "Oceanogràfic & City of Arts tickets",
+     "es": "Entradas al Oceanogràfic y la Ciudad de las Artes",
+     "it": "Biglietti per l'Oceanogràfic e la Città delle Arti",
+     "de": "Tickets für Oceanogràfic & Stadt der Künste",
+     "fr": "Billets Oceanogràfic et Cité des Arts",
+     "pt": "Bilhetes para o Oceanogràfic e a Cidade das Artes",
+     "va": "Entrades a l'Oceanogràfic i la Ciutat de les Arts"
+    },
+    "s": {
+     "en": "One of Europe's largest aquariums, also in combined tickets with the Hemisfèric and the Science Museum. Buying online saves queuing at the ticket office.",
+     "es": "Uno de los acuarios más grandes de Europa, también en entradas combinadas con el Hemisfèric y el Museo de las Ciencias. Comprando online te ahorras la cola de taquilla.",
+     "it": "Uno degli acquari più grandi d'Europa, anche con biglietti combinati con l'Hemisfèric e il Museo della Scienza. Comprando online eviti la coda alla biglietteria.",
+     "de": "Eines der größten Aquarien Europas, auch als Kombiticket mit dem Hemisfèric und dem Wissenschaftsmuseum. Wer online kauft, spart sich die Schlange an der Kasse.",
+     "fr": "L'un des plus grands aquariums d'Europe, aussi en billet combiné avec l'Hemisfèric et le Musée des Sciences. En achetant en ligne, vous évitez la file au guichet.",
+     "pt": "Um dos maiores aquários da Europa, também com bilhetes combinados com o Hemisfèric e o Museu das Ciências. Comprando online evita a fila da bilheteira.",
+     "va": "Un dels aquaris més grans d'Europa, també amb entrades combinades amb l'Hemisfèric i el Museu de les Ciències. Si compres en línia t'estalvies la cua de la taquilla."
+    }
+   },
+   {
+    "i": "🏞️",
+    "q": "Valencia day trip Guadalest Altea",
+    "qe": "excursión desde Valencia Guadalest Altea",
+    "n": {
+     "en": "Guided day trips from Valencia",
+     "es": "Excursiones de un día desde Valencia",
+     "it": "Escursioni di un giorno da Valencia",
+     "de": "Geführte Tagesausflüge ab Valencia",
+     "fr": "Excursions guidées d'une journée depuis Valence",
+     "pt": "Excursões de um dia a partir de Valência",
+     "va": "Excursions guiades d'un dia des de València"
+    },
+    "s": {
+     "en": "Coach trips with a guide to Altea and Guadalest with the Algar waterfalls, the boat ride through the San José caves (La Vall d'Uixó) or the castle town of Peñíscola.",
+     "es": "Excursiones en autobús con guía a Altea y Guadalest con las Fuentes del Algar, al paseo en barca por las Cuevas de San José (La Vall d'Uixó) o a Peñíscola y su castillo.",
+     "it": "Gite in pullman con guida ad Altea e Guadalest con le cascate dell'Algar, al giro in barca nelle grotte di San José (La Vall d'Uixó) o a Peñíscola e al suo castello.",
+     "de": "Busausflüge mit Guide nach Altea und Guadalest mit den Wasserfällen von Algar, zur Bootsfahrt durch die Höhlen von San José (La Vall d'Uixó) oder in die Burgstadt Peñíscola.",
+     "fr": "Excursions en car avec guide à Altea et Guadalest avec les cascades de l'Algar, à la promenade en barque dans les grottes de San José (La Vall d'Uixó) ou à Peñíscola et son château.",
+     "pt": "Excursões de autocarro com guia a Altea e Guadalest com as cascatas do Algar, ao passeio de barco nas grutas de San José (La Vall d'Uixó) ou a Peñíscola e o seu castelo.",
+     "va": "Excursions en autobús amb guia a Altea i Guadalest amb les Fonts de l'Algar, al passeig en barca per les Coves de Sant Josep (la Vall d'Uixó) o a Peníscola i el seu castell."
+    }
    }
   ]
  },
@@ -1674,13 +1720,13 @@
       "u": "https://www.farmaceuticos.com/farmacias-de-guardia/valencia/",
       "w": true,
       "s": {
-       "en": "Search by town and date, based on the official rotas.",
-       "es": "Buscador por municipio y fecha, con los turnos oficiales.",
-       "it": "Ricerca per comune e data, con i turni ufficiali.",
-       "de": "Suche nach Ort und Datum auf Basis der offiziellen Dienstpläne.",
-       "fr": "Recherche par commune et date, d'après les tours de garde officiels.",
-       "pt": "Pesquisa por município e data, com os turnos oficiais.",
-       "va": "Buscador per municipi i data, amb els torns oficials."
+       "en": "Directory that links to the official on-duty pharmacy rota of the Valencia pharmacists' association (MICOF).",
+       "es": "Directorio que enlaza con los turnos oficiales de farmacias de guardia del MICOF (Colegio de Farmacéuticos de Valencia).",
+       "it": "Elenco che rimanda ai turni ufficiali delle farmacie di guardia del MICOF (Ordine dei farmacisti di Valencia).",
+       "de": "Verzeichnis mit Link zu den offiziellen Notdienstplänen der Apothekerkammer Valencia (MICOF).",
+       "fr": "Annuaire qui renvoie aux tours de garde officiels des pharmacies du MICOF (ordre des pharmaciens de Valence).",
+       "pt": "Diretório com ligação aos turnos oficiais das farmácias de serviço do MICOF (Ordem dos Farmacêuticos de Valência).",
+       "va": "Directori que enllaça amb els torns oficials de farmàcies de guàrdia del MICOF (Col·legi de Farmacèutics de València)."
       }
      }
     ]
@@ -1790,13 +1836,13 @@
       "u": "https://www.google.com/maps/search/?api=1&query=Hospital+Arnau+de+Vilanova+Carrer+Sant+Clement+12+Valencia",
       "w": false,
       "s": {
-       "en": "North-west of the city (C/ Sant Clement 12); metro Beniferri (lines 2 and 3).",
-       "es": "Al noroeste de la ciudad (C/ Sant Clement 12); metro Beniferri (líneas 2 y 3).",
-       "it": "A nord-ovest della città (C/ Sant Clement 12); metro Beniferri (linee 2 e 3).",
-       "de": "Im Nordwesten der Stadt (C/ Sant Clement 12); Metro Beniferri (Linien 2 und 3).",
-       "fr": "Au nord-ouest de la ville (C/ Sant Clement 12) ; métro Beniferri (lignes 2 et 3).",
-       "pt": "A noroeste da cidade (C/ Sant Clement 12); metro Beniferri (linhas 2 e 3).",
-       "va": "Al nord-oest de la ciutat (C/ Sant Clement 12); metro Beniferri (línies 2 i 3)."
+       "en": "North-west of the city (C/ Sant Clement 12); metro Beniferri (lines 1 and 2).",
+       "es": "Al noroeste de la ciudad (C/ Sant Clement 12); metro Beniferri (líneas 1 y 2).",
+       "it": "A nord-ovest della città (C/ Sant Clement 12); metro Beniferri (linee 1 e 2).",
+       "de": "Im Nordwesten der Stadt (C/ Sant Clement 12); Metro Beniferri (Linien 1 und 2).",
+       "fr": "Au nord-ouest de la ville (C/ Sant Clement 12) ; métro Beniferri (lignes 1 et 2).",
+       "pt": "A noroeste da cidade (C/ Sant Clement 12); metro Beniferri (linhas 1 e 2).",
+       "va": "Al nord-oest de la ciutat (C/ Sant Clement 12); metro Beniferri (línies 1 i 2)."
       }
      }
     ]
@@ -1818,13 +1864,13 @@
       "u": "https://www.quironsalud.com/valencia/es/cartera-servicios/urgencias",
       "w": true,
       "s": {
-       "en": "24-hour adult and children's emergency department; useful if you have private travel insurance.",
-       "es": "Urgencias de adultos y pediátricas 24 horas; útil si tienes seguro de viaje privado.",
-       "it": "Pronto soccorso adulti e pediatrico 24 ore; utile se hai un'assicurazione di viaggio privata.",
-       "de": "24-Stunden-Notaufnahme für Erwachsene und Kinder; praktisch mit privater Reiseversicherung.",
-       "fr": "Urgences adultes et pédiatriques 24 h/24 ; utile si vous avez une assurance voyage privée.",
-       "pt": "Urgências de adultos e pediátricas 24 horas; útil se tiver seguro de viagem privado.",
-       "va": "Urgències d'adults i pediàtriques 24 hores; útil si tens assegurança de viatge privada."
+       "en": "24-hour emergency department, with a paediatric emergency unit; useful if you have private travel insurance.",
+       "es": "Urgencias 24 horas, con unidad de urgencias pediátricas; útil si tienes seguro de viaje privado.",
+       "it": "Pronto soccorso 24 ore, con unità di pronto soccorso pediatrico; utile se hai un'assicurazione di viaggio privata.",
+       "de": "24-Stunden-Notaufnahme mit Kindernotfall-Einheit; praktisch mit privater Reiseversicherung.",
+       "fr": "Urgences 24 h/24, avec une unité d'urgences pédiatriques ; utile si vous avez une assurance voyage privée.",
+       "pt": "Urgências 24 horas, com unidade de urgências pediátricas; útil se tiver seguro de viagem privado.",
+       "va": "Urgències 24 hores, amb unitat d'urgències pediàtriques; útil si tens assegurança de viatge privada."
       }
      },
      {
@@ -1989,7 +2035,7 @@
      {
       "i": "🛵",
       "n": "Acciona Motosharing",
-      "u": "https://www.acciona-motosharing.com/es/",
+      "u": "https://movilidad.acciona.com/en_ES/valencia",
       "w": true,
       "s": {
        "en": "The most powerful shared mopeds (125 cc electric): you need a valid driving licence.",
@@ -2046,7 +2092,7 @@
      },
      {
       "i": "🔌",
-      "n": "Carsharing: CarGreen, Getaround, Malco",
+      "n": "Carsharing: Getaround, Malco",
       "u": "https://www.redtransporte.com/valencia/compartir-coche.html",
       "w": true,
       "s": {
@@ -2110,13 +2156,13 @@
       "m": "https://www.google.com/maps/search/?api=1&query=Feel+Free+Lockers+Joaquin+Sorolla+Valencia",
       "w": true,
       "s": {
-       "en": "Automatic lockers in several sizes, about 3 minutes' walk from Joaquín Sorolla station.",
-       "es": "Taquillas automáticas de varios tamaños a unos 3 minutos a pie de la estación Joaquín Sorolla.",
-       "it": "Armadietti automatici di varie misure, a circa 3 minuti a piedi dalla stazione Joaquín Sorolla.",
-       "de": "Automatische Schließfächer in mehreren Größen, ca. 3 Gehminuten vom Bahnhof Joaquín Sorolla.",
-       "fr": "Casiers automatiques de plusieurs tailles, à environ 3 minutes à pied de la gare Joaquín Sorolla.",
-       "pt": "Cacifos automáticos de vários tamanhos, a cerca de 3 minutos a pé da estação Joaquín Sorolla.",
-       "va": "Taquilles automàtiques de diverses mides a uns 3 minuts a peu de l'estació Joaquín Sorolla."
+       "en": "Automatic lockers in several sizes at C/ Sant Vicent Màrtir 159, a short walk from Joaquín Sorolla station.",
+       "es": "Taquillas automáticas de varios tamaños en C/ Sant Vicent Màrtir 159, a pocos minutos a pie de la estación Joaquín Sorolla.",
+       "it": "Armadietti automatici di varie misure in C/ Sant Vicent Màrtir 159, a pochi minuti a piedi dalla stazione Joaquín Sorolla.",
+       "de": "Automatische Schließfächer in mehreren Größen in der C/ Sant Vicent Màrtir 159, wenige Gehminuten vom Bahnhof Joaquín Sorolla.",
+       "fr": "Casiers automatiques de plusieurs tailles au C/ Sant Vicent Màrtir 159, à quelques minutes à pied de la gare Joaquín Sorolla.",
+       "pt": "Cacifos automáticos de vários tamanhos na C/ Sant Vicent Màrtir 159, a poucos minutos a pé da estação Joaquín Sorolla.",
+       "va": "Taquilles automàtiques de diverses mides al C/ Sant Vicent Màrtir 159, a pocs minuts a peu de l'estació Joaquín Sorolla."
       }
      }
     ]
@@ -2153,13 +2199,13 @@
       "u": "https://bounce.com/guides/valencia/luggage-storage-in-valencia",
       "w": true,
       "s": {
-       "en": "Around 100 storage spots in shops and restaurants all over the city, bookable in the app.",
-       "es": "Alrededor de 100 puntos en tiendas y restaurantes de toda la ciudad, con reserva en la app.",
-       "it": "Circa 100 punti in negozi e ristoranti in tutta la città, prenotabili nell'app.",
-       "de": "Rund 100 Stellen in Läden und Restaurants in der ganzen Stadt, per App buchbar.",
-       "fr": "Une centaine de points dans des boutiques et restaurants de toute la ville, réservables dans l'appli.",
-       "pt": "Cerca de 100 pontos em lojas e restaurantes por toda a cidade, com reserva na app.",
-       "va": "Al voltant de 100 punts en botigues i restaurants de tota la ciutat, amb reserva a l'app."
+       "en": "Over 75 storage spots in shops and restaurants all over the city, bookable in the app.",
+       "es": "Más de 75 puntos en tiendas y restaurantes de toda la ciudad, con reserva en la app.",
+       "it": "Oltre 75 punti in negozi e ristoranti in tutta la città, prenotabili nell'app.",
+       "de": "Über 75 Stellen in Läden und Restaurants in der ganzen Stadt, per App buchbar.",
+       "fr": "Plus de 75 points dans des boutiques et restaurants de toute la ville, réservables dans l'appli.",
+       "pt": "Mais de 75 pontos em lojas e restaurantes por toda a cidade, com reserva na app.",
+       "va": "Més de 75 punts en botigues i restaurants de tota la ciutat, amb reserva a l'app."
       }
      },
      {
@@ -2168,13 +2214,13 @@
       "u": "https://radicalstorage.com/es/consigna-equipaje/valencia/valencia-joaquin-sorolla",
       "w": true,
       "s": {
-       "en": "One of the largest networks in Valencia, including points near the airport; each bag is covered up to €3,000.",
-       "es": "Una de las redes más grandes de Valencia, con puntos cerca del aeropuerto; cada maleta está cubierta hasta 3.000 €.",
-       "it": "Una delle reti più grandi di Valencia, con punti vicino all'aeroporto; ogni bagaglio è coperto fino a 3.000 €.",
-       "de": "Eines der größten Netze in Valencia, auch nahe dem Flughafen; jedes Gepäckstück ist bis 3.000 € versichert.",
-       "fr": "L'un des plus grands réseaux de Valence, avec des points près de l'aéroport ; chaque bagage est couvert jusqu'à 3 000 €.",
-       "pt": "Uma das maiores redes de Valência, com pontos perto do aeroporto; cada mala está coberta até 3.000 €.",
-       "va": "Una de les xarxes més grans de València, amb punts prop de l'aeroport; cada maleta està coberta fins a 3.000 €."
+       "en": "One of the largest networks in Valencia, including points near the airport; each bag is covered up to €10,000.",
+       "es": "Una de las redes más grandes de Valencia, con puntos cerca del aeropuerto; cada maleta está cubierta hasta 10.000 €.",
+       "it": "Una delle reti più grandi di Valencia, con punti vicino all'aeroporto; ogni bagaglio è coperto fino a 10.000 €.",
+       "de": "Eines der größten Netze in Valencia, auch nahe dem Flughafen; jedes Gepäckstück ist bis 10.000 € versichert.",
+       "fr": "L'un des plus grands réseaux de Valence, avec des points près de l'aéroport ; chaque bagage est couvert jusqu'à 10 000 €.",
+       "pt": "Uma das maiores redes de Valência, com pontos perto do aeroporto; cada mala está coberta até 10.000 €.",
+       "va": "Una de les xarxes més grans de València, amb punts prop de l'aeroport; cada maleta està coberta fins a 10.000 €."
       }
      },
      {
