@@ -1,5 +1,5 @@
 {
- "version": 12,
+ "version": 13,
  "events": [
   {
    "id": "jury26",
@@ -90,24 +90,6 @@
     "pt": "Zona de fãs gratuita do MotoGP na cidade: pilotos, simuladores, videojogos e ecrãs gigantes para as corridas. Grátis com inscrição prévia.",
     "va": "Zona d'aficionats gratuïta de MotoGP a la ciutat: pilots, simuladors, videojocs i pantalles per a veure les carreres. Gratis amb inscripció prèvia."
    }
-  },
-  {
-   "id": "carolina26",
-   "n": "Carolina Durante",
-   "s": "2026-11-26",
-   "v": "Roig Arena",
-   "k": "concert",
-   "d": {
-    "en": "Madrid indie band's biggest concert so far — end of tour.",
-    "es": "El concierto más grande de la banda indie madrileña, fin de gira.",
-    "it": "Il concerto più grande della band indie di Madrid, fine tour.",
-    "de": "Größtes Konzert der Madrider Indieband – Tourabschluss.",
-    "fr": "Le plus grand concert du groupe indé madrilène, fin de tournée.",
-    "pt": "O maior concerto da banda indie de Madrid até hoje — fim de digressão.",
-    "va": "El concert més gran fins ara del grup indie de Madrid — final de gira."
-   },
-   "time": "21:00",
-   "u": "https://www.roigarena.com/"
   },
   {
    "id": "2ruedas26",
